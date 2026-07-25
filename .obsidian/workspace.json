@@ -185,7 +185,9 @@
   },
   "active": "cbf192a6416988a1",
   "lastOpenFiles": [
+    "_to_delete/index.lock.stale2",
     "_to_delete/index.lock.stale",
+    "_to_delete/HEAD.lock.stale2",
     "_to_delete/HEAD.lock.stale",
     "_to_delete",
     "Projects/Normalize fishing notes.md",
@@ -226,8 +228,6 @@
     "Pasted image 20260714183308.png",
     "Pasted image 20260714183244.png",
     "Pasted image 20260714183211.png",
-    "Logbook/Templates",
-    "Pasted image 20260714183423.png",
-    "Movies/Moon.md.tmp.41820.31758858623d"
+    "Pasted image 20260714183423.png"
   ]
 }

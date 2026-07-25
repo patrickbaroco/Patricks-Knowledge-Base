@@ -3,7 +3,7 @@ project: Normalize Fishing Notes
 status: active
 domain: personal
 started: 2026-07-25
-next_action: "Decide whether Bay Flats and Southern Way need best_months/water_temp fields next time either is touched"
+next_action: "Decide whether Bay Flats and Southern Way need water_temp or guide-contact fields next time either is touched"
 todoist_label: prj-fishing
 stakeholders: []
 related: []
@@ -18,14 +18,17 @@ Bounded project to bring the vault's four fishing notes (Bay Flats Lodge, Jurass
 
 - `Fishing MOC.md` moved from vault root into `Fishing/`; the four content notes stay at vault root (folder depth buys nothing Dataview doesn't already give — same reasoning the vault already applies to Clippings).
 - Type taxonomy: `destination`, `technique`, `source`, `reference`. `destination`/`technique` notes keep that type regardless of authorship; the `author` field (present vs. absent), not `type`, distinguishes self-authored from consulted material. Leader Formulas stays `type: technique` rather than being reclassified to `reference`.
-- Frontmatter keys use underscores, not hyphens, going forward (`best_months`, `water_temp`) — locked in now, before any note needs those fields.
+- Frontmatter keys use underscores, not hyphens, going forward (`best_months`, `water_temp`) — locked in now, before any note needed those fields.
 - Removed three dangling wikilinks (`[[redfish]]`, `[[saltwater fly fishing]]`, `[[Louisiana fly fishing]]`) from Southern Way Charters — none resolved to real notes, and ad hoc topical links are redundant with `topic: fishing` + the MOC's Dataview queries.
 - Vault was not under version control before this pass — `git init` + a baseline commit were done first so the whole pass is reversible.
+- Normalization-flagging mechanism: a new fishing note only needs `topic: fishing` set to become visible to the system. The MOC's **Needs normalization** Dataview query surfaces anything missing `type`, or `type: destination` missing `best_months`, so half-finished notes stay visible without needing their own status field.
+- Added `best_months` to all three destination notes, researched from the lodges' own sites/articles (see each note's "Best time to fish" section and sources).
 
 ## Open questions
 
-- Whether Bay Flats Lodge and Southern Way Charters ever warrant richer fields (`best_months`, `water_temp`, guide contact info) — holding off until one of them gets real content beyond a link and a one-liner.
+- Whether Bay Flats Lodge and Southern Way Charters ever warrant richer fields (`water_temp`, guide contact info) — holding off until one of them gets real content beyond a link and a one-liner.
 
 ## Log
 
 - 2026-07-25: Reviewed the four existing fishing notes, the empty `Fishing MOC.md` stub, the Troutbitten clipping, and the vault's existing conventions (`_Todoist Link Convention.md`, `Clinical Reasoning MOC.md` / `Projects/Clinical Reasoning.md`). Ran `git init` + baseline commit. Created `Fishing/` and moved the MOC into it, populated with Dataview queries over `topic: fishing`. Drafted `Projects/_Fishing Notes Convention.md` capturing the type taxonomy and folder rules. Cleaned the three dangling wikilinks out of Southern Way Charters. Opened this project log.
+- 2026-07-25: Researched best-time-to-fish for each destination (Bay Flats: Texas Gulf coast redfish sources; Jurassic Lake: the linked gotfishing.com article; Southern Way: the linked gotfishing.com article, which covers both its Hopedale and Venice locations separately) and added `best_months` to all three destination notes' frontmatter plus a short "Best time to fish" section with sources in the body. Added the MOC's "Needs normalization" query and documented the flagging mechanism in the convention note, answering "how does a new note get caught later" going forward.
