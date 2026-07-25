@@ -229,3 +229,4 @@ Fish hard, friends. Fish the fast water, and have fun out there.
 ## Related techniques
 
 - [[Leader Formulas]] — the George Harvey–style slack leader described above is the same taper logic behind the **General Dry Fly** / **Ultra-Delicate Dry Fly** formulas there.
+- [[lagging curve]] — now its own note, since [[Fishing Angles - Upstream or Downstream]] independently describes the same cast as a "candy-cane cast."

@@ -89,6 +89,8 @@ Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to 
 ## Related techniques
 
 - [[Dry Flies in Fast Water - Fly Fishing Tips]] — the Troutbitten clipping's slack-generating leader design (a George Harvey–style taper) is the same idea behind the **General Dry Fly** and **Ultra-Delicate Dry Fly** formulas above.
+- [[lagging curve]] — that slack-generating cast depends on a leader built with the same gradual-turnover taper as the **General Dry Fly** / **Ultra-Delicate Dry Fly** formulas.
+- [[Fishing Angles - Upstream or Downstream]] — its up-and-across dry-fly default is where the lagging curve gets used.
 
 ## Related destinations
 

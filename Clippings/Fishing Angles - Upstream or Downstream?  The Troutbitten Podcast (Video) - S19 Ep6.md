@@ -9,8 +9,11 @@ description: We’re here to talk about fishing angles. Are you wading upstream 
 tags:
   - clippings
 topic: fishing
+type: technique
 ---
 ![](https://www.youtube.com/watch?v=QLTO694JIQ0)
+
+#fishing 
 
 Here is the cleaned, manual-style version with the useful instructional material retained and timestamps preserved.
 
@@ -579,7 +582,7 @@ The cast does not need to be directly upstream. An up-and-across angle of approx
 
 When presenting up and across, arrange the leader so the fly reaches the fish before the tippet and fly line create drag.
 
-This is sometimes described as a **lagging curve** or **candy-cane cast**.
+This is sometimes described as a [[lagging curve]] or **candy-cane cast**.
 
 The layout resembles a hook or candy cane:
 
@@ -951,3 +954,8 @@ The correct amount depends on:
 Angle selection is situational. Most of the time, an upstream approach and upstream presentation provide the best combination of stealth, control, and natural drift. Experience teaches when to break that pattern.
 
 Do not fish upstream or downstream merely because that is how you have always done it. Decide what presentation the fish requires, identify the safest and quietest position from which to create that presentation, and choose your wading and casting angles accordingly.
+
+## Related techniques
+
+- [[lagging curve]] — the "candy-cane cast" described above is the same concept as the lagging curve in [[Dry Flies in Fast Water - Fly Fishing Tips]]; now its own note since it's referenced by two sources.
+- [[Leader Formulas]] — the dry-fly leader tapers there are what make a lagging curve possible in the first place.

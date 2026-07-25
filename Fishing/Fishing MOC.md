@@ -65,11 +65,12 @@ SORT file.name ASC
 
 | Concept | Appears in | Status |
 |---|---|---|
-| [[lagging curve]] | Dry Flies in Fast Water | red — single mention |
 | [[crash cast]] | Dry Flies in Fast Water | red — single mention |
 | [[hop mends]] | Dry Flies in Fast Water | red — single mention |
 | [[George Harvey dry-fly leader]] | Dry Flies in Fast Water | red — overlaps [[Leader Formulas]] content; candidate to build first if a 2nd source references it |
 | [[grease the tippet]] | Dry Flies in Fast Water | red — single mention |
+
+**Built:** [[lagging curve]] — was tracked here as a single mention, promoted to its own note once [[Fishing Angles - Upstream or Downstream]] independently described the same cast (as a "candy-cane cast").
 
 ## Clippings
 
@@ -94,4 +95,4 @@ WHERE topic = "fishing" AND (!type OR (type = "destination" AND !best_months))
 
 ## Notes to build
 
-Nothing flagged yet beyond the technique concepts above — the vault currently holds 4 destination/technique notes plus 1 clipping, all normalized and crosslinked as of 2026-07-25.
+Nothing flagged yet beyond the technique concepts above — the vault currently holds 4 destination notes, 2 technique notes ([[Leader Formulas]], [[lagging curve]]), and 2 clippings, all normalized and crosslinked as of 2026-07-25.
