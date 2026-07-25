@@ -1,14 +1,20 @@
 ---
 title: Gangler's North Seal River Lodge | Yellow Dog Flyfishing
 source: https://www.yellowdogflyfishing.com/products/ganglers-north-seal-river-lodge
-author:
 published:
 created: 2026-07-25
 description: We book and provide gear for guided saltwater and freshwater fly fishing trips worldwide. Let us help you book and arrange the best fly fishing travel experience possible.
 tags:
   - clippings
 topic: fishing
+type: destination
+location: Canada
+water: freshwater
+best_months: ["06-Jun","07-Jul","08-Aug","09-Sep"]
 ---
+
+#fishing 
+
 ![](https://cdn.accentuate.io/8080063070522/1673467660304/icon6.png?v=1673467660304)
 
 Accommodations
@@ -50,3 +56,12 @@ Equipment List
 [Shop Now](https://yellow-dog-flyfish.myshopify.com/collections/canada-equipment-list)
 
 [<iframe width="536" height="500" src="https://maps.google.com/maps?q=58%C2%B058%2742.0N%20,99%C2%B058%2712.7W&amp;t=h&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0" title="Google map showing location of Gangler's North Seal River Lodge, 99°58'12.7W"></iframe>](https://www.google.com/maps/@?api=1&basemap=satellite&map_action=map&center=58%C2%B058)
+
+## Best time to fish
+
+The booking page states the season plainly: June through September, which is `best_months` here — no separate `peak_months`, since the source doesn't break the season down further (same treatment as Jurassic Lake's undifferentiated season).
+
+## Related techniques
+
+- [[Leader Formulas]] — trophy pike and lake trout call for the **Streamer / Big Water** taper; pike specifically need a wire or heavy-mono bite tippet to survive their teeth, a gap this note doesn't cover yet.
+- [[Beach Blitz Basics How to Fish the Fall Striped Bass Run]] — same underlying problem as its bluefish wire-leader note ("Make sure you bring wire leader"), just a different toothy species.

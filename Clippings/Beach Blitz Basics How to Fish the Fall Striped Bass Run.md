@@ -62,3 +62,4 @@ In the fall, crowds are thin. It’s a great time to have the best bull-nosed ba
 
 - [[Leader Formulas]] — the Bimini-twist butt / 25–30 lb tippet / 40–50 lb shock-tippet rig here is the same "big, heavy saltwater fish" problem as the **Streamer / Big Water** formula there, just built with different knots and heavier breaking strength for surf conditions.
 - [[Fly Fishing the Striped Bass Flats]] — same species, a different presentation context: open-beach blitz fishing here vs. shallow-flats sight-fishing there.
+- [[Gangler's North Seal River Lodge  Yellow Dog Flyfishing|Gangler's North Seal River Lodge]] — the wire-leader note above for toothy bluefish is the same problem pike present there, just a different species.

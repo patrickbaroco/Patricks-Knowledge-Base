@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7eb71fd3921fc9f",
+        "id": "109f620e65985b22",
         "type": "tabs",
         "children": [
           {
-            "id": "54c332ebe2aefa1a",
+            "id": "ee421c2eb643519f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,8 +178,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54c332ebe2aefa1a",
+  "active": "ee421c2eb643519f",
   "lastOpenFiles": [
+    "Clippings/South Holston River Lodge  Orvis® Endorsed Fly Fishing Lodge.md",
+    "_to_delete/HEAD.lock.stale8",
     "Clippings/Gangler's North Seal River Lodge  Yellow Dog Flyfishing.md",
     "Fishing/Fishing MOC.md",
     "Projects/_Projects Dashboard.md",
@@ -198,7 +200,6 @@
     "_to_delete/index.lock.stale2",
     "_to_delete/index.lock.stale",
     "_to_delete/HEAD.lock.stale2",
-    "_to_delete/HEAD.lock.stale",
     "Projects/Normalize fishing notes.md",
     "Projects/_Fishing Notes Convention.md",
     "Clippings/Dry Flies in Fast Water - Fly Fishing Tips.md",
@@ -217,7 +218,6 @@
     "Clinical Reasoning/Episodes/RLR 054 - Unsteady Gait, Confusion, and Hemorrhagic Brain Metastases from Small Cell Lung Cancer.md",
     "Projects/Acuity-Based SNF Scheduling.md",
     "Projects/Clinical Quality Framework.md",
-    "Clinical Reasoning/Episodes/RLR 053 - Multiple Small Hemorrhagic Brain Lesions and CNS Tuberculosis.md",
     "Pasted image 20260714183410.png",
     "Pasted image 20260714183353.png",
     "Pasted image 20260714183308.png",
