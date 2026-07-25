@@ -67,10 +67,11 @@ SORT file.name ASC
 |---|---|---|
 | [[crash cast]] | Dry Flies in Fast Water | red — single mention |
 | [[hop mends]] | Dry Flies in Fast Water | red — single mention |
-| [[George Harvey dry-fly leader]] | Dry Flies in Fast Water | red — overlaps [[Leader Formulas]] content; candidate to build first if a 2nd source references it |
 | [[grease the tippet]] | Dry Flies in Fast Water | red — single mention |
 
-**Built:** [[lagging curve]] — was tracked here as a single mention, promoted to its own note once [[Fishing Angles - Upstream or Downstream]] independently described the same cast (as a "candy-cane cast").
+**Built:**
+- [[lagging curve]] — was tracked here as a single mention, promoted to its own note once [[Fishing Angles - Upstream or Downstream]] independently described the same cast (as a "candy-cane cast").
+- **George Harvey dry-fly leader** — didn't need its own note; the actual formula (researched from Troutbitten's write-ups) got added as a section directly inside [[Leader Formulas]], since it's a concrete taper formula that belongs alongside the other formulas there rather than a standalone concept page. The clipping's inline mention now links straight to that section.
 
 ## Clippings
 

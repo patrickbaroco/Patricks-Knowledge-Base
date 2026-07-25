@@ -126,7 +126,7 @@ In the fastest water, get as close as possible. Sometimes the fly will be direct
 
 ### Leader Choice
 
-**10:03** · I am using a slack leader design: a [[George Harvey dry-fly leader]].
+**10:03** · I am using a slack leader design: a [[Leader Formulas#George Harvey Dry-Fly Leader (reference formula)|George Harvey dry-fly leader]].
 
 The leader must be designed properly. It needs to be capable of building slack in the way I have described. The Harvey leader places that slack in the appropriate sections.
 

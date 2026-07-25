@@ -21,6 +21,24 @@ Clear vs. Chameleon: functionally similar stiffness. Clear suits clear/spring cr
 - 10" Ultragreen .009 (8 lb)
 - 20" Rio/Cortland .006 (5X, ~4–5 lb)
 
+## George Harvey Dry-Fly Leader (reference formula)
+
+Not my own — Troutbitten's write-up of Harvey's original slack-leader design, added here for reference since it's the same taper logic behind **General Dry Fly** and **Ultra-Delicate Dry Fly** above, and it's what [[lagging curve]] and [[Fishing Angles - Upstream or Downstream]]'s "candy-cane cast" both actually refer to. ~10–11' total.
+
+- 20" .015" (15 lb Maxima Chameleon)
+- 20" .013" (12 lb Maxima Chameleon)
+- 20" .011" (10 lb Maxima Chameleon)
+- 12" .009" (6 lb Maxima Chameleon)
+- 12" 3X soft nylon tippet
+- 18" 4X soft nylon tippet
+- 22–30" 5X soft nylon tippet
+
+Design principle: a noticeably lighter, softer butt than a standard commercial leader (Harvey's butt sections run ~.015"–.017"; most commercial leaders start at .022"–.024"). That softness is deliberate — it lets the leader land in **s-curves** instead of a straight line, feeding slack to the fly as the drift develops rather than dragging immediately. This is the mechanism behind the lagging curve / candy-cane cast: an underpowered final stroke keeps the leader from fully turning over, so it collapses into curves on the water.
+
+Adjusting it: if the fly won't turn over, the leader needs *more* power (stiffer or shorter tippet); if it's punching out too hard and losing all its curve, it needs *less* (longer or thinner tippet). Treat it as a template — built for a specific water, fly size, and casting style — not a fixed recipe.
+
+Source: [Dry Fly Fishing - The George Harvey Leader Design](https://troutbitten.com/2019/07/21/dry-fly-fishing-the-george-harvey-leader-design/) and [Q&A: Leader Adjustments for Big Dry Flies](https://troutbitten.com/2025/08/12/qa-leader-adjustments-for-big-dry-flies/), both Troutbitten.
+
 ## Ultra-Delicate Dry Fly — 9'–10'
 
 For spring creeks, selective risers, flat/glassy water, small flies (#18–24).
@@ -88,8 +106,8 @@ Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to 
 
 ## Related techniques
 
-- [[Dry Flies in Fast Water - Fly Fishing Tips]] — the Troutbitten clipping's slack-generating leader design (a George Harvey–style taper) is the same idea behind the **General Dry Fly** and **Ultra-Delicate Dry Fly** formulas above.
-- [[lagging curve]] — that slack-generating cast depends on a leader built with the same gradual-turnover taper as the **General Dry Fly** / **Ultra-Delicate Dry Fly** formulas.
+- [[Dry Flies in Fast Water - Fly Fishing Tips]] — the Troutbitten clipping's slack-generating leader design is the **George Harvey Dry-Fly Leader** documented above, the same idea behind the **General Dry Fly** and **Ultra-Delicate Dry Fly** formulas.
+- [[lagging curve]] — that slack-generating cast depends on a leader built with the same gradual-turnover taper as the George Harvey formula and my own **General Dry Fly** / **Ultra-Delicate Dry Fly** formulas.
 - [[Fishing Angles - Upstream or Downstream]] — its up-and-across dry-fly default is where the lagging curve gets used.
 
 ## Related destinations

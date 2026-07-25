@@ -57,6 +57,12 @@ Normalizing a fishing note isn't just frontmatter — it also means checking whe
 
 When a new note doesn't obviously connect to anything yet, that's fine — leave it unlinked rather than forcing a tenuous connection. The **Techniques database** section of [[Fishing MOC]] also tracks named sub-technique concepts mentioned inside notes (e.g. a clipping name-drops "the hop mend") that don't have their own note yet. Leave those as plain wikilinks (they'll render red until a note exists) rather than skipping them — the same rule the vault already uses in `Clinical Reasoning MOC`: build a hub note once 2+ sources reference the same concept, and let single-use specifics stay red so the long tail doesn't turn into busywork.
 
+**Promoting a concept doesn't always mean a new note.** When a concept is a distinct *idea* that gets referenced from multiple angles (like [[lagging curve]] — a cast, described independently by two different clippings), it earns its own note. When a concept is a concrete formula/recipe that belongs alongside others just like it (the George Harvey dry-fly leader is a leader taper, and [[Leader Formulas]] already exists as the place leader tapers live), add it as a section inside the existing note instead and point the inline mention at that heading (`[[Note#Heading|display text]]`) rather than spinning up a near-duplicate page. Ask which is true before creating a new note: does this deserve its own hub, or does it belong as a row/section in a hub that already exists?
+
+## Naming and casing
+
+Wikilinks resolve case-insensitively in Obsidian, but keep casing consistent with however the concept was first mentioned in its source note (e.g. `[[lagging curve]]`, lowercase, matching the original clippings) so a second mention doesn't accidentally create a near-duplicate file.
+
 ## How a new note gets flagged for normalization
 
 The only thing a new fishing note needs *the moment you jot it* is `topic: fishing` in the frontmatter — that's the one property every Dataview query in [[Fishing MOC]] filters on, so it's what makes the note visible to the system at all. It doesn't need `type`, `location`, or `best_months` filled in yet.
