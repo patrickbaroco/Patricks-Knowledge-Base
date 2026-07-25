@@ -8,9 +8,4 @@ water: saltwater
 
 Redfish fishing, perhaps something to do instead of Belize sometime
 
-Related: 
-[[redfish]] 
-[[saltwater fly fishing]]
-[[Louisiana fly fishing]]
-
 #fishing 
