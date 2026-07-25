@@ -12,6 +12,8 @@ views:
       - genre
       - rotten_tomatoes
     sort:
+      - property: file.name
+        direction: ASC
       - property: runtime_minutes
         direction: ASC
     columnSize:

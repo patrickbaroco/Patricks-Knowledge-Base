@@ -8,7 +8,15 @@ description: South Holston River Lodge | The South's Premier All-Inclusive Fly-F
 tags:
   - clippings
 topic: fishing
+type: destination
+location: USA
+water: freshwater
+best_months: ["01-Jan","02-Feb","03-Mar","04-Apr","05-May","06-Jun","07-Jul","08-Aug","09-Sep","10-Oct","11-Nov","12-Dec"]
+peak_months: ["05-May","06-Jun","07-Jul","09-Sep","10-Oct"]
 ---
+
+#fishing 
+
 [![2025 Orvis® Endorsed Lodge of the Year](https://southholstonriverlodge.com/wp-content/uploads/2025/04/2025_Endorsed_FFLodge_year-400-x-235-px.png)](https://www.orvis.com/product/south-holston-river-lodge/2JZE0000.html)
 
 ![South Holston River Lodge Signage at Blue Wing Olive Cabin](https://southholstonriverlodge.com/wp-content/uploads/2020/03/03-IMG_7029_HDR-1-1024x683.jpg) ![Mayfly Dark Icon](https://southholstonriverlodge.com/wp-content/uploads/2024/04/Mayfly-Dark-e1712075854997.png)
@@ -30,3 +38,16 @@ The South Holston River Lodge was nominated as a 2024 Finalist for Orvis® Endor
 ## BLUE RIDGE GUIDE ASSOCIATION
 
 At South Holston River Lodge, we stay involved in what’s happening on our tailwaters. We’re proud to partner with Blue Ridge Guide Association, their mission is to focus on the conservation and preservation of our regional fisheries in Tennessee, North Carolina & Virginia. You can learn more about the BRGA and more SHRL friends below.
+
+## Best time to fish
+
+The tailwater holds a stable 45–55°F year-round, so `best_months` covers all twelve — there's no true dead season. `peak_months` narrows to two windows: May–July, for the legendary sulphur hatch (June is the standout — a "sulphur blizzard" that triggers aggressive feeding, plus strong terrestrial fishing all summer), and September–October, when big browns turn aggressive pre-spawn and streamer fishing picks up. November isn't in `peak_months` despite still being fishable — spawning-sanctuary sections close to protect spawning fish from November 1 through February 1. Winter (Dec–Feb) is slower and technical — small, slow presentations on tiny midges (#20–24) — but still productive, just for anglers who don't mind solitude and precision over volume. Whether wading or floating is the better call on a given day comes down to the TVA dam's generation/release schedule, not the calendar.
+
+Sources:
+- [Best Time to Fish the South Holston River: A 2026 Guide](https://trophywaterguideservice.com/best-time-to-fish-south-holston-river/)
+
+## Related techniques
+
+- [[Leader Formulas]] — sulphur-hatch dry fly fishing on this technical tailwater is exactly what the **Ultra-Delicate Dry Fly** formula (and the **George Harvey Dry-Fly Leader** section) is built for.
+- [[Fishing Angles - Upstream or Downstream]] — wade-and-cast river tactics for selective tailwater trout apply directly here.
+- [[lagging curve]] — protecting the drift on picky South Holston risers is the same slack-leader problem this technique solves.

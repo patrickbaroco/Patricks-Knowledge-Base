@@ -116,3 +116,4 @@ Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to 
 - [[Jurassic Lake Fishing]] — big Patagonian rainbows in wind favor the **Streamer / Big Water** and **Windy Day / Heavy Turnover** formulas.
 - [[Bay Flats Lodge]] and [[Southern Way Charters - Louisiana - Got Fishing]] — saltwater redfish on fly draw on the same **Streamer / Big Water** formula (heavier butt/mid, short stout tippet).
 - [[Gangler's North Seal River Lodge  Yellow Dog Flyfishing|Gangler's North Seal River Lodge]] — trophy pike and lake trout call for the same **Streamer / Big Water** taper, though pike add a wire/heavy-mono bite-tippet requirement this note doesn't cover yet.
+- [[South Holston River Lodge]] — the sulphur-hatch dry fly fishing there is exactly what the **Ultra-Delicate Dry Fly** and **George Harvey Dry-Fly Leader** formulas are built for.
