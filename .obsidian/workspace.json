@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eeeec18b1a0869ae",
+        "id": "e7eb71fd3921fc9f",
         "type": "tabs",
         "children": [
           {
-            "id": "cbf192a6416988a1",
+            "id": "54c332ebe2aefa1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Fishing Angles - Upstream or Downstream?  The Troutbitten Podcast (Video) - S19 Ep6.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fishing Angles - Upstream or Downstream?  The Troutbitten Podcast (Video) - S19 Ep6"
+              "title": "New tab"
             }
           }
         ]
@@ -182,13 +178,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cbf192a6416988a1",
+  "active": "54c332ebe2aefa1a",
   "lastOpenFiles": [
+    "Clippings/Gangler's North Seal River Lodge  Yellow Dog Flyfishing.md",
+    "Fishing/Fishing MOC.md",
+    "Projects/_Projects Dashboard.md",
+    "Projects/_Inbox.md",
+    "Clippings/Beach Blitz Basics How to Fish the Fall Striped Bass Run.md",
+    "Clippings/Fly Fishing the Striped Bass Flats.md",
+    "Clippings/Fishing Angles - Upstream or Downstream?  The Troutbitten Podcast (Video) - S19 Ep6.md",
+    "_to_delete/HEAD.lock.stale7",
     "_to_delete/HEAD.lock.stale6",
     "lagging curve.md",
     "_to_delete/HEAD.lock.stale5",
-    "Fishing/Fishing MOC.md",
-    "Clippings/Fishing Angles - Upstream or Downstream?  The Troutbitten Podcast (Video) - S19 Ep6.md",
     "Southern Way Charters - Louisiana - Got Fishing.md",
     "_to_delete/index.lock.stale4",
     "_to_delete/HEAD.lock.stale4",
@@ -197,10 +199,8 @@
     "_to_delete/index.lock.stale",
     "_to_delete/HEAD.lock.stale2",
     "_to_delete/HEAD.lock.stale",
-    "_to_delete",
     "Projects/Normalize fishing notes.md",
     "Projects/_Fishing Notes Convention.md",
-    "Fishing",
     "Clippings/Dry Flies in Fast Water - Fly Fishing Tips.md",
     "Bay Flats Lodge.md",
     "Fishing MOC.md",
@@ -218,10 +218,6 @@
     "Projects/Acuity-Based SNF Scheduling.md",
     "Projects/Clinical Quality Framework.md",
     "Clinical Reasoning/Episodes/RLR 053 - Multiple Small Hemorrhagic Brain Lesions and CNS Tuberculosis.md",
-    "Tremor.md",
-    "Clinical Reasoning/Episodes/RLR 052 - Chronic Hip Pain and a Fragility Fracture Mimicking a Pathologic Lesion.md",
-    "Clinical Reasoning/Episodes/RLR 051 - Intractable Hiccups and Chronic Lymphocytic Leukemia.md",
-    "Clinical Reasoning/Episodes/RLR 050 - Subacute Ascending Neuropathy and POEMS Syndrome.md",
     "Pasted image 20260714183410.png",
     "Pasted image 20260714183353.png",
     "Pasted image 20260714183308.png",
