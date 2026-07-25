@@ -12,10 +12,42 @@ The hub for fishing notes: destinations you've fished or are considering, techni
 ## Destinations
 
 ```dataview
-TABLE location, water, best_months
+TABLE location, water, best_months, peak_months
 FROM ""
 WHERE topic = "fishing" AND type = "destination"
 SORT location ASC
+```
+
+## Where to fish, by month
+
+`best_months` and `peak_months` are stored as `"MM-Mon"` strings (e.g. `"11-Nov"`) so they sort chronologically as plain text — no extra date parsing needed. This groups every destination by the months it's worth targeting; scroll to the month you care about.
+
+```dataview
+TABLE rows.file.link as Destinations
+FROM ""
+WHERE topic = "fishing" AND type = "destination"
+FLATTEN best_months as month
+GROUP BY month
+SORT month ASC
+```
+
+Narrower — only the standout **peak** months per destination:
+
+```dataview
+TABLE rows.file.link as "Peak destinations"
+FROM ""
+WHERE topic = "fishing" AND type = "destination"
+FLATTEN peak_months as month
+GROUP BY month
+SORT month ASC
+```
+
+To ask "where can I fish in November" directly, drop a one-off query anywhere (swap `"11-Nov"` for the month you want — see [[_Fishing Notes Convention]] for the full month-code list):
+
+```dataview
+LIST
+FROM ""
+WHERE topic = "fishing" AND type = "destination" AND contains(best_months, "11-Nov")
 ```
 
 ## Techniques

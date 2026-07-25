@@ -19,9 +19,33 @@ Four values are in use:
 
 **`destination` and `technique` don't get reclassified to `reference` just because the note is clipped or externally authored.** Leader Formulas stays `type: technique` even though it's your own synthesis, and the Troutbitten clipping also stays `type: technique` even though it's someone else's video — they're the same *kind* of content (a technique), just different in authorship. Authorship is a separate axis, tracked by the `author` field: present (e.g. `author: "[[Troutbitten]]"`) means external/consulted, absent means self-authored. Only reach for `type: source` / `type: reference` on a note that isn't naturally a destination or technique in the first place.
 
+## `best_months` / `peak_months` — narrative and queryable at once
+
+Destination notes carry the "when to go" info two ways, and they're meant to reinforce each other rather than duplicate effort:
+
+- **A "Best time to fish" prose section in the body** — the nuance: why, which sub-location, trade-offs (solitude vs. trophy size, weather risk, etc.), with sources cited.
+- **`best_months` (and optionally `peak_months`) as frontmatter list fields** — the queryable version, so you can ask "where can I fish in November" and get a table instead of re-reading four notes.
+
+Both fields are lists of `"MM-Mon"` strings — zero-padded month number plus three-letter abbreviation, e.g. `"11-Nov"`. That format is the trick that makes this work in plain Dataview (no DataviewJS needed): a normal alphabetical string sort on `"01-Jan"` … `"12-Dec"` already comes out in calendar order, so `SORT` and `GROUP BY` just work.
+
+- `best_months` — every month worth targeting this destination (inclusive; if it's genuinely good year-round, list all twelve, like Bay Flats and Southern Way).
+- `peak_months` — the standout subset, when a destination has a real peak vs. shoulder-season difference worth flagging (Bay Flats: fall + spring; Southern Way: the July–March window when both its lodges are firing). Skip this field if the destination doesn't really have a "lesser" season — Jurassic Lake's whole Nov–Apr season is strong for different reasons, so it only sets `best_months`.
+
+The month-code list: `01-Jan 02-Feb 03-Mar 04-Apr 05-May 06-Jun 07-Jul 08-Aug 09-Sep 10-Oct 11-Nov 12-Dec`.
+
+**Ad hoc "where to fish in <month>" query** — paste this anywhere and swap the month code:
+
+```dataview
+LIST
+FROM ""
+WHERE topic = "fishing" AND type = "destination" AND contains(best_months, "11-Nov")
+```
+
+[[Fishing MOC]] also keeps a standing "Where to fish, by month" table so you don't have to write this query yourself for the common case of just browsing.
+
 ## Frontmatter keys use underscores, not hyphens
 
-`best_months`, `water_temp`, etc. — matches the rest of the vault's Dataview-queryable properties.
+`best_months`, `peak_months`, `water_temp`, etc. — matches the rest of the vault's Dataview-queryable properties.
 
 ## Folder shallowness
 
@@ -35,10 +59,10 @@ The MOC's **Needs normalization** table does the rest: it surfaces any `topic: f
 
 ## Worked example
 
-- `Bay Flats Lodge.md` — `topic: fishing`, `type: destination`, `location: USA`, `water: saltwater`, `best_months: "Oct–Nov, Mar–Jun (peaks); good year-round"`.
+- `Bay Flats Lodge.md` — `topic: fishing`, `type: destination`, `location: USA`, `water: saltwater`, `best_months` = all twelve months, `peak_months` = `["10-Oct","11-Nov","03-Mar","04-Apr","05-May","06-Jun"]`.
 - `Leader Formulas.md` — `topic: fishing`, `type: technique`, no `author` (self-authored).
 - `Clippings/Dry Flies in Fast Water - Fly Fishing Tips.md` — `topic: fishing`, `type: technique`, `author: "[[Troutbitten]]"` (external, consulted), stays in `Clippings/`.
 
 ## Status
 
-As of 2026-07-25 the convention is live. All four fishing notes plus the one clipping conform, including `best_months` on the three destination notes. `Southern Way Charters.md` had three dangling wikilinks (`[[redfish]]`, `[[saltwater fly fishing]]`, `[[Louisiana fly fishing]]`) pointing at notes that don't exist — removed in favor of the `topic: fishing` tag doing that discovery work, consistent with the folder-shallowness rule above. See [[Normalize fishing notes]] for the project log.
+As of 2026-07-25 the convention is live. All four fishing notes plus the one clipping conform, including `best_months`/`peak_months` on the three destination notes in the queryable `"MM-Mon"` list format. `Southern Way Charters.md` had three dangling wikilinks (`[[redfish]]`, `[[saltwater fly fishing]]`, `[[Louisiana fly fishing]]`) pointing at notes that don't exist — removed in favor of the `topic: fishing` tag doing that discovery work, consistent with the folder-shallowness rule above. See [[Normalize fishing notes]] for the project log.

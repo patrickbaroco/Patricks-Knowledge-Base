@@ -3,7 +3,8 @@ topic: fishing
 type: destination
 location: Louisiana
 water: saltwater
-best_months: "Hopedale: year-round; Venice: Jul–Mar (Mar–Jun hurt by river runoff)"
+best_months: ["01-Jan","02-Feb","03-Mar","04-Apr","05-May","06-Jun","07-Jul","08-Aug","09-Sep","10-Oct","11-Nov","12-Dec"]
+peak_months: ["07-Jul","08-Aug","09-Sep","10-Oct","11-Nov","12-Dec","01-Jan","02-Feb","03-Mar"]
 ---
 [Southern Way Charters - Louisiana - Got Fishing](https://gotfishing.com/adventures/fishing/southern-way-charters-louisiana/)
 
@@ -13,7 +14,7 @@ Redfish fishing, perhaps something to do instead of Belize sometime
 
 ## Best time to fish
 
-Southern Way runs two lodges with different seasonal patterns. Hopedale (Dogwood Lodge) sits outside the Mississippi River's runoff influence, so it holds consistent clear-water sight fishing year-round. Venice (Sportsman's Lodge) is river-affected — March through June gets rough with high, dirty water, so the reliable window there is July through March.
+Southern Way runs two lodges with different seasonal patterns, so `best_months` covers all twelve (there's always a good option) while `peak_months` reflects the stronger July–March window. Hopedale (Dogwood Lodge) sits outside the Mississippi River's runoff influence, so it holds consistent clear-water sight fishing year-round — including the April–June months that `peak_months` excludes. Venice (Sportsman's Lodge) is river-affected — March through June gets rough with high, dirty water, so its reliable window is July through March.
 
 Sources:
 - [Southern Way Charters - Louisiana - Got Fishing](https://gotfishing.com/adventures/fishing/southern-way-charters-louisiana/)

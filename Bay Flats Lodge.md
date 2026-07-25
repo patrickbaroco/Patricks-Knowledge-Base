@@ -3,7 +3,8 @@ topic: fishing
 type: destination
 location: USA
 water: saltwater
-best_months: "Oct–Nov, Mar–Jun (peaks); good year-round"
+best_months: ["01-Jan","02-Feb","03-Mar","04-Apr","05-May","06-Jun","07-Jul","08-Aug","09-Sep","10-Oct","11-Nov","12-Dec"]
+peak_months: ["10-Oct","11-Nov","03-Mar","04-Apr","05-May","06-Jun"]
 ---
 
 #fishing 
@@ -14,7 +15,7 @@ https://www.bayflatslodge.com/?gad_source=1&gad_campaignid=12520228040&gbraid=0A
 
 ## Best time to fish
 
-Redfish are catchable year-round on this stretch of the Texas coast — there's no dead season. Fall (October–November) is the strongest push: fish feed heavily on shrimp and bait fattening up for winter. Spring (March–June) is the other peak, though windier. Summer is consistently good too; winter stays productive despite cold fronts, since low tides concentrate fish into fewer areas.
+Redfish are catchable year-round on this stretch of the Texas coast — there's no dead season, hence `best_months` covers all twelve. `peak_months` narrows it to the standouts: fall (October–November) is the strongest push, when fish feed heavily on shrimp and bait fattening up for winter; spring (March–June) is the other peak, though windier. Summer is consistently good too; winter stays productive despite cold fronts, since low tides concentrate fish into fewer areas.
 
 Sources:
 - [Fly Fishing For Redfish In Texas: Tips, Season, Guides & More](https://www.bayflatslodge.com/fly-fishing-for-redfish-in-texas-tips-season-guides-more/)
