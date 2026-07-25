@@ -1,0 +1,1 @@
+Leonard Mlodinow was asked by Feynman why Descartes studied and described the rainbow, and Mlodinow came up with some thoughts. Feynman responded that he did it because they are beautiful. [[motivation]]

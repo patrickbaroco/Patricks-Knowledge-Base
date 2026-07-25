@@ -1,0 +1,23 @@
+January 28, 2026
+
+*“How do I know what I think until I see what I say?” -E.M. Forster*
+
+The author E.M. Forster (*Howards End, A Room With a View*) wrote that line to describe the writing process. Specifically, he was arguing against any idea that an author has a fully formed thought and simply transcribes it, but rather that writing is the mechanism by which those thoughts are shaped in the first place.
+
+When it comes to the creative process, I shall have to take Forster’s word for it: I lack a creative bone in my body. Nonetheless, I spend much of my day writing, all in the form of clinical documentation. And I think about that quote often.
+
+It is easy to think of documentation as the thing we do “after.” We see the patient. We make a plan. We write orders. The work feels done. The note becomes a box to check, the thing we owe Medicare in order to get paid.
+
+I very much understand that. I feel that myself. It is hard to not feel like my documentation is for somebody else. My note is for CMS, for our auditors, for compliance, and for the ACO. My goal is to just write a note in a way that ensures I won’t be hassled about it later by any of my eight different bosses. (And if you haven’t seen *[Office Space](https://youtu.be/3wqQXu13tLA?is=Q3dsXl-m-P6oAXe3)*, you absolutely must.)
+
+But despite that very real feeling, our notes are not and cannot be for “them”. They are for ourselves—and so for our patients. It is through the process—the discipline—of clinical documentation that our medical decision-making is tested and challenged. At the bedside, our thinking tends to be fast and intuitive (Daniel Kahneman’s “system 1” thinking). We are pattern-matching, prioritizing, and moving on to the next problem. The process of writing our note, however, pushes us to be deliberate and analytical in our thinking (“system 2” thinking). It challenges us to consider whether the evidence truly supports our conclusion, or whether there was more uncertainty than we appreciated. It puts data in front of us that we may not have considered. The process of “saying” our thoughts onto paper can create a subtle internal discomfort that, if listened to, can be the difference between a good outcome and a bad one.
+
+As Forster noted, our writing not just records our thinking but shapes it. Think of these cases, all from my own experience in the past few weeks:
+
+- I admitted a patient to SNF after a hip fracture, who has been falling more at home. I put her on DVT prophylaxis, a good pain regimen, and a bowel regimen. But as I wrote her note, I documented that she is on latanoprost and timolol for glaucoma and realized that failing vision may be contributing to her falls and ensured follow-up with ophthalmology.
+- As I was documenting the admission for a patient recovering from a COPD exacerbation, I documented that they are on apixaban for their atrial fibrillation, but also on aspirin. Looking for an indication for an antiplatelet and finding none, I was able to stop a medication that quietly increased bleeding risk.
+- And sometimes a diagnosis itself shifts under the weight of careful documentation. I recently reassured a patient that swelling in a limb three weeks after a stroke is common. But as I wrote the note, I found myself documenting unilateral edema in a patient with markedly limited mobility who was not anticoagulated. Seeing those risk factors together on the page, I realized I had not adequately considered a deep vein thrombosis.
+
+In each of these, it is not that our “fast” thinking at the bedside failed us, but rather that it was incomplete. It is the “slow” thinking that comes with putting pen to paper (or fingers to keys) that completes the cognitive process. When that process is left incomplete, our patients suffer. They don’t benefit from the entirety of what we can offer as clinicians.
+
+We do owe Medicare a compliant note. And in the world of outcome-centered healthcare, we have to document data that may not be relevant to the individual patient before us but is important data to collect as it aggregates to the population level. But these should not be the why of the process. The note is not a box to check when the cognitive work is done, but rather where the cognitive work is completed. So let us write as a way of thinking. The art of medicine has this in common with the art of literature: we often do not know what we think until we see what we say. And because we must be thoughtful, thorough, and deliberate in our thinking, we must be thoughtful, thorough, and deliberate in our writing.

@@ -1,0 +1,34 @@
+## Active
+
+```dataview
+TABLE status, domain, next_action, last_touched
+FROM "Projects"
+WHERE status = "active"
+SORT last_touched DESC
+```
+
+## Blocked / Waiting
+
+```dataview
+TABLE status, domain, next_action, last_touched
+FROM "Projects"
+WHERE status = "blocked" OR status = "waiting"
+SORT last_touched ASC
+```
+
+## Inbox (unsorted)
+
+```dataview
+TASK
+FROM "_Inbox.md"
+WHERE contains(tags, "unsorted")
+```
+
+## Everything else
+
+```dataview
+TABLE status, domain, last_touched
+FROM "Projects"
+WHERE status != "active" AND status != "blocked" AND status != "waiting"
+SORT last_touched DESC
+```

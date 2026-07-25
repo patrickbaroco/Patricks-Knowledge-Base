@@ -1,0 +1,17 @@
+March 8, 2026
+
+---
+
+One of the great challenges of the human condition is communicating what we mean rather than merely what we say. So often we believe we have made ourselves clear, only to learn that what was heard was not what we meant at all.
+
+How do we avoid this? How do we ensure that what is heard is what we meant? The crucial step is to recognize that understanding is not transmitted: it is co-created. It is developed in coordination between the speaker and the receiver. The words we speak do not carry meaning in isolation, but rather are received into a space of hope, fear, experience, and expectation.
+
+Information, then, is never neutral. This has profound implications for communication in healthcare, where we are often communicating information that is emotionally fraught. What we intend as merely clarifying can be received as overwhelming. When information is delivered before someone is ready to receive it, it impedes rather than advances understanding. Dr. Anthony Back has described this as “information toxicity”. As an oncologist, he would not give chemotherapy without first knowing a patient’s white blood cell count. As a palliative care physician, he would not deliver information without first sampling the patient’s readiness to receive it.
+
+In palliative care, this approach is often described as “ask–tell–ask”. We begin by asking what the patient understands and what they are hoping to learn: a sampling of their readiness. Questions that begin, “What is your sense of…” help assess the gap between what we have to offer and what they are ready to receive. If that gap is large, do not expect to cross it quickly. We should provide information in measured doses, attentive to how it lands. And finally, we ask again, this time to learn what has been heard.
+
+Thus, understanding is achieved not just by speech but by attention. The bridge between intention and reception is built collaboratively, and in hard conversations the greater share of responsibility rests with the person delivering the difficult news. Words alone are not sufficient. They must be accompanied by patience and the willingness to listen for what has truly been heard. With careful attention, we can ensure that what is communicated is not just what we say, but what we mean.
+
+In practice, this means following Dr. Back’s advice and sampling their readiness to hear what you have to say before you say it. Take frequent pauses, allowing time for them to process what you have said. As you go, you can directly ask for their emotional state: “How are you feeling right now?” I find it helpful to make a statement—“I am sorry. That is not the news I was hoping to share.”—and then let silence be its own prompt. Do not move on until you know they are ready to hear what is next. If you sense that they are not ready, that they are in “fight or flight” mode, then do not push it. Simply say, “I know that was a lot to hear. I think we should take a break and we can discuss this more tomorrow. Do you have any questions before then, or is there anything you would like me to know right now?”
+
+Take your time in these conversations, and do not be afraid of silence. Silence is communication of its own. It says that you are there not just to speak but to listen. And remember that hard conversations are not complete when all the words have been spoken, but when understanding has been built. This can be challenging, but it is one of the most important things we can offer our patients. When done well, it is also one of the most rewarding things we do.

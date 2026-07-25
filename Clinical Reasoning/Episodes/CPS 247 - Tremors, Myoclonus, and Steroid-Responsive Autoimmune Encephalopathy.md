@@ -1,0 +1,134 @@
+---
+series: "Clinical Problem Solvers — Virtual Morning Report"
+episode: "CPS 247"
+source_url:
+  - https://clinicalproblemsolving.com/2022/07/13/episode-247-neurology-vmr-tremors-myoclonus/
+guests:
+  - Aaron Berkowitz
+clinical_domains:
+  - neurology
+  - autoimmune neurology
+  - movement disorders
+  - psychiatry
+tags:
+  - schema-based-reasoning
+  - anatomical-approach
+  - tempo-based-reasoning
+  - availability-heuristic
+  - treatment-as-diagnostic-test
+  - test-interpretation
+  - diagnostic-humility
+---
+
+## Summary
+
+> [!summary] Scan Summary
+> A special fundraiser Neurology Virtual Morning Report with neurologist **Aaron Berkowitz** built around two movement disorders at once — **[[Tremor|tremors]] and [[Myoclonus|myoclonus]]**. A previously healthy **38-year-old woman** develops, over **two weeks** after a trip, generalized distal-predominant tremor that progresses until she cannot walk, write, or eat, with facial-brachial myoclonus, a **tangential, inattentive mental state**, and a **MoCA of 14/30** — on a background of new-onset anxiety and a year of menorrhagia, with incidentally elevated **anti-TPO/anti-thyroglobulin** antibodies two years prior. Berkowitz teaches the **[[Movement Disorder Approach|movement-disorder method]]** — *characterize the movement first*, then run the four-column cause schema (primary neurologic, structural, systemic, drugs/toxins) — distinguishing [[Tremor|tremor]] by **frequency, amplitude, and activation (rest/postural/kinetic)**, [[Myoclonus|myoclonus]] from [[Clonus|clonus]] and [[Fasciculation|fasciculation]], and [[Dystonia|dystonia]] from both, with a detour to the pathognomonic **[[Faciobrachial Dystonic Seizures|faciobrachial dystonic seizures]] of [[LGI1 Encephalitis|LGI1]]**. The tempo (subacute) plus a neuropsychiatric prodrome plus a movement disorder in a young woman pulls hard toward **[[Autoimmune Encephalitis|antibody-mediated encephalitis]]** — chiefly **[[Anti-NMDA Receptor Encephalitis|anti-NMDA]]** (the menorrhagia raising an occult [[Ovarian Teratoma|teratoma]]) — but Berkowitz names his own **[["excitement bias"|excitement/zebra bias]]** and pulls the reasoning back to [[Serotonin Syndrome|serotonin syndrome]]/[[Neuroleptic Malignant Syndrome|NMS]], [[Thyrotoxicosis|thyrotoxicosis]], and **[[Functional Neurological Disorder|functional disorder]]**. Work-up is negative except an **inflammatory CSF (protein 137)** and the TPO titers; MRI, broad serologies, and a pelvic ultrasound (a 3 cm fibroid, no teratoma) are unrevealing. A **five-day steroid course produces dramatic improvement** — [[Treatment as a Diagnostic Test|treatment as diagnosis]] — leaving a steroid-responsive autoimmune encephalopathy (working label **[[Hashimoto Encephalopathy|Hashimoto encephalopathy/SREAT]]**, a diagnosis of exclusion) with CSF antibodies still pending.
+
+## Pearls
+
+- **Characterize the movement before you localize it.** In [[Movement Disorder Approach|movement disorders]] the diagnostic key is *what the movement is*, decided at the bedside (there is no test) — [[Tremor|tremor]] vs [[Myoclonus|myoclonus]] vs [[Chorea|chorea]] vs [[Dystonia|dystonia]] — after which each maps to a **four-column cause schema**: primary neurologic, structural/lesional, systemic, and drugs/toxins.
+- **Read a [[Tremor|tremor]] by frequency, amplitude, and activation.** Ask its **frequency** (low vs high), its **amplitude**, whether it occurs at **rest, with posture, or with action/intention**, and **where** (hands, head, jaw). Those parameters separate a resting **[[Parkinsonism|parkinsonian]]** tremor (4–6 Hz) from a postural **[[Essential Tremor|essential]]** tremor (~6–8 Hz), a low-frequency high-amplitude **[[Cerebellar Tremor|cerebellar/intention]]** tremor, a fine **[[Enhanced Physiologic Tremor|physiologic]]** tremor, and a **[[Functional Tremor|functional]]** tremor (variable, entrainable). See **[[Tremor]]** for the full frequency/amplitude table.
+- **[[Myoclonus|Myoclonus]] is a lightning jerk across a joint — and in the hospital it's usually systemic.** Distinguish it from **[[Clonus|clonus]]** (rhythmic, from hyperreflexia) and **[[Fasciculation|fasciculation]]** (fibers twitch without moving the joint). Nine of ten inpatient cases are toxic-metabolic (renal/hepatic failure, hypercarbia) or drug-related (opioids, amantadine); primary causes include [[Creutzfeldt-Jakob Disease|CJD]] (startle myoclonus), the myoclonic epilepsies, and advanced neurodegeneration.
+- **A unilateral face-and-arm jerk is [[Faciobrachial Dystonic Seizures|faciobrachial dystonic seizures]] — pathognomonic for [[LGI1 Encephalitis|LGI1 antibody]] disease.** Brief, frequent (up to many per day), often mistaken for tics or myoclonus, with **hyponatremia** as a clue and usually a normal CSF/MRI; catching it early (with immunotherapy) prevents progression to limbic encephalitis. It is usually **not** paraneoplastic.
+- **A subacute movement disorder + neuropsychiatric prodrome in a young woman is [[Autoimmune Encephalitis|antibody-mediated encephalitis]] until proven otherwise — but beware [["excitement bias"|excitement bias]].** [[Anti-NMDA Receptor Encephalitis|Anti-NMDA]] (with orofacial dyskinesia and a ~50% [[Ovarian Teratoma|ovarian teratoma]]) is the marquee diagnosis, yet the same salience that makes autoimmune syndromes exciting causes teams to over-call them and miss the ordinary — reserve a place for [[Serotonin Syndrome|serotonin syndrome]]/[[Neuroleptic Malignant Syndrome|NMS]], [[Thyrotoxicosis|thyrotoxicosis]], and [[Functional Neurological Disorder|functional disorder]] (a *rule-in* diagnosis with positive signs, not a diagnosis of exclusion).
+- **Send antibodies from CSF, and let the [[Treatment as a Diagnostic Test|steroid response]] speak.** For most neuronal antibodies (and NMDA in particular) **CSF is more sensitive and specific than serum**, and serum-only positives can be non-pathogenic. **[[Hashimoto Encephalopathy|Hashimoto encephalopathy/SREAT]]** is a diagnosis of exclusion (anti-TPO is likely a bystander biomarker, and the entity is being carved into discrete antibody syndromes); when the picture is clearly inflammatory, empiric steroids are both reasonable and, as here, diagnostic — while plasma exchange/rituximab wait for confirmation.
+
+## Problem Representation
+
+A previously healthy 38-year-old woman with newly diagnosed generalized anxiety disorder (on escitalopram) and a year of menorrhagia presents with two weeks of progressive, distal-predominant generalized tremor that has incapacitated her (unable to walk, write, or eat), accompanied by facial-brachial myoclonus, tangential inattentive speech, and marked cognitive impairment (MoCA 14/30) with preserved orientation. Her exam shows mild tachycardia, a normal thyroid, a postural-and-rest distal tremor with sporadic right-predominant facial-brachial myoclonus and mildly increased tone, without cerebellar signs, weakness, or a sensory deficit. Basic labs, thyroid function, B12, CT, MRI, and broad autoimmune serologies are unremarkable except elevated anti-TPO/anti-thyroglobulin antibodies and an inflammatory CSF (protein 137); a pelvic ultrasound shows a fibroid without teratoma. The evolving diagnosis is a subacute antibody-mediated/autoimmune encephalopathy — with a dramatic response to a five-day steroid course and CSF neuronal antibodies pending, the working label is Hashimoto encephalopathy/SREAT, a diagnosis of exclusion.
+
+---
+
+## Case Narrative
+
+A special fundraiser CP Solvers Neurology VMR (supporting Médecins Sans Frontières) with **Aaron Berkowitz** teaching, **Valeria** presenting, **Robbie** discussing/scribing, and **Shema** on teaching points. The chief concern is a pair of movement disorders: **tremors and myoclonus**.
+
+**The movement-disorder method.** Berkowitz reframes the usual localization reflex: in [[Movement Disorder Approach|movement disorders]], the key to the puzzle is figuring out **what the movement is** — tremor vs myoclonus vs chorea vs dystonia — because there is no test and each movement carries its own **four-column differential** (primary neurologic disease, structural/lesional, systemic condition, and medications/toxins; a MIST-like schema). He works **[[Tremor|tremor]]** in detail: characterize its **frequency** (high/low), **amplitude** (high/low), **activation** (rest, posture, or action/intention), and **distribution** (hands, head, jaw) — parameters that separate a [[Parkinsonism|parkinsonian]] rest tremor, an [[Essential Tremor|essential]] postural tremor, a [[Cerebellar Tremor|cerebellar intention]] tremor, a fine [[Enhanced Physiologic Tremor|physiologic]] tremor, and a drug-induced tremor (see the **[[Tremor]]** hub for the full table). He then has Valeria define **[[Myoclonus|myoclonus]]** — a lightning-fast jerk moving a muscle across a joint — and separates it from **[[Clonus|clonus]]** (rhythmic, a sign of hyperreflexia) and **[[Fasciculation|fasciculation]]** (fibers twitch without moving the joint). A chat question prompts the **[[Dystonia|dystonia]]** contrast: a twisted, sustained posture from co-contraction of agonist and antagonist (torticollis, writer's cramp), with its own overlap syndromes (dystonia-myoclonus, dystonic tremor). Valeria's imitation of a brief **unilateral face-and-arm jerk** triggers Berkowitz's favorite story: **[[Faciobrachial Dystonic Seizures|faciobrachial dystonic seizures]]**, pathognomonic for **[[LGI1 Encephalitis|LGI1 antibody]]** disease — brief, frequent, mistaken for tics/myoclonus, with hyponatremia as a clue and usually normal CSF, treatable if caught early, "heard on a podcast" and recognized weeks later at the bedside.
+
+**HPI.** Valeria presents a **38-year-old woman** with **two weeks** of generalized, **distal-predominant** tremor (hands and toes → whole body) that has progressed to incapacitate her — she cannot walk, write, or eat — with facial-brachial myoclonus and difficulty communicating from a **tangential, unfocused mental state**. She was well until a business trip to the **Bahamas** two weeks earlier; she denies loss of consciousness, fever, or weight loss. Past history is the crux: **generalized anxiety disorder** diagnosed two months ago (on **escitalopram**), a year of **menorrhagia** driving extensive (inaccessible) gynecologic work-ups, ibuprofen for back pain, and — two years earlier, incidentally — elevated **anti-TPO and anti-thyroglobulin** antibodies with otherwise normal labs.
+
+**Thinking fast, thinking slow.** Berkowitz narrates each "thinking-fast" glimmer against a "thinking-slow" check. The **young age** argues against neurodegeneration; the **two-week, subacute** tempo excludes stroke (too slow) and typical bacterial/viral infection (a bit long), landing squarely in the **subacute** bucket where **immune-mediated/antibody-mediated** disease lives. He layers the history: a **new neuropsychiatric change** (the recent "anxiety"), new **cognitive** impairment, and a **movement disorder** stacking up over two weeks makes him think **[[Autoimmune Encephalitis|autoimmune encephalitis]]**, and in a young woman the marquee diagnosis is **[[Anti-NMDA Receptor Encephalitis|anti-NMDA receptor encephalitis]]** (neuropsychiatric onset often misread as depression/schizophrenia/anxiety, orofacial dyskinesia, autonomic instability, ~**50% ovarian teratoma**) — the **menorrhagia and gynecologic history** raising an occult **[[Ovarian Teratoma|teratoma]]**. He recounts, at length (a fundraiser indulgence), his first NMDA case — the psychiatrist's "something doesn't fit," the pelvic-ultrasound "benign calcification" that was a tooth, the courtroom-in-the-hospital consent for oophorectomy, the microteratoma, the full recovery — and Susannah Cahalan's *Brain on Fire*. He flags the **anti-TPO** as pointing to the boards-favorite **[[Hashimoto Encephalopathy|Hashimoto encephalopathy]]**, while cautioning that TPO is probably a **bystander biomarker** and the entity is being carved into discrete antibody syndromes (Josep Dalmau's field). The **Bahamas** he can't use except as a time-stamp.
+
+**Pulling back from the zebra.** Valeria adds two sharp thoughts: that CJD myoclonus is a *late*, not early, feature (arguing against it here), and that the "psychiatric" framing might better be called **[[Functional Neurological Disorder|functional]]**. Berkowitz endorses the functional consideration and teaches it properly — John Stone's positive-sign, *rule-in* approach (abrupt onset, variability, **entrainment/distractibility** of the tremor), the anxiety-tremor vicious cycle, and neurosymptoms.com — then catches himself in what he names **[["excitement bias"|excitement/zebra bias]]**: residents (and he) love the new, treatable autoimmune syndromes and can over-call them while missing the obvious. The **mildly increased tone** re-raises a **toxidrome** — **[[Serotonin Syndrome|serotonin syndrome]]** (usually hyperreflexia, clonus, ocular flutter, *without* increased tone; one SSRI alone rarely causes it) vs **[[Neuroleptic Malignant Syndrome|NMS]]** (increased tone, hyperadrenergic) — and **[[Thyrotoxicosis|thyrotoxicosis]]** (hence Valeria's palpating the thyroid).
+
+**Exam.** Mildly tachycardic (101), otherwise stable, with no exophthalmos, goiter, or thyroid tenderness. She is **oriented ×3 but tangential and inattentive**, with a **MoCA of 14/30** (orientation intact). Cranial nerves are normal; there is a **distal-predominant tremor present at rest and worse with arms raised (postural)**, sporadic **right-predominant facial-brachial myoclonus** (not sustained or lateralized like FBDS), and **mildly increased tone** in all four limbs, without weakness, sensory loss, or cerebellar signs — the **finger-nose tremor does not crescendo toward the target** (i.e., not a cerebellar/intention tremor), and there is no dysdiadochokinesia; Romberg is negative and gait is markedly worsened by the tremor.
+
+**Work-up and the steroid answer.** Robbie makes the hospitalist's point: the exam is accumulating evidence *against* a systemic cause, but the labs are needed — and scrutinizing/**stopping a medication** can be a fast route to an answer where confirming an antibody takes advanced testing and time. Labs are unremarkable (normal CBC/BMP, **normal TSH/T4**, normal B12) except **elevated anti-TPO (411) and anti-thyroglobulin (625)**; **CT and MRI are normal**; a broad autoimmune serology panel (anti-Jo-1, anti-cardiolipin, ENA, antiphospholipid) is negative; and the **LP is unremarkable except a protein of 137** — an **[[Albuminocytologic Dissociation|inflammatory CSF]]** that, to Valeria's relief, argued *against* a purely functional picture and *for* doing something. CSF neuronal antibodies were **sent to Spain (the Dalmau lab)** and remain pending; cultures were negative. The **pelvic ultrasound** showed a **3 cm fibroid, no teratoma**. A **five-day steroid course produced dramatic improvement** — **[[Treatment as a Diagnostic Test|treatment as diagnosis]]**.
+
+**Resolution (open-ended).** The working diagnosis is a **steroid-responsive autoimmune encephalopathy**, most consistent with **[[Hashimoto Encephalopathy|Hashimoto encephalopathy/SREAT]]** given the TPO titers — but explicitly a **diagnosis of exclusion**, with CSF antibodies pending. Berkowitz's clinical read: the marked improvement after a single short course *without relapse* favors Hashimoto/SREAT, because most antibody-mediated syndromes (like NMDA) keep worsening and need escalation (plasma exchange, rituximab, teratoma removal) — steroids there being a holding pattern while awaiting proof. He teaches **serum-vs-CSF** antibody specificity (CSF wins; serum-only NMDA can be non-pathogenic per Dalmau) and the **post-HSV anti-NMDA** phenomenon (relapse after herpes encephalitis is often new autoimmune, not viral relapse), and closes on the case as a model of **[[Treatment as a Diagnostic Test|treatment being diagnosis]]** when the picture is unmistakably immune-mediated.
+
+## Reasoning Breakdown
+
+### Bayesian Updates
+
+| Data point | Hypothesis raised/adjusted | Direction of update |
+|---|---|---|
+| Chief concern: tremors + myoclonus | Movement disorder(s): primary/structural/systemic/drug | Frames the case |
+| Age 38 | Neurodegenerative disease | Lowered |
+| Two-week, progressive (subacute) | Immune-mediated/antibody-mediated | Raised |
+| New "anxiety" + cognitive change + movement disorder | Autoimmune encephalitis (esp. anti-NMDA) | Raised |
+| Young woman + menorrhagia/gynecologic history | Ovarian teratoma → anti-NMDA | Raised |
+| Elevated anti-TPO/anti-thyroglobulin | Hashimoto encephalopathy/SREAT | Raised (but bystander?) |
+| Unilateral facial-brachial jerk (imitated) | FBDS / LGI1 | Considered; lowered (not sustained/lateralized, no tremor in LGI1) |
+| Mildly increased tone | Serotonin syndrome vs NMS | Toxidrome re-raised |
+| On escitalopram only | Serotonin syndrome | Lowered (one SSRI rarely sufficient) |
+| Anxiety + tremor, young | Functional neurological disorder | Kept (rule-in, positive signs) |
+| Normal thyroid exam + normal TSH/T4 | Thyrotoxicosis | Lowered |
+| MoCA 14/30, tangential | Organic encephalopathy (not purely functional/psychiatric) | Raised |
+| Tremor: rest + postural, non-intention; no cerebellar signs | Cerebellar tremor | Lowered |
+| Normal CT/MRI | Structural lesion; mass | Lowered |
+| Broad serologies negative | Systemic autoimmune/vasculitis | Lowered |
+| **CSF protein 137 (inflammatory)** | **Immune-mediated encephalitis** (not functional) | Raised |
+| Pelvic US: fibroid, no teratoma | Anti-NMDA with teratoma | Lowered (teratoma can still be occult) |
+| **Dramatic response to 5-day steroids, no relapse** | Steroid-responsive autoimmune (Hashimoto/SREAT) | Landing (working dx; antibodies pending) |
+
+### Illness Scripts and Bias
+
+- **The [[Movement Disorder Approach|movement-disorder script]] — characterize before localizing.** Naming the movements (tremor + myoclonus, not chorea or dystonia) and reading the tremor by frequency/amplitude/activation set the differential, the same method used in [[CPS 276 - Lethargy, Myoclonus, and Posterior Reversible Encephalopathy Syndrome|CPS 276]] and now anchored in the **[[Tremor]]** hub.
+- **[[Illness Tempo|Tempo]] selects the bucket.** A *subacute* course in a young person, with a neuropsychiatric prodrome, pointed straight at immune-mediated disease — the reasoning that unifies [[CPS 359 - Altered Mental Status and Anti-NMDA Receptor Encephalitis|CPS 359]] and [[CPS 220 - Drowsiness and Bickerstaff Brainstem Encephalitis|CPS 220]].
+- **[["excitement bias"|Excitement / zebra bias], named and corrected.** Berkowitz explicitly flags the pull toward the exciting, treatable autoimmune syndromes and drags the differential back to toxidromes, thyrotoxicosis, and functional disorder — a live model of countering [[Availability Heuristic|salience-driven]] over-calling.
+- **[[Functional Neurological Disorder|Functional disorder]] as a rule-in, not a wastebasket.** The reasoning treats functional tremor as a positive-sign diagnosis (entrainment, distractibility, variability) rather than "nothing found," while the **inflammatory CSF** ultimately argues against it.
+- **[[Test Interpretation|Test interpretation]] — CSF over serum, and a protein that reframes.** Neuronal antibodies are more reliable in CSF (serum-only NMDA can be non-pathogenic), and the isolated CSF protein of 137 was the datum that converted "maybe functional" into "clearly inflammatory."
+- **[[Treatment as a Diagnostic Test|Treatment as diagnosis]] and [[Diagnostic Humility|humility]].** With the picture unmistakably immune-mediated but unconfirmed, empiric steroids were both therapeutic and diagnostic; the team held the label **[[Hashimoto Encephalopathy|Hashimoto/SREAT]]** as a diagnosis of exclusion pending antibodies, comfortable ending open-ended.
+
+## Teaching Discussion
+
+- Approach any abnormal movement by characterizing it first (tremor vs myoclonus vs chorea vs dystonia) at the bedside, since there is no confirmatory test, and then run the four-column cause schema (primary neurologic, structural, systemic, drugs/toxins) specific to that movement.
+- Read a tremor by frequency, amplitude, and activation (rest vs postural vs kinetic/intention) plus distribution, because those parameters separate parkinsonian, essential, cerebellar/intention, enhanced-physiologic, dystonic, and functional tremors — see the Tremor note for the full mapping.
+- Distinguish myoclonus (a lightning jerk across a joint) from clonus (rhythmic, hyperreflexic) and fasciculation (fibers twitch without joint movement), and remember hospital myoclonus is usually toxic-metabolic or drug-induced; recognize unilateral faciobrachial dystonic seizures as pathognomonic for LGI1 antibody disease (with hyponatremia, often normal imaging, and a window to treat before limbic encephalitis).
+- Treat a subacute movement disorder plus a neuropsychiatric prodrome and cognitive change in a young woman as antibody-mediated encephalitis — especially anti-NMDA with its orofacial dyskinesia and ~50% ovarian teratoma — while guarding against excitement/zebra bias by keeping serotonin syndrome/NMS, thyrotoxicosis, and functional disorder on the list.
+- Diagnose functional neurological disorder by positive signs (abrupt onset, variability, entrainment and distractibility of the tremor) as a rule-in condition with a real mechanism and effective therapy (CBT), not as a diagnosis of exclusion or a synonym for "psychiatric."
+- Send neuronal antibodies from CSF rather than serum (CSF is more sensitive and specific, and serum-only NMDA can be non-pathogenic), interpret an isolated CSF protein elevation as nonspecific inflammation that still reframes a "functional" case, and know that relapse after HSV encephalitis is frequently new anti-NMDA autoimmunity rather than viral relapse.
+- Use empiric steroids as both treatment and diagnostic test when the picture is clearly inflammatory but unconfirmed, reserving higher-risk immunotherapy (plasma exchange, rituximab, teratoma removal) for confirmed disease; recognize Hashimoto encephalopathy/SREAT as a steroid-responsive diagnosis of exclusion whose anti-TPO is likely a biomarker, and whose sustained response to a single short course argues against the relentlessly progressive antibody syndromes.
+
+## Evergreen Note Updates
+
+- [ ] Create **[[Tremor]]** (hub — **built with this episode**) — frequency/amplitude/activation classification table and the four-column cause schema; link [[Parkinsonism]], [[Essential Tremor]], [[Cerebellar Tremor]], [[Enhanced Physiologic Tremor]], [[Functional Tremor]].
+- [ ] Create **[[Hashimoto Encephalopathy]]** (SREAT) — steroid-responsive encephalopathy with thyroid antibodies, the "bystander biomarker" view, and its status as a diagnosis of exclusion being carved into discrete antibody syndromes.
+- [ ] Create **[[Faciobrachial Dystonic Seizures]]** and **[[LGI1 Encephalitis]]** — the pathognomonic unilateral face-arm seizures, hyponatremia, normal imaging, and early immunotherapy; link [[Autoimmune Encephalitis]].
+- [ ] Create **[[Functional Neurological Disorder]]** (also RLR 037) — John Stone's positive-sign rule-in approach, tremor entrainment/distractibility, and CBT; and **[[Dystonia]]** — co-contraction posturing and overlap syndromes.
+- [ ] Create **[[Serotonin Syndrome]]** and **[[Neuroleptic Malignant Syndrome]]** (also CPS 359) — the tone/reflex/ocular distinctions and the toxidrome-vs-autoimmune fork.
+- [ ] Update **[[Autoimmune Encephalitis]]** and **[[Anti-NMDA Receptor Encephalitis]]** (CPS 359) — add the CSF-over-serum rule, the post-HSV anti-NMDA phenomenon, and the teratoma hunt; and **[[Myoclonus]]** (CPS 276 hub) with the CJD-late-feature and four-column points.
+- [ ] Create a note or tag for **[["excitement bias"|excitement / zebra bias]]** — over-calling the exciting, treatable, newly-described diagnosis; cross-link [[Availability Heuristic]] and [[Representativeness Heuristic]].
+- [ ] Update **[[Treatment as a Diagnostic Test]]** (add the steroid-trial-as-diagnosis here) and **[[Albuminocytologic Dissociation]]** (nonspecific inflammatory CSF reframing a "functional" case).
+
+## Handbook Opportunities
+
+- A **movement-disorder approach** card — characterize-first and the four-column cause schema.
+- A **tremor** card — frequency/amplitude/activation and which tremor is which (mirrors the [[Tremor]] hub).
+- An **autoimmune encephalitis** card — anti-NMDA/LGI1 phenotypes, CSF-over-serum testing, teratoma hunt, and the steroid trial.
+- A **toxidrome vs autoimmune** card — serotonin syndrome vs NMS vs autoimmune encephalitis by tone, reflexes, and eye findings.
+- A **functional neurological disorder** card — positive rule-in signs and treatment.
+
+## References
+
+- Dubey D, et al. *Autoimmune encephalitis epidemiology and a comparison of antibody testing in serum vs CSF.* Ann Neurol, 2018. — CSF-over-serum sensitivity/specificity.
+- Irani SR, et al. *Faciobrachial dystonic seizures precede LGI1 antibody limbic encephalitis.* Ann Neurol, 2011. — FBDS, hyponatremia, and immunotherapy responsiveness.
+- Graus F, et al. *A clinical approach to diagnosis of autoimmune encephalitis.* Lancet Neurol, 2016. — diagnostic criteria and the Hashimoto-encephalopathy caveat.
+- Espay AJ, Lang AE, et al. *Functional movement disorders.* — positive-sign diagnosis (entrainment, distractibility) and management.
+- Berkowitz AL. *Clinical Neurology and Neuroanatomy: A Localization-Based Approach.* McGraw-Hill. — movement-disorder and tremor frameworks.
+
+## Related Notes
+
+[[Tremor]] · [[Movement Disorder Approach]] · [[Myoclonus]] · [[Clonus]] · [[Fasciculation]] · [[Dystonia]] · [[Chorea]] · [[Parkinsonism]] · [[Essential Tremor]] · [[Cerebellar Tremor]] · [[Enhanced Physiologic Tremor]] · [[Functional Tremor]] · [[Faciobrachial Dystonic Seizures]] · [[LGI1 Encephalitis]] · [[Autoimmune Encephalitis]] · [[Anti-NMDA Receptor Encephalitis]] · [[Hashimoto Encephalopathy]] · [[Ovarian Teratoma]] · [[Functional Neurological Disorder]] · [[Serotonin Syndrome]] · [[Neuroleptic Malignant Syndrome]] · [[Thyrotoxicosis]] · [[Albuminocytologic Dissociation]] · [[Creutzfeldt-Jakob Disease]] · [[Altered Mental Status]] · [[Illness Tempo]] · [[Anatomical Approach]] · [[MIST Mnemonic]] · [[Availability Heuristic]] · [[Treatment as a Diagnostic Test]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Neurophobia]] · [[CPS 220 - Drowsiness and Bickerstaff Brainstem Encephalitis]] · [[CPS 276 - Lethargy, Myoclonus, and Posterior Reversible Encephalopathy Syndrome]] · [[CPS 359 - Altered Mental Status and Anti-NMDA Receptor Encephalitis]] · [[RLR 037 - Episodic Lightheadedness and Functional Neurological Disorder]] · [[CPS 211 - Episodic Transient Loss of Consciousness and Multiple System Atrophy]]

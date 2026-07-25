@@ -1,0 +1,56 @@
+views:
+  - type: table
+    name: All Movies
+    order:
+      - file.name
+      - runtime_minutes
+      - family_friendly
+      - genre
+      - rotten_tomatoes
+    sort:
+      - property: runtime_minutes
+        direction: ASC
+    columnSize:
+      file.name: 224
+      note.runtime_minutes: 83
+      note.rotten_tomatoes: 81
+  - type: table
+    name: Unwatched
+    filters:
+      and:
+        - watched == false
+    order:
+      - file.name
+      - runtime_minutes
+      - family_friendly
+      - genre
+      - rotten_tomatoes
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: runtime_minutes
+        direction: ASC
+    columnSize:
+      file.name: 224
+      note.runtime_minutes: 83
+      note.rotten_tomatoes: 81
+  - type: table
+    name: Unwatched/Family
+    filters:
+      and:
+        - watched == false
+        - family_friendly == true
+    order:
+      - file.name
+      - runtime_minutes
+      - family_friendly
+      - genre
+      - rotten_tomatoes
+    sort:
+      - property: runtime_minutes
+        direction: ASC
+    columnSize:
+      file.name: 224
+      note.runtime_minutes: 83
+      note.rotten_tomatoes: 81
+    markers: none
