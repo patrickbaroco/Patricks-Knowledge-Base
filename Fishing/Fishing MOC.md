@@ -7,7 +7,7 @@ tags:
 
 # Fishing — Map of Content
 
-The hub for fishing notes: destinations you've fished or are considering, techniques and systems you've built or collected, and clippings worth returning to. Content notes stay at vault root (folder depth doesn't buy anything Dataview filtering on `topic`/`type` doesn't already give); this folder holds only this MOC. See [[_Fishing Notes Convention]] for how notes here are typed and tagged, and for how a freshly-jotted note gets picked up here before it's fully filled in.
+The hub for fishing notes: destinations you've fished or are considering, techniques and systems you've built or collected, and clippings worth returning to. Content notes stay at vault root (folder depth doesn't buy anything Dataview filtering on `topic`/`type` doesn't already give); this folder holds only this MOC. See [[_Fishing Notes Convention]] for how notes here are typed and tagged, how crosslinking works, and how a freshly-jotted note gets picked up here before it's fully filled in.
 
 ## Destinations
 
@@ -50,14 +50,26 @@ FROM ""
 WHERE topic = "fishing" AND type = "destination" AND contains(best_months, "11-Nov")
 ```
 
-## Techniques
+## Techniques database
+
+Every technique note, and which destinations it's crosslinked to via a `## Related destinations` / `## Related techniques` section (see [[_Fishing Notes Convention]] for the crosslinking rule). `Uses` counts inbound wikilinks from other fishing notes — a rough proxy for how central a technique is.
 
 ```dataview
-TABLE author
+TABLE author, length(file.inlinks) as Uses
 FROM ""
 WHERE topic = "fishing" AND type = "technique"
 SORT file.name ASC
 ```
+
+**Technique concepts (not yet their own notes):** the Troutbitten clipping mentions several named sub-techniques as inline wikilinks that don't have notes yet — normal for a single-use mention (see the vault's own rule for this in `Clinical Reasoning MOC`: build a hub once 2+ notes reference the same concept, let single-use specifics stay red). Tracking them here so a second reference promotes one to a real note instead of it just quietly reappearing red.
+
+| Concept | Appears in | Status |
+|---|---|---|
+| [[lagging curve]] | Dry Flies in Fast Water | red — single mention |
+| [[crash cast]] | Dry Flies in Fast Water | red — single mention |
+| [[hop mends]] | Dry Flies in Fast Water | red — single mention |
+| [[George Harvey dry-fly leader]] | Dry Flies in Fast Water | red — overlaps [[Leader Formulas]] content; candidate to build first if a 2nd source references it |
+| [[grease the tippet]] | Dry Flies in Fast Water | red — single mention |
 
 ## Clippings
 
@@ -82,4 +94,4 @@ WHERE topic = "fishing" AND (!type OR (type = "destination" AND !best_months))
 
 ## Notes to build
 
-Nothing flagged yet — the vault currently holds 4 destination/technique notes plus 1 clipping, all normalized as of 2026-07-25.
+Nothing flagged yet beyond the technique concepts above — the vault currently holds 4 destination/technique notes plus 1 clipping, all normalized and crosslinked as of 2026-07-25.

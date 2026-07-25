@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Southern Way Charters - Louisiana - Got Fishing.md",
+                "file": "Clippings/Fishing Angles - Upstream or Downstream?  The Troutbitten Podcast (Video) - S19 Ep6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Southern Way Charters - Louisiana - Got Fishing"
+              "title": "Fishing Angles - Upstream or Downstream?  The Troutbitten Podcast (Video) - S19 Ep6"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fishing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,6 +184,11 @@
   },
   "active": "cbf192a6416988a1",
   "lastOpenFiles": [
+    "Fishing/Fishing MOC.md",
+    "Clippings/Fishing Angles - Upstream or Downstream?  The Troutbitten Podcast (Video) - S19 Ep6.md",
+    "Southern Way Charters - Louisiana - Got Fishing.md",
+    "_to_delete/index.lock.stale4",
+    "_to_delete/HEAD.lock.stale4",
     "_to_delete/HEAD.lock.stale3",
     "_to_delete/index.lock.stale2",
     "_to_delete/index.lock.stale",
@@ -193,12 +197,10 @@
     "_to_delete",
     "Projects/Normalize fishing notes.md",
     "Projects/_Fishing Notes Convention.md",
-    "Fishing/Fishing MOC.md",
     "Fishing",
     "Clippings/Dry Flies in Fast Water - Fly Fishing Tips.md",
     "Bay Flats Lodge.md",
     "Fishing MOC.md",
-    "Southern Way Charters - Louisiana - Got Fishing.md",
     "Leader Formulas.md",
     "Jurassic Lake Fishing.md",
     "Meadow Map.png",
@@ -220,9 +222,6 @@
     "Clinical Reasoning/Episodes/RLR 049 - Hyperacute Epigastric Pain, Splenic Vein Thrombosis, and Gallstone Pancreatitis.md",
     "Clinical Reasoning/Episodes/RLR 048 - Bilateral Leg Pain, Pseudo-Claudication, and ATTR Cardiac Amyloidosis.md",
     "Movies/_Movies.base",
-    "Movies.base",
-    "Projects",
-    "Bedside Notes drafts",
     "Pasted image 20260714183410.png",
     "Pasted image 20260714183353.png",
     "Pasted image 20260714183308.png",

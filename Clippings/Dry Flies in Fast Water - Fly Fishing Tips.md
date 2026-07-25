@@ -225,3 +225,7 @@ Third, use frequent hop mends: short, purposeful mends that prevent drag and kee
 There are excellent opportunities to catch trout on dry flies in fast water. Learn how to fish it, develop confidence, and enjoy the challenge.
 
 Fish hard, friends. Fish the fast water, and have fun out there.
+
+## Related techniques
+
+- [[Leader Formulas]] — the George Harvey–style slack leader described above is the same taper logic behind the **General Dry Fly** / **Ultra-Delicate Dry Fly** formulas there.

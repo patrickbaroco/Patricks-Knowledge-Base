@@ -20,3 +20,7 @@ Redfish are catchable year-round on this stretch of the Texas coast — there's 
 Sources:
 - [Fly Fishing For Redfish In Texas: Tips, Season, Guides & More](https://www.bayflatslodge.com/fly-fishing-for-redfish-in-texas-tips-season-guides-more/)
 - [The Fly Shop — Bay Flats Lodge](https://www.theflyshop.com/lower48/bay-flats-lodge.html)
+
+## Related techniques
+
+- [[Leader Formulas]] — redfish on fly here call for the **Streamer / Big Water** taper (heavier butt/mid, short stout tippet).

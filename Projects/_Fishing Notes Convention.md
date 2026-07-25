@@ -51,6 +51,12 @@ WHERE topic = "fishing" AND type = "destination" AND contains(best_months, "11-N
 
 Destination and technique notes live at vault root, same as everything else — no `Fishing/` subfolder for content. `Fishing/` holds only [[Fishing MOC]]. Clippings stay in `Clippings/` regardless of subject, matching the vault's existing rule (the Troutbitten clipping lives there, not in a topic folder). `topic: fishing` plus the MOC's Dataview queries do the linking work that folder structure would otherwise be asked to do.
 
+## Crosslinking pass
+
+Normalizing a fishing note isn't just frontmatter — it also means checking whether the note has a genuine relationship to other notes already in the corpus and adding explicit wikilinks for it, under a `## Related destinations` and/or `## Related techniques` heading. This is different from — and in addition to — the blanket discovery that `topic: fishing` + the MOC's Dataview queries already give every note for free. A destination and a technique note both being tagged `topic: fishing` doesn't automatically make them "related" in the sense that matters here; a real relationship is something like "you'd use *this* leader formula at *this* destination," or "this clipping's leader design is the same idea as that technique note." Dangling links to something that doesn't exist and isn't a real relationship (the old Southern Way Charters links) still get removed, per the folder-shallowness rule above — this rule is about adding *real* links, not adding links for their own sake.
+
+When a new note doesn't obviously connect to anything yet, that's fine — leave it unlinked rather than forcing a tenuous connection. The **Techniques database** section of [[Fishing MOC]] also tracks named sub-technique concepts mentioned inside notes (e.g. a clipping name-drops "the hop mend") that don't have their own note yet. Leave those as plain wikilinks (they'll render red until a note exists) rather than skipping them — the same rule the vault already uses in `Clinical Reasoning MOC`: build a hub note once 2+ sources reference the same concept, and let single-use specifics stay red so the long tail doesn't turn into busywork.
+
 ## How a new note gets flagged for normalization
 
 The only thing a new fishing note needs *the moment you jot it* is `topic: fishing` in the frontmatter — that's the one property every Dataview query in [[Fishing MOC]] filters on, so it's what makes the note visible to the system at all. It doesn't need `type`, `location`, or `best_months` filled in yet.
@@ -59,10 +65,10 @@ The MOC's **Needs normalization** table does the rest: it surfaces any `topic: f
 
 ## Worked example
 
-- `Bay Flats Lodge.md` — `topic: fishing`, `type: destination`, `location: USA`, `water: saltwater`, `best_months` = all twelve months, `peak_months` = `["10-Oct","11-Nov","03-Mar","04-Apr","05-May","06-Jun"]`.
-- `Leader Formulas.md` — `topic: fishing`, `type: technique`, no `author` (self-authored).
-- `Clippings/Dry Flies in Fast Water - Fly Fishing Tips.md` — `topic: fishing`, `type: technique`, `author: "[[Troutbitten]]"` (external, consulted), stays in `Clippings/`.
+- `Bay Flats Lodge.md` — `topic: fishing`, `type: destination`, `location: USA`, `water: saltwater`, `best_months` = all twelve months, `peak_months` = `["10-Oct","11-Nov","03-Mar","04-Apr","05-May","06-Jun"]`, `## Related techniques` linking [[Leader Formulas]].
+- `Leader Formulas.md` — `topic: fishing`, `type: technique`, no `author` (self-authored), `## Related techniques` linking the Troutbitten clipping (shared leader-taper concept) and `## Related destinations` linking all three destination notes (each uses a different formula from the note).
+- `Clippings/Dry Flies in Fast Water - Fly Fishing Tips.md` — `topic: fishing`, `type: technique`, `author: "[[Troutbitten]]"` (external, consulted), stays in `Clippings/`, `## Related techniques` linking back to [[Leader Formulas]].
 
 ## Status
 
-As of 2026-07-25 the convention is live. All four fishing notes plus the one clipping conform, including `best_months`/`peak_months` on the three destination notes in the queryable `"MM-Mon"` list format. `Southern Way Charters.md` had three dangling wikilinks (`[[redfish]]`, `[[saltwater fly fishing]]`, `[[Louisiana fly fishing]]`) pointing at notes that don't exist — removed in favor of the `topic: fishing` tag doing that discovery work, consistent with the folder-shallowness rule above. See [[Normalize fishing notes]] for the project log.
+As of 2026-07-25 the convention is live. All four fishing notes plus the one clipping conform, including `best_months`/`peak_months` on the three destination notes in the queryable `"MM-Mon"` list format, and a first crosslinking pass connecting [[Leader Formulas]] to all three destinations and to the Troutbitten clipping. `Southern Way Charters.md` had three dangling wikilinks (`[[redfish]]`, `[[saltwater fly fishing]]`, `[[Louisiana fly fishing]]`) pointing at notes that don't exist — removed in favor of the `topic: fishing` tag doing that discovery work, consistent with the folder-shallowness rule above. See [[Normalize fishing notes]] for the project log.

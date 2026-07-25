@@ -18,3 +18,7 @@ Southern Way runs two lodges with different seasonal patterns, so `best_months` 
 
 Sources:
 - [Southern Way Charters - Louisiana - Got Fishing](https://gotfishing.com/adventures/fishing/southern-way-charters-louisiana/)
+
+## Related techniques
+
+- [[Leader Formulas]] — redfish on fly here call for the **Streamer / Big Water** taper (heavier butt/mid, short stout tippet).

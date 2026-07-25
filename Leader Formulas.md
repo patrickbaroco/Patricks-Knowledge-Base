@@ -85,3 +85,12 @@ Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to 
 - Rebuild the terminal 2–3 ft rather than the whole leader.
 - Maxima runs thick for its rated strength vs. modern nylons — fine for butt/mid, but why tippet gets swapped out for dry fly work.
 - Fluorocarbon not used for dry fly tippet — denser than water, wants to sink.
+
+## Related techniques
+
+- [[Dry Flies in Fast Water - Fly Fishing Tips]] — the Troutbitten clipping's slack-generating leader design (a George Harvey–style taper) is the same idea behind the **General Dry Fly** and **Ultra-Delicate Dry Fly** formulas above.
+
+## Related destinations
+
+- [[Jurassic Lake Fishing]] — big Patagonian rainbows in wind favor the **Streamer / Big Water** and **Windy Day / Heavy Turnover** formulas.
+- [[Bay Flats Lodge]] and [[Southern Way Charters - Louisiana - Got Fishing]] — saltwater redfish on fly draw on the same **Streamer / Big Water** formula (heavier butt/mid, short stout tippet).
