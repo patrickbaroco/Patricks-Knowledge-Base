@@ -47,6 +47,10 @@ WHERE topic = "fishing" AND type = "destination" AND contains(best_months, "11-N
 
 `best_months`, `peak_months`, `water_temp`, etc. — matches the rest of the vault's Dataview-queryable properties.
 
+## `location` field — state (if US) or country
+
+`location` is the state for US destinations (Texas, Louisiana, Tennessee, Virginia) and the country for everything else (Argentina, Canada) — state is the more useful granularity domestically, country is what matters once you're picking a destination abroad. Fixed on 2026-07-26: Mossy Creek had been set to `location: USA` (a scraping-era default) and was corrected to `location: Virginia` to match the rest of the US destination notes.
+
 ## Folder shallowness
 
 Destination and technique notes live at vault root, same as everything else — no `Fishing/` subfolder for content. `Fishing/` holds only [[Fishing MOC]]. Clippings stay in `Clippings/` regardless of subject, matching the vault's existing rule (the Troutbitten clipping lives there, not in a topic folder). `topic: fishing` plus the MOC's Dataview queries do the linking work that folder structure would otherwise be asked to do.
@@ -71,7 +75,7 @@ The MOC's **Needs normalization** table does the rest: it surfaces any `topic: f
 
 ## Worked example
 
-- `Bay Flats Lodge.md` — `topic: fishing`, `type: destination`, `location: USA`, `water: saltwater`, `best_months` = all twelve months, `peak_months` = `["10-Oct","11-Nov","03-Mar","04-Apr","05-May","06-Jun"]`, `## Related techniques` linking [[Leader Formulas]].
+- `Bay Flats Lodge.md` — `topic: fishing`, `type: destination`, `location: Texas`, `water: saltwater`, `best_months` = all twelve months, `peak_months` = `["10-Oct","11-Nov","03-Mar","04-Apr","05-May","06-Jun"]`, `## Related techniques` linking [[Leader Formulas]].
 - `Leader Formulas.md` — `topic: fishing`, `type: technique`, no `author` (self-authored), `## Related techniques` linking the Troutbitten clipping (shared leader-taper concept) and `## Related destinations` linking all three destination notes (each uses a different formula from the note).
 - `Clippings/Dry Flies in Fast Water - Fly Fishing Tips.md` — `topic: fishing`, `type: technique`, `author: "[[Troutbitten]]"` (external, consulted), stays in `Clippings/`, `## Related techniques` linking back to [[Leader Formulas]].
 
