@@ -1,5 +1,6 @@
 [
   "templater-obsidian",
   "periodic-notes",
-  "dataview"
+  "dataview",
+  "obsidian-git"
 ]

@@ -4,9 +4,6 @@ tags:
   - clinical-reasoning
   - tempo-based-reasoning
 ---
-
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Illness tempo is the rate at which a syndrome develops and evolves, used as a primary diagnostic variable. The pace of the workup should match the pace of the illness — seconds-to-hours complaints demand seconds-to-hours answers, a decade-long course grants time — and the tempo also runs in reverse, excluding diagnoses whose natural history is incompatible with it. Above all, an *evolving* illness is an *incomplete* history: a day-one story of a still-declaring disease is structurally partial.

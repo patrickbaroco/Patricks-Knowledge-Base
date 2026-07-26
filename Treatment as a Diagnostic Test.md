@@ -7,9 +7,6 @@ aliases:
   - Diagnosis Ex Juvantibus
   - Therapeutic Trial
 ---
-
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Treatment as a diagnostic test is reading a patient's *response to therapy* as evidence about the diagnosis — the classic **diagnosis ex juvantibus** ("from that which helps"). A response that is faster or more complete than the presumed disease could plausibly produce becomes retrospective confirmation of a different mechanism; conversely, a pre-committed plan to broaden if empiric treatment fails turns the therapeutic trial itself into an ongoing test. Imaging and empiric drugs behave the same way — "soft tests" that shift post-test probability rather than settle it.
