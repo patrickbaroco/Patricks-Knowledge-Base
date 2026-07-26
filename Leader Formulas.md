@@ -110,6 +110,7 @@ Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to 
 - [[lagging curve]] — that slack-generating cast depends on a leader built with the same gradual-turnover taper as the George Harvey formula and my own **General Dry Fly** / **Ultra-Delicate Dry Fly** formulas.
 - [[Fishing Angles - Upstream or Downstream]] — its up-and-across dry-fly default is where the lagging curve gets used.
 - [[Beach Blitz Basics How to Fish the Fall Striped Bass Run]] and [[Fly Fishing the Striped Bass Flats]] — both describe the same "big, heavy saltwater fish" problem the **Streamer / Big Water** formula solves, just with different knots/materials (Bimini twist + shock tippet for surf; fluoro tippet for flats).
+- [[Build Perfect Nymph & Streamer Leaders  Micro Swivels + Tippet Rings  Fly Fishing Tutorial|Build Perfect Nymph & Streamer Leaders]] — its tippet-ring and micro-swivel junctions are a concrete way to build the **Nymphing** and **Streamer / Big Water** formulas above so only the terminal tippet needs replacing, rather than rebuilding the whole leader.
 
 ## Related destinations
 

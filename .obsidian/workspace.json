@@ -11,13 +11,14 @@
             "id": "ee421c2eb643519f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Movies/_Movies.base",
-                "viewName": "All Movies"
+                "file": "Clippings/Build Perfect Nymph & Streamer Leaders  Micro Swivels + Tippet Rings  Fly Fishing Tutorial.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "_Movies"
+              "icon": "lucide-file",
+              "title": "Build Perfect Nymph & Streamer Leaders  Micro Swivels + Tippet Rings  Fly Fishing Tutorial"
             }
           }
         ]
@@ -183,6 +184,15 @@
   },
   "active": "ee421c2eb643519f",
   "lastOpenFiles": [
+    "Movies/_Movies.base",
+    "Clippings/Build Perfect Nymph & Streamer Leaders  Micro Swivels + Tippet Rings  Fly Fishing Tutorial.md",
+    "Movies/14 Peaks - Nothing Is Impossible.md",
+    "Movies/Meru.md",
+    "Movies/The Alpinist.md",
+    "Movies/The Deepest Breath.md",
+    "Movies/The Rescue.md",
+    "Movies/Diving into the Unknown.md",
+    "_to_delete/HEAD.lock.stale10",
     "Clippings/South Holston River Lodge  Orvis® Endorsed Fly Fishing Lodge.md",
     "_to_delete/HEAD.lock.stale8",
     "Clippings/Gangler's North Seal River Lodge  Yellow Dog Flyfishing.md",
@@ -202,7 +212,6 @@
     "_to_delete/HEAD.lock.stale3",
     "_to_delete/index.lock.stale2",
     "_to_delete/index.lock.stale",
-    "_to_delete/HEAD.lock.stale2",
     "Projects/Normalize fishing notes.md",
     "Projects/_Fishing Notes Convention.md",
     "Clippings/Dry Flies in Fast Water - Fly Fishing Tips.md",
@@ -213,14 +222,6 @@
     "Meadow Map.png",
     "Materials Quantities for Meadow Project.md",
     "Meadow Project Map.png",
-    "Projects/Meadow Conversion.md",
-    "Clinical Reasoning/Episodes/RLR 057 - Chest Pain, Spontaneous Resolution, and an Ascending Aortic Dissection.md",
-    "Clinical Reasoning/Episodes/RLR 056 - One Life, So Many Dreams — Post-Operative Rigidity and Propofol-Induced Neuroexcitatory Syndrome.md",
-    "Clinical Reasoning/Episodes/RLR 055 - A Day with Reza — Venous Stasis Dermatitis, a Cavitary Lung Abscess, and Functional Syncope.md",
-    "Logbook/Weekly/2026-W30.md",
-    "Clinical Reasoning/Episodes/RLR 054 - Unsteady Gait, Confusion, and Hemorrhagic Brain Metastases from Small Cell Lung Cancer.md",
-    "Projects/Acuity-Based SNF Scheduling.md",
-    "Projects/Clinical Quality Framework.md",
     "Pasted image 20260714183410.png",
     "Pasted image 20260714183353.png",
     "Pasted image 20260714183308.png",

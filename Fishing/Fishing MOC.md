@@ -96,4 +96,4 @@ WHERE topic = "fishing" AND (!type OR (type = "destination" AND !best_months))
 
 ## Notes to build
 
-Nothing flagged yet beyond the technique concepts above — the vault currently holds 6 destination notes, 2 non-clipping technique notes ([[Leader Formulas]], [[lagging curve]]), and 5 clippings (3 `type: technique`, 2 `type: destination`), all normalized and crosslinked as of 2026-07-25.
+Nothing flagged yet beyond the technique concepts above — the vault currently holds 6 destination notes, 2 non-clipping technique notes ([[Leader Formulas]], [[lagging curve]]), and 6 clippings (4 `type: technique`, 2 `type: destination`), all normalized and crosslinked as of 2026-07-26.
