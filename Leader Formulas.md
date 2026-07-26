@@ -97,9 +97,13 @@ Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to 
 | 7X | .004" | 2.5–3 lb |
 | 8X | .003" | 1.5–2 lb |
 
+## Knots
+
+Blood knot joins all sections (see [[Video Pro Tip The Easiest Blood-Knot Method You've Ever Seen!|this clipping]] for Christopher Fave's fast tying method) — hold each section to ~60–75% of prior diameter so the knot seats cleanly.
+
 ## General Notes
 
-- Blood-knot all sections; hold each to ~60–75% of prior diameter.
+- Blood-knot all sections (see Knots above); hold each to ~60–75% of prior diameter.
 - Rebuild the terminal 2–3 ft rather than the whole leader.
 - Maxima runs thick for its rated strength vs. modern nylons — fine for butt/mid, but why tippet gets swapped out for dry fly work.
 - Fluorocarbon not used for dry fly tippet — denser than water, wants to sink.
@@ -111,6 +115,7 @@ Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to 
 - [[Fishing Angles - Upstream or Downstream]] — its up-and-across dry-fly default is where the lagging curve gets used.
 - [[Beach Blitz Basics How to Fish the Fall Striped Bass Run]] and [[Fly Fishing the Striped Bass Flats]] — both describe the same "big, heavy saltwater fish" problem the **Streamer / Big Water** formula solves, just with different knots/materials (Bimini twist + shock tippet for surf; fluoro tippet for flats).
 - [[Build Perfect Nymph & Streamer Leaders  Micro Swivels + Tippet Rings  Fly Fishing Tutorial|Build Perfect Nymph & Streamer Leaders]] — its tippet-ring and micro-swivel junctions are a concrete way to build the **Nymphing** and **Streamer / Big Water** formulas above so only the terminal tippet needs replacing, rather than rebuilding the whole leader.
+- [[Video Pro Tip The Easiest Blood-Knot Method You've Ever Seen!]] — the knot referenced in **Knots** and **General Notes** above for joining every section.
 
 ## Related destinations
 
@@ -118,3 +123,4 @@ Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to 
 - [[Bay Flats Lodge]] and [[Southern Way Charters - Louisiana - Got Fishing]] — saltwater redfish on fly draw on the same **Streamer / Big Water** formula (heavier butt/mid, short stout tippet).
 - [[Gangler's North Seal River Lodge  Yellow Dog Flyfishing|Gangler's North Seal River Lodge]] — trophy pike and lake trout call for the same **Streamer / Big Water** taper, though pike add a wire/heavy-mono bite-tippet requirement this note doesn't cover yet.
 - [[South Holston River Lodge]] — the sulphur-hatch dry fly fishing there is exactly what the **Ultra-Delicate Dry Fly** and **George Harvey Dry-Fly Leader** formulas are built for.
+- [[Fly fishing in Shenandoah Valley on Mossy Creek]] — same small-fly, technical spring-creek water the **Ultra-Delicate Dry Fly** formula is built for.
