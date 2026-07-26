@@ -9,6 +9,7 @@ description: We've produced some wonderful casting videos but we have to say tha
 tags:
   - clippings
 topic: fishing
+type: technique
 ---
 ![](https://www.youtube.com/watch?v=00Acb90Lq7c)
 

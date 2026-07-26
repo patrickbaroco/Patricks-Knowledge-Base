@@ -9,6 +9,7 @@ description: "Simon Gawesworth breaks down a simple and easy way to learn or imp
 tags:
   - clippings
 topic: fishing
+type: technique
 ---
 ![](https://www.youtube.com/watch?v=Y2e4trhFDz4)
 

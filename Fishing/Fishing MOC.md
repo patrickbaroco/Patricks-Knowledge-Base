@@ -96,4 +96,4 @@ WHERE topic = "fishing" AND (!type OR (type = "destination" AND !best_months))
 
 ## Notes to build
 
-Nothing flagged yet beyond the technique concepts above — the vault currently holds 6 destination notes, 2 non-clipping technique notes ([[Leader Formulas]], [[lagging curve]]), and 6 clippings (4 `type: technique`, 2 `type: destination`), all normalized and crosslinked as of 2026-07-26.
+Nothing flagged yet beyond the technique concepts above — the vault currently holds 5 destination notes (3 vault-root + 2 clippings), 2 non-clipping technique notes ([[Leader Formulas]], [[lagging curve]]), and 9 clippings (7 `type: technique`, 2 `type: destination`), all normalized as of 2026-07-26. Two new casting-technique clippings (Best Double Haul, Probably the Best Casting Video Ever Made — both Simon Gawesworth/Far Bank) were typed `technique` this pass but left uncrosslinked: they're general casting-fundamentals instruction, not tied to a specific leader formula or destination the way the existing technique notes are, so forcing a `## Related techniques` link would be tenuous per the crosslinking rule.
