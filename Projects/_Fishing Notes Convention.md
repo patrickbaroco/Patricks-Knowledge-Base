@@ -75,6 +75,10 @@ The MOC's **Needs normalization** table does the rest: it surfaces any `topic: f
 - `Leader Formulas.md` — `topic: fishing`, `type: technique`, no `author` (self-authored), `## Related techniques` linking the Troutbitten clipping (shared leader-taper concept) and `## Related destinations` linking all three destination notes (each uses a different formula from the note).
 - `Clippings/Dry Flies in Fast Water - Fly Fishing Tips.md` — `topic: fishing`, `type: technique`, `author: "[[Troutbitten]]"` (external, consulted), stays in `Clippings/`, `## Related techniques` linking back to [[Leader Formulas]].
 
+## Clippings that bundle unrelated content
+
+hatchmag.com clippings have twice now come in with a second, unrelated article's text appended after the nominal piece ends (Redfish: The gateway to a flats habit picked up an unconnected essay about a Boston Mountains swimming hole; Tips for the traveling angler picked up an unconnected carp-fishing/crawfish-crawl piece) — apparently an artifact of how the source page or clipper captured the page. Treat the clipping as a single unit named/typed/crosslinked for its nominal article; don't edit the clipped body to split it out, and don't let the appended content drive the `type` or crosslinks unless it's genuinely the more substantial piece.
+
 ## Status
 
 As of 2026-07-25 the convention is live. All four fishing notes plus the one clipping conform, including `best_months`/`peak_months` on the three destination notes in the queryable `"MM-Mon"` list format, and a first crosslinking pass connecting [[Leader Formulas]] to all three destinations and to the Troutbitten clipping. `Southern Way Charters.md` had three dangling wikilinks (`[[redfish]]`, `[[saltwater fly fishing]]`, `[[Louisiana fly fishing]]`) pointing at notes that don't exist — removed in favor of the `topic: fishing` tag doing that discovery work, consistent with the folder-shallowness rule above. See [[Normalize fishing notes]] for the project log.

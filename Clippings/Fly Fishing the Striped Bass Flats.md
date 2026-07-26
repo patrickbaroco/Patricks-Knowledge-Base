@@ -60,6 +60,7 @@ So, with all of that said, feel free to reach out if you have any questions and 
 
 - [[Leader Formulas]] — the ten-foot leader down to 16–20 lb fluoro here is the saltwater-flats analog of the **Streamer / Big Water** formula, though it leans on fluorocarbon tippet where the freshwater dry-fly formulas explicitly avoid it (fluoro sinks — an advantage here, a problem there).
 - [[Beach Blitz Basics How to Fish the Fall Striped Bass Run]] — same species, a different presentation context: shallow-flats sight-fishing here vs. open-beach blitz fishing there.
+- [[Redfish The gateway to a flats habit]] — different species and coast, but the same core skill: sight-fishing skinny saltwater flats as the on-ramp to bonefish/permit/tarpon.
 
 ## Related destinations
 

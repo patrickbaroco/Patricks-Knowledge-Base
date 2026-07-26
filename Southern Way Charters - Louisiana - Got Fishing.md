@@ -23,3 +23,4 @@ Sources:
 
 - [[Leader Formulas]] — redfish on fly here call for the **Streamer / Big Water** taper (heavier butt/mid, short stout tippet).
 - [[Fly Fishing the Striped Bass Flats]] — different species and coast, but the same core skill: sight-fishing skinny saltwater flats.
+- [[Redfish The gateway to a flats habit]] — the clipping credits an early south Louisiana marsh trip (five redfish in a day on a guided skiff) as its author's actual "gateway" moment into flats fishing.
