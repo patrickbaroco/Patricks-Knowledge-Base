@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
-  - emergency medicine
 tags:
   - clinical-reasoning
+  - rheumatology
+  - emergency-medicine
 ---
 
-Evergreen concept note. Septic arthritis is a joint-destroying emergency whose diagnosis often turns not on certainty but on a risk-tolerance decision made against the far more common crystal disease. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Septic arthritis is a joint-destroying emergency whose diagnosis often turns not on certainty but on a risk-tolerance decision made against the far more common crystal disease.
 
 ## Definition and Microbiology
 Bacterial infection within the joint space, seeded hematogenously, by direct inoculation, or from adjacent osteomyelitis.
@@ -34,4 +33,4 @@ Pre-existing joint disease (RA, OA, gout), prosthetic joint, older age, diabetes
 - Prosthetic joint infection requires surgical/ID co-management.
 
 ## Related Notes
-[[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[Synovial Fluid Analysis]] · [[Gout]] · [[CPPD]] · [[Crystals in Macrophages]] · [[Active vs Passive Range of Motion]] · [[Base Rate]] · [[Bayesian Reasoning]] · [[Treatment as a Diagnostic Test]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]
+[[Clinical Reasoning MOC]] · [[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[Synovial Fluid Analysis]] · [[Gout]] · [[CPPD]] · [[Crystals in Macrophages]] · [[Active vs Passive Range of Motion]] · [[Base Rate]] · [[Bayesian Reasoning]] · [[Treatment as a Diagnostic Test]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]

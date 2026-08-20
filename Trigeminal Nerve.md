@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
 tags:
   - clinical-reasoning
+  - neurology
 ---
 
-Evergreen concept note. Cranial nerve V — its three sensory divisions and motor branch — and the anatomic map used to localize facial numbness. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Cranial nerve V — its three sensory divisions and motor branch — and the anatomic map used to localize facial numbness.
 
 ## Anatomy and Divisions
 The trigeminal nerve carries sensation from the face and motor supply to the muscles of mastication. It has three sensory divisions ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]):
@@ -33,4 +32,4 @@ Facial sensory loss localizes to one of four compartments ([[RLR 059 - Weakness 
 - Always reconcile reported numbness with the exam before over-localizing.
 
 ## Related Notes
-[[Numb Chin Syndrome]] · [[Leptomeningeal Carcinomatosis]] · [[Hypocalcemia]] · [[Neuroanatomical Localization]] · [[Anatomical Approach]] · [[Hickam's Dictum]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Numb Chin Syndrome]] · [[Leptomeningeal Carcinomatosis]] · [[Hypocalcemia]] · [[Neuroanatomical Localization]] · [[Anatomical Approach]] · [[Hickam's Dictum]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

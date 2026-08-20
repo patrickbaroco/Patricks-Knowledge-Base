@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - infectious disease
-  - cardiology
 tags:
   - clinical-reasoning
+  - infectious-disease
+  - cardiology
 ---
 
-Evergreen concept note. Relative bradycardia (pulse-temperature dissociation) is a heart rate lower than expected for the degree of fever, flagging either an intracellular infection or unmasked conduction disease. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Relative bradycardia (pulse-temperature dissociation) is a heart rate lower than expected for the degree of fever, flagging either an intracellular infection or unmasked conduction disease.
 
 ## Concept
 Fever normally drives a compensatory tachycardia. When the pulse fails to rise to the expected degree — off any rate-limiting drug — the mismatch is a physical-exam sign worth interpreting rather than tallying ([[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis|RLR 060]]).
@@ -26,4 +25,4 @@ Fever normally drives a compensatory tachycardia. When the pulse fails to rise t
 - It is a specificity-poor but attention-directing sign: its value is prompting the right next test, not clinching a diagnosis.
 
 ## Related Notes
-[[Faget Sign]] · [[AV Block]] · [[Endocarditis]] · [[Lyme Carditis]] · [[Test Interpretation]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[Faget Sign]] · [[AV Block]] · [[Endocarditis]] · [[Lyme Carditis]] · [[Test Interpretation]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]

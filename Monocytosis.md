@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
 tags:
   - clinical-reasoning
+  - hematology
 ---
 
-Evergreen concept note. Approach to a monocytosis. Teaching points cited per episode.
+Approach to a monocytosis.
 
 ## The short differential
 
@@ -21,4 +20,4 @@ Evergreen concept note. Approach to a monocytosis. Teaching points cited per epi
 
 ## Related Notes
 
-[[Chronic Myelomonocytic Leukemia]] · [[Leukemia Cutis]] · [[Skin Nodule]] · [[Myelodysplastic Syndrome]] · [[Tuberculosis]] · [[Peripheral Blood Smear]] · [[Base Rate]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]
+[[Clinical Reasoning MOC]] · [[Chronic Myelomonocytic Leukemia]] · [[Leukemia Cutis]] · [[Skin Nodule]] · [[Myelodysplastic Syndrome]] · [[Tuberculosis]] · [[Peripheral Blood Smear]] · [[Base Rate]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]

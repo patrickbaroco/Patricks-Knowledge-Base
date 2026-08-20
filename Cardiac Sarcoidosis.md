@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - cardiology
-  - rheumatology
 tags:
   - clinical-reasoning
+  - cardiology
+  - rheumatology
 ---
 
-Evergreen concept note. Cardiac sarcoidosis is granulomatous infiltration of the myocardium that characteristically causes conduction disease and ventricular arrhythmia out of proportion to pump dysfunction. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Cardiac sarcoidosis is granulomatous infiltration of the myocardium that characteristically causes conduction disease and ventricular arrhythmia out of proportion to pump dysfunction.
 
 ## Concept and Pathophysiology
 Non-caseating granulomas infiltrate the myocardium — with a predilection for the **basal septum and conduction system** — producing scar that is electrically active before it is mechanically significant.
@@ -35,4 +34,4 @@ Non-caseating granulomas infiltrate the myocardium — with a predilection for t
 - **Heart failure therapy** and rhythm management as needed; monitor treatment response with PET.
 
 ## Related Notes
-[[Arrhythmogenic Cardiomyopathy]] · [[AV Block]] · [[Granulomatous Disease]] · [[Sarcoid-Lymphoma Syndrome]] · [[Transient Loss of Consciousness]] · [[Test Interpretation]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[Arrhythmogenic Cardiomyopathy]] · [[AV Block]] · [[Granulomatous Disease]] · [[Sarcoid-Lymphoma Syndrome]] · [[Transient Loss of Consciousness]] · [[Test Interpretation]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]

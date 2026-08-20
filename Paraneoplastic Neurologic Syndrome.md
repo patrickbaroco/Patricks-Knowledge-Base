@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
-  - oncology
 tags:
   - clinical-reasoning
+  - neurology
+  - oncology
 ---
 
-Evergreen concept note. Immune-mediated neurologic disease triggered by a remote cancer — distinct from direct metastasis — and the antibody framework used to recognize it. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Immune-mediated neurologic disease triggered by a remote cancer — distinct from direct metastasis — and the antibody framework used to recognize it.
 
 ## Definition and Mechanism
 A paraneoplastic neurologic syndrome is nervous-system injury caused not by tumor invasion but by an **autoimmune response** in which onconeural antigens shared by the tumor and neurons provoke a cross-reactive attack ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -40,4 +39,4 @@ When a cancer patient develops a neurologic problem, sort it into four buckets b
 - **Treat the tumor** and add **immunotherapy** (steroids, IVIG/PLEX, and further immunosuppression); surface-antibody syndromes respond best.
 
 ## Related Notes
-[[Leptomeningeal Carcinomatosis]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[When to Worry]] · [[Hickam's Dictum]] · [[Diagnostic Humility]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Leptomeningeal Carcinomatosis]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[When to Worry]] · [[Hickam's Dictum]] · [[Diagnostic Humility]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

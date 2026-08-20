@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - rheumatology
 tags:
   - clinical-reasoning
+  - hematology
+  - rheumatology
 ---
 
-Evergreen concept note. Sarcoid-lymphoma syndrome is the well-described coexistence of lymphoma with sarcoidosis, the basis for the rule never to lock in a sarcoid diagnosis at time zero. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Sarcoid-lymphoma syndrome is the well-described coexistence of lymphoma with sarcoidosis, the basis for the rule never to lock in a sarcoid diagnosis at time zero.
 
 ## The Association
 - **Elevated lymphoma risk in sarcoid.** A meaningful minority of sarcoid patients — on the order of **~10–15%** in the teaching frame — harbor a lymphoma **at diagnosis or within about two years** of it ([[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis|RLR 060]]).
@@ -24,4 +23,4 @@ Evergreen concept note. Sarcoid-lymphoma syndrome is the well-described coexiste
 - Practically: maintain vigilance with interval imaging and repeat/adequate biopsy; a discordant course, atypical nodes, or B-symptoms should re-open the lymphoma question even after granulomas are found.
 
 ## Related Notes
-[[Cardiac Sarcoidosis]] · [[Granulomatous Disease]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[Cardiac Sarcoidosis]] · [[Granulomatous Disease]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]

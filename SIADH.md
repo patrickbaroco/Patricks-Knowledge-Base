@@ -1,15 +1,14 @@
 ---
 type: evergreen
-clinical_domains:
-  - nephrology
-  - endocrinology
 tags:
   - clinical-reasoning
+  - nephrology
+  - endocrinology
 aliases:
   - Syndrome of Inappropriate Antidiuresis
 ---
 
-Evergreen concept note. SIADH as the endpoint of the [[Hyponatremia|hyponatremia]] workup, and the hunt for its cause. Teaching points cited per episode.
+SIADH as the endpoint of the [[Hyponatremia|hyponatremia]] workup, and the hunt for its cause.
 
 ## Diagnosis — the two-step urine lock
 
@@ -27,4 +26,4 @@ Evergreen concept note. SIADH as the endpoint of the [[Hyponatremia|hyponatremia
 
 ## Related Notes
 
-[[Hyponatremia]] · [[Adrenal Insufficiency]] · [[Cerebral Salt Wasting]] · [[Osmotic Demyelination Syndrome]] · [[Serum Uric Acid]] · [[Fractional Excretion of Uric Acid]] · [[Small Cell Lung Cancer]] · [[Legionella]] · [[Urea for Hyponatremia]] · [[Test Interpretation]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 029 - Dyspnea and Disseminated Varicella-Zoster]]
+[[Clinical Reasoning MOC]] · [[Hyponatremia]] · [[Adrenal Insufficiency]] · [[Cerebral Salt Wasting]] · [[Osmotic Demyelination Syndrome]] · [[Serum Uric Acid]] · [[Fractional Excretion of Uric Acid]] · [[Small Cell Lung Cancer]] · [[Legionella]] · [[Urea for Hyponatremia]] · [[Test Interpretation]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 029 - Dyspnea and Disseminated Varicella-Zoster]]

@@ -5,8 +5,6 @@ tags:
   - law-of-proportionality
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series. Source episodes are cited per example.
-
 ## Definition
 
 The law of proportionality is weighing the *magnitude* of a finding against the clinical whole, and distrusting a finding that is out of proportion to everything around it. A number that doesn't fit the rest of the picture is often the one telling the truth; a "positive" that is disproportionate to its expected corroborators is often an artifact or a different problem. Reza names it explicitly as an anti-[[Anchoring Bias|anchoring]] discipline: read the disproportion, not the single headline value.
@@ -25,4 +23,4 @@ The law of proportionality is weighing the *magnitude* of a finding against the 
 
 ## Related Notes
 
-[[Anchoring Bias]] · [[Test Interpretation]] · [[Center of Gravity]] · [[Bayesian Reasoning]] · [[Hyponatremia]] · [[Hemolysis]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 029 - Dyspnea and Disseminated Varicella-Zoster]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]]
+[[Clinical Reasoning MOC]] · [[Anchoring Bias]] · [[Test Interpretation]] · [[Center of Gravity]] · [[Bayesian Reasoning]] · [[Hyponatremia]] · [[Hemolysis]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 029 - Dyspnea and Disseminated Varicella-Zoster]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]]

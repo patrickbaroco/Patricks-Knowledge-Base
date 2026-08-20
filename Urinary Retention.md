@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - urology
-  - nephrology
 tags:
   - clinical-reasoning
+  - urology
+  - nephrology
 ---
 
-Evergreen concept note. Urinary retention and its far-reaching downstream effects across the RLR / Clinical Problem Solvers series. General physiology is scaffolding; teaching points are cited per episode.
+Urinary retention and its far-reaching downstream effects across the RLR / Clinical Problem Solvers series.
 
 ## Causes
 
@@ -32,4 +31,4 @@ Evergreen concept note. Urinary retention and its far-reaching downstream effect
 
 ## Related Notes
 
-[[Benign Prostatic Hyperplasia]] · [[Constipation–Retention Cycle]] · [[Anticholinergic]] · [[BRASH Syndrome]] · [[Catheter-Associated UTI]] · [[Post-Obstructive Uropathy]] · [[Diabetes Insipidus]] · [[Altered Mental Status]] · [[Law of Proportionality]] · [[Anatomical Approach]] · [[RLR 005 - Abdominal Distention, Constipation, and Urinary Retention]] · [[RLR 006 - Bradycardia and Urinary Retention]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]
+[[Clinical Reasoning MOC]] · [[Benign Prostatic Hyperplasia]] · [[Constipation–Retention Cycle]] · [[Anticholinergic]] · [[BRASH Syndrome]] · [[Catheter-Associated UTI]] · [[Post-Obstructive Uropathy]] · [[Diabetes Insipidus]] · [[Altered Mental Status]] · [[Law of Proportionality]] · [[Anatomical Approach]] · [[RLR 005 - Abdominal Distention, Constipation, and Urinary Retention]] · [[RLR 006 - Bradycardia and Urinary Retention]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]

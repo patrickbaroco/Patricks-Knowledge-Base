@@ -1,16 +1,15 @@
 ---
 type: evergreen
-clinical_domains:
-  - endocrinology
-  - oncology
 tags:
   - clinical-reasoning
+  - endocrinology
+  - oncology
 aliases:
   - PTHrP
   - Parathyroid Hormone-Related Peptide
 ---
 
-Evergreen concept note. PTH-related peptide in the non-PTH hypercalcemia workup. Teaching points cited per episode.
+PTH-related peptide in the non-PTH hypercalcemia workup.
 
 ## What it points to
 
@@ -28,4 +27,4 @@ Evergreen concept note. PTH-related peptide in the non-PTH hypercalcemia workup.
 
 ## Related Notes
 
-[[Hypercalcemia]] · [[Parathyroid Hormone]] · [[Hypercalcemia of Malignancy]] · [[Granulomatous Disease]] · [[Vitamin D Metabolism]] · [[25-Hydroxyvitamin D]] · [[Positive Predictive Value]] · [[PET-CT]] · [[Bayesian Reasoning]] · [[Illness Script]] · [[RLR 007 - Hypercalcemia]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]
+[[Clinical Reasoning MOC]] · [[Hypercalcemia]] · [[Parathyroid Hormone]] · [[Hypercalcemia of Malignancy]] · [[Granulomatous Disease]] · [[Vitamin D Metabolism]] · [[25-Hydroxyvitamin D]] · [[Positive Predictive Value]] · [[PET-CT]] · [[Bayesian Reasoning]] · [[Illness Script]] · [[RLR 007 - Hypercalcemia]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]

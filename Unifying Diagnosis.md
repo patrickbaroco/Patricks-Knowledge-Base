@@ -5,8 +5,6 @@ tags:
   - unifying-diagnosis
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 A unifying diagnosis is the single explanation a reasoner seeks for *all* of a patient's findings, rather than assigning each abnormality its own cause. It is the clinical form of **Occam's razor** (the law of parsimony — "entities should not be multiplied beyond necessity") and its bedside cousin, "when you hear hoofbeats, think horses, not zebras." The move is not merely aesthetic: a hypothesis that accounts for the whole picture is usually both more probable and more testable than a bag of coincidences.
@@ -32,4 +30,4 @@ Its most powerful special case is **anatomic or physiologic convergence** — wh
 
 ## Related Notes
 
-[[Hickam's Dictum]] · [[Center of Gravity]] · [[Anatomical Approach]] · [[Ampulla of Vater]] · [[Schema-Based Reasoning]] · [[Base Rate]] · [[Illness Tempo]] · [[Worst-Case Reasoning]] · [[Cognitive Autopsy]] · [[RLR 039 - Nausea, Vomiting, Constipation, and a Metastatic Ampullary Mass]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[CPS 211 - Episodic Transient Loss of Consciousness and Multiple System Atrophy]] · [[CPS 276 - Lethargy, Myoclonus, and Posterior Reversible Encephalopathy Syndrome]] · [[CPS 386 - Rapidly Progressive Dementia and Intravascular Large B-Cell Lymphoma]] · [[CPS 323 - Visual Hallucinations and Occipital Seizures]]
+[[Clinical Reasoning MOC]] · [[Hickam's Dictum]] · [[Center of Gravity]] · [[Anatomical Approach]] · [[Ampulla of Vater]] · [[Schema-Based Reasoning]] · [[Base Rate]] · [[Illness Tempo]] · [[Worst-Case Reasoning]] · [[Cognitive Autopsy]] · [[RLR 039 - Nausea, Vomiting, Constipation, and a Metastatic Ampullary Mass]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[CPS 211 - Episodic Transient Loss of Consciousness and Multiple System Atrophy]] · [[CPS 276 - Lethargy, Myoclonus, and Posterior Reversible Encephalopathy Syndrome]] · [[CPS 386 - Rapidly Progressive Dementia and Intravascular Large B-Cell Lymphoma]] · [[CPS 323 - Visual Hallucinations and Occipital Seizures]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - emergency medicine
-  - cardiology
 tags:
   - clinical-reasoning
+  - emergency-medicine
+  - cardiology
 ---
 
-Evergreen concept note. Shock is inadequate tissue perfusion; a fast bedside first fork — systemic versus thoracic — sorts the four physiologic buckets before any test returns. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Shock is inadequate tissue perfusion; a fast bedside first fork — systemic versus thoracic — sorts the four physiologic buckets before any test returns.
 
 ## Definition
 Shock is circulatory failure producing inadequate oxygen delivery to tissues, classically with hypotension (though pressure can be maintained early). The end-organ signal is anaerobic metabolism and rising lactate.
@@ -34,4 +33,4 @@ Before enumerating the four buckets, ask whether the shock is **systemic or thor
 - Treat the mechanism: volume and hemorrhage control (hypovolemic), source control plus vasopressors (distributive), inotropes/revascularization (cardiogenic), and immediate decompression/thrombolysis (obstructive). Reassess with lactate clearance and dynamic measures.
 
 ## Related Notes
-[[Gout and Distributive Shock]] · [[Gout]] · [[Diuretic]] · [[Schema-Based Reasoning]] · [[Anatomical Approach]] · [[Base Rate]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]
+[[Clinical Reasoning MOC]] · [[Gout and Distributive Shock]] · [[Gout]] · [[Diuretic]] · [[Schema-Based Reasoning]] · [[Anatomical Approach]] · [[Base Rate]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]

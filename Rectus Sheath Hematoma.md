@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - general surgery
-  - hematology
 tags:
   - clinical-reasoning
+  - general-surgery
+  - hematology
 ---
 
-Evergreen concept note. Rectus sheath hematoma is a spontaneous or trauma-provoked arterial bleed from the epigastric vessels into the rectus sheath, classically presenting as an abdominal-wall mass that respects the midline. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Rectus sheath hematoma is a spontaneous or trauma-provoked arterial bleed from the epigastric vessels into the rectus sheath, classically presenting as an abdominal-wall mass that respects the midline.
 
 ## Definition and Anatomy
 A rectus sheath hematoma (RSH) is a collection of blood within the rectus abdominis muscle and its fibrous sheath, arising from rupture of the epigastric arteries or tearing of the muscle fibers.
@@ -43,4 +42,4 @@ Match the intervention to severity, not merely to the diagnosis ([[RLR 058 - Ing
 - Downstream: reassess whether/when to re-anticoagulate (weigh [[CHA2DS2-VASc]] against bleeding risk); if re-anticoagulation is untenable in AFib, consider a [[Watchman Procedure]].
 
 ## Related Notes
-[[Anticoagulation Reversal]] · [[Linea Alba]] · [[Ecchymosis]] · [[Watchman Procedure]] · [[Anatomical Approach]] · [[Background Affects Foreground]] · [[RLR 058 - Inguinal Bulge and Rectus Sheath Hematoma]]
+[[Clinical Reasoning MOC]] · [[Anticoagulation Reversal]] · [[Linea Alba]] · [[Ecchymosis]] · [[Watchman Procedure]] · [[Anatomical Approach]] · [[Background Affects Foreground]] · [[RLR 058 - Inguinal Bulge and Rectus Sheath Hematoma]]

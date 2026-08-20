@@ -5,8 +5,6 @@ tags:
   - center-of-gravity
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 The center of gravity is the single finding a reasoner deliberately makes the organizing hub of a case — the one that most constrains the differential and that the rest of the picture should be tested against. Choosing it well converts a scattered problem list into a coherent hypothesis: instead of cataloguing each abnormality, you ask whether *one* driver, through a pathophysiologic cascade, can account for the whole panel.
@@ -28,4 +26,4 @@ The center of gravity is the single finding a reasoner deliberately makes the or
 
 ## Related Notes
 
-[[Unifying Diagnosis]] · [[Schema-Based Reasoning]] · [[Anatomical Approach]] · [[Hickam's Dictum]] · [[Illness Tempo]] · [[RLR 011 - Fever and Chronic Consolidation]] · [[RLR 012 - Dysuria and Esophageal Perforation]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 022 - Vulvar Pain and Behçet Disease]]
+[[Clinical Reasoning MOC]] · [[Unifying Diagnosis]] · [[Schema-Based Reasoning]] · [[Anatomical Approach]] · [[Hickam's Dictum]] · [[Illness Tempo]] · [[RLR 011 - Fever and Chronic Consolidation]] · [[RLR 012 - Dysuria and Esophageal Perforation]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 022 - Vulvar Pain and Behçet Disease]]

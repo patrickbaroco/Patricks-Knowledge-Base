@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - nephrology
-  - endocrinology
 tags:
   - clinical-reasoning
+  - nephrology
+  - endocrinology
 ---
 
-Evergreen concept note. Copeptin as a measurable surrogate for ADH in the diabetes insipidus workup. Teaching points cited per episode.
+Copeptin as a measurable surrogate for ADH in the diabetes insipidus workup.
 
 ## What it is and why it's used
 
@@ -20,4 +19,4 @@ Evergreen concept note. Copeptin as a measurable surrogate for ADH in the diabet
 
 ## Related Notes
 
-[[Diabetes Insipidus]] · [[Polyuria]] · [[Post-Obstructive Uropathy]] · [[Test Interpretation]] · [[Base Rate]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]
+[[Clinical Reasoning MOC]] · [[Diabetes Insipidus]] · [[Polyuria]] · [[Post-Obstructive Uropathy]] · [[Test Interpretation]] · [[Base Rate]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]

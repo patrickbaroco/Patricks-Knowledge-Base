@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - infectious disease
-  - rheumatology
 tags:
   - clinical-reasoning
+  - infectious-disease
+  - rheumatology
 ---
 
-Evergreen concept note. Granulomatous disease as a recurring differential across the series. Teaching points cited per episode.
+Granulomatous disease as a recurring differential across the series.
 
 ## The core triad
 
@@ -26,4 +25,4 @@ Evergreen concept note. Granulomatous disease as a recurring differential across
 
 ## Related Notes
 
-[[Sarcoidosis]] · [[Tuberculosis]] · [[Lymphoma]] · [[Hypercalcemia]] · [[Vitamin D Metabolism]] · [[25-Hydroxyvitamin D]] · [[1-Alpha-Hydroxylation]] · [[Skin Nodule]] · [[PET-CT]] · [[Schema-Based Reasoning]] · [[RLR 007 - Hypercalcemia]] · [[RLR 011 - Fever and Chronic Consolidation]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]
+[[Clinical Reasoning MOC]] · [[Sarcoidosis]] · [[Tuberculosis]] · [[Lymphoma]] · [[Hypercalcemia]] · [[Vitamin D Metabolism]] · [[25-Hydroxyvitamin D]] · [[1-Alpha-Hydroxylation]] · [[Skin Nodule]] · [[PET-CT]] · [[Schema-Based Reasoning]] · [[RLR 007 - Hypercalcemia]] · [[RLR 011 - Fever and Chronic Consolidation]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]

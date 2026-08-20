@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - oncology
-  - orthopedics
 tags:
   - clinical-reasoning
+  - oncology
+  - orthopedics
 ---
 
-Evergreen concept note. Gorham-Stout (vanishing/disappearing bone) disease. Teaching points cited per episode.
+Gorham-Stout (vanishing/disappearing bone) disease.
 
 ## The entity
 
@@ -20,4 +19,4 @@ Gorham-Stout disease is a rare, idiopathic **massive osteolysis** in which bone 
 
 ## Related Notes
 
-[[Lytic Bone Lesion]] · [[Anatomical Approach]] · [[Illness Script]] · [[Cognitive Autopsy]] · [[PET-CT]] · [[RLR 031 - Headache and Gorham-Stout Disease]]
+[[Clinical Reasoning MOC]] · [[Lytic Bone Lesion]] · [[Anatomical Approach]] · [[Illness Script]] · [[Cognitive Autopsy]] · [[PET-CT]] · [[RLR 031 - Headache and Gorham-Stout Disease]]

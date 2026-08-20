@@ -1,14 +1,13 @@
 ---
 type: evergreen
-clinical_domains:
+tags:
+  - clinical-reasoning
   - dermatology
   - rheumatology
   - immunology
-tags:
-  - clinical-reasoning
 ---
 
-Evergreen concept note. Pathergy is an exaggerated, disproportionate inflammatory response of the skin to minor trauma or penetration, serving as a physical-exam clue to certain neutrophilic and autoinflammatory diseases. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Pathergy is an exaggerated, disproportionate inflammatory response of the skin to minor trauma or penetration, serving as a physical-exam clue to certain neutrophilic and autoinflammatory diseases.
 
 ## Concept
 Pathergy is **hyperreactivity of the skin to minor injury**: a trivial breach of the skin provokes an inflammatory papule, pustule, or ulcer out of proportion to the insult.
@@ -32,4 +31,4 @@ Pathergy is **hyperreactivity of the skin to minor injury**: a trivial breach of
 - Practically, it should trigger a **targeted mucocutaneous and ocular history** rather than being treated as incidental — an illustration of staying ready to leave a working track when a soft clue appears (see [[Diagnostic Momentum]]).
 
 ## Related Notes
-[[Behçet's Disease]] · [[Inflammatory Bowel Disease]] · [[Diagnostic Momentum]] · [[Schema-Based Reasoning]] · [[RLR 063 - Diarrhea and Behçet's Disease]]
+[[Clinical Reasoning MOC]] · [[Behçet's Disease]] · [[Inflammatory Bowel Disease]] · [[Diagnostic Momentum]] · [[Schema-Based Reasoning]] · [[RLR 063 - Diarrhea and Behçet's Disease]]

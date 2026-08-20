@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - oncology
 tags:
   - clinical-reasoning
+  - hematology
+  - oncology
 ---
 
-Evergreen concept note. CMML — the disease behind a sustained monocytosis. Teaching points cited per episode.
+CMML — the disease behind a sustained monocytosis.
 
 ## What it is
 
@@ -21,4 +20,4 @@ Chronic myelomonocytic leukemia is a myelodysplastic/myeloproliferative overlap 
 
 ## Related Notes
 
-[[Monocytosis]] · [[Leukemia Cutis]] · [[Myelodysplastic Syndrome]] · [[Acute Myeloid Leukemia]] · [[Evans Syndrome]] · [[Anemia and Thrombocytopenia]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]
+[[Clinical Reasoning MOC]] · [[Monocytosis]] · [[Leukemia Cutis]] · [[Myelodysplastic Syndrome]] · [[Acute Myeloid Leukemia]] · [[Evans Syndrome]] · [[Anemia and Thrombocytopenia]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]

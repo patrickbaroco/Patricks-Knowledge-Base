@@ -1,12 +1,10 @@
 ---
 type: evergreen
-clinical_domains:
-  - clinical reasoning
 tags:
   - clinical-reasoning
 ---
 
-Evergreen concept note. "When to worry" — the gestalt that separates a benign version of a common complaint from a dangerous one. Common symptoms (back pain, numbness, headache, fatigue) are mostly benign; a small set of accompanying features flips them into red-flag territory.
+"When to worry" — the gestalt that separates a benign version of a common complaint from a dangerous one. Common symptoms (back pain, numbness, headache, fatigue) are mostly benign; a small set of accompanying features flips them into red-flag territory.
 
 ## The idea
 
@@ -29,4 +27,4 @@ Treat the red flags as a checklist layered over the common-things-common default
 
 ## Related Notes
 
-[[Illness Tempo]] · [[Base Rate]] · [[Background Affects Foreground]] · [[Center of Gravity]] · [[Diagnostic Humility]] · [[Paraneoplastic Neurologic Syndrome]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Illness Tempo]] · [[Base Rate]] · [[Background Affects Foreground]] · [[Center of Gravity]] · [[Diagnostic Humility]] · [[Paraneoplastic Neurologic Syndrome]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

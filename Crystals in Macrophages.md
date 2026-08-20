@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
 tags:
   - clinical-reasoning
+  - rheumatology
 ---
 
-Evergreen concept note. A crystal on the slide only proves a joint *has had* crystal disease; whether it is *active now* depends on whether the crystals are inside cells. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+A crystal on the slide only proves a joint *has had* crystal disease; whether it is *active now* depends on whether the crystals are inside cells.
 
 ## The Core Distinction
 - **Intracellular (phagocytosed) crystals = active disease** ([[RLR 062 - Oligoarthritis and Polyarticular Gout Flare|RLR 062]], [[RLR 061 - Knee Swelling and Calcific Tendinitis|RLR 061]]). When neutrophils and macrophages are actively engulfing crystals, the inflammatory cascade is engaged — this is the flare.
@@ -22,4 +21,4 @@ Evergreen concept note. A crystal on the slide only proves a joint *has had* cry
 - [[CPPD]] — calcium pyrophosphate crystals deposit chronically (chondrocalcinosis); intracellular CPP marks active pseudogout.
 
 ## Related Notes
-[[Synovial Fluid Analysis]] · [[Gout]] · [[CPPD]] · [[Septic Arthritis]] · [[Calcific Tendinitis]] · [[Test Interpretation]] · [[Law of Proportionality]] · [[Base Rate]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]
+[[Clinical Reasoning MOC]] · [[Synovial Fluid Analysis]] · [[Gout]] · [[CPPD]] · [[Septic Arthritis]] · [[Calcific Tendinitis]] · [[Test Interpretation]] · [[Law of Proportionality]] · [[Base Rate]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]

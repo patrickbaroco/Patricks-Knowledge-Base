@@ -5,8 +5,6 @@ tags:
   - analogical-reasoning
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Analogical reasoning is solving an unfamiliar problem by mapping a structure from a familiar one — porting a frame, a mechanism, or a stored case onto the situation at hand. It is how a clinician makes progress on a complaint they rarely see (borrow a schema built for something else), reaches a diagnosis they don't have scripted (extend a known class member to an unknown one), or recognizes an early, incompletely declared illness (recall a past case with the same *shape*). Its power is generativity; its danger is that a surface resemblance can mislead, so the discipline is to **name the analogy** and, where possible, **verify it** rather than let it stand as proof.
@@ -33,4 +31,4 @@ Analogical reasoning is solving an unfamiliar problem by mapping a structure fro
 
 ## Related Notes
 
-[[Parallel Reasoning]] · [[Schema-Based Reasoning]] · [[Illness Script]] · [[Representativeness Heuristic]] · [[Treatment as a Diagnostic Test]] · [[Cognitive Autopsy]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 026 - Syncope and Occult Gastrointestinal Bleeding]] · [[RLR 031 - Headache and Gorham-Stout Disease]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]
+[[Clinical Reasoning MOC]] · [[Parallel Reasoning]] · [[Schema-Based Reasoning]] · [[Illness Script]] · [[Representativeness Heuristic]] · [[Treatment as a Diagnostic Test]] · [[Cognitive Autopsy]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 026 - Syncope and Occult Gastrointestinal Bleeding]] · [[RLR 031 - Headache and Gorham-Stout Disease]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]

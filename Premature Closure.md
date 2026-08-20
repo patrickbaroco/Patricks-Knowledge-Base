@@ -6,8 +6,6 @@ tags:
   - premature-closure
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Premature closure is accepting a diagnosis before it has been fully verified — stopping the diagnostic process once a plausible answer is in hand, so that later data are never sought or are quietly folded into the accepted label. It is the "when the diagnosis is made, thinking stops" failure, and it is repeatedly identified in the diagnostic-error literature (Graber, Croskerry) as one of the most common contributors to missed and delayed diagnoses.
@@ -47,4 +45,4 @@ The closure can happen at different points: on a *diagnosis* (settling on SIADH)
 
 ## Related Notes
 
-[[Anchoring Bias]] · [[Search Satisficing]] · [[Diagnostic Momentum]] · [[Availability Heuristic]] · [[Framing Effect]] · [[Correlated Risk]] · [[Asking Why]] · [[Root Cause Analysis]] · [[Bayesian Reasoning]] · [[Illness Script]] · [[RLR 001 - New Onset Headache]] · [[RLR 002 - Nausea, Vomiting, and Hyponatremia]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 004 - Rectal Pain and Proctitis]] · [[RLR 005 - Abdominal Distention, Constipation, and Urinary Retention]] · [[RLR 007 - Hypercalcemia]]
+[[Clinical Reasoning MOC]] · [[Anchoring Bias]] · [[Search Satisficing]] · [[Diagnostic Momentum]] · [[Availability Heuristic]] · [[Framing Effect]] · [[Correlated Risk]] · [[Asking Why]] · [[Root Cause Analysis]] · [[Bayesian Reasoning]] · [[Illness Script]] · [[RLR 001 - New Onset Headache]] · [[RLR 002 - Nausea, Vomiting, and Hyponatremia]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 004 - Rectal Pain and Proctitis]] · [[RLR 005 - Abdominal Distention, Constipation, and Urinary Retention]] · [[RLR 007 - Hypercalcemia]]

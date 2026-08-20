@@ -1,0 +1,124 @@
+---
+series: "RLR / Clinical Problem Solvers"
+episode: "131"
+source_url:
+  - https://episodes.castos.com/633300b1184ec2-51084684/1994469
+guests: []
+clinical_domains:
+  - Cardiology
+  - Nephrology
+  - Infectious Disease
+  - Rheumatology
+  - Hematology
+tags:
+  - clinical-reasoning
+  - RLR
+  - exertional-dyspnea
+  - glomerulonephritis
+  - infective-endocarditis
+  - ANCA
+  - hypocomplementemia
+  - culture-negative-endocarditis
+  - bartonella
+---
+
+## Summary
+
+> [!summary] Scan Summary
+> Reza presents a case from morning report: a 47-year-old man with weeks of exertional dyspnea and dark urine. Robbie's shortness-of-breath framework immediately deprioritizes pulmonary causes in favor of cardiovascular and hematologic ones, and a new apical systolic murmur, AKI, and active urine sediment converge into a genuinely difficult multi-organ case. Nephrology and cardiology each arrive at a defensible diagnosis within their own organ system — renal-limited GPA (strongly positive c-ANCA and PR3) and a ruptured mitral chordae tendineae of unclear cause — and immunosuppression is started. Robbie, standing deliberately in the middle as a generalist, refuses to accept either specialty's closure: a key complement pearl (most hypocomplementemic glomerulonephritis is infectious, not lupus-related) and the simple observation that neither organ's disease has a truly solid stand-alone explanation lead him to flag infective endocarditis — specifically Bartonella, given the patient's alcohol use — as the more parsimonious, and ultimately correct, unifying diagnosis.
+
+## Pearls
+
+- Use a "shortness of breath pyramid" to triage dyspnea: the large majority of cases are cardiopulmonary in origin, with a smaller minority arising from hematologic causes (anemia) — and accompanying features (like whether symptoms are exertional or at rest) help prioritize among these categories.
+- Predominantly exertional (rather than at-rest) dyspnea should deprioritize primary pulmonary disease relative to cardiovascular or hematologic causes — by the time pulmonary disease produces dyspnea at all, patients are often symptomatic even at rest and unwilling to exert themselves, whereas exertion places disproportionately greater stress on the cardiovascular system than on the lungs.
+- A subacute time course argues against classic acute coronary syndrome; among subacute causes of exertional dyspnea, heart failure classically leaves a prominent venous congestion signature the patient often notices, while obstructive cardiac disease (pulmonary hypertension, pericardial effusion) can present more insidiously.
+- Dark urine accompanying cardiopulmonary symptoms has more than one plausible mechanism and shouldn't be over-weighted on its own: it can reflect prerenal concentration from poor renal perfusion (as in obstructive cardiac disease or heart failure), or it can reflect hemoglobinuria from a hemolytic anemia — treat it as a clue to broaden the differential, not as a specific finding to "bank on."
+- When you find anemia in a case dominated by other findings, most clinicians won't dwell on it — but it's worth a brief, low-cost check for hemolysis (often available "for free" via tests already being sent, like a UA for AKI or a bilirubin from liver studies) and for iron deficiency, since missing a productive, clinically meaningful anemia mechanism is an easy oversight in a busy multi-system case.
+- A new systolic murmur best heard at the apex should prioritize mitral regurgitation, but not all MR reflects primary valve disease: consider functional MR from LV dilation stretching the annulus, papillary muscle dysfunction (ischemic, acute or chronic), and chordae tendineae pathology (including myxomatous degeneration) as you move anatomically from the LV outward to the valve itself.
+- In a patient with new MR and even mild leukocytosis, infective endocarditis should loom large as the "do not miss" diagnosis — remembering that alcohol use, not just injection drug use, is an important immunocompromising risk factor that can make endocarditis plausible even in a relatively young patient without classic risk factors.
+- Hematuria plus AKI has a genuinely narrow true differential: for a urological process to cause both, you generally need either bilateral obstructing stones or complete bladder outlet obstruction — both of which can be quickly excluded with a bedside ultrasound/post-void residual. Outside of a normal PVR and painless presentation, unrelated coincidental hematuria (most common overall, especially in older adults) becomes much less likely in a middle-aged patient without another explanation, shifting weight toward glomerulonephritis, especially when proteinuria is also present.
+- A patient with active glomerulonephritis "should" have relative hypertension from renin-angiotensin-aldosterone activation — if they're not hypertensive, consider whether a separate process (like impaired cardiac output from concurrent heart disease) is preventing that expected blood pressure rise, rather than assuming the absence of hypertension argues against GN.
+- Most glomerulonephritis is autoimmune, but infection-triggered GN is an important category to actively consider: the most common surface-source trigger is post-streptococcal GN or a pharyngeal infection triggering IgA nephropathy (usually with an obvious preceding infection), while the most common internal-source trigger is infective endocarditis.
+- Complement levels are a powerful, low-cost discriminator in glomerulonephritis: ANCA-associated GN and anti-GBM disease both have normal complement levels. Hypocomplementemic GN can reflect lupus, but — per the hosts' own schema — most hypocomplementemic GN is actually infectious in origin, not lupus. Low complements in a patient without other lupus features (malar rash, thrombocytopenia, leukopenia) should raise, not lower, suspicion for an infectious cause like endocarditis, and should give real pause before starting empiric immunosuppression.
+- ANCA positivity is not synonymous with primary ANCA-associated vasculitis: drug-induced disease (e.g., hydralazine-associated ANCA/lupus overlap), malignancy, and infection can all produce a positive ANCA. A classic clue to a "false-positive" ANCA in this broader sense is a discordant serologic pattern (e.g., positive ANA alongside the ANCA), especially when the specific target antigen (PR3 or MPO) is negative by the more precise confirmatory immunoassay — though a strongly concordant, high-titer c-ANCA/PR3 (as in this case) is harder to dismiss and doesn't rule out an underlying infectious trigger.
+- Alcohol use is a specific epidemiologic clue for several causes of culture-negative endocarditis, including Brucella, Bartonella, and Coxiella. Bartonella characteristically has a prominent intravascular (endocarditis) signature, while Coxiella and Brucella more often present with spinal or pulmonary manifestations — a useful pattern for narrowing among the culture-negative endocarditis organisms.
+- When a diagnosis in one organ (e.g., renal-limited GPA) is reached without a clean, self-sufficient explanation for a simultaneous, unexplained finding in another organ (e.g., an otherwise-unexplained chordae tendineae rupture in a middle-aged patient), keep pushing for a unifying explanation rather than treating the two problems as coincidental — analogous to treating iron-deficiency anemia with iron without ever asking why the deficiency occurred in the first place.
+- The core value of the generalist in a multi-specialist case: a cardiologist has no particular reason to study glomerulonephritis, and a nephrologist has no particular reason to scrutinize a cardiologist's read on a valve finding — leaving a gap only a clinician who can stand credibly in the middle of both specialties is positioned to close.
+- It is entirely reasonable, and not a diagnostic failure, to get one of these true multi-organ, atypical-presentation cases wrong in real time — the clues (hypocomplementemia, an unexplained cardiac lesion, a positive but potentially misleading serology) are genuinely subtle, and holding a differential open despite specialist closure is a skill worth deliberately practicing.
+
+## Problem Representation
+
+A 47-year-old man with weeks of exertional dyspnea, dark urine, a new apical systolic murmur, AKI with an active urine sediment (hematuria and proteinuria), hypocomplementemia, and strongly positive c-ANCA/PR3 — initially diagnosed and treated as renal-limited GPA with an unexplained mitral chordae tendineae rupture — is ultimately found to have culture-negative Bartonella quintana endocarditis with associated glomerulonephritis, resolving completely after valve repair and doxycycline.
+
+## Case Narrative
+
+Reza presented a case recently heard at morning report: a 47-year-old man presenting to the emergency department with weeks of exertional shortness of breath and darker-than-usual urine, without weight change, orthopnea/PND, or abdominal distension.
+
+Robbie applied his "shortness of breath pyramid" framework, noting that the overwhelming majority of dyspnea is cardiopulmonary, with a smaller hematologic contribution, and that predominantly exertional symptoms deprioritize pulmonary disease relative to cardiovascular or blood-related causes — since pulmonary disease tends to declare itself at rest by the time it's symptomatic, while exertion disproportionately stresses the cardiovascular system. He reasoned the subacute time course argued against classic acute coronary syndrome, leaving heart failure (with its typical venous congestion signature) or obstructive cardiac disease (pulmonary hypertension, pericardial effusion) as leading cardiac possibilities, either of which could produce dark urine via prerenal concentration from poor renal perfusion. He flagged an equally important alternative: a hemolytic anemia syndrome, which can also produce dark urine via hemoglobinuria. He summarized that the dark urine itself was likely "noise" not to be over-weighted, but that the exertional, subacute presentation pointed toward either a cardiovascular blockage or a functionally "empty" cardiovascular system from anemia.
+
+Past medical history was notable for hyperlipidemia on a statin and daily alcohol use (a couple of drinks per day), with no other major medical problems. Exam showed a heart rate of 87, normal breathing, oxygen saturation, and temperature, and — the key finding — a 3/6 systolic murmur best heard at the apex, without lower extremity edema or jugular venous distension. Initial labs showed a creatinine of 2.5 (no prior available for comparison), potassium 5.5, sodium 132, hemoglobin 10.2, white count 11,000-12,000, normal liver chemistries, and a slightly elevated pro-BNP.
+
+Robbie prioritized mitral regurgitation given the apical murmur, while noting that not all MR reflects primary valve disease — functional MR from LV dilation and annular stretching, papillary muscle dysfunction (ischemic, acute or chronic), and chordae tendineae pathology (including myxomatous degeneration) were all considered moving anatomically outward from the LV. Given the mild leukocytosis and the overall subacute syndrome, he flagged infective endocarditis as the diagnosis not to miss, noting that while the patient had no injection drug use, alcohol use carries meaningful immunocompromising risk that keeps endocarditis plausible even in a relatively young patient. On the anemia, he acknowledged most clinicians wouldn't dwell on it given how much else was happening, but recommended a low-cost check for hemolysis and iron deficiency using tests likely to be obtained anyway (a UA for the AKI, a bilirubin from liver studies).
+
+A chest x-ray showed no significant pulmonary edema; the patient ambulated without becoming hypoxemic, though he subjectively reported dyspnea. A UA showed 70 red blood cells, moderate-to-large blood on dipstick, 10-12 white cells, 2+ protein, and a spot urine protein-to-creatinine ratio of 1.4 — in the nephritic range. An echocardiogram was ambiguous: it was unclear whether a ruptured chordae tendineae on the mitral valve represented the entire finding or whether there was a separate mass. Given the patient's relatively mild symptoms (no significant hypoxemia or pulmonary edema), cardiology elected a conservative approach — outpatient monitoring with echo, medical management, and close cardiology/CT surgery follow-up.
+
+Robbie then worked through the hematuria-plus-AKI picture. He explained that a purely urological explanation for hematuria causing AKI requires either bilateral obstructing stones or complete bladder outlet obstruction, both quickly excludable by bedside ultrasound (presumed normal PVR given no reported pain). While unrelated, coincidental hematuria is the single most common overall explanation for isolated hematuria, that pattern is typically a disease of older adults — making it a poor fit for a 47-year-old with no other risk factors. This left glomerulonephritis as the leading explanation, reinforced by the concurrent proteinuria. He flagged that the patient's normal (rather than elevated) blood pressure might seem to argue against GN, which classically triggers RAAS activation and hypertension — but noted (crediting a real morning report case from the San Francisco VA) that concurrent cardiac dysfunction limiting cardiac output can suppress the blood pressure response that would otherwise be expected, meaning the patient might be relatively hypotensive precisely because of his cardiac disease, masking the GN-associated hypertension.
+
+Robbie explained that while most GN is autoimmune, infection-triggered GN is an important category, with the most common surface-source trigger being post-streptococcal or pharyngeal-infection-associated IgA nephropathy (usually with an obvious preceding infection) and the most common internal-source trigger being infective endocarditis — making this "infectious GN until proven otherwise" given the valve findings. He introduced a key complement pearl: ANCA-associated GN and anti-GBM disease both have normal complement levels, and while hypocomplementemic GN can reflect lupus, most hypocomplementemic GN is actually infectious in origin — a low complement level in a patient without other lupus features (no malar rash, no thrombocytopenia, normal white count) should heighten rather than lower suspicion for an infectious process like endocarditis, and argue against reflexive empiric steroids in favor of blood cultures — potentially even culture-negative endocarditis workup if initial cultures returned negative.
+
+Reza revealed that one complement level was frankly low and the other low-normal. Additionally, a c-ANCA and PR3 were sent and both returned strongly positive. Nephrology recommended immunosuppression for presumed renal-limited GPA; a kidney biopsy was performed, and the patient was discharged on immunosuppression.
+
+Robbie pushed back on this closure. He explained that ANCA positivity has causes beyond primary ANCA-associated vasculitis — drug-induced disease (referencing a prior RLR case of hydralazine-induced lupus/ANCA overlap), malignancy, and infection can all produce a positive ANCA — and that a classically "false-positive" ANCA pattern typically shows discordant serologies (e.g., a positive ANA alongside it) with a negative specific target antigen (PR3 or MPO) on confirmatory immunoassay. He acknowledged this patient's strongly concordant c-ANCA and PR3 made a simple false-positive harder to invoke, and that GPA remained entirely plausible — but argued it existed "a pit stop or two down the line" in his reasoning, because nothing about the case felt like a slam dunk: both a pauci-immune GN pattern and a positive c-ANCA/PR3 have themselves been described in cases of infective endocarditis. He framed this as the core value of being a generalist: a nephrologist has little reason to interrogate a cardiologist's read on a valve lesion, and a cardiologist has no particular reason to study glomerulonephritis, leaving a gap that only a clinician standing deliberately in the middle of both specialties is positioned to close. He identified the hypocomplementemia and the ongoing, unexplained cardiovascular pathology (the chordae rupture in a 46-year-old with no clear cause) as the key clues suggesting a culture-negative infectious process, and specifically flagged the patient's alcohol history as raising risk for Brucella, Bartonella, and Coxiella — distinguishing Bartonella's classically prominent intravascular/endocarditis signature from Coxiella's and Brucella's more typical spinal or pulmonary manifestations. He stated he would be reluctant to start immunosuppression in this patient without first pursuing aggressive Bartonella testing.
+
+Asked how he'd settled on endocarditis given the echo's ambiguity between a mass and a ruptured chordae, Robbie explained he couldn't claim certainty — rather, the mitral valve pathology simply lacked a solid, self-sufficient alternative explanation. Had there been a clear cause (e.g., a known ischemic papillary muscle rupture), he'd have no grounds to suspect endocarditis. But combined with the unexplained renal findings and hypocomplementemia, an atypical endocarditis presentation became genuinely plausible — and he reiterated that if the renal findings were removed from the case entirely, he wouldn't question the cardiology team's assessment at all. It was precisely the combination — two organ systems, each with an incomplete explanation — that argued for a unifying process rather than two coincidental diagnoses.
+
+Reza extended the analogy: even setting the kidneys aside, a 46-year-old developing an unexplained chordae tendineae rupture should itself prompt a search for an underlying cause, comparable to treating iron-deficiency anemia with iron without ever asking why the deficiency occurred.
+
+The patient underwent kidney biopsy and was discharged on immunosuppression for presumed renal-limited GPA, with cardiology and CT surgery follow-up planned. The biopsy showed extensive immune complex deposition, with a pattern that prompted the pathologist to specifically flag concern for Bartonella (Robbie recalled the report may even have specifically named Bartonella quintana) and recommend targeted serologic workup. Subsequently, the patient's dyspnea worsened, prompting cardiac intervention on the chordae/valve; a vegetation was identified, cultured, and PCR-confirmed as Bartonella quintana. Following valve repair, the patient completed six to eight weeks of doxycycline, and his kidney function, hematuria, and overall clinical status returned completely to baseline.
+
+## Reasoning Breakdown
+
+### Bayesian Updates
+
+| Finding | Diagnostic Impact |
+|---|---|
+| Predominantly exertional dyspnea, subacute time course | Deprioritizes primary pulmonary disease and classic ACS; favors cardiovascular (structural/obstructive) or hematologic causes |
+| New apical systolic murmur + mild leukocytosis | Raises suspicion for mitral regurgitation from infective endocarditis over other MR mechanisms |
+| Alcohol use, no IVDU | Keeps endocarditis plausible despite lacking the classic injection-drug-use risk factor |
+| AKI + hematuria + proteinuria (protein:creatinine 1.4) | Shifts the leading explanation from isolated/coincidental hematuria toward glomerulonephritis, especially given the patient's younger age |
+| Normal (not elevated) blood pressure despite active GN | Explained by concurrent impaired cardiac output from cardiac disease suppressing the expected RAAS-driven hypertensive response, rather than arguing against GN |
+| Low/low-normal complement levels | Argues against ANCA-associated GN or anti-GBM disease (normal complements) and against lupus in this patient (no other lupus features); raises suspicion for infectious (e.g., endocarditis-associated) GN |
+| Strongly positive c-ANCA and PR3 | Supports GPA as a leading diagnosis, but does not exclude an infection-associated ANCA-positive/pauci-immune GN picture, since both have been described with endocarditis |
+| Unexplained chordae tendineae rupture in a 46-year-old, echo ambiguous for a discrete mass | Leaves the cardiac lesion without a self-sufficient alternative explanation, increasing suspicion that it and the renal findings share a single underlying cause |
+| Kidney biopsy pattern prompting the pathologist to specifically flag Bartonella | Directly redirects the diagnostic pathway toward culture-negative endocarditis |
+| Vegetation identified and PCR-positive for Bartonella quintana; full resolution after valve repair + doxycycline | Confirms Bartonella endocarditis as the single unifying diagnosis for both the cardiac and renal findings |
+
+### Illness Scripts and Bias
+
+- **Specialty-siloed closure**: nephrology and cardiology each reached a defensible, organ-specific diagnosis (renal-limited GPA; an unexplained but not urgently concerning valve lesion) without either specialty independently re-examining the other's findings — explicitly framed as a predictable, non-culpable gap that only a generalist standing between them was positioned to close.
+- **Serology as a diagnostic trap**: an explicit, named caution that strongly positive, appealing serologies (c-ANCA/PR3) can create premature closure ("it's just so appealing to say... it's ANCA vasculitis") even when the broader clinical picture has unresolved holes.
+- **Treating an unexplained finding as needing its own explanation, not just its own treatment**: both the "iron without asking why" analogy and the persistent focus on the unexplained chordae rupture reflect a deliberate refusal to treat a lab or imaging abnormality as self-explanatory.
+- **Non-punitive framing of diagnostic difficulty**: explicit acknowledgment that this class of case (multi-organ, atypical, serology-suggestive-but-not-definitive) is genuinely hard and reasonable to get wrong in real time — modeling calibrated rather than harsh self-assessment.
+
+## Teaching Discussion
+
+This case is built around the generalist's specific value in bridging specialty silos: two subspecialists, each reasoning correctly within their own organ system, converge on a plausible-but-incomplete diagnosis, and it takes a clinician willing to hold both organ systems in mind simultaneously to notice that neither diagnosis fully accounts for the other finding. The complement-level pearl (most hypocomplementemic GN is infectious, not lupus) and the ANCA-positivity caveat (positive serology does not equal primary vasculitis) are both concrete, reusable tools for resisting premature serologic closure, while the broader lesson — always ask why an abnormal finding occurred, not just how to treat it — is offered as a generalizable habit rather than a case-specific insight.
+
+## Evergreen Note Updates
+
+- [ ] Build [[Exertional Dyspnea - Shortness of Breath Pyramid]] — cardiopulmonary vs. hematologic triage, exertional vs. at-rest symptom prioritization
+- [ ] Build [[Hematuria and AKI - Narrowing the Differential]] — bilateral stones/bladder outlet obstruction exclusion, coincidental hematuria vs. glomerulonephritis by age
+- [ ] Build [[Complement Levels in Glomerulonephritis]] — normal-complement (ANCA-associated, anti-GBM) vs. hypocomplementemic (lupus vs. — more commonly — infectious) GN
+- [ ] Build [[ANCA Positivity Beyond Primary Vasculitis]] — drug-induced, malignancy-associated, infection-associated ANCA; discordant-serology clues to a false-positive pattern
+- [ ] Update [[Culture-Negative Endocarditis - Approach]] (built from RLR 128) — add Brucella/Bartonella/Coxiella epidemiology (alcohol use) and the Bartonella-intravascular vs. Coxiella/Brucella-spinal/pulmonary distinguishing pattern
+- [ ] Build [[Infective Endocarditis-Associated Glomerulonephritis]] — infectious GN until proven otherwise given a valve lesion; complement and serology overlap with primary ANCA vasculitis
+
+## Handbook Opportunities
+
+- [ ] Consider a handbook chapter or appendix on the generalist's role in multi-specialist cases, using this case as a worked example of bridging cardiology and nephrology closure
+- [ ] Consider a chapter section on complement interpretation in glomerulonephritis as a decision-support tool for avoiding premature immunosuppression
+- [ ] Consider a sidebar on ANCA-positivity pitfalls, cross-referencing the hydralazine-induced ANCA/lupus overlap case referenced in this episode
+
+## Related Notes
+
+[[Exertional Dyspnea - Shortness of Breath Pyramid]] · [[Hematuria and AKI - Narrowing the Differential]] · [[Complement Levels in Glomerulonephritis]] · [[ANCA Positivity Beyond Primary Vasculitis]] · [[Culture-Negative Endocarditis - Approach]] · [[Infective Endocarditis-Associated Glomerulonephritis]] · [[Diagnostic Humility]]

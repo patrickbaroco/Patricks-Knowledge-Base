@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
 tags:
   - clinical-reasoning
+  - neurology
 ---
 
-Evergreen concept note. The disciplined first step of neurologic reasoning — asking *where* the lesion is along the neuraxis before asking *what* it is. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+The disciplined first step of neurologic reasoning — asking *where* the lesion is along the neuraxis before asking *what* it is.
 
 ## The Localization Ladder
 Every neurologic complaint can be assigned to one level of the nervous system, and the level constrains the differential.
@@ -34,4 +33,4 @@ A single exam observation collapses the bottom of the ladder.
 Real exams disagree. The disciplined move is to localize *anyway*, name the uncertainty, and return to the bedside to re-examine (sit the patient up for reflexes, hunt for a sensory level) rather than force a false unifier ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
 
 ## Related Notes
-[[Spine vs Peripheral Nerve]] · [[Cauda Equina Syndrome]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Trigeminal Nerve]] · [[Anatomical Approach]] · [[Leave-One-Out Reasoning]] · [[Diagnostic Humility]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Spine vs Peripheral Nerve]] · [[Cauda Equina Syndrome]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Trigeminal Nerve]] · [[Anatomical Approach]] · [[Leave-One-Out Reasoning]] · [[Diagnostic Humility]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

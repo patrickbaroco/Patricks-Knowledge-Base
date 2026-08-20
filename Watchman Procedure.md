@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - cardiology
 tags:
   - clinical-reasoning
+  - cardiology
 ---
 
-Evergreen concept note. The Watchman procedure is percutaneous left atrial appendage occlusion for stroke prevention in atrial fibrillation when long-term oral anticoagulation is contraindicated. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+The Watchman procedure is percutaneous left atrial appendage occlusion for stroke prevention in atrial fibrillation when long-term oral anticoagulation is contraindicated.
 
 ## Rationale
 In non-valvular atrial fibrillation, the great majority of thrombi form in the **left atrial appendage (LAA)**. Occluding that pouch mechanically removes the dominant source of cardioembolic stroke, offering an alternative for patients who cannot tolerate anticoagulation.
@@ -30,4 +29,4 @@ In non-valvular atrial fibrillation, the great majority of thrombi form in the *
 - Does not treat the arrhythmia itself (rate/rhythm control and symptom management remain separate).
 
 ## Related Notes
-[[CHA2DS2-VASc]] · [[Anticoagulation Reversal]] · [[Rectus Sheath Hematoma]] · [[RLR 058 - Inguinal Bulge and Rectus Sheath Hematoma]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[CHA2DS2-VASc]] · [[Anticoagulation Reversal]] · [[Rectus Sheath Hematoma]] · [[RLR 058 - Inguinal Bulge and Rectus Sheath Hematoma]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]

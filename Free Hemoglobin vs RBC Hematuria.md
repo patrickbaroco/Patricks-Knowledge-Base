@@ -1,14 +1,13 @@
 ---
 type: evergreen
-clinical_domains:
+tags:
+  - clinical-reasoning
   - nephrology
   - hematology
   - urology
-tags:
-  - clinical-reasoning
 ---
 
-Evergreen concept note. A heme-positive urine dipstick with few or no red cells on microscopy points to free hemoglobin or myoglobin — not true bleeding — a distinction that separates intravascular hemolysis from RBC hematuria. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+A heme-positive urine dipstick with few or no red cells on microscopy points to free hemoglobin or myoglobin — not true bleeding — a distinction that separates intravascular hemolysis from RBC hematuria.
 
 ## The Core Distinction
 The urine dipstick "blood" pad detects the **peroxidase activity of heme**, so it turns positive for **intact red blood cells**, **free hemoglobin**, and **myoglobin** alike. The decisive step is **microscopy**: a strongly heme-positive dipstick with **few or no RBCs** indicates **myoglobinuria or free hemoglobin (pigment)** rather than true bleeding ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]; [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction|RLR 030]]). This "large blood, few RBCs" pattern is the classic tip-off to intravascular hemolysis or rhabdomyolysis ([[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction|RLR 030]]).
@@ -31,4 +30,4 @@ When a patient has **both** a true bleeding source and intravascular hemolysis, 
 - General references on dipstick heme detection and the workup of pigmenturia.
 
 ## Related Notes
-[[Valve Hemolysis]] · [[TAVR Perivalvular Leak]] · [[Hematuria]] · [[Hemolysis]] · [[Intravascular Hemolysis]] · [[Test Interpretation]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]]
+[[Clinical Reasoning MOC]] · [[Valve Hemolysis]] · [[TAVR Perivalvular Leak]] · [[Hematuria]] · [[Hemolysis]] · [[Intravascular Hemolysis]] · [[Test Interpretation]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - infectious disease
-  - cardiology
 tags:
   - clinical-reasoning
+  - infectious-disease
+  - cardiology
 ---
 
-Evergreen concept note. Lyme carditis is Borrelia-mediated cardiac involvement that characteristically causes reversible high-grade AV block — the U.S. "champion" of infectious conduction disease. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Lyme carditis is Borrelia-mediated cardiac involvement that characteristically causes reversible high-grade AV block — the U.S. "champion" of infectious conduction disease.
 
 ## Concept and Pathophysiology
 Disseminated infection with **Borrelia burgdorferi** (from an Ixodes tick bite) can invade the myocardium, with a striking tropism for the **conduction system**. Inflammation at the AV node produces block that is typically **reversible** with treatment.
@@ -31,4 +30,4 @@ Disseminated infection with **Borrelia burgdorferi** (from an Ixodes tick bite) 
 - Telemetry monitoring until the block resolves.
 
 ## Related Notes
-[[AV Block]] · [[Endocarditis]] · [[Relative Bradycardia]] · [[Transient Loss of Consciousness]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[AV Block]] · [[Endocarditis]] · [[Relative Bradycardia]] · [[Transient Loss of Consciousness]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]

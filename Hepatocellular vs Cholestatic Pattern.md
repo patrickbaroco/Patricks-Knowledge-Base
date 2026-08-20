@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hepatology
-  - gastroenterology
 tags:
   - clinical-reasoning
+  - hepatology
+  - gastroenterology
 ---
 
-Evergreen concept note. Reading the liver chemistries as a pattern. Teaching points cited per episode.
+Reading the liver chemistries as a pattern.
 
 ## The two patterns
 
@@ -28,4 +27,4 @@ Evergreen concept note. Reading the liver chemistries as a pattern. Teaching poi
 
 ## Related Notes
 
-[[Alkaline Phosphatase]] · [[MRCP]] · [[Hemolysis]] · [[Gilbert Syndrome]] · [[Heart Failure]] · [[Congestive Hepatopathy]] · [[Choledocholithiasis]] · [[Ascending Cholangitis]] · [[Primary Biliary Cholangitis]] · [[Intrahepatic Cholestasis]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]] · [[RLR 025 - Liver Chemistry Abnormalities and Intrahepatic Cholestasis of Pregnancy]]
+[[Clinical Reasoning MOC]] · [[Alkaline Phosphatase]] · [[MRCP]] · [[Hemolysis]] · [[Gilbert Syndrome]] · [[Heart Failure]] · [[Congestive Hepatopathy]] · [[Choledocholithiasis]] · [[Ascending Cholangitis]] · [[Primary Biliary Cholangitis]] · [[Intrahepatic Cholestasis]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]] · [[RLR 025 - Liver Chemistry Abnormalities and Intrahepatic Cholestasis of Pregnancy]]

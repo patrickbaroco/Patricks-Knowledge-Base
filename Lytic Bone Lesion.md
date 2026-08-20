@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - oncology
-  - radiology
 tags:
   - clinical-reasoning
+  - oncology
+  - radiology
 ---
 
-Evergreen concept note. Working up a lytic bone lesion. Teaching points cited per episode.
+Working up a lytic bone lesion.
 
 ## The forks
 
@@ -22,4 +21,4 @@ Evergreen concept note. Working up a lytic bone lesion. Teaching points cited pe
 
 ## Related Notes
 
-[[Multiple Myeloma]] · [[Gorham-Stout Disease]] · [[Paget Disease of Bone]] · [[Fibrous Dysplasia]] · [[Serum Protein Electrophoresis]] · [[PET-CT]] · [[Granulomatous Disease]] · [[Anatomical Approach]] · [[Cognitive Autopsy]] · [[RLR 007 - Hypercalcemia]] · [[RLR 031 - Headache and Gorham-Stout Disease]]
+[[Clinical Reasoning MOC]] · [[Multiple Myeloma]] · [[Gorham-Stout Disease]] · [[Paget Disease of Bone]] · [[Fibrous Dysplasia]] · [[Serum Protein Electrophoresis]] · [[PET-CT]] · [[Granulomatous Disease]] · [[Anatomical Approach]] · [[Cognitive Autopsy]] · [[RLR 007 - Hypercalcemia]] · [[RLR 031 - Headache and Gorham-Stout Disease]]

@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - urology
 tags:
   - clinical-reasoning
+  - urology
 ---
 
-Evergreen concept note. Three-way Foley irrigation that keeps the bladder clear of obstructing clots while native bleeding stops — a supportive measure, not a treatment of the underlying cause. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Three-way Foley irrigation that keeps the bladder clear of obstructing clots while native bleeding stops — a supportive measure, not a treatment of the underlying cause.
 
 ## What It Is
 Continuous bladder irrigation (CBI) uses a **three-way (triple-lumen) Foley catheter**: one channel inflates the retention balloon, one continuously instills irrigant (normal saline), and one drains. A steady inflow-outflow flushes the bladder of blood before it can organize into clot ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]).
@@ -28,4 +27,4 @@ CBI is a classic example of a temporizing measure mistaken for definitive therap
 - General urology references on management of gross hematuria and clot retention.
 
 ## Related Notes
-[[Hematuria]] · [[Bleeding Framework]] · [[Law of Proportionality]] · [[Test Interpretation]]
+[[Clinical Reasoning MOC]] · [[Hematuria]] · [[Bleeding Framework]] · [[Law of Proportionality]] · [[Test Interpretation]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - infectious disease
-  - neurology
 tags:
   - clinical-reasoning
+  - infectious-disease
+  - neurology
 ---
 
-Evergreen concept note. Spinal epidural abscess — a commonly missed, time-critical diagnosis. Teaching points cited per episode.
+Spinal epidural abscess — a commonly missed, time-critical diagnosis.
 
 ## Why it is missed
 
@@ -23,4 +22,4 @@ Evergreen concept note. Spinal epidural abscess — a commonly missed, time-crit
 
 ## Related Notes
 
-[[Spinal Cord Compression]] · [[Myelopathy]] · [[Vertebral Osteomyelitis]] · [[Batson Venous Plexus]] · [[Pyelonephritis]] · [[Test Interpretation]] · [[Diagnostic Error]] · [[Anatomical Approach]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]
+[[Clinical Reasoning MOC]] · [[Spinal Cord Compression]] · [[Myelopathy]] · [[Vertebral Osteomyelitis]] · [[Batson Venous Plexus]] · [[Pyelonephritis]] · [[Test Interpretation]] · [[Diagnostic Error]] · [[Anatomical Approach]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]

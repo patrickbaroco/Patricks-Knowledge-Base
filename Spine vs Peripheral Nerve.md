@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
 tags:
   - clinical-reasoning
+  - neurology
 ---
 
-Evergreen concept note. Discriminating a spinal-cord process from a nerve-root (radicular/cauda-equina) process from a peripheral neuropathy — the three compartments a below-the-neck sensorimotor syndrome can occupy. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Discriminating a spinal-cord process from a nerve-root (radicular/cauda-equina) process from a peripheral neuropathy — the three compartments a below-the-neck sensorimotor syndrome can occupy.
 
 ## The Three Compartments
 Once muscle and NMJ are excluded (sensory *and* motor involvement), a syndrome below the neck lives in the **cord**, the **roots (cauda equina)**, or the **peripheral nerves** ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -33,4 +32,4 @@ Once muscle and NMJ are excluded (sensory *and* motor involvement), a syndrome b
 When findings conflict, apply [[Leave-One-Out Reasoning|leave-one-out]] reasoning — provisionally discard one symptom and see whether the rest cohere — and re-examine for the reflexes, sensory level, and sphincter tone that adjudicate between compartments ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
 
 ## Related Notes
-[[Neuroanatomical Localization]] · [[Cauda Equina Syndrome]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Subacute Combined Degeneration]] · [[Leave-One-Out Reasoning]] · [[Anatomical Approach]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Neuroanatomical Localization]] · [[Cauda Equina Syndrome]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Subacute Combined Degeneration]] · [[Leave-One-Out Reasoning]] · [[Anatomical Approach]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

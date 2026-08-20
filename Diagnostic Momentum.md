@@ -6,8 +6,6 @@ tags:
   - diagnostic-momentum
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Diagnostic momentum is the tendency for a label, once attached, to be carried forward from clinician to clinician and note to note as though it were established fact — each successive reader inheriting the frame and being progressively less likely to reopen it. A working impression hardens into a diagnosis simply by repetition and transfer, not by verification.
@@ -39,4 +37,4 @@ Its stationary cousin is **diagnostic inertia**: a single abnormal value copied 
 
 ## Related Notes
 
-[[Anchoring Bias]] · [[Premature Closure]] · [[Search Satisficing]] · [[Framing Effect]] · [[Treatment as a Diagnostic Test]] · [[Cognitive Autopsy]] · [[RLR 005 - Abdominal Distention, Constipation, and Urinary Retention]] · [[RLR 009 - Progressive Sensorimotor Polyneuropathy]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]]
+[[Clinical Reasoning MOC]] · [[Anchoring Bias]] · [[Premature Closure]] · [[Search Satisficing]] · [[Framing Effect]] · [[Treatment as a Diagnostic Test]] · [[Cognitive Autopsy]] · [[RLR 005 - Abdominal Distention, Constipation, and Urinary Retention]] · [[RLR 009 - Progressive Sensorimotor Polyneuropathy]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]]

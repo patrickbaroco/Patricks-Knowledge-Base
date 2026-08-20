@@ -7,7 +7,7 @@ tags:
   - anchoring-bias
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example. Sibling heuristic to [[Blood Per Perineum]].
+Sibling heuristic to [[Blood Per Perineum]].
 
 ## Definition
 
@@ -39,4 +39,4 @@ The features that *do* localize — color and character, whether it was coughed 
 
 ## Related Notes
 
-[[Blood Per Perineum]] · [[Hemoptysis]] · [[Hematemesis]] · [[Anatomical Approach]] · [[Anchoring Bias]] · [[Premature Closure]] · [[Framing Effect]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]]
+[[Clinical Reasoning MOC]] · [[Blood Per Perineum]] · [[Hemoptysis]] · [[Hematemesis]] · [[Anatomical Approach]] · [[Anchoring Bias]] · [[Premature Closure]] · [[Framing Effect]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]]

@@ -6,8 +6,6 @@ tags:
   - tempo-based-reasoning
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Altered mental status is a final common pathway, not a diagnosis — nearly every organ system can produce it. The most powerful way to make it tractable (Aaron Berkowitz) is [[Localization × Time Course|localization × time course]]: confirm the brain is the site, then sort the differential by **tempo**. Two gates precede the differential — first *neurologic vs non-neurologic*, then the *time-course bucket* — and only after those does the list of specific diseases become short enough to work.
@@ -29,4 +27,4 @@ Altered mental status is a final common pathway, not a diagnosis — nearly ever
 
 ## Related Notes
 
-[[Localization × Time Course]] · [[Illness Tempo]] · [[Anatomical Approach]] · [[MIST Mnemonic]] · [[Seizure]] · [[Autoimmune Encephalitis]] · [[Non-Convulsive Status Epilepticus]] · [[Test Interpretation]] · [[Schema-Based Reasoning]] · [[CPS 153 - Intermittent Altered Mental Status and Non-Lesional Autoimmune Epilepsy]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]] · [[RLR 037 - Episodic Lightheadedness and Functional Neurological Disorder]]
+[[Clinical Reasoning MOC]] · [[Localization × Time Course]] · [[Illness Tempo]] · [[Anatomical Approach]] · [[MIST Mnemonic]] · [[Seizure]] · [[Autoimmune Encephalitis]] · [[Non-Convulsive Status Epilepticus]] · [[Test Interpretation]] · [[Schema-Based Reasoning]] · [[CPS 153 - Intermittent Altered Mental Status and Non-Lesional Autoimmune Epilepsy]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]] · [[RLR 037 - Episodic Lightheadedness and Functional Neurological Disorder]]

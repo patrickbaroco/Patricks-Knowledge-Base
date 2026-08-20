@@ -1,12 +1,10 @@
 ---
 type: evergreen
-clinical_domains:
-  - clinical reasoning
 tags:
   - clinical-reasoning
 ---
 
-Evergreen concept note. Leave-one-out reasoning: when a set of findings won't localize or unify, provisionally *remove one* and ask whether the rest cohere — a disciplined way to reason under noisy, conflicting data.
+Leave-one-out reasoning: when a set of findings won't localize or unify, provisionally *remove one* and ask whether the rest cohere — a disciplined way to reason under noisy, conflicting data.
 
 ## The move
 
@@ -15,6 +13,10 @@ Complex presentations often contain one finding that refuses to fit any single e
 ## Worked example (RLR 059)
 
 Facing an 82-year-old with weakness, numbness, back pain, bowel/bladder changes, and facial numbness — across three disagreeing exams — Aaron Berkowitz reasoned: if the **urinary retention** is real, the process is in the cord/roots and a peripheral neuropathy can't explain it; if the **facial numbness** is real, it can't be the cord alone (the trigeminal is at brainstem/meninges). Holding each finding in and out in turn kept the localization honest until imaging showed a *dual* process (compressive cauda equina **plus** leptomeningeal disease) that a single forced unifier would have missed. ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]])
+
+## Second worked example (RLR 078)
+
+Facing hearing loss, a nonspecific white matter lesion, and a mildly inflammatory CSF, Aaron Berkowitz explicitly runs the move in reverse to unstick a stalled differential: deliberately set the most salient symptom (the hearing loss) aside as a possible red herring and ask what the *remaining* elements — an evolving, nonspecific lesion plus mild CSF inflammation — point toward on their own. Only once a new headache and progressive weakness appear does he re-run the exercise forward, pairing each remaining element with the others ("what do X and Y point to, leaving out Z?") until the combination of headache, an evolving lesion, and inflammatory CSF converges on primary CNS vasculitis — with the hearing loss's role left explicitly unresolved rather than forced into the final story. ([[RLR 078 - Hearing Loss, an Isolated White Matter Lesion, and Primary CNS Vasculitis|RLR 078]])
 
 ## Why it works
 
@@ -28,4 +30,4 @@ Leave-one-out is a scaffold for thinking, not permission to ignore an inconvenie
 
 ## Related Notes
 
-[[Neuroanatomical Localization]] · [[Hickam's Dictum]] · [[Diagnostic Humility]] · [[Return to the Bedside]] · [[Anatomical Approach]] · [[Cognitive Autopsy]] · [[Parallel Reasoning]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Neuroanatomical Localization]] · [[Hickam's Dictum]] · [[Diagnostic Humility]] · [[Return to the Bedside]] · [[Anatomical Approach]] · [[Cognitive Autopsy]] · [[Parallel Reasoning]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]] · [[RLR 078 - Hearing Loss, an Isolated White Matter Lesion, and Primary CNS Vasculitis]]

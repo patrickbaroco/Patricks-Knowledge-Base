@@ -6,8 +6,6 @@ tags:
   - anchoring-bias
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Anchoring bias is the tendency to lock onto the first salient piece of information — a number, a symptom, a prior diagnosis, a triage label — and then under-adjust as new, contradicting data arrive. The initial value becomes a reference point the mind stays tethered to; subsequent evidence nudges the estimate a little but rarely enough. It was described by Tversky and Kahneman as "anchoring and adjustment": people start from an anchor and adjust insufficiently, so the final judgment is pulled toward wherever they began.
@@ -45,4 +43,4 @@ In clinical reasoning the anchor is usually one of a few things: an eye-catching
 
 ## Related Notes
 
-[[Premature Closure]] · [[Framing Effect]] · [[Availability Heuristic]] · [[Search Satisficing]] · [[Base-Rate Neglect]] · [[Bayesian Reasoning]] · [[Cognitive Autopsy]] · [[Illness Script]] · [[RLR 001 - New Onset Headache]] · [[RLR 002 - Nausea, Vomiting, and Hyponatremia]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 004 - Rectal Pain and Proctitis]] · [[RLR 006 - Bradycardia and Urinary Retention]] · [[RLR 007 - Hypercalcemia]]
+[[Clinical Reasoning MOC]] · [[Premature Closure]] · [[Framing Effect]] · [[Availability Heuristic]] · [[Search Satisficing]] · [[Base-Rate Neglect]] · [[Bayesian Reasoning]] · [[Cognitive Autopsy]] · [[Illness Script]] · [[RLR 001 - New Onset Headache]] · [[RLR 002 - Nausea, Vomiting, and Hyponatremia]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 004 - Rectal Pain and Proctitis]] · [[RLR 006 - Bradycardia and Urinary Retention]] · [[RLR 007 - Hypercalcemia]]

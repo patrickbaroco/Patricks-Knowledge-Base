@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
-  - cardiology
 tags:
   - clinical-reasoning
+  - neurology
+  - cardiology
 ---
 
-Evergreen concept note. Transient loss of consciousness (TLOC) is the symptom-level presentation that "syncope" prematurely names; it is worked through the four S's and split by the quality of recovery. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Transient loss of consciousness (TLOC) is the symptom-level presentation that "syncope" prematurely names; it is worked through the four S's and split by the quality of recovery.
 
 ## Reframe the Complaint
 Patients do not experience "syncope" — a *conclusion* — they experience **transient loss of consciousness**. Starting at TLOC keeps the differential open ([[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis|RLR 060]]).
@@ -31,4 +30,4 @@ Once TLOC is narrowed to syncope, subclassify:
 - **Cardiac** — arrhythmic (brady, e.g., **[[AV Block]]**; or tachy) or structural/obstructive (aortic stenosis, HOCM, PE, tamponade). Exertional or supine syncope, absent prodrome, structural disease, or an abnormal EKG marks the highest-risk group — pursue EKG/telemetry/echo. Advanced conduction disease (e.g., from [[Cardiac Sarcoidosis]]) can present exactly this way ([[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis|RLR 060]]).
 
 ## Related Notes
-[[AV Block]] · [[Cardiac Sarcoidosis]] · [[Schema-Based Reasoning]] · [[Illness Tempo]] · [[Diagnostic Humility]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[AV Block]] · [[Cardiac Sarcoidosis]] · [[Schema-Based Reasoning]] · [[Illness Tempo]] · [[Diagnostic Humility]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]

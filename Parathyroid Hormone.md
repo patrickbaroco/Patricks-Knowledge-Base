@@ -1,15 +1,14 @@
 ---
 type: evergreen
-clinical_domains:
-  - endocrinology
-  - nephrology
 tags:
   - clinical-reasoning
+  - endocrinology
+  - nephrology
 aliases:
   - PTH
 ---
 
-Evergreen concept note. The PTH axis and its role as the first fork in the [[Hypercalcemia|hypercalcemia]] workup. General physiology is scaffolding; teaching points from the RLR / Clinical Problem Solvers series are cited per point.
+The PTH axis and its role as the first fork in the [[Hypercalcemia|hypercalcemia]] workup.
 
 ![Elevated PTH Diagnostic Schema](https://www.rlrcpsolvers.com/wp-content/uploads/2022/09/elevated-pth-diagnostic-schema.jpg)
 
@@ -42,4 +41,4 @@ The three hyperparathyroid states are distinguished by the calcium–PTH pairing
 
 ## Related Notes
 
-[[Hypercalcemia]] · [[Primary Hyperparathyroidism]] · [[Secondary Hyperparathyroidism]] · [[Tertiary Hyperparathyroidism]] · [[PTHrP]] · [[Hypercalcemia of Malignancy]] · [[1-Alpha-Hydroxylation]] · [[Ionized Calcium]] · [[Cinacalcet]] · [[End-Stage Renal Disease]] · [[RLR 007 - Hypercalcemia]]
+[[Clinical Reasoning MOC]] · [[Hypercalcemia]] · [[Primary Hyperparathyroidism]] · [[Secondary Hyperparathyroidism]] · [[Tertiary Hyperparathyroidism]] · [[PTHrP]] · [[Hypercalcemia of Malignancy]] · [[1-Alpha-Hydroxylation]] · [[Ionized Calcium]] · [[Cinacalcet]] · [[End-Stage Renal Disease]] · [[RLR 007 - Hypercalcemia]]

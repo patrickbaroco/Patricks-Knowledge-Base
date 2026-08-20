@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
 tags:
   - clinical-reasoning
+  - hematology
 ---
 
-Evergreen concept note. The hemolysis schema and its worked instances across the RLR / Clinical Problem Solvers series. General physiology is scaffolding; teaching points are cited per episode.
+The hemolysis schema and its worked instances across the RLR / Clinical Problem Solvers series.
 
 > Schema: [CP Solvers — Anemia / hemolysis](https://www.rlrcpsolvers.com/schemas-scripts-and-videos/blood-and-cancer-diagnostic-schemas/)
 
@@ -33,4 +32,4 @@ Evergreen concept note. The hemolysis schema and its worked instances across the
 
 ## Related Notes
 
-[[Immune-Mediated Hemolysis]] · [[Autoimmune Hemolytic Anemia]] · [[Delayed Hemolytic Transfusion Reaction]] · [[Anemia and Thrombocytopenia]] · [[Microangiopathic Hemolytic Anemia]] · [[Compensated Hemolysis]] · [[Haptoglobin]] · [[Peripheral Blood Smear]] · [[Spherocytes]] · [[Direct Coombs Test]] · [[G6PD Deficiency]] · [[Heinz Body Hemolytic Anemia]] · [[Gilbert Syndrome]] · [[Babesiosis]] · [[Law of Proportionality]] · [[Schema-Based Reasoning]] · [[RLR 015 - Hemolysis and Heinz Body Hemolytic Anemia]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]
+[[Clinical Reasoning MOC]] · [[Immune-Mediated Hemolysis]] · [[Autoimmune Hemolytic Anemia]] · [[Delayed Hemolytic Transfusion Reaction]] · [[Anemia and Thrombocytopenia]] · [[Microangiopathic Hemolytic Anemia]] · [[Compensated Hemolysis]] · [[Haptoglobin]] · [[Peripheral Blood Smear]] · [[Spherocytes]] · [[Direct Coombs Test]] · [[G6PD Deficiency]] · [[Heinz Body Hemolytic Anemia]] · [[Gilbert Syndrome]] · [[Babesiosis]] · [[Law of Proportionality]] · [[Schema-Based Reasoning]] · [[RLR 015 - Hemolysis and Heinz Body Hemolytic Anemia]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]

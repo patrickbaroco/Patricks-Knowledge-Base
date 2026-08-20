@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - endocrinology
 tags:
   - clinical-reasoning
+  - endocrinology
 ---
 
-Evergreen concept note. The vitamin D pathway and how to interpret its metabolites. Teaching points cited per episode.
+The vitamin D pathway and how to interpret its metabolites.
 
 ## The three forms
 
@@ -19,4 +18,4 @@ Evergreen concept note. The vitamin D pathway and how to interpret its metabolit
 
 ## Related Notes
 
-[[25-Hydroxyvitamin D]] · [[Calcitriol]] · [[1-Alpha-Hydroxylation]] · [[Vitamin D Toxicity]] · [[Granulomatous Disease]] · [[PTHrP]] · [[Hypercalcemia]] · [[Test Interpretation]] · [[RLR 007 - Hypercalcemia]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]
+[[Clinical Reasoning MOC]] · [[25-Hydroxyvitamin D]] · [[Calcitriol]] · [[1-Alpha-Hydroxylation]] · [[Vitamin D Toxicity]] · [[Granulomatous Disease]] · [[PTHrP]] · [[Hypercalcemia]] · [[Test Interpretation]] · [[RLR 007 - Hypercalcemia]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]

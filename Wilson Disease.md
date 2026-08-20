@@ -1,0 +1,33 @@
+---
+type: evergreen
+tags:
+  - clinical-reasoning
+  - neurology
+  - hepatology
+---
+
+Wilson disease is an autosomal recessive disorder of copper metabolism caused by mutations in **ATP7B**, the hepatocyte copper-transporting ATPase; the resulting failure to excrete copper into bile lets the metal accumulate first in the liver and then, once hepatic storage is exceeded, in the brain and other tissues. It belongs on the short list of diseases that reorganize a case by patient age alone — a [[Young Patient Schema|young-patient-schema]] diagnosis that should be actively pulled into the differential whenever neuropsychiatric and hepatic findings co-occur in someone under roughly 40, with onset typically in the teens to twenties ([[CPS 447 - Psychiatric Disturbance, Tremor, and Wilson Disease|CPS 447]]).
+
+## Pathophysiology: a failure of biliary copper excretion
+
+ATP7B normally does two jobs: it loads copper onto apoceruloplasmin to form functional ceruloplasmin, and it exports excess hepatocyte copper into bile. Loss of function does both harms at once — serum [[Ceruloplasmin|ceruloplasmin]] falls (less copper is being loaded onto it) while unbound, non-ceruloplasmin-bound copper builds up in the liver, eventually spilling into the bloodstream and depositing in the basal ganglia, cornea, kidneys, and elsewhere. The pattern this produces — a hepatic phase followed by, or overlapping with, a neuropsychiatric phase — is what makes the disease read as one unifying process rather than a coincidental collection of findings ([[CPS 447 - Psychiatric Disturbance, Tremor, and Wilson Disease|CPS 447]]).
+
+## The triad: movement disorder, liver disease, and psychiatric change
+
+The organizing move, per [[CPS 447 - Psychiatric Disturbance, Tremor, and Wilson Disease|CPS 447]], is a **[[Unifying Diagnosis|Venn diagram]]**: a young person with a *new movement disorder* + *new liver disease* + *psychiatric change* is Wilson disease until proven otherwise, and it is reasonable to let that combination anchor the differential — Berkowitz and the discussant openly name their [[Anchoring Bias|anchoring]] on it while still generating the honest alternatives (neuroacanthocytosis, Niemann-Pick, acute intermittent porphyria, other inborn errors of metabolism, or a toxin causing combined hepatic-plus-neurologic injury).
+
+- **Hepatic** — ranges from asymptomatic transaminase elevation to overt chronic liver disease; the index case in CPS 447 had intermittent right-upper-quadrant pain, mild hepatomegaly progressing to hepatosplenomegaly, thrombocytopenia (from early portal hypertension/hypersplenism), and only mildly raised transaminases — easy to underread until someone specifically palpates the liver edge.
+- **Neurologic/movement disorder** — the movement disorder can be almost anything: the classic descriptor is a proximal **wing-beating tremor** (a coarse tremor with the arms held abducted), but [[Parkinsonism|parkinsonism]], [[Dystonia|dystonia]], or a [[Tremor|tremor]] of any activation pattern can be the presentation. In CPS 447 the actual exam finding was a unilateral **rest + posture + action, high-amplitude tremor** — a phenomenology that overlaps with [[Holmes Tremor|rubral/Holmes tremor]] (red nucleus/midbrain) and is disambiguated the same way any mixed, high-amplitude limb movement is: apply the [[Movement Disorder Approach|movement-disorder method]] and, when an arm looks confusingly chorea-like, "look at a quieter body part" — because a patient rarely has two distinct movement disorders. Wilson disease can also present as **chorea**; [[CPS 186 - Left-Sided Involuntary Movements and Hemichorea from Non-Ketotic Hyperglycemia|CPS 186]] places it among the chronic-tempo chorea causes (alongside Huntington disease, chorea-acanthocytosis, and DRPLA), again with the wing-beating tremor as its classic marker and a bias toward younger patients. A **unilateral** movement disorder is itself a data point: it is a stretch for a toxic-metabolic cause (aside from [[Hyperglycemic Hemichorea|hyperglycemic hemichorea]]) and instead favors a structural or degenerative process such as Wilson disease.
+- **Psychiatric** — neuropsychiatric presentations are common and are frequently mistaken for primary psychiatric disease; the CPS 447 patient was initially worked up as "index psychosis" before hepatomegaly was noticed on exam. Acute psychiatric disturbance in a young person should be approached like [[Altered Mental Status|altered mental status]] — medical / neurologic / psychiatric buckets, most often medical — with a new movement disorder alongside new psychiatric symptoms also raising [[Anti-NMDA Receptor Encephalitis|anti-NMDA receptor encephalitis]] as a competing hypothesis.
+
+## Diagnostic workup
+
+The confirmatory panel, per [[CPS 447 - Psychiatric Disturbance, Tremor, and Wilson Disease|CPS 447]]: low serum [[Ceruloplasmin|ceruloplasmin]], a markedly elevated 24-hour urine copper, **[[Kayser-Fleischer Rings|Kayser-Fleischer rings]]** on **slit-lamp** examination (these are easily missed or confused with arcus senilis by naked eye — a slit lamp is genuinely required), ATP7B genetic testing, and hepatic copper quantification on liver biopsy. Brain MRI often shows putaminal/basal-ganglia T2 hyperintensity, sometimes with subtle midbrain change, and can produce the **[[Face of the Giant Panda Sign|face-of-the-giant-panda sign]]** or a split-thalamus sign. In the CPS 447 case, the rest of the acute work-up (CT, EEG, lumbar puncture, HIV/RPR/thyroid/B12) was normal or unrevealing, which is expected — Wilson disease is a diagnosis made by a targeted copper/hepatic panel, not by ruling out an infectious or autoimmune encephalitis.
+
+## Treatment
+
+Treatment is chelation (penicillamine or trientine) or zinc therapy, with liver transplantation reserved for fulminant or decompensated hepatic disease. A clinically important caveat from CPS 447: neurologic symptoms can **transiently worsen** after chelation is started, so early deterioration on treatment should not automatically be read as treatment failure or an alternative diagnosis.
+
+## Related Notes
+
+[[Clinical Reasoning MOC]] · [[Tremor]] · [[Movement Disorder Approach]] · [[Parkinsonism]] · [[Dystonia]] · [[Chorea]] · [[Holmes Tremor]] · [[Hyperglycemic Hemichorea]] · [[Ceruloplasmin]] · [[Kayser-Fleischer Rings]] · [[Face of the Giant Panda Sign]] · [[Young Patient Schema]] · [[Unifying Diagnosis]] · [[Anchoring Bias]] · [[Altered Mental Status]] · [[Anti-NMDA Receptor Encephalitis]] · [[CPS 447 - Psychiatric Disturbance, Tremor, and Wilson Disease]] · [[CPS 186 - Left-Sided Involuntary Movements and Hemichorea from Non-Ketotic Hyperglycemia]]

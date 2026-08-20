@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - gastroenterology
-  - immunology
 tags:
   - clinical-reasoning
+  - gastroenterology
+  - immunology
 ---
 
-Evergreen concept note. Inflammatory bowel disease encompasses Crohn's disease, ulcerative colitis, and microscopic colitis — chronic immune-mediated intestinal inflammation whose workup begins by excluding infection. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Inflammatory bowel disease encompasses Crohn's disease, ulcerative colitis, and microscopic colitis — chronic immune-mediated intestinal inflammation whose workup begins by excluding infection.
 
 ## Subtypes and Distribution
 - **Crohn's disease** — transmural inflammation, **skip lesions**, granulomas, anywhere from mouth to anus with a predilection for the **terminal ileum**; **rectal sparing** is characteristic. **Ileal involvement with rectal sparing in a young patient favored Crohn's** on the RLR case ([[RLR 063 - Diarrhea and Behçet's Disease|RLR 063]]).
@@ -40,4 +39,4 @@ The disciplined rule is to **rule out infection before immunosuppressing**, beca
 - Keep **"autoimmune" broader than "rheumatologic"** so immune-mediated GI disease does not fall off the checklist ([[RLR 063 - Diarrhea and Behçet's Disease|RLR 063]]).
 
 ## Related Notes
-[[Colitis]] · [[Behçet's Disease]] · [[Fecal Calprotectin]] · [[Stool Lactoferrin]] · [[Diagnostic Momentum]] · [[Illness Tempo]] · [[RLR 063 - Diarrhea and Behçet's Disease]]
+[[Clinical Reasoning MOC]] · [[Colitis]] · [[Behçet's Disease]] · [[Fecal Calprotectin]] · [[Stool Lactoferrin]] · [[Diagnostic Momentum]] · [[Illness Tempo]] · [[RLR 063 - Diarrhea and Behçet's Disease]]

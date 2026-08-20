@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - transfusion medicine
 tags:
   - clinical-reasoning
+  - hematology
+  - transfusion-medicine
 ---
 
-Evergreen concept note. Delayed hemolytic transfusion reaction — the alloimmune branch of [[Immune-Mediated Hemolysis|immune hemolysis]]. Teaching points cited per episode.
+Delayed hemolytic transfusion reaction — the alloimmune branch of [[Immune-Mediated Hemolysis|immune hemolysis]].
 
 ## The mechanism and timing
 
@@ -24,4 +23,4 @@ Evergreen concept note. Delayed hemolytic transfusion reaction — the alloimmun
 
 ## Related Notes
 
-[[Immune-Mediated Hemolysis]] · [[Hemolysis]] · [[Intravascular Hemolysis]] · [[Direct Coombs Test]] · [[Spherocytes]] · [[Type 2 Myocardial Infarction]] · [[Pigment Nephropathy]] · [[Law of Proportionality]] · [[Hickam's Dictum]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]]
+[[Clinical Reasoning MOC]] · [[Immune-Mediated Hemolysis]] · [[Hemolysis]] · [[Intravascular Hemolysis]] · [[Direct Coombs Test]] · [[Spherocytes]] · [[Type 2 Myocardial Infarction]] · [[Pigment Nephropathy]] · [[Law of Proportionality]] · [[Hickam's Dictum]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]]

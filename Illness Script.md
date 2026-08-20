@@ -5,8 +5,6 @@ tags:
   - illness-script
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 An illness script is the structured knowledge package a clinician holds for a disease — its predisposing conditions and epidemiology, its pathophysiology and time course, and its typical manifestations and management. Diagnosis is largely pattern-matching the patient against stored scripts; the quality of reasoning therefore tracks the quality and completeness of the scripts, not raw intelligence. Two properties of scripts recur across the series and have their own notes: [[Illness Script Command|command]] (fluency with a script) and [[Illness Script Flexibility|flexibility]] (adjusting a script's boundaries).
@@ -31,4 +29,4 @@ An illness script is the structured knowledge package a clinician holds for a di
 
 ## Related Notes
 
-[[Illness Script Command]] · [[Illness Script Flexibility]] · [[Schema-Based Reasoning]] · [[Cognitive Autopsy]] · [[Base Rate]] · [[Illness Tempo]] · [[Representativeness Heuristic]] · [[RLR 007 - Hypercalcemia]] · [[RLR 009 - Progressive Sensorimotor Polyneuropathy]] · [[RLR 012 - Dysuria and Esophageal Perforation]]
+[[Clinical Reasoning MOC]] · [[Illness Script Command]] · [[Illness Script Flexibility]] · [[Schema-Based Reasoning]] · [[Cognitive Autopsy]] · [[Base Rate]] · [[Illness Tempo]] · [[Representativeness Heuristic]] · [[RLR 007 - Hypercalcemia]] · [[RLR 009 - Progressive Sensorimotor Polyneuropathy]] · [[RLR 012 - Dysuria and Esophageal Perforation]]

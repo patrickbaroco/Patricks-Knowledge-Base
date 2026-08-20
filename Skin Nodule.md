@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - dermatology
 tags:
   - clinical-reasoning
+  - dermatology
 ---
 
-Evergreen concept note. A schema for cutaneous nodules. Teaching points cited per episode.
+A schema for cutaneous nodules.
 
 ## The schema: deep, or infiltrating from afar
 
@@ -23,4 +22,4 @@ Nodules are **deep-space** lesions, so they mean one of two things — something
 
 ## Related Notes
 
-[[Panniculitis]] · [[Sweet Syndrome]] · [[Cutaneous Tuberculosis]] · [[Leukemia Cutis]] · [[Granulomatous Disease]] · [[Monocytosis]] · [[Return to the Bedside]] · [[Schema-Based Reasoning]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]
+[[Clinical Reasoning MOC]] · [[Panniculitis]] · [[Sweet Syndrome]] · [[Cutaneous Tuberculosis]] · [[Leukemia Cutis]] · [[Granulomatous Disease]] · [[Monocytosis]] · [[Return to the Bedside]] · [[Schema-Based Reasoning]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]

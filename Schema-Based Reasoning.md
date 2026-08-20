@@ -5,8 +5,6 @@ tags:
   - schema-based-reasoning
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Schema-based reasoning is solving a problem by consulting a pre-built, branching framework rather than free-associating from memory. A schema takes a presenting problem (hypercalcemia, syncope, a pleuritic pain) and partitions its differential into a small number of mechanistic buckets that can be walked at the bedside. Its great virtue is on *rare* and *high-entropy* complaints, where gestalt and recall fail but a checklist consulted at the moment of framing does not.
@@ -35,4 +33,4 @@ The related idea of **schema multiplicity** ([[RLR 014 - Hypercalcemia and Immob
 
 ## Related Notes
 
-[[Illness Script]] · [[Anatomical Approach]] · [[Center of Gravity]] · [[Base Rate]] · [[Availability Heuristic]] · [[Cognitive Autopsy]] · [[MIST Mnemonic]] · [[RLR 012 - Dysuria and Esophageal Perforation]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 015 - Hemolysis and Heinz Body Hemolytic Anemia]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]] · [[RLR 023 - Pleuritic Chest Pain and Pulmonary Langerhans Cell Histiocytosis]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 025 - Liver Chemistry Abnormalities and Intrahepatic Cholestasis of Pregnancy]] · [[RLR 026 - Syncope and Occult Gastrointestinal Bleeding]] · [[RLR 027 - Dizziness and Peripheral Vertigo]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]
+[[Clinical Reasoning MOC]] · [[Illness Script]] · [[Anatomical Approach]] · [[Center of Gravity]] · [[Base Rate]] · [[Availability Heuristic]] · [[Cognitive Autopsy]] · [[MIST Mnemonic]] · [[RLR 012 - Dysuria and Esophageal Perforation]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 015 - Hemolysis and Heinz Body Hemolytic Anemia]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]] · [[RLR 023 - Pleuritic Chest Pain and Pulmonary Langerhans Cell Histiocytosis]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 025 - Liver Chemistry Abnormalities and Intrahepatic Cholestasis of Pregnancy]] · [[RLR 026 - Syncope and Occult Gastrointestinal Bleeding]] · [[RLR 027 - Dizziness and Peripheral Vertigo]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]

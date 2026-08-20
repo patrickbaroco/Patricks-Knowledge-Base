@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
 tags:
   - clinical-reasoning
+  - neurology
 ---
 
-Evergreen concept note. Chronic inflammatory demyelinating polyradiculoneuropathy — the chronic, treatable cousin of Guillain-Barré syndrome, defined by its tempo and non-length-dependent pattern. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Chronic inflammatory demyelinating polyradiculoneuropathy — the chronic, treatable cousin of Guillain-Barré syndrome, defined by its tempo and non-length-dependent pattern.
 
 ## Definition and Relationship to GBS
 CIDP is an acquired, immune-mediated **demyelinating polyradiculoneuropathy** that develops or relapses over **at least 8 weeks** — distinguishing it by tempo from the acute course of [[Guillain-Barré Syndrome|GBS]], its "chronic cousin" ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -29,4 +28,4 @@ CIDP is an acquired, immune-mediated **demyelinating polyradiculoneuropathy** th
 - **Maintenance** with periodic IVIG or steroid-sparing immunosuppression; response supports the diagnosis, and CIDP is important precisely because it is treatable.
 
 ## Related Notes
-[[Guillain-Barré Syndrome]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Spine vs Peripheral Nerve]] · [[Subacute Combined Degeneration]] · [[Illness Tempo]] · [[Neuroanatomical Localization]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Guillain-Barré Syndrome]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Spine vs Peripheral Nerve]] · [[Subacute Combined Degeneration]] · [[Illness Tempo]] · [[Neuroanatomical Localization]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - endocrinology
 tags:
   - clinical-reasoning
+  - endocrinology
 ---
 
-Evergreen concept note. Immobilization hypercalcemia — one of the "two I's" on the [[Hypercalcemia|hypercalcemia]] schema. Teaching points cited per episode.
+Immobilization hypercalcemia — one of the "two I's" on the [[Hypercalcemia|hypercalcemia]] schema.
 
 ## The illness script
 
@@ -21,4 +20,4 @@ Evergreen concept note. Immobilization hypercalcemia — one of the "two I's" on
 
 ## Related Notes
 
-[[Hypercalcemia]] · [[Parathyroid Hormone]] · [[Milk-Alkali Syndrome]] · [[Granulomatous Disease]] · [[Paget Disease of Bone]] · [[Representativeness Heuristic]] · [[Base Rate]] · [[Illness Script]] · [[RLR 007 - Hypercalcemia]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]
+[[Clinical Reasoning MOC]] · [[Hypercalcemia]] · [[Parathyroid Hormone]] · [[Milk-Alkali Syndrome]] · [[Granulomatous Disease]] · [[Paget Disease of Bone]] · [[Representativeness Heuristic]] · [[Base Rate]] · [[Illness Script]] · [[RLR 007 - Hypercalcemia]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]

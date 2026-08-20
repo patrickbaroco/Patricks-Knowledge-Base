@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - gastroenterology
 tags:
   - clinical-reasoning
+  - gastroenterology
 ---
 
-Evergreen concept note. Colitis is inflammation of the colon; a compact "four I's" schema organizes its causes and drives a disciplined imaging-and-endoscopy workup. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Colitis is inflammation of the colon; a compact "four I's" schema organizes its causes and drives a disciplined imaging-and-endoscopy workup.
 
 ## The Four I's Schema
 When colitis is found on imaging or endoscopy, a durable framework sorts the differential into four buckets ([[RLR 063 - Diarrhea and Behçet's Disease|RLR 063]]):
@@ -33,4 +32,4 @@ The **distribution and depth** of inflammation narrow the four I's before biopsy
 - **Tempo** matters: an acute presentation with a long relapsing history reweights the buckets away from acute infection and toward immune-mediated disease ([[RLR 063 - Diarrhea and Behçet's Disease|RLR 063]], see [[Illness Tempo]]).
 
 ## Related Notes
-[[Inflammatory Bowel Disease]] · [[Behçet's Disease]] · [[Fecal Calprotectin]] · [[Stool Lactoferrin]] · [[Schema-Based Reasoning]] · [[Illness Tempo]] · [[RLR 063 - Diarrhea and Behçet's Disease]]
+[[Clinical Reasoning MOC]] · [[Inflammatory Bowel Disease]] · [[Behçet's Disease]] · [[Fecal Calprotectin]] · [[Stool Lactoferrin]] · [[Schema-Based Reasoning]] · [[Illness Tempo]] · [[RLR 063 - Diarrhea and Behçet's Disease]]

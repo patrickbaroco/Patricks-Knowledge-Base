@@ -6,8 +6,6 @@ tags:
   - search-satisficing
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Search satisficing is calling off the diagnostic hunt as soon as one *satisfactory* explanation is found — accepting the first sufficient answer rather than the best or the complete one. It is the near-synonym of [[Premature Closure|premature closure]], with a specific flavor: the danger is not just stopping early but stopping when a problem is *multifactorial* or has a *second, co-occurring* finding that the first explanation quietly absorbs. In radiology it is the "satisfaction of search" that misses the second fracture once the first is seen.
@@ -33,4 +31,4 @@ Search satisficing is calling off the diagnostic hunt as soon as one *satisfacto
 
 ## Related Notes
 
-[[Premature Closure]] · [[Anchoring Bias]] · [[Diagnostic Momentum]] · [[Illness Script]] · [[Cognitive Autopsy]] · [[Hickam's Dictum]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 009 - Progressive Sensorimotor Polyneuropathy]] · [[RLR 012 - Dysuria and Esophageal Perforation]]
+[[Clinical Reasoning MOC]] · [[Premature Closure]] · [[Anchoring Bias]] · [[Diagnostic Momentum]] · [[Illness Script]] · [[Cognitive Autopsy]] · [[Hickam's Dictum]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 009 - Progressive Sensorimotor Polyneuropathy]] · [[RLR 012 - Dysuria and Esophageal Perforation]]

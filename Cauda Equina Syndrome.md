@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
-  - emergency-medicine
 tags:
   - clinical-reasoning
+  - neurology
+  - emergency-medicine
 ---
 
-Evergreen concept note. A polyradiculopathy of the lumbosacral nerve roots below the conus medullaris, producing lower-motor-neuron leg weakness, saddle sensory loss, and sphincter failure — a compressive form of which is a surgical emergency. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+A polyradiculopathy of the lumbosacral nerve roots below the conus medullaris, producing lower-motor-neuron leg weakness, saddle sensory loss, and sphincter failure — a compressive form of which is a surgical emergency.
 
 ## Anatomy and Definition
 Below roughly L1–L2 the cord ends (conus medullaris) and the canal carries the **cauda equina** — the lumbosacral roots. Injury here is a **lower-motor-neuron** process, distinguishing it from a cord myelopathy ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -36,4 +35,4 @@ The initial fork is **compressive (structural) vs non-compressive** — MRI answ
 - **Non-compressive causes** are treated by etiology (chemotherapy/radiation for carcinomatous disease, immunosuppression for sarcoid, antimicrobials for infection).
 
 ## Related Notes
-[[Leptomeningeal Carcinomatosis]] · [[Spine vs Peripheral Nerve]] · [[Neuroanatomical Localization]] · [[Pachymeningeal vs Leptomeningeal Enhancement]] · [[Froin Syndrome]] · [[When to Worry]] · [[Hickam's Dictum]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Leptomeningeal Carcinomatosis]] · [[Spine vs Peripheral Nerve]] · [[Neuroanatomical Localization]] · [[Pachymeningeal vs Leptomeningeal Enhancement]] · [[Froin Syndrome]] · [[When to Worry]] · [[Hickam's Dictum]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

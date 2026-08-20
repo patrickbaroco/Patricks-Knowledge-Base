@@ -1,14 +1,13 @@
 ---
 type: evergreen
-clinical_domains:
+tags:
+  - clinical-reasoning
   - rheumatology
   - gastroenterology
   - immunology
-tags:
-  - clinical-reasoning
 ---
 
-Evergreen concept note. Behçet's disease is a variable-vessel systemic vasculitis defined clinically by recurrent oral and genital ulceration with ocular, cutaneous, articular, neurologic, vascular, and gastrointestinal involvement. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Behçet's disease is a variable-vessel systemic vasculitis defined clinically by recurrent oral and genital ulceration with ocular, cutaneous, articular, neurologic, vascular, and gastrointestinal involvement.
 
 ## Definition and Core Features
 Behçet's disease is a chronic, relapsing, multisystem inflammatory disorder classified among the variable-vessel vasculitides (it can involve arteries and veins of any size). Its clinical signature is **recurrent aphthous ulceration**, and the diagnosis is fundamentally clinical.
@@ -46,4 +45,4 @@ Gastrointestinal Behçet's ("intestinal Behçet's") is a great mimic of Crohn's 
 - General reviews of intestinal Behçet's vs Crohn's differentiation.
 
 ## Related Notes
-[[Pathergy]] · [[Colitis]] · [[Inflammatory Bowel Disease]] · [[A20 Haploinsufficiency]] · [[Base Rate]] · [[Young Patient Schema]] · [[RLR 063 - Diarrhea and Behçet's Disease]]
+[[Clinical Reasoning MOC]] · [[Pathergy]] · [[Colitis]] · [[Inflammatory Bowel Disease]] · [[A20 Haploinsufficiency]] · [[Base Rate]] · [[Young Patient Schema]] · [[RLR 063 - Diarrhea and Behçet's Disease]]

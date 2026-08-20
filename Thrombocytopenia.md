@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - internal-medicine
 tags:
   - clinical-reasoning
+  - hematology
+  - internal-medicine
 ---
 
-Evergreen concept note. An approach to a low platelet count: classify by tempo and by company, reason through the accompanying cell lines, and sort mechanism into decreased production, increased destruction, or sequestration. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+An approach to a low platelet count: classify by tempo and by company, reason through the accompanying cell lines, and sort mechanism into decreased production, increased destruction, or sequestration.
 
 ## Two Framing Axes
 Before mechanism, place the thrombocytopenia on two axes ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]):
@@ -36,4 +35,4 @@ When thrombocytopenia is genuinely **chronic and isolated**, the differential co
 - General reviews on the evaluation of thrombocytopenia and isolated cytopenias.
 
 ## Related Notes
-[[Bleeding Framework]] · [[Valve Hemolysis]] · [[Acute but Persistent]] · [[Uremic Platelet Dysfunction]] · [[Illness Tempo]] · [[Schema-Based Reasoning]]
+[[Clinical Reasoning MOC]] · [[Bleeding Framework]] · [[Valve Hemolysis]] · [[Acute but Persistent]] · [[Uremic Platelet Dysfunction]] · [[Illness Tempo]] · [[Schema-Based Reasoning]]

@@ -1,13 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
+tags:
+  - clinical-reasoning
   - nephrology
   - endocrinology
   - oncology
-tags:
-  - clinical-reasoning
 ---
-Evergreen concept note. Teaching points collected from the RLR / Clinical Problem Solvers series. Source episodes are cited per point.
 
 ![Hypercalcemia Overview Diagnostic Schema](https://www.rlrcpsolvers.com/wp-content/uploads/2022/09/hypercalcemia-overview-diagnostic-schema.jpg)
 ## Framework and approach
@@ -43,4 +41,4 @@ Evergreen concept note. Teaching points collected from the RLR / Clinical Proble
 
 ## Related Notes
 
-[[Primary Hyperparathyroidism]] · [[Tertiary Hyperparathyroidism]] · [[Parathyroid Hormone]] · [[PTHrP]] · [[Hypercalcemia of Malignancy]] · [[Hypercalcemia of Immobilization]] · [[Milk-Alkali Syndrome]] · [[Granulomatous Disease]] · [[End-Stage Renal Disease]] · [[1-Alpha-Hydroxylation]] · [[Cinacalcet]] · [[Ionized Calcium]] · [[Bone-Specific Alkaline Phosphatase]] · [[Paget Disease of Bone]] · [[Multiple Myeloma]] · [[Kappa–Lambda Free Light Chain Ratio]] · [[Skeletal Survey]] · [[Bone Scan]] · [[PET-CT]] · [[Squamous Cell Carcinoma]] · [[Positive Predictive Value]] · [[RLR 007 - Hypercalcemia]]
+[[Clinical Reasoning MOC]] · [[Primary Hyperparathyroidism]] · [[Tertiary Hyperparathyroidism]] · [[Parathyroid Hormone]] · [[PTHrP]] · [[Hypercalcemia of Malignancy]] · [[Hypercalcemia of Immobilization]] · [[Milk-Alkali Syndrome]] · [[Granulomatous Disease]] · [[End-Stage Renal Disease]] · [[1-Alpha-Hydroxylation]] · [[Cinacalcet]] · [[Ionized Calcium]] · [[Bone-Specific Alkaline Phosphatase]] · [[Paget Disease of Bone]] · [[Multiple Myeloma]] · [[Kappa–Lambda Free Light Chain Ratio]] · [[Skeletal Survey]] · [[Bone Scan]] · [[PET-CT]] · [[Squamous Cell Carcinoma]] · [[Positive Predictive Value]] · [[RLR 007 - Hypercalcemia]]

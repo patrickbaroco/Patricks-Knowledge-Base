@@ -1,12 +1,10 @@
 ---
 type: evergreen
-clinical_domains:
-  - clinical reasoning
 tags:
   - clinical-reasoning
 ---
 
-Evergreen concept note. The spillover phenomenon: when the sampled fluid is *adjacent* to the inflammation rather than *at* it, the tap comes back deceptively bland — so a quiet sample next to a raging structure points you to the neighbor, not away from disease.
+The spillover phenomenon: when the sampled fluid is *adjacent* to the inflammation rather than *at* it, the tap comes back deceptively bland — so a quiet sample next to a raging structure points you to the neighbor, not away from disease.
 
 ## The principle
 
@@ -28,4 +26,4 @@ When a tap is **discordant** with the clinical picture — the joint/space looks
 
 ## Related Notes
 
-[[Law of Proportionality]] · [[Anatomical Approach]] · [[Analogical Reasoning]] · [[Synovial Fluid Analysis]] · [[Calcific Tendinitis]] · [[Return to the Bedside]] · [[Cognitive Autopsy]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]
+[[Clinical Reasoning MOC]] · [[Law of Proportionality]] · [[Anatomical Approach]] · [[Analogical Reasoning]] · [[Synovial Fluid Analysis]] · [[Calcific Tendinitis]] · [[Return to the Bedside]] · [[Cognitive Autopsy]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]

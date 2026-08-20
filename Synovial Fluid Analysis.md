@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
-  - emergency medicine
 tags:
   - clinical-reasoning
+  - rheumatology
+  - emergency-medicine
 ---
 
-Evergreen concept note. Synovial fluid is read like CSF or pleural fluid — a small structured panel whose results are interpreted together, in order, and never as a single clinching number. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Synovial fluid is read like CSF or pleural fluid — a small structured panel whose results are interpreted together, in order, and never as a single clinching number.
 
 ## Framework — Read It Like CSF or Pleural Fluid
 - **Same mental model as other body-fluid taps** ([[RLR 061 - Knee Swelling and Calcific Tendinitis|RLR 061]]): inspect gross appearance, then cell count and differential, then crystals, then Gram stain/culture (± PCR). Each result is contextual.
@@ -39,4 +38,4 @@ Evergreen concept note. Synovial fluid is read like CSF or pleural fluid — a s
 - Margaretten ME et al., *Does this adult patient have septic arthritis?* JAMA Rational Clinical Examination — synovial WBC likelihood ratios and Gram stain/culture performance.
 
 ## Related Notes
-[[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[Septic Arthritis]] · [[Gout]] · [[CPPD]] · [[Crystals in Macrophages]] · [[Joint Effusion]] · [[Spillover Phenomenon]] · [[Test Interpretation]] · [[Bayesian Reasoning]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]
+[[Clinical Reasoning MOC]] · [[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[Septic Arthritis]] · [[Gout]] · [[CPPD]] · [[Crystals in Macrophages]] · [[Joint Effusion]] · [[Spillover Phenomenon]] · [[Test Interpretation]] · [[Bayesian Reasoning]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]

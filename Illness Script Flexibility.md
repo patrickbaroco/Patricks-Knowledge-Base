@@ -5,8 +5,6 @@ tags:
   - illness-script-flexibility
 ---
 
-Evergreen concept note. A facet of the [[Illness Script]] hub. Source episodes are cited per example.
-
 ## Definition
 
 Illness-script flexibility is the willingness to widen a script's boundaries — its severity, tempo, or histology — so that a textbook host presenting atypically is not under-weighted. A rigid script ("this organism is indolent"; "this disease isn't granulomatous") excludes the right diagnosis on a technicality; flexibility stretches the script to fit the host and the histology in front of you.
@@ -24,4 +22,4 @@ Illness-script flexibility is the willingness to widen a script's boundaries —
 
 ## Related Notes
 
-[[Illness Script]] · [[Illness Script Command]] · [[Base Rate]] · [[Representativeness Heuristic]] · [[Schema-Based Reasoning]] · [[RLR 011 - Fever and Chronic Consolidation]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]]
+[[Clinical Reasoning MOC]] · [[Illness Script]] · [[Illness Script Command]] · [[Base Rate]] · [[Representativeness Heuristic]] · [[Schema-Based Reasoning]] · [[RLR 011 - Fever and Chronic Consolidation]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]]

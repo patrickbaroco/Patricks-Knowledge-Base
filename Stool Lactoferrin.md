@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - gastroenterology
-  - laboratory-medicine
 tags:
   - clinical-reasoning
+  - gastroenterology
+  - laboratory-medicine
 ---
 
-Evergreen concept note. Stool lactoferrin is a neutrophil-derived fecal marker — the "leukocyte esterase of the gut" — that flags fecal white cells and points toward inflammatory intestinal disease. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Stool lactoferrin is a neutrophil-derived fecal marker — the "leukocyte esterase of the gut" — that flags fecal white cells and points toward inflammatory intestinal disease.
 
 ## What It Measures
 Lactoferrin is an **iron-binding glycoprotein contained in the secondary granules of neutrophils**. When neutrophils enter the intestinal lumen during inflammation, lactoferrin appears in the stool.
@@ -30,4 +29,4 @@ Lactoferrin is an **iron-binding glycoprotein contained in the secondary granule
 - The two neutrophil-derived stool markers (lactoferrin and calprotectin) are commonly used interchangeably or in tandem for the same clinical questions ([[RLR 063 - Diarrhea and Behçet's Disease|RLR 063]]).
 
 ## Related Notes
-[[Fecal Calprotectin]] · [[Inflammatory Bowel Disease]] · [[Colitis]] · [[Base Rate]] · [[RLR 063 - Diarrhea and Behçet's Disease]]
+[[Clinical Reasoning MOC]] · [[Fecal Calprotectin]] · [[Inflammatory Bowel Disease]] · [[Colitis]] · [[Base Rate]] · [[RLR 063 - Diarrhea and Behçet's Disease]]

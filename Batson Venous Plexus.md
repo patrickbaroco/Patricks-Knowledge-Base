@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - anatomy
-  - infectious disease
 tags:
   - clinical-reasoning
+  - anatomy
+  - infectious-disease
 ---
 
-Evergreen concept note. The vertebral venous (Batson's) plexus as an anatomic bridge. Teaching points cited per episode.
+The vertebral venous (Batson's) plexus as an anatomic bridge.
 
 ## What it is
 
@@ -21,4 +20,4 @@ Batson's plexus is a network of **valveless** veins running along the vertebral 
 
 ## Related Notes
 
-[[Spinal Epidural Abscess]] · [[Pyelonephritis]] · [[Anatomical Approach]] · [[Myelopathy]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]
+[[Clinical Reasoning MOC]] · [[Spinal Epidural Abscess]] · [[Pyelonephritis]] · [[Anatomical Approach]] · [[Myelopathy]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]

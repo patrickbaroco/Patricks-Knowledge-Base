@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - oncology
 tags:
   - clinical-reasoning
+  - hematology
+  - oncology
 ---
 
-Evergreen concept note. Multiple myeloma across the hypercalcemia, hematuria, and bone-lesion episodes. Teaching points cited per episode.
+Multiple myeloma across the hypercalcemia, hematuria, and bone-lesion episodes.
 
 ## Workup and imaging
 
@@ -21,4 +20,4 @@ Evergreen concept note. Multiple myeloma across the hypercalcemia, hematuria, an
 
 ## Related Notes
 
-[[Hypercalcemia]] · [[Lytic Bone Lesion]] · [[Serum Protein Electrophoresis]] · [[Skeletal Survey]] · [[Bone Scan]] · [[BARC Mnemonic]] · [[Parathyroid Hormone]] · [[Illness Tempo]] · [[Base Rate]] · [[RLR 007 - Hypercalcemia]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]] · [[RLR 031 - Headache and Gorham-Stout Disease]]
+[[Clinical Reasoning MOC]] · [[Hypercalcemia]] · [[Lytic Bone Lesion]] · [[Serum Protein Electrophoresis]] · [[Skeletal Survey]] · [[Bone Scan]] · [[BARC Mnemonic]] · [[Parathyroid Hormone]] · [[Illness Tempo]] · [[Base Rate]] · [[RLR 007 - Hypercalcemia]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]] · [[RLR 031 - Headache and Gorham-Stout Disease]]

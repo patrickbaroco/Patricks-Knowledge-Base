@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
 tags:
   - clinical-reasoning
+  - hematology
 ---
 
-Evergreen concept note. The five-cause schema for a coexisting anemia and thrombocytopenia. Teaching points cited per episode.
+The five-cause schema for a coexisting anemia and thrombocytopenia.
 
 ## The five-cause schema
 
@@ -26,4 +25,4 @@ When anemia and thrombocytopenia appear *together*, the differential collapses t
 
 ## Related Notes
 
-[[Microangiopathic Hemolytic Anemia]] · [[Hemolysis]] · [[Immune-Mediated Hemolysis]] · [[Disseminated Intravascular Coagulation]] · [[Immune Thrombocytopenia]] · [[Myelodysplastic Syndrome]] · [[Peripheral Blood Smear]] · [[Schema-Based Reasoning]] · [[Test Interpretation]] · [[RLR 015 - Hemolysis and Heinz Body Hemolytic Anemia]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]
+[[Clinical Reasoning MOC]] · [[Microangiopathic Hemolytic Anemia]] · [[Hemolysis]] · [[Immune-Mediated Hemolysis]] · [[Disseminated Intravascular Coagulation]] · [[Immune Thrombocytopenia]] · [[Myelodysplastic Syndrome]] · [[Peripheral Blood Smear]] · [[Schema-Based Reasoning]] · [[Test Interpretation]] · [[RLR 015 - Hemolysis and Heinz Body Hemolytic Anemia]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]

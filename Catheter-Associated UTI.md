@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - infectious disease
-  - urology
 tags:
   - clinical-reasoning
+  - infectious-disease
+  - urology
 ---
 
-Evergreen concept note. Catheter-associated UTI (CA-UTI) — how an indwelling Foley rewrites the symptom set and behaves like an obstructed conduit. Teaching points cited per episode.
+Catheter-associated UTI (CA-UTI) — how an indwelling Foley rewrites the symptom set and behaves like an obstructed conduit.
 
 ## The altered symptom set
 
@@ -21,4 +20,4 @@ Evergreen concept note. Catheter-associated UTI (CA-UTI) — how an indwelling F
 
 ## Related Notes
 
-[[Urinary Retention]] · [[Post-Obstructive Uropathy]] · [[Ascending Cholangitis]] · [[Anatomical Approach]] · [[Law of Proportionality]] · [[Altered Mental Status]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]
+[[Clinical Reasoning MOC]] · [[Urinary Retention]] · [[Post-Obstructive Uropathy]] · [[Ascending Cholangitis]] · [[Anatomical Approach]] · [[Law of Proportionality]] · [[Altered Mental Status]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]

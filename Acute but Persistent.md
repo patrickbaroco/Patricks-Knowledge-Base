@@ -1,12 +1,10 @@
 ---
 type: evergreen
-clinical_domains:
-  - clinical reasoning
 tags:
   - clinical-reasoning
 ---
 
-Evergreen concept note. "Acute but persistent" — a tempo category for a finding that appeared *abruptly* in a single step and then *stayed flat*, distinct from a slowly-sneaking "chronic" process. Naming it correctly relinks the finding to its inciting event.
+"Acute but persistent" — a tempo category for a finding that appeared *abruptly* in a single step and then *stayed flat*, distinct from a slowly-sneaking "chronic" process. Naming it correctly relinks the finding to its inciting event.
 
 ## The distinction
 
@@ -26,4 +24,4 @@ This complements [[Illness Tempo|tempo-based reasoning]] and the [[Recurrence|re
 
 ## Related Notes
 
-[[Illness Tempo]] · [[Thrombocytopenia]] · [[TAVR Perivalvular Leak]] · [[Center of Gravity]] · [[Cognitive Autopsy]] · [[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak]] · [[RLR 063 - Diarrhea and Behçet's Disease]]
+[[Clinical Reasoning MOC]] · [[Illness Tempo]] · [[Thrombocytopenia]] · [[TAVR Perivalvular Leak]] · [[Center of Gravity]] · [[Cognitive Autopsy]] · [[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak]] · [[RLR 063 - Diarrhea and Behçet's Disease]]

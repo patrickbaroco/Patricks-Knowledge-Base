@@ -5,8 +5,6 @@ tags:
   - anatomical-approach
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 The anatomical approach builds a differential by walking the relevant structures in space — every organ, layer, or compartment that could generate the finding — rather than by free-listing diseases. It turns a vague, coarse complaint ("UTI," "back pain," "hematuria") into a localized one, and it exploits adjacency: neighboring structures share causes, so one upstream lesion can produce several "organ" findings at once.
@@ -26,7 +24,11 @@ The anatomical approach builds a differential by walking the relevant structures
 - **Compartments of the febrile back.** Psoas, vertebrae, epidural space/dura enumerated; the rigors promote a deep or endovascular infection over non-specific back pain. ([[RLR 017 - Back Pain and Disseminated Nocardiosis|RLR 017]])
 - **Hematuria up the tract.** Bladder, prostate, ureter, and kidney each carry their own lesions, with volume and flank pain helping localize. ([[RLR 018 - Gross Hematuria in End-Stage Renal Disease|RLR 018]])
 - **What one organ can't do.** Isolated cholecystitis cannot drive a hepatocellular transaminitis, so the inflammation must be sited more centrally. ([[RLR 020 - Chest Pain and Ascending Cholangitis|RLR 020]])
+- **Four compartments of an eye complaint.** Any complaint referable to the eye is localized first to one of four compartments — intraocular, orbital, eyelid, or referred pain from a headache syndrome — before a differential is generated within the implicated compartment. ([[RLR 074 - Bilateral Facial Swelling and Pacemaker Lead-Induced SVC Syndrome|RLR 074]])
+- **Compartments of the flank.** "Flank pain" is first split into deep (kidney, movement-independent) versus superficial (paraspinal muscle, movement-worsened); beyond back and kidney, the lower lobe/pleura, the adrenal gland, the pelvic organs, the aorta, and the spleen are all enumerated as structures that can present as flank pain. ([[RLR 079 - Paroxysmal Flank Pain, Tumor Lysis Physiology, and an Occult Myeloproliferative Neoplasm|RLR 079]])
+- **The eye as a passageway, not the source.** Photophobia is localized by asking whether light hitting the eye is painful at the surface (e.g. an abrasion) or because the eye is simply the passageway to a deeper process (migraine, meningitis) — turning a vague symptom into a two-step anatomical question. ([[RLR 080 - Headache, Photophobia, and Neurosyphilis in Advanced HIV|RLR 080]])
+- **Why a chief concern crosses specialties.** Hearing loss is anatomically almost never a neurologic complaint, because the auditory pathway becomes bilaterally represented almost immediately after the eighth nerve synapses at the pontomedullary junction — so a unilateral central lesion essentially cannot cause bilateral hearing loss, and most hearing loss is peripheral (ear or eighth nerve) rather than central. ([[RLR 078 - Hearing Loss, an Isolated White Matter Lesion, and Primary CNS Vasculitis|RLR 078]])
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Center of Gravity]] · [[Illness Script]] · [[Base Rate]] · [[RLR 012 - Dysuria and Esophageal Perforation]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Center of Gravity]] · [[Illness Script]] · [[Base Rate]] · [[RLR 012 - Dysuria and Esophageal Perforation]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 074 - Bilateral Facial Swelling and Pacemaker Lead-Induced SVC Syndrome]] · [[RLR 078 - Hearing Loss, an Isolated White Matter Lesion, and Primary CNS Vasculitis]] · [[RLR 079 - Paroxysmal Flank Pain, Tumor Lysis Physiology, and an Occult Myeloproliferative Neoplasm]] · [[RLR 080 - Headache, Photophobia, and Neurosyphilis in Advanced HIV]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - emergency medicine
 tags:
   - clinical-reasoning
+  - hematology
+  - emergency-medicine
 ---
 
-Evergreen concept note. Anticoagulation reversal is the decision — and the pharmacology — of counteracting an anticoagulant in a bleeding or high-risk patient, driven by the bleeding source, the drug, and the competing thrombotic risk. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Anticoagulation reversal is the decision — and the pharmacology — of counteracting an anticoagulant in a bleeding or high-risk patient, driven by the bleeding source, the drug, and the competing thrombotic risk.
 
 ## The Reversal Decision
 Reversal is never automatic; it is a balance of the bleed against the clot the drug was preventing.
@@ -36,4 +35,4 @@ Warfarin depletes functional factors II, VII, IX, X (and proteins C, S).
 - **Re-anticoagulation planning:** decide *whether and when* to restart, balancing rebleeding against thrombosis; if anticoagulation is untenable in AFib, consider a [[Watchman Procedure]] (analogous to a temporary IVC filter for the patient who can't tolerate DVT anticoagulation) ([[RLR 058 - Inguinal Bulge and Rectus Sheath Hematoma|RLR 058]]).
 
 ## Related Notes
-[[Rectus Sheath Hematoma]] · [[Watchman Procedure]] · [[CHA2DS2-VASc]] · [[Background Affects Foreground]] · [[Test Interpretation]] · [[RLR 058 - Inguinal Bulge and Rectus Sheath Hematoma]]
+[[Clinical Reasoning MOC]] · [[Rectus Sheath Hematoma]] · [[Watchman Procedure]] · [[CHA2DS2-VASc]] · [[Background Affects Foreground]] · [[Test Interpretation]] · [[RLR 058 - Inguinal Bulge and Rectus Sheath Hematoma]]

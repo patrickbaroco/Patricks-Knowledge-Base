@@ -6,8 +6,6 @@ tags:
   - representativeness-heuristic
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 The representativeness heuristic is judging how likely a diagnosis is by how well the patient matches its *prototype* — the textbook picture — rather than by its actual probability. It misleads in two directions: an *atypical trigger or presentation* hides a common mechanism (the case doesn't "look like" the diagnosis, so it's dismissed), and a *classic-looking* case is over-diagnosed despite a low base rate. Described by Tversky and Kahneman, it is the cognitive cousin of [[Base-Rate Neglect|base-rate neglect]]: the prototype, not the frequency, drives the judgment.

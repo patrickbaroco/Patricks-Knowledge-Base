@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
-  - radiology
 tags:
   - clinical-reasoning
+  - neurology
+  - radiology
 ---
 
-Evergreen concept note. A radiographic distinction on contrast MRI — dura (pachymeninges) versus arachnoid-and-pia (leptomeninges) — that carries two different differentials. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+A radiographic distinction on contrast MRI — dura (pachymeninges) versus arachnoid-and-pia (leptomeninges) — that carries two different differentials.
 
 ## The Orange-Peel Model
 A useful mental picture: the **dura is the peel**, thick and following the inner table smoothly; the **leptomeninges (arachnoid + pia) are the wispy layer** hugging the brain surface and dipping into the sulci and around segments/roots ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -33,4 +32,4 @@ Thin, sulcal/cisternal/root-following enhancement ([[RLR 059 - Weakness and Numb
 - **Enhancement can be absent** in thin leptomeningeal disease; a normal MRI does not exclude it, just as PET may be falsely negative (see [[Test Interpretation]]) ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
 
 ## Related Notes
-[[Leptomeningeal Carcinomatosis]] · [[Cauda Equina Syndrome]] · [[Froin Syndrome]] · [[Test Interpretation]] · [[Neuroanatomical Localization]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Leptomeningeal Carcinomatosis]] · [[Cauda Equina Syndrome]] · [[Froin Syndrome]] · [[Test Interpretation]] · [[Neuroanatomical Localization]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

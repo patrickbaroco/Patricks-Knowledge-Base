@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - cardiology
 tags:
   - clinical-reasoning
+  - hematology
+  - cardiology
 ---
 
-Evergreen concept note. An acquired defect of von Willebrand factor — most often from mechanical shear destroying high-molecular-weight multimers — presenting as mucocutaneous bleeding despite normal platelet count and PT/PTT. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+An acquired defect of von Willebrand factor — most often from mechanical shear destroying high-molecular-weight multimers — presenting as mucocutaneous bleeding despite normal platelet count and PT/PTT.
 
 ## Concept
 Von Willebrand factor (vWF) is the **bridge** that tethers platelets to the injured vessel wall and carries factor VIII (see [[Bleeding Framework]]). Its largest, **high-molecular-weight (HMW) multimers** are the most hemostatically active. Acquired von Willebrand syndrome (AVWS) is a loss or dysfunction of vWF developing in a previously unaffected adult — distinguishing it from the far more common congenital von Willebrand disease. Suspect it when bleeding is mucocutaneous and out of proportion, yet platelets and PT/PTT are normal ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]).
@@ -39,4 +38,4 @@ Because assays are nuanced, involve hematology. Key studies:
 - General reviews on acquired von Willebrand syndrome and Heyde syndrome physiology.
 
 ## Related Notes
-[[Bleeding Framework]] · [[Valve Hemolysis]] · [[TAVR Perivalvular Leak]] · [[Uremic Platelet Dysfunction]] · [[Test Interpretation]] · [[Law of Proportionality]]
+[[Clinical Reasoning MOC]] · [[Bleeding Framework]] · [[Valve Hemolysis]] · [[TAVR Perivalvular Leak]] · [[Uremic Platelet Dysfunction]] · [[Test Interpretation]] · [[Law of Proportionality]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - transfusion medicine
 tags:
   - clinical-reasoning
+  - hematology
+  - transfusion-medicine
 ---
 
-Evergreen concept note. A facet of the [[Hemolysis]] schema. Teaching points cited per episode.
+A facet of the [[Hemolysis]] schema.
 
 ## The master schema: auto / allo / drug
 
@@ -27,4 +26,4 @@ Immune-mediated hemolysis is destruction of red cells by antibody, and its **mas
 
 ## Related Notes
 
-[[Hemolysis]] · [[Autoimmune Hemolytic Anemia]] · [[Alloimmune Hemolysis]] · [[Delayed Hemolytic Transfusion Reaction]] · [[Drug-Induced Hemolytic Anemia]] · [[Direct Coombs Test]] · [[Spherocytes]] · [[Evans Syndrome]] · [[Schema-Based Reasoning]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]
+[[Clinical Reasoning MOC]] · [[Hemolysis]] · [[Autoimmune Hemolytic Anemia]] · [[Alloimmune Hemolysis]] · [[Delayed Hemolytic Transfusion Reaction]] · [[Drug-Induced Hemolytic Anemia]] · [[Direct Coombs Test]] · [[Spherocytes]] · [[Evans Syndrome]] · [[Schema-Based Reasoning]] · [[RLR 030 - Dark Urine and Delayed Hemolytic Transfusion Reaction]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]

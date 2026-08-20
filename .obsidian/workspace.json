@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78333bb6e83b7aac",
+        "id": "a168d438012cf553",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b04fc38fd0f4f9",
+            "id": "d8a710aa6e3fbbd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Video Pro Tip The Easiest Blood-Knot Method You've Ever Seen!.md",
+                "file": "Tremor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Pro Tip The Easiest Blood-Knot Method You've Ever Seen!"
+              "title": "Tremor"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tremor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,44 +186,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d1b04fc38fd0f4f9",
+  "active": "d8a710aa6e3fbbd1",
   "lastOpenFiles": [
-    "Clippings/Fly fishing in Shenandoah Valley on Mossy Creek.md",
-    "Clippings/Video Pro Tip The Easiest Blood-Knot Method You've Ever Seen!.md",
-    "Clippings/Probably the Best Casting Video Ever Made  Simon Gawesworth.md",
-    "_to_delete/tmp_obj_hx06Ip",
-    "_to_delete/tmp_obj_RkJrWw",
-    "_to_delete/tmp_obj_4QXFtu",
-    "_to_delete/tmp_obj_ocJsZJ",
-    "_to_delete/tmp_obj_Z1cXzA",
-    "_to_delete/tmp_obj_xrfadf",
-    "_to_delete/tmp_obj_nke6ge",
-    "_to_delete/tmp_obj_ygM1cQ",
-    "_to_delete/tmp_obj_3yt5rw",
-    "_to_delete/tmp_obj_j0ZWcI",
-    "Clippings/Best Double Haul Video Ever !  Simon Gawesworth.md",
-    "Skin Nodule.md",
-    "Clinical Reasoning/Episodes/RLR 073 - Fever and Murine Typhus with Secondary Pulmonary Alveolar Proteinosis.md",
-    "Treatment as a Diagnostic Test.md",
-    "Clinical Reasoning/Episodes/RLR 072 - Refractory Fever and Biclonal Gammopathy of Clinical Significance.md",
-    "Clinical Reasoning/Episodes/RLR 071 - Heart Failure and Pacemaker-Induced Cardiomyopathy.md",
-    "Clinical Reasoning/Episodes/RLR 070 - Diplopia and Microvascular Third Nerve Palsy.md",
-    "Clinical Reasoning/Episodes/RLR 069 - Anasarca and Hepatitis C-Associated MPGN.md",
-    "Clinical Reasoning/Episodes/RLR 068 - Episodic Dyspnea and Phrenic Nerve Stimulation.md",
-    "Clinical Reasoning/Episodes/RLR 067 - Refractory DVT and Radiographic Pseudo-Progression.md",
-    "Clinical Reasoning/Episodes/RLR 066 - White Matter Lesions and Post-Traumatic Encephalomalacia.md",
-    "Clinical Reasoning/Episodes/RLR 065 - Orthopnea and Compressive Goiter.md",
-    "Illness Tempo.md",
-    "Young Patient Schema.md",
-    "A20 Haploinsufficiency.md",
-    "Fishing/Fishing MOC.md",
-    "When to Worry.md",
-    "Watchman Procedure.md",
-    "Valve Hemolysis.md",
-    "Uremic Platelet Dysfunction.md",
-    "Trigeminal Nerve.md",
-    "Transient Loss of Consciousness.md",
-    "Thrombocytopenia.md",
+    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Peer Review Council.md",
+    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Clinical Quality Council.md",
+    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Clinical Excellence Portfolio.md",
+    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Clinical Excellence Cadence Map.md",
+    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Chair of Clinical Excellence.md",
+    "Projects/_Parked/clinical-excellence-drafts-2026-08-14",
+    "Projects/_Parked",
+    "Logbook/Weekly/2026-W33.md",
+    "Logbook/Daily/2026-08-20-Th.md",
+    "Logbook/Daily/2026-08-19-We.md",
+    "Logbook/Daily/2026-08-18-Tu.md",
+    "Logbook/Daily/2026-08-17-Mo.md",
+    "Logbook/Daily/2026-08-16-Su.md",
+    "Logbook/Daily/2026-08-15-Sa.md",
+    "Logbook/Daily/2026-08-14-Fr.md",
+    "Logbook/Daily/2026-08-13-Th.md",
+    "Logbook/Daily/2026-08-12-We.md",
+    "Logbook/Daily/2026-08-10-Mo.md",
+    "Peer Review/medical-peer-review-primer.md",
+    "Peer Review",
+    "_to_delete/clinical-excellence-drafts-2026-08-14/Peer Review Council.md",
+    "_to_delete/clinical-excellence-drafts-2026-08-14/Clinical Quality Council.md",
+    "_to_delete/clinical-excellence-drafts-2026-08-14/Clinical Excellence Portfolio.md",
+    "_to_delete/clinical-excellence-drafts-2026-08-14/Clinical Excellence Cadence Map.md",
+    "_to_delete/clinical-excellence-drafts-2026-08-14/Chair of Clinical Excellence.md",
+    "_to_delete/clinical-excellence-drafts-2026-08-14",
+    "Movies/Mad Max Fury Road.md",
+    "Movies/Edge of Tomorrow.md",
+    "Movies/The Truman Show.md",
+    "Movies/Eternal Sunshine of the Spotless Mind.md",
+    "Curbsiders Episodes",
+    "Projects/Week Ahead/Archive/2026",
+    "Projects/Week Ahead/Archive",
+    "Logbook/Daily/Archive/2026-07",
+    "Logbook/Daily/Archive/2026-06",
+    "Logbook/Daily/Archive",
     "Meadow Map.png",
     "Meadow Project Map.png",
     "Pasted image 20260714183410.png",

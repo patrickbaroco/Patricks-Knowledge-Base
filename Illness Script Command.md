@@ -5,8 +5,6 @@ tags:
   - illness-script-command
 ---
 
-Evergreen concept note. A facet of the [[Illness Script]] hub. Source episodes are cited per example.
-
 ## Definition
 
 Illness-script command is *fluency* with a script — knowing a disease well enough to deploy it structured and complete at the bedside, including the places where the script predictably fails. Having a diagnosis merely *listed* on a schema is not the same as owning its script well enough to act on it; command is the difference between recognizing a name and being able to run it.
@@ -25,4 +23,4 @@ Illness-script command is *fluency* with a script — knowing a disease well eno
 
 ## Related Notes
 
-[[Illness Script]] · [[Illness Script Flexibility]] · [[Schema-Based Reasoning]] · [[Search Satisficing]] · [[Cognitive Autopsy]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 015 - Hemolysis and Heinz Body Hemolytic Anemia]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]]
+[[Clinical Reasoning MOC]] · [[Illness Script]] · [[Illness Script Flexibility]] · [[Schema-Based Reasoning]] · [[Search Satisficing]] · [[Cognitive Autopsy]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 015 - Hemolysis and Heinz Body Hemolytic Anemia]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]]

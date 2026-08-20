@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - nephrology
-  - endocrinology
 tags:
   - clinical-reasoning
+  - nephrology
+  - endocrinology
 ---
 
-Evergreen concept note. Milk-alkali (calcium-alkali) syndrome across the hypercalcemia episodes. Teaching points cited per episode.
+Milk-alkali (calcium-alkali) syndrome across the hypercalcemia episodes.
 
 ## The triad and the base rate
 
@@ -26,4 +25,4 @@ Evergreen concept note. Milk-alkali (calcium-alkali) syndrome across the hyperca
 
 ## Related Notes
 
-[[Hypercalcemia]] · [[Parathyroid Hormone]] · [[Vitamin D Toxicity]] · [[Nephrogenic Diabetes Insipidus]] · [[Zoledronic Acid]] · [[Hickam's Dictum]] · [[Base Rate]] · [[Test Interpretation]] · [[RLR 007 - Hypercalcemia]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]
+[[Clinical Reasoning MOC]] · [[Hypercalcemia]] · [[Parathyroid Hormone]] · [[Vitamin D Toxicity]] · [[Nephrogenic Diabetes Insipidus]] · [[Zoledronic Acid]] · [[Hickam's Dictum]] · [[Base Rate]] · [[Test Interpretation]] · [[RLR 007 - Hypercalcemia]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]

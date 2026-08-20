@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - nephrology
-  - hematology
 tags:
   - clinical-reasoning
+  - nephrology
+  - hematology
 ---
 
-Evergreen concept note. A qualitative platelet defect of advanced renal failure — normal platelet count and PT/PTT, but impaired platelet function causing mucosal and procedural bleeding. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+A qualitative platelet defect of advanced renal failure — normal platelet count and PT/PTT, but impaired platelet function causing mucosal and procedural bleeding.
 
 ## Concept
 In the [[Bleeding Framework|bleeding framework]], uremic platelet dysfunction is a **qualitative platelet** problem: the platelet count is normal (or only modestly low) and PT/PTT are normal, yet platelets aggregate and adhere poorly ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]). It is one of the three classic qualitative-platelet causes alongside **medications** and **genetic** defects ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]).
@@ -40,4 +39,4 @@ Uremic platelet dysfunction rarely causes catastrophic bleeding on its own; it t
 - General reviews on the hemostatic abnormalities of chronic kidney disease and their management.
 
 ## Related Notes
-[[Bleeding Framework]] · [[Acquired von Willebrand Syndrome]] · [[Thrombocytopenia]] · [[Law of Proportionality]] · [[Test Interpretation]]
+[[Clinical Reasoning MOC]] · [[Bleeding Framework]] · [[Acquired von Willebrand Syndrome]] · [[Thrombocytopenia]] · [[Law of Proportionality]] · [[Test Interpretation]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
-  - neurosurgery
 tags:
   - clinical-reasoning
+  - neurology
+  - neurosurgery
 ---
 
-Evergreen concept note. Spinal dural arteriovenous fistula — a treatable, frequently missed cause of progressive myelopathy in older men that mimics transverse myelitis. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Spinal dural arteriovenous fistula — a treatable, frequently missed cause of progressive myelopathy in older men that mimics transverse myelitis.
 
 ## Definition and Pathophysiology
 A spinal dural arteriovenous fistula (dAVF) is an abnormal shunt, usually within a dural nerve-root sleeve, connecting a radicular artery to a radicular vein, which arterializes the **coronal venous plexus** on the cord surface ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -32,4 +31,4 @@ A spinal dural arteriovenous fistula (dAVF) is an abnormal shunt, usually within
 - Distinguish from higher-flow intradural AV malformations/fistulas, which have different treatment considerations.
 
 ## Related Notes
-[[Neuroanatomical Localization]] · [[Spine vs Peripheral Nerve]] · [[Cauda Equina Syndrome]] · [[When to Worry]] · [[Illness Tempo]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Neuroanatomical Localization]] · [[Spine vs Peripheral Nerve]] · [[Cauda Equina Syndrome]] · [[When to Worry]] · [[Illness Tempo]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

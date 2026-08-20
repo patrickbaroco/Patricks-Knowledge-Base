@@ -6,8 +6,6 @@ tags:
   - framing-effect
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 The framing effect is the tendency for a judgment or decision to shift based on *how* information is presented rather than on the information itself. The classic demonstration is Tversky and Kahneman's Asian disease problem: identical outcomes described in terms of lives *saved* versus lives *lost* flip people's risk preferences. In medicine the same statistic — "90% survival" versus "10% mortality" — measurably changes the choices patients and clinicians make.
@@ -43,4 +41,4 @@ In clinical reasoning the "frame" is usually the packaging a case arrives in: th
 
 ## Related Notes
 
-[[Anchoring Bias]] · [[Premature Closure]] · [[Availability Bias]] · [[Search Satisficing]] · [[Base-Rate Neglect]] · [[Diagnostic Momentum]] · [[Bayesian Reasoning]] · [[Cognitive Autopsy]] · [[Illness Script]] · [[RLR 001 - New Onset Headache]] · [[RLR 002 - Nausea, Vomiting, and Hyponatremia]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 006 - Bradycardia and Urinary Retention]] · [[RLR 007 - Hypercalcemia]]
+[[Clinical Reasoning MOC]] · [[Anchoring Bias]] · [[Premature Closure]] · [[Availability Bias]] · [[Search Satisficing]] · [[Base-Rate Neglect]] · [[Diagnostic Momentum]] · [[Bayesian Reasoning]] · [[Cognitive Autopsy]] · [[Illness Script]] · [[RLR 001 - New Onset Headache]] · [[RLR 002 - Nausea, Vomiting, and Hyponatremia]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 006 - Bradycardia and Urinary Retention]] · [[RLR 007 - Hypercalcemia]]

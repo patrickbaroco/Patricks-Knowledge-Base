@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - nephrology
-  - endocrinology
 tags:
   - clinical-reasoning
+  - nephrology
+  - endocrinology
 ---
 
-Evergreen concept note. Diabetes insipidus — the water-diuresis branch of [[Polyuria|polyuria]], and the central-vs-nephrogenic fork within it. Teaching points cited per episode.
+Diabetes insipidus — the water-diuresis branch of [[Polyuria|polyuria]], and the central-vs-nephrogenic fork within it.
 
 ## The two mechanisms
 
@@ -25,4 +24,4 @@ Evergreen concept note. Diabetes insipidus — the water-diuresis branch of [[Po
 
 ## Related Notes
 
-[[Polyuria]] · [[Post-Obstructive Uropathy]] · [[Copeptin]] · [[Aquaporin]] · [[Adrenal Insufficiency]] · [[Base Rate]] · [[Anchoring Bias]] · [[Hickam's Dictum]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]
+[[Clinical Reasoning MOC]] · [[Polyuria]] · [[Post-Obstructive Uropathy]] · [[Copeptin]] · [[Aquaporin]] · [[Adrenal Insufficiency]] · [[Base Rate]] · [[Anchoring Bias]] · [[Hickam's Dictum]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]

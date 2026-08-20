@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - nephrology
-  - endocrinology
 tags:
   - clinical-reasoning
+  - nephrology
+  - endocrinology
 ---
 
-Evergreen concept note. Polyuria as a schema — the fork that turns a big urine output into two or three moves. General physiology is scaffolding; teaching points are cited per episode.
+Polyuria as a schema — the fork that turns a big urine output into two or three moves.
 
 ## The definition and the first fork
 
@@ -25,4 +24,4 @@ Evergreen concept note. Polyuria as a schema — the fork that turns a big urine
 
 ## Related Notes
 
-[[Diabetes Insipidus]] · [[Post-Obstructive Uropathy]] · [[Copeptin]] · [[Schema-Based Reasoning]] · [[Test Interpretation]] · [[Law of Proportionality]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]
+[[Clinical Reasoning MOC]] · [[Diabetes Insipidus]] · [[Post-Obstructive Uropathy]] · [[Copeptin]] · [[Schema-Based Reasoning]] · [[Test Interpretation]] · [[Law of Proportionality]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]

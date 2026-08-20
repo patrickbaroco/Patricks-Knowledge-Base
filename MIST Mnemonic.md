@@ -6,8 +6,6 @@ tags:
   - mist-mnemonic
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 MIST is a cause-naming schema for encephalopathy / [[Altered Mental Status|altered mental status]] and other "secondary" neurologic syndromes: **M**etabolic, **I**nfectious, **S**tructural, **T**oxin (meds). It answers *what is driving this?* once localization and tempo have narrowed the problem. It is a complement to — and explicitly **not** a part of — Berkowitz's [[Localization × Time Course|time-course buckets]]: in [[CPS 153 - Intermittent Altered Mental Status and Non-Lesional Autoimmune Epilepsy|CPS 153]] MIST was offered by a discussant, not by Berkowitz. Keep the two credited separately — tempo buckets say *how fast*, MIST says *what*. Note the common variant in which **I** is read as *infectious/inflammatory* (folding in autoimmune disease) and **T** as *toxic / metabolic-drug*.
@@ -30,4 +28,4 @@ MIST is a cause-naming schema for encephalopathy / [[Altered Mental Status|alter
 
 ## Related Notes
 
-[[Altered Mental Status]] · [[Localization × Time Course]] · [[Illness Tempo]] · [[Schema-Based Reasoning]] · [[Myoclonus]] · [[Seizure]] · [[CPS 153 - Intermittent Altered Mental Status and Non-Lesional Autoimmune Epilepsy]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]] · [[RLR 037 - Episodic Lightheadedness and Functional Neurological Disorder]]
+[[Clinical Reasoning MOC]] · [[Altered Mental Status]] · [[Localization × Time Course]] · [[Illness Tempo]] · [[Schema-Based Reasoning]] · [[Myoclonus]] · [[Seizure]] · [[CPS 153 - Intermittent Altered Mental Status and Non-Lesional Autoimmune Epilepsy]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]] · [[RLR 037 - Episodic Lightheadedness and Functional Neurological Disorder]]

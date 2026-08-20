@@ -5,8 +5,6 @@ tags:
   - return-to-bedside
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 "Return to the bedside" is the move of going back to the patient — re-taking the history, re-examining, or heeding a bedside observer — when the workup stalls or the data don't cohere. It rests on a recurring RLR observation: the answer often lives in a history no one took, an exam no one repeated, or a nurse's concern no one acted on, not in another test. The intake encounter is a first pass, not the final word; when you have no anchor, the highest-yield next step is frequently a person, not a scan.
@@ -28,4 +26,4 @@ Evergreen concept note. Definition plus worked examples, drawn from the RLR / Cl
 
 ## Related Notes
 
-[[Diagnostic Momentum]] · [[Framing Effect]] · [[Cognitive Autopsy]] · [[Diagnostic Error]] · [[Diagnostic Humility]] · [[Signal versus Noise]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Momentum]] · [[Framing Effect]] · [[Cognitive Autopsy]] · [[Diagnostic Error]] · [[Diagnostic Humility]] · [[Signal versus Noise]] · [[RLR 014 - Hypercalcemia and Immobilization]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]

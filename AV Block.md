@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - cardiology
 tags:
   - clinical-reasoning
+  - cardiology
 ---
 
-Evergreen concept note. Atrioventricular block is impaired conduction between atria and ventricles, graded by severity and worked up with a base-rate-out schema that starts with common, reversible causes. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Atrioventricular block is impaired conduction between atria and ventricles, graded by severity and worked up with a base-rate-out schema that starts with common, reversible causes.
 
 ## Degrees of Block
 - **First-degree** — every P conducts but with a **prolonged PR (>200 ms)**; usually benign. (PR prolongation is a minor criterion in rheumatic fever.)
@@ -37,4 +36,4 @@ Work AV block from the common and reversible before reaching for rare diagnoses;
 - **Permanent pacemaker** for symptomatic or high-grade/complete block that is not reversible (Mobitz II and third-degree generally qualify).
 
 ## Related Notes
-[[Arrhythmogenic Cardiomyopathy]] · [[Cardiac Sarcoidosis]] · [[Relative Bradycardia]] · [[Lyme Carditis]] · [[Endocarditis]] · [[Base Rate]] · [[Schema-Based Reasoning]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[Arrhythmogenic Cardiomyopathy]] · [[Cardiac Sarcoidosis]] · [[Relative Bradycardia]] · [[Lyme Carditis]] · [[Endocarditis]] · [[Base Rate]] · [[Schema-Based Reasoning]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]

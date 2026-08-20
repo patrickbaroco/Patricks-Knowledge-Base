@@ -1,14 +1,13 @@
 ---
 type: evergreen
-clinical_domains:
+tags:
+  - clinical-reasoning
   - immunology
   - rheumatology
   - genetics
-tags:
-  - clinical-reasoning
 ---
 
-Evergreen concept note. A20 haploinsufficiency (HA20) is a monogenic autoinflammatory disease from loss-of-function variants in TNFAIP3 that produces an early-onset, heritable Behçet-like phenotype. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+A20 haploinsufficiency (HA20) is a monogenic autoinflammatory disease from loss-of-function variants in TNFAIP3 that produces an early-onset, heritable Behçet-like phenotype.
 
 ## Definition and Genetics
 HA20 is a **dominantly inherited autoinflammatory disorder** caused by **loss-of-function (haploinsufficient) variants in TNFAIP3**, the gene encoding the **A20 protein**.
@@ -35,4 +34,4 @@ HA20 characteristically presents as **early-onset Behçet-like disease**.
 - A genetic diagnosis carries value for **family counseling** and long-term classification even when it does not change the acute regimen.
 
 ## Related Notes
-[[Behçet's Disease]] · [[Young Patient Schema]] · [[Inflammatory Bowel Disease]] · [[Schema-Based Reasoning]] · [[RLR 063 - Diarrhea and Behçet's Disease]]
+[[Clinical Reasoning MOC]] · [[Behçet's Disease]] · [[Young Patient Schema]] · [[Inflammatory Bowel Disease]] · [[Schema-Based Reasoning]] · [[RLR 063 - Diarrhea and Behçet's Disease]]

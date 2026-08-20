@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - cardiology
 tags:
   - clinical-reasoning
+  - cardiology
 ---
 
-Evergreen concept note. Arrhythmogenic cardiomyopathy is a functional grouping of myocardial diseases that destroy the conduction system and generate arrhythmia disproportionately early relative to pump failure. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Arrhythmogenic cardiomyopathy is a functional grouping of myocardial diseases that destroy the conduction system and generate arrhythmia disproportionately early relative to pump failure.
 
 ## The Unifying Idea
 Any cardiomyopathy can eventually wreck conduction, but a distinct subset does so **out of proportion to pump dysfunction** — presenting with advanced [[AV Block]] or ventricular tachycardia while the ejection fraction is still preserved. That pattern is the clue ([[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis|RLR 060]]).
@@ -25,4 +24,4 @@ Any cardiomyopathy can eventually wreck conduction, but a distinct subset does s
 - **Prognostic/therapeutic:** these substrates carry disproportionate **sudden-death risk**, so device decisions (often favoring an **ICD** rather than a pacemaker alone) and, where relevant, disease-specific therapy (steroids for sarcoid, tafamidis for ATTR amyloid, genotype-guided care for LMNA) hinge on identifying the cause.
 
 ## Related Notes
-[[Cardiac Sarcoidosis]] · [[AV Block]] · [[Transient Loss of Consciousness]] · [[Test Interpretation]] · [[Illness Tempo]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[Cardiac Sarcoidosis]] · [[AV Block]] · [[Transient Loss of Consciousness]] · [[Test Interpretation]] · [[Illness Tempo]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]

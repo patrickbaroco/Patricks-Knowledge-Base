@@ -7,21 +7,17 @@
 
 
 **Tasks**
-<!-- Frozen end-of-day snapshot from Todoist — not a live query -->
 _Completed_
 - 
 
 _Left open_
 - 
 
-**Clinical work**
+**Work**
 
 
-**Administrative work**
+**Personal**
 
-
-**Significant interactions**
-- 
 
 **Inbox**
 - 

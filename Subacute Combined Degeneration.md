@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
-  - hematology
 tags:
   - clinical-reasoning
+  - neurology
+  - hematology
 ---
 
-Evergreen concept note. Vitamin B12 (cobalamin) deficiency myelopathy — degeneration of the dorsal columns and corticospinal tracts, often with a coexisting peripheral neuropathy. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Vitamin B12 (cobalamin) deficiency myelopathy — degeneration of the dorsal columns and corticospinal tracts, often with a coexisting peripheral neuropathy.
 
 ## Definition and Pathophysiology
 Subacute combined degeneration (SCD) is the neurologic consequence of **B12 deficiency** (and, similarly, copper deficiency or nitrous-oxide toxicity): impaired myelin maintenance produces **combined** demyelination of the **dorsal columns** and **lateral corticospinal tracts**, plus a **peripheral neuropathy** ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -34,4 +33,4 @@ Subacute combined degeneration (SCD) is the neurologic consequence of **B12 defi
 - Treat the underlying cause and monitor the hematologic response.
 
 ## Related Notes
-[[Spine vs Peripheral Nerve]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Neuroanatomical Localization]] · [[Guillain-Barré Syndrome]] · [[CIDP]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Spine vs Peripheral Nerve]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Neuroanatomical Localization]] · [[Guillain-Barré Syndrome]] · [[CIDP]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

@@ -5,8 +5,6 @@ tags:
   - bayesian-reasoning
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Bayesian reasoning is the master frame of the whole series: start from a prior probability (the [[Base Rate|base rate]], adjusted for this host), then *update* it with each new datum in proportion to how much that datum discriminates between hypotheses (its sensitivity, specificity, and predictive value), arriving at a posterior that becomes the next prior. It is not arithmetic at the bedside but a stance — every finding *moves* probability rather than proving or excluding, and how far it moves depends on the test and the disease. The "Bayesian Updates" table in each RLR episode note is this frame made explicit: data point → hypothesis raised/adjusted → direction of update.
@@ -28,4 +26,4 @@ Bayesian reasoning is the master frame of the whole series: start from a prior p
 
 ## Related Notes
 
-[[Base Rate]] · [[Base-Rate Neglect]] · [[Test Interpretation]] · [[Treatment as a Diagnostic Test]] · [[Positive Predictive Value]] · [[Availability Heuristic]] · [[Anchoring Bias]] · [[Illness Script]] · [[RLR 001 - New Onset Headache]] · [[RLR 007 - Hypercalcemia]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]] · [[RLR 027 - Dizziness and Peripheral Vertigo]]
+[[Clinical Reasoning MOC]] · [[Base Rate]] · [[Base-Rate Neglect]] · [[Test Interpretation]] · [[Treatment as a Diagnostic Test]] · [[Positive Predictive Value]] · [[Availability Heuristic]] · [[Anchoring Bias]] · [[Illness Script]] · [[RLR 001 - New Onset Headache]] · [[RLR 007 - Hypercalcemia]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]] · [[RLR 027 - Dizziness and Peripheral Vertigo]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
-  - orthopedics
 tags:
   - clinical-reasoning
+  - rheumatology
+  - orthopedics
 ---
 
-Evergreen concept note. Calcium pyrophosphate deposition disease is a spectrum — from radiographic chondrocalcinosis to acute pseudogout to calcific tendinitis — whose crystals are notoriously easy to miss. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Calcium pyrophosphate deposition disease is a spectrum — from radiographic chondrocalcinosis to acute pseudogout to calcific tendinitis — whose crystals are notoriously easy to miss.
 
 ## Definition and Pathophysiology
 Deposition of **calcium pyrophosphate dihydrate (CPP)** crystals in cartilage and periarticular tissues. Deposition is often age-related and may be associated with metabolic disease (hyperparathyroidism, hemochromatosis, hypomagnesemia, hypophosphatasia).
@@ -31,4 +30,4 @@ Deposition of **calcium pyrophosphate dihydrate (CPP)** crystals in cartilage an
 - Address associated metabolic conditions; no therapy dissolves existing deposits.
 
 ## Related Notes
-[[Calcific Tendinitis]] · [[Gout]] · [[Monoarticular Arthritis]] · [[Synovial Fluid Analysis]] · [[Crystals in Macrophages]] · [[Septic Arthritis]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]
+[[Clinical Reasoning MOC]] · [[Calcific Tendinitis]] · [[Gout]] · [[Monoarticular Arthritis]] · [[Synovial Fluid Analysis]] · [[Crystals in Macrophages]] · [[Septic Arthritis]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]

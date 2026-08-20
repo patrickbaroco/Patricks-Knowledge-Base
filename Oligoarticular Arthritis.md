@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
-  - emergency medicine
 tags:
   - clinical-reasoning
+  - rheumatology
+  - emergency-medicine
 ---
 
-Evergreen concept note. When two to four joints are inflamed, intra-articular and systemic disease become more likely while the yield of tapping any one joint falls. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+When two to four joints are inflamed, intra-articular and systemic disease become more likely while the yield of tapping any one joint falls.
 
 ## Definition
 Oligoarticular arthritis involves 2–4 joints; polyarticular involves 5 or more. The joint *count* is itself diagnostic information that reshapes both the differential and the value of arthrocentesis.
@@ -33,4 +32,4 @@ Oligoarticular arthritis involves 2–4 joints; polyarticular involves 5 or more
 - Use [[Treatment as a Diagnostic Test|time and treatment response]] as confirmatory tests when initial assays are ambiguous.
 
 ## Related Notes
-[[Monoarticular Arthritis]] · [[Synovial Fluid Analysis]] · [[Septic Arthritis]] · [[Gout]] · [[CPPD]] · [[Active vs Passive Range of Motion]] · [[Base Rate]] · [[Bayesian Reasoning]] · [[Treatment as a Diagnostic Test]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]
+[[Clinical Reasoning MOC]] · [[Monoarticular Arthritis]] · [[Synovial Fluid Analysis]] · [[Septic Arthritis]] · [[Gout]] · [[CPPD]] · [[Active vs Passive Range of Motion]] · [[Base Rate]] · [[Bayesian Reasoning]] · [[Treatment as a Diagnostic Test]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]

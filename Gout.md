@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
-  - emergency medicine
 tags:
   - clinical-reasoning
+  - rheumatology
+  - emergency-medicine
 ---
 
-Evergreen concept note. Gout is monosodium urate crystal deposition disease — an acutely painful, often provoked crystal arthritis that can be mono-, oligo-, or polyarticular and, over time, tophaceous. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Gout is monosodium urate crystal deposition disease — an acutely painful, often provoked crystal arthritis that can be mono-, oligo-, or polyarticular and, over time, tophaceous.
 
 ## Definition and Pathophysiology
 Chronic hyperuricemia leads to precipitation of **monosodium urate (MSU)** crystals in and around joints. Phagocytosis of crystals by neutrophils triggers an intense inflammatory (NLRP3 inflammasome, IL-1β) response — the acute flare.
@@ -37,4 +36,4 @@ Chronic hyperuricemia leads to precipitation of **monosodium urate (MSU)** cryst
 - **Address triggers** — reassess diuretics and volume status, hydration, and diet.
 
 ## Related Notes
-[[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[CPPD]] · [[Septic Arthritis]] · [[Synovial Fluid Analysis]] · [[Crystals in Macrophages]] · [[Gout and Distributive Shock]] · [[Diuretic]] · [[Base Rate]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]
+[[Clinical Reasoning MOC]] · [[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[CPPD]] · [[Septic Arthritis]] · [[Synovial Fluid Analysis]] · [[Crystals in Macrophages]] · [[Gout and Distributive Shock]] · [[Diuretic]] · [[Base Rate]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
-  - oncology
 tags:
   - clinical-reasoning
+  - neurology
+  - oncology
 ---
 
-Evergreen concept note. Metastatic seeding of the leptomeninges (arachnoid and pia) and cerebrospinal fluid, producing a multifocal neurologic syndrome across brain, cranial nerves, cord, and roots. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Metastatic seeding of the leptomeninges (arachnoid and pia) and cerebrospinal fluid, producing a multifocal neurologic syndrome across brain, cranial nerves, cord, and roots.
 
 ## Definition and Pathophysiology
 Leptomeningeal carcinomatosis (also called carcinomatous meningitis or leptomeningeal metastases) is dissemination of malignant cells throughout the subarachnoid space and CSF, coating the pia-arachnoid over the brain, spinal cord, cranial nerves, and spinal nerve roots. Because the roots are sheathed in leptomeninges, root enhancement is itself a leptomeningeal sign ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -38,4 +37,4 @@ Diagnosis rests on the pattern, contrast MRI, and CSF — each read for its limi
 - **Prognosis** is poor, historically measured in months; it is a marker of advanced (stage IV) disease. Goals-of-care and symptom-directed conversations are central.
 
 ## Related Notes
-[[Pachymeningeal vs Leptomeningeal Enhancement]] · [[Cauda Equina Syndrome]] · [[Numb Chin Syndrome]] · [[Froin Syndrome]] · [[Paraneoplastic Neurologic Syndrome]] · [[When to Worry]] · [[Hickam's Dictum]] · [[Test Interpretation]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Pachymeningeal vs Leptomeningeal Enhancement]] · [[Cauda Equina Syndrome]] · [[Numb Chin Syndrome]] · [[Froin Syndrome]] · [[Paraneoplastic Neurologic Syndrome]] · [[When to Worry]] · [[Hickam's Dictum]] · [[Test Interpretation]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

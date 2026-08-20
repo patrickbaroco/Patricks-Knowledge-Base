@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - gastroenterology
-  - laboratory-medicine
 tags:
   - clinical-reasoning
+  - gastroenterology
+  - laboratory-medicine
 ---
 
-Evergreen concept note. Fecal calprotectin is a neutrophil-derived stool protein that flags intestinal inflammation and helps separate inflammatory from functional bowel disease. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Fecal calprotectin is a neutrophil-derived stool protein that flags intestinal inflammation and helps separate inflammatory from functional bowel disease.
 
 ## What It Measures
 Calprotectin is a **calcium-binding protein released by neutrophils**. When neutrophils migrate into inflamed intestinal mucosa, calprotectin is shed into the stool in proportion to the inflammatory burden.
@@ -30,4 +29,4 @@ Calprotectin is a **calcium-binding protein released by neutrophils**. When neut
 - They serve overlapping roles in separating inflammatory from functional diarrhea and in flagging fecal white cells.
 
 ## Related Notes
-[[Stool Lactoferrin]] · [[Inflammatory Bowel Disease]] · [[Colitis]] · [[Base Rate]] · [[RLR 063 - Diarrhea and Behçet's Disease]]
+[[Clinical Reasoning MOC]] · [[Stool Lactoferrin]] · [[Inflammatory Bowel Disease]] · [[Colitis]] · [[Base Rate]] · [[RLR 063 - Diarrhea and Behçet's Disease]]

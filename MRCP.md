@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - gastroenterology
-  - radiology
 tags:
   - clinical-reasoning
+  - gastroenterology
+  - radiology
 ---
 
-Evergreen concept note. Magnetic resonance cholangiopancreatography in the biliary workup. Teaching points cited per episode.
+Magnetic resonance cholangiopancreatography in the biliary workup.
 
 ## Where it sits on the sensitivity ladder
 
@@ -21,4 +20,4 @@ Evergreen concept note. Magnetic resonance cholangiopancreatography in the bilia
 
 ## Related Notes
 
-[[Hepatocellular vs Cholestatic Pattern]] · [[Choledocholithiasis]] · [[Ascending Cholangitis]] · [[ERCP]] · [[Cholecystitis]] · [[Intrahepatic Cholestasis]] · [[Test Interpretation]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]]
+[[Clinical Reasoning MOC]] · [[Hepatocellular vs Cholestatic Pattern]] · [[Choledocholithiasis]] · [[Ascending Cholangitis]] · [[ERCP]] · [[Cholecystitis]] · [[Intrahepatic Cholestasis]] · [[Test Interpretation]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 021 - Chronic Pruritus and Primary Biliary Cholangitis]]

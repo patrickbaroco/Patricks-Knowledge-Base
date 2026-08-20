@@ -1,12 +1,10 @@
 ---
 type: evergreen
-clinical_domains:
-  - clinical reasoning
 tags:
   - clinical-reasoning
 ---
 
-Evergreen concept note. "The background always affects the foreground" — a patient's context (medications, comorbidities, devices, physiology) reframes the meaning of a presenting finding, often converting a mundane sign into an urgent one.
+"The background always affects the foreground" — a patient's context (medications, comorbidities, devices, physiology) reframes the meaning of a presenting finding, often converting a mundane sign into an urgent one.
 
 ## The principle
 
@@ -24,4 +22,4 @@ Before interpreting the chief finding, inventory the background: **medications**
 
 ## Related Notes
 
-[[Anchoring Bias]] · [[Illness Script]] · [[Base Rate]] · [[Rectus Sheath Hematoma]] · [[Relative Bradycardia]] · [[Cognitive Autopsy]] · [[RLR 058 - Inguinal Bulge and Rectus Sheath Hematoma]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]] · [[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak]]
+[[Clinical Reasoning MOC]] · [[Anchoring Bias]] · [[Illness Script]] · [[Base Rate]] · [[Rectus Sheath Hematoma]] · [[Relative Bradycardia]] · [[Cognitive Autopsy]] · [[RLR 058 - Inguinal Bulge and Rectus Sheath Hematoma]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]] · [[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak]]

@@ -7,8 +7,6 @@ tags:
   - localization-time-course
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Localization × time course is Aaron Berkowitz's organizing equation for neurology — his "E=mc² of neurology": **differential diagnosis = localization × time course**. Two independent axes carry almost all of the diagnostic weight. *Localization* answers **where** the lesion sits (derived from the history and exam, often to within centimeters at the bedside); *time course* answers **how fast** it declared itself. Fixing both collapses an enormous differential to a short, testable list *before* any test is ordered. Localization is the years-long skill — it demands the anatomy — but time course is quick to learn, high-yield, and generalizes across all of medicine. It is Berkowitz's antidote to [[Neurophobia|neurophobia]]: neurology feels frightening only when the where and the how-fast are skipped.
@@ -30,4 +28,4 @@ Localization × time course is Aaron Berkowitz's organizing equation for neurolo
 
 ## Related Notes
 
-[[Anatomical Approach]] · [[Illness Tempo]] · [[Altered Mental Status]] · [[MIST Mnemonic]] · [[Schema-Based Reasoning]] · [[Neurophobia]] · [[Seizure]] · [[CPS 153 - Intermittent Altered Mental Status and Non-Lesional Autoimmune Epilepsy]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]] · [[RLR 037 - Episodic Lightheadedness and Functional Neurological Disorder]]
+[[Clinical Reasoning MOC]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Altered Mental Status]] · [[MIST Mnemonic]] · [[Schema-Based Reasoning]] · [[Neurophobia]] · [[Seizure]] · [[CPS 153 - Intermittent Altered Mental Status and Non-Lesional Autoimmune Epilepsy]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]] · [[RLR 037 - Episodic Lightheadedness and Functional Neurological Disorder]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - cardiology
-  - hematology
 tags:
   - clinical-reasoning
+  - cardiology
+  - hematology
 ---
 
-Evergreen concept note. Paravalvular regurgitation after transcatheter aortic valve replacement — a source of mechanical hemolysis and, when persistent, a marker of poor outcome that is often inaudible on exam. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Paravalvular regurgitation after transcatheter aortic valve replacement — a source of mechanical hemolysis and, when persistent, a marker of poor outcome that is often inaudible on exam.
 
 ## Concept
 A transcatheter aortic valve (TAVR/TAVI) is deployed within the native calcified annulus without surgical suturing, so an incomplete seal can leave a **paravalvular (perivalvular) leak** — a regurgitant jet passing *around* the prosthesis rather than through it ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]). Even mild-to-moderate leaks are more common after TAVR than after surgical valves and carry prognostic weight.
@@ -33,4 +32,4 @@ A **transient** dip in platelets after TAVR is expected. A **persistent** post-T
 - General reviews on paravalvular regurgitation after TAVR and post-TAVR thrombocytopenia as a prognostic marker.
 
 ## Related Notes
-[[Valve Hemolysis]] · [[Free Hemoglobin vs RBC Hematuria]] · [[Thrombocytopenia]] · [[Acquired von Willebrand Syndrome]] · [[Acute but Persistent]] · [[Center of Gravity]]
+[[Clinical Reasoning MOC]] · [[Valve Hemolysis]] · [[Free Hemoglobin vs RBC Hematuria]] · [[Thrombocytopenia]] · [[Acquired von Willebrand Syndrome]] · [[Acute but Persistent]] · [[Center of Gravity]]

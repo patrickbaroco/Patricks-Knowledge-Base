@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
-  - emergency medicine
 tags:
   - clinical-reasoning
+  - rheumatology
+  - emergency-medicine
 ---
 
-Evergreen concept note. A single acutely inflamed joint is crystal disease or infection until proven otherwise, and localizing the process within versus around the joint is the first task. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+A single acutely inflamed joint is crystal disease or infection until proven otherwise, and localizing the process within versus around the joint is the first task.
 
 ## Definition and Framing
 Monoarticular arthritis is inflammation of one joint, presenting as pain, swelling, warmth, erythema, and limited motion. The acute atraumatic monoarthritis is a can't-miss presentation because the two leading causes — **crystal-induced arthritis** and **septic arthritis** — are common and, in the case of infection, joint-destroying within days.
@@ -40,4 +39,4 @@ The bedside exam raises or lowers the probability of infection before any tap.
 - **When the data and diagnosis disagree, reframe** using the [[Law of Proportionality]] — a non-inflammatory cell count cannot explain a severely painful joint.
 
 ## Related Notes
-[[Oligoarticular Arthritis]] · [[Synovial Fluid Analysis]] · [[Active vs Passive Range of Motion]] · [[Septic Arthritis]] · [[Gout]] · [[CPPD]] · [[Calcific Tendinitis]] · [[Anatomical Approach]] · [[Base Rate]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]
+[[Clinical Reasoning MOC]] · [[Oligoarticular Arthritis]] · [[Synovial Fluid Analysis]] · [[Active vs Passive Range of Motion]] · [[Septic Arthritis]] · [[Gout]] · [[CPPD]] · [[Calcific Tendinitis]] · [[Anatomical Approach]] · [[Base Rate]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]]

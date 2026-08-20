@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - infectious disease
 tags:
   - clinical-reasoning
+  - infectious-disease
 ---
 
-Evergreen concept note. Faget sign is the eponym for pulse-temperature dissociation — a fever without the expected compensatory tachycardia — classically linked to a handful of specific organisms. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Faget sign is the eponym for pulse-temperature dissociation — a fever without the expected compensatory tachycardia — classically linked to a handful of specific organisms.
 
 ## The Sign
 **Faget sign** = **relative bradycardia in the setting of fever**: the heart rate is inappropriately low for the temperature, in a patient not on rate-limiting drugs ([[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis|RLR 060]]). For the physiology, expected-rise rule, and the conduction-disease differential, see **[[Relative Bradycardia]]**.
@@ -26,4 +25,4 @@ The eponym points toward infections — often **intracellular** or toxin-mediate
 - Its practical value is prompting a targeted exposure/travel history and the right cultures/serologies, and — equally — an **EKG** to catch conduction disease masquerading as a "Faget-sign infection." See [[Relative Bradycardia]].
 
 ## Related Notes
-[[Relative Bradycardia]] · [[AV Block]] · [[Illness Tempo]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[Relative Bradycardia]] · [[AV Block]] · [[Illness Tempo]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]

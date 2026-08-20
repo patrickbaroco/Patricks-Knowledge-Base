@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - dermatology
 tags:
   - clinical-reasoning
+  - hematology
+  - dermatology
 ---
 
-Evergreen concept note. Leukemic infiltration of the skin. Teaching points cited per episode.
+Leukemic infiltration of the skin.
 
 ## What it is
 
@@ -20,4 +19,4 @@ Leukemia cutis is dermal infiltration by leukemic cells — a "liquid tumor" app
 
 ## Related Notes
 
-[[Skin Nodule]] · [[Chronic Myelomonocytic Leukemia]] · [[Monocytosis]] · [[Acute Myeloid Leukemia]] · [[Return to the Bedside]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]
+[[Clinical Reasoning MOC]] · [[Skin Nodule]] · [[Chronic Myelomonocytic Leukemia]] · [[Monocytosis]] · [[Acute Myeloid Leukemia]] · [[Return to the Bedside]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]

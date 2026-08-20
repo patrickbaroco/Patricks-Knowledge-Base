@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - nephrology
-  - urology
 tags:
   - clinical-reasoning
+  - nephrology
+  - urology
 ---
 
-Evergreen concept note. Post-obstructive uropathy and the post-obstructive diuresis that follows relief. Teaching points cited per episode.
+Post-obstructive uropathy and the post-obstructive diuresis that follows relief.
 
 ## Two mechanisms of the post-obstructive diuresis
 
@@ -22,4 +21,4 @@ Evergreen concept note. Post-obstructive uropathy and the post-obstructive diure
 
 ## Related Notes
 
-[[Diabetes Insipidus]] · [[Polyuria]] · [[Aquaporin]] · [[Urinary Retention]] · [[Catheter-Associated UTI]] · [[Law of Proportionality]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]
+[[Clinical Reasoning MOC]] · [[Diabetes Insipidus]] · [[Polyuria]] · [[Aquaporin]] · [[Urinary Retention]] · [[Catheter-Associated UTI]] · [[Law of Proportionality]] · [[RLR 034 - Polyuria and Post-Obstructive Nephrogenic Diabetes Insipidus]]

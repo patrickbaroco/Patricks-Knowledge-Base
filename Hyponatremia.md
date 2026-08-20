@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - nephrology
-  - electrolyte disorders
 tags:
   - clinical-reasoning
+  - nephrology
+  - electrolyte-disorders
 ---
 
-Evergreen concept note. The hyponatremia workup and its worked instances across the RLR / Clinical Problem Solvers series. General physiology is scaffolding; teaching points are cited per episode.
+The hyponatremia workup and its worked instances across the RLR / Clinical Problem Solvers series.
 
 > Schema: [CP Solvers — Dx Schema: Hyponatremia](https://clinicalproblemsolving.com/dx-schema-hyponatremia/)
 
@@ -30,4 +29,4 @@ Evergreen concept note. The hyponatremia workup and its worked instances across 
 
 ## Related Notes
 
-[[SIADH]] · [[Adrenal Insufficiency]] · [[Cerebral Salt Wasting]] · [[Osmotic Demyelination Syndrome]] · [[Beer Potomania]] · [[Serum Uric Acid]] · [[Fractional Excretion of Uric Acid]] · [[Thiazide-Induced Hyponatremia]] · [[Law of Proportionality]] · [[Test Interpretation]] · [[Schema-Based Reasoning]] · [[RLR 002 - Nausea, Vomiting, and Hyponatremia]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 029 - Dyspnea and Disseminated Varicella-Zoster]]
+[[Clinical Reasoning MOC]] · [[SIADH]] · [[Adrenal Insufficiency]] · [[Cerebral Salt Wasting]] · [[Osmotic Demyelination Syndrome]] · [[Beer Potomania]] · [[Serum Uric Acid]] · [[Fractional Excretion of Uric Acid]] · [[Thiazide-Induced Hyponatremia]] · [[Law of Proportionality]] · [[Test Interpretation]] · [[Schema-Based Reasoning]] · [[RLR 002 - Nausea, Vomiting, and Hyponatremia]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 029 - Dyspnea and Disseminated Varicella-Zoster]]

@@ -6,8 +6,6 @@ tags:
   - parallel-reasoning
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Parallel reasoning is the practice of actively pursuing more than one diagnostic hypothesis at the same time — carrying each forward with its own workup and cognitive investment — rather than committing to a single leading diagnosis and chasing it to confirmation before the others get a fair hearing. Each live hypothesis becomes its own workstream: its own tests to order, its own disconfirming data to watch for, its own trajectory to track. The reasoner expects most of these threads to turn out unproductive and fall away, leaving the one that reaches the diagnosis.
@@ -48,4 +46,4 @@ The contrast is with **serial (sequential) reasoning**, where you pick the most 
 
 ## Related Notes
 
-[[Anchoring Bias]] · [[Premature Closure]] · [[Framing Effect]] · [[Availability Heuristic]] · [[Bayesian Reasoning]] · [[Dual Diagnosis]] · [[Illness Script]] · [[Anatomical Approach]] · [[4+2+2 Chest Pain Schema]] · [[Ascending Cholangitis]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 004 - Rectal Pain and Proctitis]]
+[[Clinical Reasoning MOC]] · [[Anchoring Bias]] · [[Premature Closure]] · [[Framing Effect]] · [[Availability Heuristic]] · [[Bayesian Reasoning]] · [[Dual Diagnosis]] · [[Illness Script]] · [[Anatomical Approach]] · [[4+2+2 Chest Pain Schema]] · [[Ascending Cholangitis]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 004 - Rectal Pain and Proctitis]]

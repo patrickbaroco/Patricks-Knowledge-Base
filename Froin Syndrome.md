@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
 tags:
   - clinical-reasoning
+  - neurology
 ---
 
-Evergreen concept note. The CSF signature of a spinal subarachnoid block — markedly elevated protein with xanthochromia and spontaneous clotting in fluid sampled below a lesion. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+The CSF signature of a spinal subarachnoid block — markedly elevated protein with xanthochromia and spontaneous clotting in fluid sampled below a lesion.
 
 ## Definition
 Froin syndrome (loculation syndrome) is the constellation of CSF findings obtained **below a spinal subarachnoid block**: **very high protein**, **xanthochromia**, and a tendency to **spontaneous clotting**, in **non-circulating** CSF isolated from the rest of the neuraxis ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -29,4 +28,4 @@ When a lesion blocks the subarachnoid space, the CSF caudal to it becomes a **st
 - **Procedural caution:** LP below a complete block can rarely worsen a compressive myelopathy by pressure shifts; image before tapping when compression is suspected.
 
 ## Related Notes
-[[Leptomeningeal Carcinomatosis]] · [[Cauda Equina Syndrome]] · [[Pachymeningeal vs Leptomeningeal Enhancement]] · [[Test Interpretation]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Leptomeningeal Carcinomatosis]] · [[Cauda Equina Syndrome]] · [[Pachymeningeal vs Leptomeningeal Enhancement]] · [[Test Interpretation]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
-  - orthopedics
 tags:
   - clinical-reasoning
+  - rheumatology
+  - orthopedics
 ---
 
-Evergreen concept note. Calcific tendinitis is calcium crystal deposition within a tendon that can inflame the tendon itself and spill inflammation into the neighboring joint — mimicking arthritis while the joint fluid stays bland. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Calcific tendinitis is calcium crystal deposition within a tendon that can inflame the tendon itself and spill inflammation into the neighboring joint — mimicking arthritis while the joint fluid stays bland.
 
 ## Definition and Pathophysiology
 Deposition of calcium crystals — **hydroxyapatite** or **calcium pyrophosphate ([[CPPD]])** — within a tendon, producing an acute or chronic tendinopathy. The supraspinatus is the classic site, but it occurs in the quadriceps and other tendons ([[RLR 061 - Knee Swelling and Calcific Tendinitis|RLR 061]]).
@@ -30,4 +29,4 @@ Deposition of calcium crystals — **hydroxyapatite** or **calcium pyrophosphate
 - Rest, activity modification, and physical therapy; ultrasound-guided barbotage/needling or surgical removal for refractory hydroxyapatite deposits.
 
 ## Related Notes
-[[CPPD]] · [[Monoarticular Arthritis]] · [[Active vs Passive Range of Motion]] · [[Synovial Fluid Analysis]] · [[Spillover Phenomenon]] · [[Anatomical Approach]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]
+[[Clinical Reasoning MOC]] · [[CPPD]] · [[Monoarticular Arthritis]] · [[Active vs Passive Range of Motion]] · [[Synovial Fluid Analysis]] · [[Spillover Phenomenon]] · [[Anatomical Approach]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]

@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - hematology
-  - internal-medicine
 tags:
   - clinical-reasoning
+  - hematology
+  - internal-medicine
 ---
 
-Evergreen concept note. A schema for abnormal bleeding: localize the defect to the blood, the vessel wall, or the bridge (von Willebrand factor), then quadrant the blood problem. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+A schema for abnormal bleeding: localize the defect to the blood, the vessel wall, or the bridge (von Willebrand factor), then quadrant the blood problem.
 
 ## The Big Picture: Blood, Wall, or Bridge
 Effective hemostasis requires intact blood components, an intact vessel wall, and an intact **bridge** that tethers the forming clot to the wall. Abnormal bleeding therefore localizes to one of three buckets ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]):
@@ -37,4 +36,4 @@ When platelets and PT/PTT are unrevealing, pivot to vWF. **Acquired von Willebra
 - General reviews on the approach to the bleeding patient and disorders of primary vs secondary hemostasis.
 
 ## Related Notes
-[[Acquired von Willebrand Syndrome]] · [[Thrombocytopenia]] · [[Uremic Platelet Dysfunction]] · [[Law of Proportionality]] · [[Schema-Based Reasoning]] · [[Test Interpretation]]
+[[Clinical Reasoning MOC]] · [[Acquired von Willebrand Syndrome]] · [[Thrombocytopenia]] · [[Uremic Platelet Dysfunction]] · [[Law of Proportionality]] · [[Schema-Based Reasoning]] · [[Test Interpretation]]

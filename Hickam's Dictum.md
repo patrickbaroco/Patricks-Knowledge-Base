@@ -5,8 +5,6 @@ tags:
   - hickams-dictum
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Hickam's dictum — "a patient can have as many diseases as he damn well pleases," attributed to John Hickam — is the deliberate counterweight to [[Unifying Diagnosis|Occam's razor]]. It asserts that parsimony is a heuristic, not a law: in many patients, and especially the elderly, the immunosuppressed, the chronically ill, and those carrying several independent risk factors, **multiple simultaneous diagnoses are the norm rather than the exception.** Its job is to guard against the over-unification failure mode — forcing an outlier finding into a single elegant story it does not fit — and to license the honest, multifactorial formulation when that is the more accurate one.
@@ -29,4 +27,4 @@ Hickam does not repeal Occam; the two are prior-setting forces held in tension. 
 
 ## Related Notes
 
-[[Unifying Diagnosis]] · [[Center of Gravity]] · [[Base Rate]] · [[Illness Tempo]] · [[Worst-Case Reasoning]] · [[Premature Closure]] · [[Ampulla of Vater]] · [[CPS 323 - Visual Hallucinations and Occipital Seizures]] · [[CPS 386 - Rapidly Progressive Dementia and Intravascular Large B-Cell Lymphoma]] · [[RLR 039 - Nausea, Vomiting, Constipation, and a Metastatic Ampullary Mass]]
+[[Clinical Reasoning MOC]] · [[Unifying Diagnosis]] · [[Center of Gravity]] · [[Base Rate]] · [[Illness Tempo]] · [[Worst-Case Reasoning]] · [[Premature Closure]] · [[Ampulla of Vater]] · [[CPS 323 - Visual Hallucinations and Occipital Seizures]] · [[CPS 386 - Rapidly Progressive Dementia and Intravascular Large B-Cell Lymphoma]] · [[RLR 039 - Nausea, Vomiting, Constipation, and a Metastatic Ampullary Mass]]

@@ -1,0 +1,124 @@
+---
+series: "Clinical Problem Solvers — Virtual Morning Report"
+episode: "CPS 186"
+source_url:
+  - https://clinicalproblemsolving.com/wp-content/uploads/2021/07/7.06.21-July-Neuro-VMR-RTP.mp3?_=1
+guests:
+  - Aaron Berkowitz
+clinical_domains:
+  - neurology
+  - movement disorders
+  - endocrinology
+  - neuroimaging
+tags:
+  - schema-based-reasoning
+  - tempo-based-reasoning
+  - illness-script
+  - test-interpretation
+  - phenomenology-based-reasoning
+---
+
+## Summary
+
+> [!summary] Scan Summary
+> A live, volunteer-format **Neurology VMR** — a Tuesday session with rotating medical-student discussants (Ravi Patel and Lauren) rather than the fixed presenter/discussant panel of earlier episodes — taught by **Aaron Berkowitz**, presented by Gabrielle. A 68-year-old woman with type 2 diabetes and hypertension presents with acute-onset, irregular, large-amplitude involuntary movements of the left arm and leg. Berkowitz builds a general framework for involuntary movements (seizure vs. movement disorder; hyperkinetic vs. hypokinetic; and, within hyperkinetic movements, tremor, myoclonus, tics, chorea-athetosis-ballism, and dystonia), emphasizing that for movement disorders the *type* of movement usually matters more than precise localization, since nearly all trace back to basal ganglia circuitry. Bedside description of the movement lands on chorea, and imaging shows T1 hyperintensity and CT hyperdensity in the right caudate and lentiform nucleus with central pontine signal change — the diagnostic clincher, given a markedly elevated hemoglobin A1c, for **hemichorea from non-ketotic hyperglycemia**, a classically unilateral exception to the usual bilateral-equals-systemic rule.
+
+## Pearls
+
+- **For movement disorders, the type of movement usually matters more than its precise localization** — unlike weakness, where the question is "corticospinal tract, brainstem, cord, nerve, or muscle," nearly every hyperkinetic or hypokinetic movement disorder traces back to basal ganglia circuitry, so correctly identifying *which* movement (tremor, myoclonus, tick, chorea, ballism, athetosis, dystonia) is usually the more diagnostically productive step.
+- **Every movement disorder differential sorts into three buckets: neurologic (a structural lesion or a degenerative/neurologic disease), systemic, or drug/toxin-induced** — a schema that applies regardless of which specific movement type is present.
+- **Chorea sits on a continuum with athetosis and ballism** — chorea is irregular, large-amplitude, non-rhythmic, "dance-like" flowing movement; athetosis is slower and writhing; ballism (as in hemiballismus) is larger-amplitude and more violent — bedside description (amplitude, rhythm, distribution) usually gets you to the right category before you need a formal name for it.
+- **Unilateral movement disorders usually suggest a structural lesion and bilateral ones a systemic or degenerative cause — but hyperglycemic hemichorea is a classic, important exception**: a systemic metabolic derangement producing a strikingly unilateral movement disorder, for reasons that remain unclear.
+- **Chorea can be "pseudo-acute" and easy to miss at onset**: patients may camouflage early choreiform movements into voluntary gestures without realizing it (parakinesia), so a history of truly sudden onset should be interrogated rather than assumed.
+- **On CT, hyperdensity essentially means blood or calcium (with lymphoma as a notable hyperdense-tumor exception), and hypodensity means almost everything else** — ischemic stroke, tumor, infection, and inflammation are all typically hypodense, so distinguishing among them often depends on distribution (vascular territory and gray-white boundaries) rather than density alone.
+
+## Problem Representation
+
+A 68-year-old woman with type 2 diabetes and hypertension presents with acute-onset, irregular, large-amplitude involuntary movements of the left upper and lower extremities, persisting during sleep and without alleviating or exacerbating factors, and without weakness, sensory loss, ataxia, fever, or weight loss. Bedside description characterizes the movement as choreiform. Basic labs show a fingerstick glucose of 176 with a markedly elevated hemoglobin A1c of 17.6%; CT and MRI show hyperdensity/T1 hyperintensity in the right caudate and lentiform nucleus, with a central pontine signal abnormality attributed to osmotic demyelination from correction of the hyperosmolar state. The findings are diagnostic of hemichorea secondary to non-ketotic hyperglycemia, treated symptomatically with haloperidol and clonazepam alongside insulin initiation and endocrinology referral for glucose control.
+
+---
+
+## Case Narrative
+
+This is a live, volunteer-based Tuesday **Neurology VMR** session, distinct in format from the fixed presenter/discussant panel of earlier episodes in this queue: medical students Ravi Patel (New Delhi, India, third year) and Lauren (UC Irvine, fourth year) join as discussants, with Gabrielle presenting a case she and her team managed, and Aaron Berkowitz teaching throughout.
+
+**Chief concern (five words): involuntary movements of the left hand and body.** Given only this, Lauren's first instinct is seizure, alongside movement disorders broadly, and a question about chronicity — which Berkowitz uses to introduce his standing **[[Localization × Time Course|E=mc² framework]]** (differential diagnosis equals localization times time course), while flagging that for movement disorders specifically, the more productive first question is usually *which type of movement is this*, since nearly all of them map back to basal ganglia circuitry rather than to a discrete, teachable localization the way weakness does. Ravi's instinct converges on tremor, Parkinsonism, myoclonus, and Huntington's. Berkowitz then lays out a comprehensive taxonomy: involuntary movements first split into seizure (abnormal cortical electrical activity — tonic, tonic-clonic, or myoclonic) versus movement disorder; movement disorders then split into hypokinetic (Parkinsonism — bradykinesia and rigidity) and hyperkinetic, which includes tremor (rhythmic oscillation), myoclonus (a lightning-fast jerk, distinguished from clonus, which is rhythmic ankle quivering from hyperreflexia), tics (complex, stereotyped movements preceded by a premonitory urge and followed by relief), chorea (dance-like, existing on a continuum from athetosis to ballism, e.g., hemiballismus), and dystonia (sustained twisting into a fixed posture). For any of these, Berkowitz's differential always sorts into three buckets — neurologic (further split into structural lesion vs. degenerative/neurologic disease), systemic, or drug/toxin-induced — illustrated with chorea specifically: a contralateral subthalamic nucleus lesion (structural), Huntington's disease (neurologic/degenerative), hyperglycemia or chorea gravidarum or lupus (systemic), or cocaine (drug-induced).
+
+**History: acute, unilateral, and vascular risk factors — but the movement type reframes the differential.** The patient is a 68-year-old woman with more than five years of type 2 diabetes and hypertension, on hydrochlorothiazide, metformin, losartan, nifedipine, omeprazole, and aspirin, presenting with acute-onset involuntary movements of the left arm and leg, persisting during sleep, without fever, weakness, weight loss, or other complaints, and without prior episodes. Ravi reasons from the vascular risk factors and acute onset toward stroke, initially considering a cerebellar lesion before Berkowitz clarifies that ataxia — the cerebellum's signature deficit — is better thought of as a coordination disorder than a movement disorder proper, with its own signature kinetic/intention tremor (perpendicular to the plane of movement, worsening as precision demands increase, as in finger-to-nose testing) rather than chorea. Berkowitz builds out the acute stroke discussion: ischemic (thrombotic or embolic) versus hemorrhagic, with headache, depressed consciousness, very high diastolic blood pressure, and nausea/vomiting at presentation all favoring hemorrhage but none being specific enough to substitute for imaging. He then makes the pivotal observation: the patient's acute presentation is chorea specifically, not the more classic stroke presentations of hemiparesis, aphasia, or neglect — and while unilateral movement disorders generally suggest a structural lesion, he previews that hyperglycemic hemichorea is an important exception to the usual "bilateral equals systemic" heuristic. He also introduces a hyperacute-vs-acute distinction within his time-course framework: truly sudden-onset neurologic deficits point to stroke, seizure, toxic/metabolic derangement, migraine (aura or headache itself, affecting roughly one in ten people), or trauma; acute-but-not-sudden (hours to days) points to infections like bacterial or viral meningitis/encephalitis; subacute-to-chronic infections (fungal, tubercular, HIV-related complications like toxoplasmosis) tend to come on even more gradually. For chorea by tempo: Huntington's disease (a CAG-repeat degenerative disorder on chromosome 4, with genetic anticipation, presenting chronically, often with an early psychiatric component, and not truly unilateral though possibly asymmetric) and Wilson's disease (any movement disorder including a classic wing-beating tremor, usually younger patients), chorea-acanthocytosis, and dentatorubral-pallidoluysian atrophy (DRPLA) are chronic; Sydenham chorea (post-infectious, following group A beta-hemolytic streptococcal infection, part of the rheumatic fever spectrum) and antibody-mediated paraneoplastic/autoimmune syndromes (anti-NMDA receptor encephalitis, anti-CRMP5) are subacute; and structural lesions or hyperglycemia can present far more acutely.
+
+**Exam: describe first, name second.** Rather than jumping to a diagnostic label, Berkowitz has Lauren describe the video purely phenomenologically — large-amplitude, irregular, non-rhythmic, "swinging" movements confined to the left arm, sparing the face and trunk — before assigning it a name. Walking through the differential of tremor, dystonia, myoclonus, tick, chorea, ballism, athetosis, and dyskinesia by these descriptive features (amplitude, rhythm, purposefulness), the group lands on chorea: not as violent as ballism, not as slow as athetosis, and clearly non-purposeful (in contrast to some tics, which can look almost deliberate). The rest of the exam — strength, sensation, coordination — is normal, leaving an isolated left hemichorea.
+
+**Time course revisited: "pseudo-acute" chorea.** Asked for a clearer time course, Gabrielle reports the patient may have woken up with the movements but isn't certain it was truly abrupt. Berkowitz uses this uncertainty to introduce **parakinesia** — patients with early or mild chorea often camouflage the movements into voluntary gestures without realizing it, so a chorea history can be falsely reassuring about acuity — illustrating with his own experience of transient post-infectious chorea after a severe streptococcal pharyngitis in medical school, where he unconsciously incorporated small choreiform flourishes into ordinary movements and initially attributed them to his own intentional silliness.
+
+**Predicting the workup and the imaging.** Ravi requests a head CT to rule out hemorrhage or fracture, followed by MRI, localizing to the right hemisphere given the left-sided findings; Lauren adds an EKG, CBC, BMP, glucose, and urine studies. Berkowitz notes that if the tempo truly is sudden, the leading possibilities are ischemic stroke, hemorrhagic stroke, or hyperglycemic hemichorea; if it's actually pseudo-acute (present but unnoticed for longer), a structural lesion becomes more likely — specifically flagging toxoplasmosis as a basal-ganglia-tropic pathogen worth considering with an HIV test and CD4 count in that scenario. He predicts, before the images are shown, that this is most likely an ischemic stroke or hyperglycemic hemichorea, and explicitly notes that hyperglycemic hemichorea classically shows contralateral T1 hyperintensity on MRI in the basal ganglia — a specific, testable prediction.
+
+**Labs and imaging confirm hyperglycemic hemichorea.** A problem representation is built — a 68-year-old woman with vascular risk factors presenting with acute-onset left-sided hemichorea — before results return. A fingerstick glucose returns at 176, but the hemoglobin A1c is markedly elevated at 17.6%, implying a much higher glucose burden in the preceding weeks to months than the single fingerstick suggests. CT and MRI show T1 hyperintensity and CT hyperdensity in the right lentiform nucleus and caudate, with a discrete signal change in the central pons attributed to osmotic demyelination from correction of the underlying hyperosmolar state. Berkowitz uses the imaging to teach basal ganglia neuroanatomy directly off the scan (caudate abutting the lateral ventricle, the internal capsule separating caudate from lentiform nucleus, putamen as the most lateral lentiform structure with globus pallidus externa and interna nested medially) and reviews the CT density differential: hyperdensity essentially means blood or calcium (illustrated by the incidentally calcified pineal gland at midline), with hyperdense tumors like lymphoma as a notable exception; hypodensity covers essentially everything else — ischemic stroke, tumor, inflammation, infection, CSF, and air — usually distinguished from one another by distribution (respecting a vascular territory and gray-white junctions favors stroke; extending across those boundaries favors tumor, infection, or inflammation) rather than density itself. The combination of markedly elevated A1c, basal ganglia T1 hyperintensity/CT hyperdensity restricted to specific gray-matter structures rather than a vascular territory, and a pontine osmotic demyelination signal is diagnostic of **hemichorea-hemiballismus secondary to non-ketotic hyperglycemia** — a rare but classic diabetic complication, more often reported with markedly elevated, non-ketotic glucose states, that a radiologist unaware of the glucose value could easily misread as an acute stroke.
+
+**Treatment and teaching wrap-up.** The patient is treated symptomatically with haloperidol and clonazepam, improves modestly, and is referred to endocrinology with insulin initiated for glucose control — the underlying hyperglycemia being the actual target of treatment, since the movement disorder should improve as glucose normalizes. Closing teaching points reiterate seizure-versus-movement-disorder as the first branch point; hyperkinetic versus hypokinetic movement disorder categories; the principle that movement type usually outweighs localization in this domain because of shared basal ganglia circuitry; the neurologic/systemic/drug-induced framework for any movement disorder differential; and the CT hyperdensity-versus-hypodensity teaching used to help distinguish hyperglycemic hemichorea from stroke on imaging. Berkowitz closes by connecting back to the podcast's broader **[[Neurophobia|#EndNeurophobia]]** mission, commending both student discussants' reasoning and their ability to name individual basal ganglia structures directly from the CT.
+
+## Reasoning Breakdown
+
+### Bayesian Updates
+
+| Data point | Hypothesis raised/adjusted | Direction of update |
+|---|---|---|
+| CC: involuntary movements, left arm/leg | Seizure vs. movement disorder framework; hyperkinetic/hypokinetic taxonomy | Frames the case |
+| Age 68, T2DM, hypertension | Vascular risk factors for stroke | Raised |
+| Acute onset, unilateral | Structural lesion (stroke most likely given risk factors) | Raised |
+| No fever, weight loss, prior episodes | Infectious/chronic degenerative process | Lowered |
+| Movement described as irregular, large-amplitude, non-rhythmic, non-purposeful | Chorea (vs. tremor, myoclonus, tick, athetosis, ballism, dystonia) | Raised, movement type identified |
+| Persists during sleep, no clear alleviating/exacerbating factors | (Consistent with organic/structural or metabolic chorea rather than functional movement) | Supports organic process |
+| Uncertain true time of onset ("pseudo-acute," possible parakinesia) | Chorea present longer than initially apparent; structural lesion (e.g., toxoplasmosis) if truly subacute | Raised as a caveat, not resolved |
+| Predicted (before imaging): ischemic stroke or hyperglycemic hemichorea most likely | — | Pretest calibration exemplar |
+| Fingerstick glucose 176 | Acute severe hyperglycemia as sole driver | Lowered on its own |
+| Hemoglobin A1c 17.6% | Sustained, severe, likely non-ketotic hyperglycemia | Raised sharply |
+| CT/MRI: hyperdensity/T1 hyperintensity confined to right caudate and lentiform nucleus, not a vascular territory | Ischemic stroke | Lowered (doesn't respect vascular distribution) |
+| CT/MRI: same finding, contralateral to the affected limb, restricted to basal ganglia gray matter | Hyperglycemic hemichorea-hemiballismus | Raised, confirmed |
+| Central pontine signal change | Osmotic demyelination from hyperosmolar-state correction | Raised, supports severe/prolonged hyperglycemia |
+| Overall pattern: markedly elevated A1c + basal ganglia T1/CT signal + pontine osmotic change | Chorea secondary to non-ketotic hyperglycemia | Confirmed; landing diagnosis |
+| Response to haloperidol/clonazepam + insulin initiation | Symptomatic and glycemic treatment appropriate | Supports diagnosis and management plan |
+
+### Illness Scripts and Bias
+
+- **"Predict before you look," reused again.** Berkowitz predicts ischemic stroke or hyperglycemic hemichorea as the leading possibilities, and specifically predicts contralateral T1 hyperintensity in the basal ganglia, before the imaging is shown — the same **[[Test Interpretation|pretest-calibration]]** habit recurring across all six prior episodes in this queue.
+- **Describe before you name.** Rather than asking "what movement disorder is this?" directly, Berkowitz has the discussant describe the video in plain, non-medical language (amplitude, rhythm, purposefulness) first, then maps that description onto the formal taxonomy — a deliberate technique for avoiding premature pattern-matching to a remembered label before the actual phenomenology has been fully observed.
+- **A heuristic explicitly flagged with its exception.** The unilateral-suggests-structural, bilateral-suggests-systemic heuristic is stated plainly and then immediately qualified with a named, important exception (hyperglycemic hemichorea) — modeling how useful heuristics should be held provisionally rather than applied rigidly.
+- **A personal illness narrative used to teach a subtle sign.** Berkowitz's own experience of unconsciously camouflaging early post-infectious chorea into voluntary gestures (parakinesia) is offered not as color but as a concrete illustration of how patients can under-report or misattribute genuine early chorea, directly bearing on how much weight to place on a "definitely sudden" history.
+- **A localization heuristic explicitly relaxed for this disease category.** Berkowitz names, up front, that the localization-first habit taught for weakness and most other neurologic complaints is less useful for movement disorders — an explicit statement that a generally reliable reasoning schema doesn't transfer uniformly across all of neurology, and should be adapted to the category of complaint.
+
+## Teaching Discussion
+
+- Split any involuntary-movement complaint first into seizure versus movement disorder, then into hypokinetic (Parkinsonism) versus hyperkinetic (tremor, myoclonus, tick, chorea-athetosis-ballism, dystonia) categories.
+- For movement disorders, prioritize correctly identifying the type of movement over precise anatomic localization, since nearly all trace back to basal ganglia circuitry regardless of exact structure involved.
+- Apply the neurologic (structural vs. degenerative)/systemic/drug-toxin framework to any movement disorder differential, and know representative causes of chorea in each bucket (subthalamic nucleus lesion; Huntington's, Wilson's, chorea-acanthocytosis, DRPLA; hyperglycemia, pregnancy, lupus/antiphospholipid, Sydenham chorea; cocaine, dopaminergic agents).
+- Remember that unilateral movement disorders generally suggest structural lesions and bilateral ones suggest systemic or degenerative causes, but hold hyperglycemic hemichorea as a named, classic exception.
+- Distinguish cerebellar ataxia (a coordination disorder with a signature kinetic/intention tremor worsening toward the target) from movement disorders proper.
+- Recognize "pseudo-acute" chorea and parakinesia — patients may camouflage early choreiform movements into voluntary gestures and be unable to date the true onset accurately.
+- Use the hyperacute/acute/subacute/chronic tempo buckets for both stroke-versus-other-hyperacute causes (seizure, toxic/metabolic, migraine, trauma) and for infectious causes of neurologic presentations (bacterial/viral acute; fungal/TB/HIV-related subacute-to-chronic).
+- Know the CT density differential: hyperdensity essentially means blood or calcium (with hyperdense tumors like lymphoma as an exception); hypodensity covers ischemia, tumor, infection, and inflammation, generally distinguished from each other by distribution rather than density.
+- Recognize hyperglycemic hemichorea-hemiballismus as a diabetic complication with a classic imaging signature (T1 hyperintensity/CT hyperdensity in the contralateral basal ganglia) that can be misread as stroke without knowledge of the glucose/A1c, and treat it by correcting the underlying hyperglycemia alongside symptomatic dopamine-blocking or -depleting agents.
+
+## Evergreen Note Updates
+
+- [ ] Create **[[Approach to Movement Disorders]]** — seizure-vs-movement-disorder first branch, hyperkinetic/hypokinetic taxonomy, the neurologic/systemic/drug-toxin differential schema, and the "movement type over localization" principle; cite CPS 186 as the primary source episode.
+- [ ] Create **[[Hyperglycemic Hemichorea-Hemiballismus]]** — non-ketotic hyperglycemia mechanism, classic contralateral basal ganglia T1/CT signature, its status as an exception to the unilateral-equals-structural heuristic, and treatment (glucose correction plus symptomatic antidopaminergic agents); cite CPS 186 as the primary source episode.
+- [ ] Update **[[Localization × Time Course]]** — add the explicit exception for movement disorders (type of movement matters more than localization) from CPS 186.
+- [ ] Create or update **[[Neuroimaging Density Patterns (CT Hyperdensity vs. Hypodensity)]]** — blood/calcium (hyperdense) vs. ischemia/tumor/infection/inflammation (hypodense), with the lymphoma exception, from CPS 186's teaching.
+- [ ] Update **[[Test Interpretation]]** — add CPS 186's imaging-prediction exemplar (now recurring across all seven built episodes).
+- [ ] Create **[[Chorea]]** — athetosis-chorea-ballism continuum, bedside descriptive approach (amplitude, rhythm, purposefulness), and the full differential by tempo (Sydenham, autoimmune/paraneoplastic, Huntington's, Wilson's, hyperglycemic, structural, drug-induced); cite CPS 186.
+
+## Handbook Opportunities
+
+- An **approach to involuntary movements** card — seizure vs. movement disorder, hyperkinetic/hypokinetic taxonomy, and the neurologic/systemic/drug-toxin schema.
+- A **chorea differential by tempo** card — acute (structural, hyperglycemic), subacute (Sydenham, autoimmune/paraneoplastic), and chronic (Huntington's, Wilson's, and other degenerative choreas).
+- A **CT hyperdensity vs. hypodensity** card, with the hyperglycemic hemichorea imaging signature as a worked example.
+
+## References
+
+- Berkowitz AL. *Clinical Neurology and Neuroanatomy: A Localization-Based Approach.* McGraw-Hill. — basal ganglia anatomy, movement disorder taxonomy, and neuroimaging density interpretation.
+- Chua CB, Sun CK, Hsu CW, et al. *"Diabetic striatopathy": clinical presentations, controversy, pathogenesis, treatments, and outcomes.* Scientific Reports, 2020. — non-ketotic hyperglycemia-induced hemichorea-hemiballismus, imaging findings, and management.
+- Cardoso F. *Chorea: non-genetic causes.* Current Opinion in Neurology, 2004. — chorea differential diagnosis by category (structural, systemic, autoimmune, drug-induced).
+
+## Related Notes
+
+[[Localization × Time Course]] · [[Neurophobia]] · [[Approach to Movement Disorders]] · [[Chorea]] · [[Hyperglycemic Hemichorea-Hemiballismus]] · [[Neuroimaging Density Patterns (CT Hyperdensity vs. Hypodensity)]] · [[Test Interpretation]] · [[CPS 146 - Right-Sided Weakness and Numbness and Medial Medullary Syndrome from a Vertebral Artery Dissection]] · [[CPS 179 - Headache and Blurry Vision from Racemose Neurocysticercosis with Communicating Hydrocephalus]]

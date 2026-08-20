@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
 tags:
   - clinical-reasoning
+  - neurology
 ---
 
-Evergreen concept note. Acute immune-mediated polyradiculoneuropathy causing rapidly ascending weakness and areflexia — a neurologic emergency because of respiratory and autonomic failure. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Acute immune-mediated polyradiculoneuropathy causing rapidly ascending weakness and areflexia — a neurologic emergency because of respiratory and autonomic failure.
 
 ## Definition and Pathophysiology
 Guillain-Barré syndrome (GBS) is an acute, immune-mediated **polyradiculoneuropathy**; the prototypic form, **acute inflammatory demyelinating polyradiculoneuropathy (AIDP)**, is driven by autoimmune attack on peripheral myelin, often **post-infectious** (e.g., following gastrointestinal or respiratory illness) via molecular mimicry ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -29,4 +28,4 @@ Guillain-Barré syndrome (GBS) is an acute, immune-mediated **polyradiculoneurop
 - **Supportive care** is central: respiratory monitoring, cardiac/autonomic surveillance, VTE prophylaxis, and rehabilitation. Most patients recover, though deficits and time course vary.
 
 ## Related Notes
-[[CIDP]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Spine vs Peripheral Nerve]] · [[Subacute Combined Degeneration]] · [[Neuroanatomical Localization]] · [[Illness Tempo]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[CIDP]] · [[Length-Dependent vs Non-Length-Dependent Neuropathy]] · [[Spine vs Peripheral Nerve]] · [[Subacute Combined Degeneration]] · [[Neuroanatomical Localization]] · [[Illness Tempo]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

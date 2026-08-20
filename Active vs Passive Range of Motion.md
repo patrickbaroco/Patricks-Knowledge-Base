@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
-  - orthopedics
 tags:
   - clinical-reasoning
+  - rheumatology
+  - orthopedics
 ---
 
-Evergreen concept note. Comparing pain on active versus passive movement localizes a problem to the joint itself versus the tendon that moves it — with one crucial caveat for inflamed tendons. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Comparing pain on active versus passive movement localizes a problem to the joint itself versus the tendon that moves it — with one crucial caveat for inflamed tendons.
 
 ## The Mechanics
 - In **active** motion the muscle-tendon unit contracts and is *loaded* — it does the work of moving the joint.
@@ -30,4 +29,4 @@ Whether pain reproduces when the tendon is loaded (active only) versus whenever 
 - Combine with palpation over the tendon versus the joint line, and with load/resistance testing, to sharpen localization before imaging.
 
 ## Related Notes
-[[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[Calcific Tendinitis]] · [[Septic Arthritis]] · [[Anatomical Approach]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]
+[[Clinical Reasoning MOC]] · [[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[Calcific Tendinitis]] · [[Septic Arthritis]] · [[Anatomical Approach]] · [[RLR 062 - Oligoarthritis and Polyarticular Gout Flare]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]

@@ -6,8 +6,6 @@ tags:
   - base-rate-neglect
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 Base-rate neglect is failing to weight prior probability — chasing a vivid, specific, or [[Availability Heuristic|available]] diagnosis while ignoring how common it actually is in this population. It is the bias that [[Base Rate|base-rate reasoning]] guards against: where base rate says "start from the frequent and spend energy in proportion," neglect jumps to the zebra on the strength of a salient feature. The corrective is not to ignore the striking finding but to keep the prior in view and let specific data *adjust* it rather than override it.
@@ -32,4 +30,4 @@ Base-rate neglect is failing to weight prior probability — chasing a vivid, sp
 
 ## Related Notes
 
-[[Base Rate]] · [[Bayesian Reasoning]] · [[Availability Heuristic]] · [[Representativeness Heuristic]] · [[Anchoring Bias]] · [[Illness Tempo]] · [[RLR 007 - Hypercalcemia]] · [[RLR 008 - Dyspnea]] · [[RLR 011 - Fever and Chronic Consolidation]]
+[[Clinical Reasoning MOC]] · [[Base Rate]] · [[Bayesian Reasoning]] · [[Availability Heuristic]] · [[Representativeness Heuristic]] · [[Anchoring Bias]] · [[Illness Tempo]] · [[RLR 007 - Hypercalcemia]] · [[RLR 008 - Dyspnea]] · [[RLR 011 - Fever and Chronic Consolidation]]

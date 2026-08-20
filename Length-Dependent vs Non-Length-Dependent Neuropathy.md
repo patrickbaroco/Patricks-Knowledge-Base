@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
 tags:
   - clinical-reasoning
+  - neurology
 ---
 
-Evergreen concept note. The "length principle" of peripheral neuropathy — most neuropathies strike the longest axons first — and why breaking that rule is a diagnostic clue. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+The "length principle" of peripheral neuropathy — most neuropathies strike the longest axons first — and why breaking that rule is a diagnostic clue.
 
 ## The Length Principle
 The longest axons are metabolically the most vulnerable, so most **axonal** neuropathies are **length-dependent**: symptoms begin in the **feet**, ascend the shins, and only reach the **fingers** once the legs are involved to about mid-calf ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -30,4 +29,4 @@ The longest axons are metabolically the most vulnerable, so most **axonal** neur
 - **Electrodiagnostics** distinguish axonal (length-dependent) from demyelinating (conduction block, slowing) physiology and localize to nerve vs root.
 
 ## Related Notes
-[[Spine vs Peripheral Nerve]] · [[Guillain-Barré Syndrome]] · [[CIDP]] · [[Subacute Combined Degeneration]] · [[Paraneoplastic Neurologic Syndrome]] · [[Neuroanatomical Localization]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Spine vs Peripheral Nerve]] · [[Guillain-Barré Syndrome]] · [[CIDP]] · [[Subacute Combined Degeneration]] · [[Paraneoplastic Neurologic Syndrome]] · [[Neuroanatomical Localization]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

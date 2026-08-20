@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
 tags:
   - clinical-reasoning
+  - neurology
 ---
 
-Evergreen concept note. Recognizing, localizing, and excluding spinal-cord disease. Teaching points cited per episode.
+Recognizing, localizing, and excluding spinal-cord disease.
 
 ## Localizing to (or away from) the cord
 
@@ -21,4 +20,4 @@ Evergreen concept note. Recognizing, localizing, and excluding spinal-cord disea
 
 ## Related Notes
 
-[[Neurologic Equation]] · [[Spinal Epidural Abscess]] · [[Spinal Cord Compression]] · [[Vertebral Osteomyelitis]] · [[Anatomical Approach]] · [[Polyneuropathy]] · [[Test Interpretation]] · [[RLR 009 - Progressive Sensorimotor Polyneuropathy]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]
+[[Clinical Reasoning MOC]] · [[Neurologic Equation]] · [[Spinal Epidural Abscess]] · [[Spinal Cord Compression]] · [[Vertebral Osteomyelitis]] · [[Anatomical Approach]] · [[Polyneuropathy]] · [[Test Interpretation]] · [[RLR 009 - Progressive Sensorimotor Polyneuropathy]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]]

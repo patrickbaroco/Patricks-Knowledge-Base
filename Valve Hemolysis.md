@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - cardiology
-  - hematology
 tags:
   - clinical-reasoning
+  - cardiology
+  - hematology
 ---
 
-Evergreen concept note. Mechanical (shear) intravascular hemolysis caused by a prosthetic valve, degenerated bioprosthesis, or perivalvular leak — recognized by schistocytes, high LDH, low haptoglobin, and hemoglobinuria. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Mechanical (shear) intravascular hemolysis caused by a prosthetic valve, degenerated bioprosthesis, or perivalvular leak — recognized by schistocytes, high LDH, low haptoglobin, and hemoglobinuria.
 
 ## Concept
 Red cells passing through abnormal high-shear flow around a prosthetic or leaking valve are mechanically fragmented, producing **intravascular hemolysis** (see [[Intravascular Hemolysis]] and [[Hemolysis]]). Classic settings include **mechanical prosthetic valves**, **degenerated bioprostheses**, and especially **paravalvular/perivalvular regurgitant jets** where blood is forced through a narrow high-velocity channel ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]).
@@ -38,4 +37,4 @@ Valve hemolysis is the link that explains a co-timed anemia and thrombocytopenia
 - General reviews on prosthetic-valve and paravalvular-leak hemolysis.
 
 ## Related Notes
-[[TAVR Perivalvular Leak]] · [[Free Hemoglobin vs RBC Hematuria]] · [[Thrombocytopenia]] · [[Acquired von Willebrand Syndrome]] · [[Hemolysis]] · [[Intravascular Hemolysis]] · [[Test Interpretation]]
+[[Clinical Reasoning MOC]] · [[TAVR Perivalvular Leak]] · [[Free Hemoglobin vs RBC Hematuria]] · [[Thrombocytopenia]] · [[Acquired von Willebrand Syndrome]] · [[Hemolysis]] · [[Intravascular Hemolysis]] · [[Test Interpretation]]

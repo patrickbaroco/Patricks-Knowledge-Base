@@ -6,8 +6,6 @@ tags:
   - availability-heuristic
 ---
 
-Evergreen concept note. Definition plus worked examples, drawn from the RLR / Clinical Problem Solvers series and elsewhere. Source episodes are cited per example.
-
 ## Definition
 
 The availability heuristic is judging how likely a diagnosis is by how easily an instance comes to mind. Recent, vivid, or emotionally charged cases — a patient last week, an active outbreak, a memorable miss — feel more probable than the base rate warrants. Described by Tversky and Kahneman, it is efficient (fast retrieval of a relevant short list) but systematically distorts probability toward whatever is *top of mind*.
@@ -30,6 +28,7 @@ In clinical reasoning availability genuinely cuts both ways: a fresh exposure ca
 - **Noticing an anchor without being captured.** Reza volunteers two vivid recent neck cases but flags that they don't fit this tempo. ([[RLR 016 - Neck Pain and Crowned Dens Syndrome|RLR 016]])
 - **The right leads, missing a member.** Stored associations (hot water ↔ polycythemia vera, mastocytosis, cannabis) surface the short list — availability delivering *items* fast. ([[RLR 019 - Abdominal Pain and Cannabinoid Hyperemesis Syndrome|RLR 019]])
 - **A reflex that tethers.** The "liver enzymes have extrahepatic sources" association is availability working correctly, yet it keeps Reza tethered to the thorax slightly longer than the biliary answer warranted. ([[RLR 020 - Chest Pain and Ascending Cholangitis|RLR 020]])
+- **Naming the cluster instead of hiding it.** The presenter explicitly flags that this is the third consecutive pacemaker-complication case discussed in a row, an open acknowledgment of how repeated recent exposure is actively shaping his emerging illness script for device-related disease — useful for building pattern recognition, but worth distinguishing from base-rate reasoning about any single patient. ([[RLR 074 - Bilateral Facial Swelling and Pacemaker Lead-Induced SVC Syndrome|RLR 074]])
 
 ## Counter-moves
 
@@ -39,4 +38,4 @@ In clinical reasoning availability genuinely cuts both ways: a fresh exposure ca
 
 ## Related Notes
 
-[[Anchoring Bias]] · [[Premature Closure]] · [[Framing Effect]] · [[Base Rate]] · [[Base-Rate Neglect]] · [[Schema-Based Reasoning]] · [[Representativeness Heuristic]] · [[RLR 004 - Rectal Pain and Proctitis]] · [[RLR 006 - Bradycardia and Urinary Retention]] · [[RLR 010 - Postprandial Pain]] · [[RLR 012 - Dysuria and Esophageal Perforation]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]] · [[RLR 019 - Abdominal Pain and Cannabinoid Hyperemesis Syndrome]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]]
+[[Clinical Reasoning MOC]] · [[Anchoring Bias]] · [[Premature Closure]] · [[Framing Effect]] · [[Base Rate]] · [[Base-Rate Neglect]] · [[Schema-Based Reasoning]] · [[Representativeness Heuristic]] · [[RLR 004 - Rectal Pain and Proctitis]] · [[RLR 006 - Bradycardia and Urinary Retention]] · [[RLR 010 - Postprandial Pain]] · [[RLR 012 - Dysuria and Esophageal Perforation]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]] · [[RLR 019 - Abdominal Pain and Cannabinoid Hyperemesis Syndrome]] · [[RLR 020 - Chest Pain and Ascending Cholangitis]] · [[RLR 074 - Bilateral Facial Swelling and Pacemaker Lead-Induced SVC Syndrome]]

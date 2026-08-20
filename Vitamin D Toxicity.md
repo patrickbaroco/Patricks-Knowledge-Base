@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - endocrinology
-  - nephrology
 tags:
   - clinical-reasoning
+  - endocrinology
+  - nephrology
 ---
 
-Evergreen concept note. Vitamin D toxicity as a cause of hypercalcemia. Teaching points cited per episode.
+Vitamin D toxicity as a cause of hypercalcemia.
 
 ## Illness script
 
@@ -25,4 +24,4 @@ Evergreen concept note. Vitamin D toxicity as a cause of hypercalcemia. Teaching
 
 ## Related Notes
 
-[[Hypercalcemia]] · [[Vitamin D Metabolism]] · [[25-Hydroxyvitamin D]] · [[Calcitriol]] · [[Milk-Alkali Syndrome]] · [[Physiologic Reserve]] · [[Hickam's Dictum]] · [[Nephrocalcinosis]] · [[Prednisone]] · [[Test Interpretation]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]
+[[Clinical Reasoning MOC]] · [[Hypercalcemia]] · [[Vitamin D Metabolism]] · [[25-Hydroxyvitamin D]] · [[Calcitriol]] · [[Milk-Alkali Syndrome]] · [[Physiologic Reserve]] · [[Hickam's Dictum]] · [[Nephrocalcinosis]] · [[Prednisone]] · [[Test Interpretation]] · [[RLR 028 - Hypercalcemia and Vitamin D Toxicity]]

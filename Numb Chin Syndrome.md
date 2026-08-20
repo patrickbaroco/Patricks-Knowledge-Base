@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - neurology
-  - oncology
 tags:
   - clinical-reasoning
+  - neurology
+  - oncology
 ---
 
-Evergreen concept note. Numbness of the chin and lower lip from mental-nerve (V3) dysfunction — a small symptom with an outsized, often malignant, significance. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Numbness of the chin and lower lip from mental-nerve (V3) dysfunction — a small symptom with an outsized, often malignant, significance.
 
 ## Definition and Anatomy
 Numb chin syndrome (mental neuropathy) is sensory loss over the chin and lower lip in the distribution of the **mental nerve**, the terminal branch of the inferior alveolar nerve from the **mandibular division (V3)** of the trigeminal nerve (see [[Trigeminal Nerve]]) ([[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis|RLR 059]]).
@@ -32,4 +31,4 @@ Despite sounding trivial, numb chin syndrome is a **red-flag sign strongly assoc
 - **Systemic malignancy evaluation** — cross-sectional imaging, and marrow/plasma-cell studies (SPEP/free light chains) when myeloma is a consideration.
 
 ## Related Notes
-[[Trigeminal Nerve]] · [[Leptomeningeal Carcinomatosis]] · [[Pachymeningeal vs Leptomeningeal Enhancement]] · [[When to Worry]] · [[Test Interpretation]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Trigeminal Nerve]] · [[Leptomeningeal Carcinomatosis]] · [[Pachymeningeal vs Leptomeningeal Enhancement]] · [[When to Worry]] · [[Test Interpretation]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

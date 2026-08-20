@@ -29,4 +29,4 @@ Treatment as a diagnostic test is reading a patient's *response to therapy* as e
 
 ## Related Notes
 
-[[Illness Tempo]] · [[Diagnostic Momentum]] · [[Test Interpretation]] · [[Bayesian Reasoning]] · [[Schema-Based Reasoning]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 026 - Syncope and Occult Gastrointestinal Bleeding]]
+[[Clinical Reasoning MOC]] · [[Illness Tempo]] · [[Diagnostic Momentum]] · [[Test Interpretation]] · [[Bayesian Reasoning]] · [[Schema-Based Reasoning]] · [[RLR 013 - Right Upper Quadrant Pain and Heart Failure]] · [[RLR 016 - Neck Pain and Crowned Dens Syndrome]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 018 - Gross Hematuria in End-Stage Renal Disease]] · [[RLR 024 - Confusion and Ertapenem-Induced Encephalopathy]] · [[RLR 026 - Syncope and Occult Gastrointestinal Bleeding]]

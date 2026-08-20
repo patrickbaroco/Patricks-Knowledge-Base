@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - urology
-  - nephrology
 tags:
   - clinical-reasoning
+  - urology
+  - nephrology
 ---
 
-Evergreen concept note. An approach to blood in the urine — localize the lesion like a GI bleed, separate glomerular from non-glomerular sources, and pursue source control. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+An approach to blood in the urine — localize the lesion like a GI bleed, separate glomerular from non-glomerular sources, and pursue source control.
 
 ## The GI-Bleed Analogy
 Approach hematuria the way you approach a GI bleed: **find the lesion and get mechanical source control** ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]). Most hematuria is an **anatomical lesion** — the worst is **cancer** (urothelial/bladder, renal, prostate), while the commonest are **infection**, bladder-wall irritation/trauma, and bleeding on a vulnerable prostate (Foley catheter plus BPH) ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]). Urology usually localizes and controls it endoscopically; when they **cannot** stop it, you are by definition in unusual territory and should step back to interrogate a systemic contributor — the blood or the [[Bleeding Framework|bridge]] ([[RLR 064 - Hematuria and Post-TAVR Perivalvular Leak|RLR 064]]).
@@ -35,4 +34,4 @@ When a structural lesion is present but bleeding is **out of proportion** or ref
 - Society guidance on evaluation of microscopic and gross hematuria.
 
 ## Related Notes
-[[Continuous Bladder Irrigation]] · [[Free Hemoglobin vs RBC Hematuria]] · [[Bleeding Framework]] · [[Law of Proportionality]] · [[Schema-Based Reasoning]]
+[[Clinical Reasoning MOC]] · [[Continuous Bladder Irrigation]] · [[Free Hemoglobin vs RBC Hematuria]] · [[Bleeding Framework]] · [[Law of Proportionality]] · [[Schema-Based Reasoning]]

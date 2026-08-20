@@ -1,12 +1,11 @@
 ---
 type: evergreen
-clinical_domains:
-  - endocrinology
 tags:
   - clinical-reasoning
+  - endocrinology
 ---
 
-Evergreen concept note. Adrenal insufficiency as a recurring "sneaky" cause across the RLR / Clinical Problem Solvers series. General physiology is scaffolding; teaching points are cited per episode.
+Adrenal insufficiency as a recurring "sneaky" cause across the RLR / Clinical Problem Solvers series.
 
 ## Why it hides
 
@@ -25,4 +24,4 @@ Cortisol deficiency produces non-specific, multi-system findings — fatigue, na
 
 ## Related Notes
 
-[[Hyponatremia]] · [[SIADH]] · [[Cushing Syndrome]] · [[Image-Negative Abdominal Pain]] · [[Cortisol]] · [[Test Interpretation]] · [[Base Rate]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 019 - Abdominal Pain and Cannabinoid Hyperemesis Syndrome]] · [[RLR 026 - Syncope and Occult Gastrointestinal Bleeding]] · [[RLR 029 - Dyspnea and Disseminated Varicella-Zoster]]
+[[Clinical Reasoning MOC]] · [[Hyponatremia]] · [[SIADH]] · [[Cushing Syndrome]] · [[Image-Negative Abdominal Pain]] · [[Cortisol]] · [[Test Interpretation]] · [[Base Rate]] · [[RLR 003 - Hypertension and Severe Hyponatremia]] · [[RLR 019 - Abdominal Pain and Cannabinoid Hyperemesis Syndrome]] · [[RLR 026 - Syncope and Occult Gastrointestinal Bleeding]] · [[RLR 029 - Dyspnea and Disseminated Varicella-Zoster]]

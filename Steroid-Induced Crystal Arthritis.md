@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - rheumatology
-  - orthopedics
 tags:
   - clinical-reasoning
+  - rheumatology
+  - orthopedics
 ---
 
-Evergreen concept note. A rare post-injection flare in which the injected corticosteroid itself precipitates into crystals and drives an acute synovitis. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+A rare post-injection flare in which the injected corticosteroid itself precipitates into crystals and drives an acute synovitis.
 
 ## Definition
 Steroid-induced (post-injection) crystal arthritis is an acute crystal-induced synovitis occurring hours to a few days **after an intra-articular corticosteroid injection**, caused by the **viscous corticosteroid suspension precipitating into crystals** within the joint ([[RLR 061 - Knee Swelling and Calcific Tendinitis|RLR 061]]).
@@ -26,4 +25,4 @@ Steroid-induced (post-injection) crystal arthritis is an acute crystal-induced s
 - Supportive — NSAIDs and rest; the flare is self-limited. Confirm cultures remain negative.
 
 ## Related Notes
-[[Synovial Fluid Analysis]] · [[Crystals in Macrophages]] · [[Septic Arthritis]] · [[Calcific Tendinitis]] · [[CPPD]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]
+[[Clinical Reasoning MOC]] · [[Synovial Fluid Analysis]] · [[Crystals in Macrophages]] · [[Septic Arthritis]] · [[Calcific Tendinitis]] · [[CPPD]] · [[Law of Proportionality]] · [[RLR 061 - Knee Swelling and Calcific Tendinitis]]

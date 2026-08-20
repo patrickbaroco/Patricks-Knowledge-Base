@@ -1,6 +1,3 @@
----
-topic: pain, deprescribing, ADE
----
 
 *July 1, 2025*
 

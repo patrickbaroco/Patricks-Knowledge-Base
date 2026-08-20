@@ -1,13 +1,12 @@
 ---
 type: evergreen
-clinical_domains:
-  - infectious disease
-  - cardiology
 tags:
   - clinical-reasoning
+  - infectious-disease
+  - cardiology
 ---
 
-Evergreen concept note. Infective endocarditis is microbial infection of the endocardium/valves; this note emphasizes conduction disease from perivalvular (aortic-root) abscess — the not-to-miss in the AV-block-plus-fever patient. RLR / Clinical Problem Solvers teaching points are cited per episode; general clinical detail is scaffolding.
+Infective endocarditis is microbial infection of the endocardium/valves; this note emphasizes conduction disease from perivalvular (aortic-root) abscess — the not-to-miss in the AV-block-plus-fever patient.
 
 ## Why Endocarditis Causes Heart Block
 The aortic valve sits adjacent to the membranous septum and the AV node/His bundle. Infection extending beyond the valve into the annulus forms a **perivalvular / aortic-root abscess** that mechanically and inflammatorily destroys nearby conduction tissue.
@@ -29,4 +28,4 @@ Alongside endocarditis, the infectious conduction diseases include **[[Lyme Card
 - **Pacing** for high-grade block; block from abscess is often *not* reversible with antibiotics alone and may require surgery plus a permanent device.
 
 ## Related Notes
-[[AV Block]] · [[Lyme Carditis]] · [[Relative Bradycardia]] · [[Test Interpretation]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
+[[Clinical Reasoning MOC]] · [[AV Block]] · [[Lyme Carditis]] · [[Relative Bradycardia]] · [[Test Interpretation]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]]
