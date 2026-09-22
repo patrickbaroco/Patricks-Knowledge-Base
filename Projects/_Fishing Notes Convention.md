@@ -1,7 +1,7 @@
 ---
 type: reference
 about: How fishing notes are typed, tagged, and organized in this vault
-last_touched: 2026-07-25
+last_touched: 2026-09-22
 ---
 
 # Fishing Notes Convention
@@ -82,6 +82,10 @@ The MOC's **Needs normalization** table does the rest: it surfaces any `topic: f
 ## Clippings that bundle unrelated content
 
 hatchmag.com clippings have twice now come in with a second, unrelated article's text appended after the nominal piece ends (Redfish: The gateway to a flats habit picked up an unconnected essay about a Boston Mountains swimming hole; Tips for the traveling angler picked up an unconnected carp-fishing/crawfish-crawl piece) — apparently an artifact of how the source page or clipper captured the page. Treat the clipping as a single unit named/typed/crosslinked for its nominal article; don't edit the clipped body to split it out, and don't let the appended content drive the `type` or crosslinks unless it's genuinely the more substantial piece.
+
+## `topic` must be a scalar, not a list
+
+Every MOC query filters on `topic = "fishing"`, which is false when the clipper writes `topic:` as a one-item list (`topic:\n  - fishing`). Both 2026-09-22 clippings arrived that way and were invisible to the MOC, including its **Needs normalization** table, until converted to `topic: fishing`. A sweep should grep for the list form as well as the scalar form. The `fishing` entry under `tags` is unnecessary; `topic` does that work.
 
 ## Status
 

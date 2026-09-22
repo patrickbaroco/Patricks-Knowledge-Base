@@ -1,13 +1,13 @@
 ---
 project: Normalize Fishing Notes
-status: active
+status: shelved
 domain: personal
 started: 2026-07-25
-next_action: "Decide whether Bay Flats and Southern Way need water_temp or guide-contact fields next time either is touched"
+next_action: "Shelved 2026-09-08 — tracked, not worked. Revive trigger: the next time Bay Flats or Southern Way is actually touched, decide then whether it needs water_temp or guide-contact fields. No live task by design."
 todoist_label: prj-fishing
 stakeholders: []
 related: []
-last_touched: 2026-07-26
+last_touched: 2026-09-22
 ---
 
 ## Context
@@ -48,3 +48,6 @@ Bounded project to bring the vault's four fishing notes (Bay Flats Lodge, Jurass
   - **Tips for the traveling angler** — normalized to `type: technique` (general gear/travel-prep advice — rod/reel/leader/tippet freshness, packing, tipping, etc. — plus the appended carp-fishing section). Left uncrosslinked, same treatment as the two Gawesworth casting-fundamentals clippings: general instruction not tied to a specific leader formula, destination, or named technique already in the vault, so forcing a link would be tenuous per the crosslinking rule.
   - Updated the MOC's clipping/technique counts (13 clippings, 10 `type: technique`) and the "Notes to build" summary. Ran a final grep sweep after this pass and found nothing else missing `type`.
 - 2026-07-26 (third pass, same day): Reviewed the `location` field convention per Patrick's request (state if US, else country) — turned out already followed everywhere except Mossy Creek, which still had `location: USA` left over from an earlier pass. Fixed to `location: Virginia`. Documented the rule explicitly in [[_Fishing Notes Convention]] (new **`location` field** section) and fixed the stale `location: USA` in that doc's own Bay Flats Lodge worked example to `location: Texas`.
+
+- 2026-09-08 (weekly review): **Shelved.** Six weeks untouched, and the `next_action` was never an action — *decide whether X needs a field **next time either is touched*** is conditional on an event that may not come for a season. A project whose only step waits on an unscheduled trigger is shelved by definition, so the field becomes the revive trigger and the note stops reading as an open project. Nothing is lost: the normalization work already done stands, and the question wakes up the next time either note is edited.
+- 2026-09-22 (maintenance sweep; project stays shelved): Two clippings had landed since July, both with `topic` written as a list, which hid them from every MOC query including **Needs normalization**. `Clippings/Why Your Next Fishing Trip Should Be to Spain.md` (Charles Gaines, Condé Nast Traveler, 2016) — `type: destination`, `location: Spain`, `best_months` Mar–Nov from the article's "When to Go" box; crosslinked to Leader Formulas' Ultra-Delicate Dry Fly (Peramola midge-sippers) and Streamer / Big Water (reservoirs, Segre). `Clippings/The Meadows on Rock Creek - Rock Creek Fly Fishing.md` (Yellow Dog booking page) — already had `type`/`location`; added `water`, `best_months` Jun–Oct from the stated season, crosslinked to General Dry Fly and Nymphing. Both got `topic: fishing` as a scalar, `#fishing`, and a "Best time to fish" section; reciprocal links added in [[Leader Formulas]]. Documented the list-form `topic` trap in [[_Fishing Notes Convention]]. Counts now 8 destinations, 15 clippings.

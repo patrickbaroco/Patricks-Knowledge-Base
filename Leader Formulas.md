@@ -124,3 +124,5 @@ Blood knot joins all sections (see [[Video Pro Tip The Easiest Blood-Knot Method
 - [[Gangler's North Seal River Lodge  Yellow Dog Flyfishing|Gangler's North Seal River Lodge]] — trophy pike and lake trout call for the same **Streamer / Big Water** taper, though pike add a wire/heavy-mono bite-tippet requirement this note doesn't cover yet.
 - [[South Holston River Lodge]] — the sulphur-hatch dry fly fishing there is exactly what the **Ultra-Delicate Dry Fly** and **George Harvey Dry-Fly Leader** formulas are built for.
 - [[Fly fishing in Shenandoah Valley on Mossy Creek]] — same small-fly, technical spring-creek water the **Ultra-Delicate Dry Fly** formula is built for.
+- [[The Meadows on Rock Creek - Rock Creek Fly Fishing|The Meadows on Rock Creek]] — freestone Montana trout water for the **General Dry Fly** and **Nymphing** formulas.
+- [[Why Your Next Fishing Trip Should Be to Spain|Spanish Pyrenees (Salvelinus)]] — the Peramola midge-sippers call for **Ultra-Delicate Dry Fly**; the reservoirs and the Segre for **Streamer / Big Water**.
