@@ -6,3 +6,6 @@ Finances/Tax Documents/
 Finances/Solo 401k/
 Finances/Apple Card CSV/*.csv
 Claude outputs/*Account Application.pdf
+
+# macOS Finder metadata
+.DS_Store

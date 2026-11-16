@@ -592,3 +592,30 @@ Recorded as item 65 in the Charter's open items. A third external pass read the 
 **Not changed: § 6.8.** The review proposed a response period before recurrence in the sample raises an intervention. Patrick declined and the reviewer withdrew it: Article X gives the sample evidence and a hearing before any restriction, and Tier One restricts nothing. The existing response period where the sample supports a new adverse finding stands.
 
 Pre-revision copies: `_archive/prc-charter-draft-2026-11-16-before-third-review.md`, `_archive/prc-charter-revisions-2026-11-16-before-third-review.md`.
+
+---
+
+# Revision of 2026-11-16 (third): fourth review pass
+
+Recorded as item 66 in the Charter's open items. Each point confirmed against the text.
+
+- **§ 6.5.** The list of provisions applying without an addendum still named the precautionary authority under Article IX, contradicting the bar added the same day. Removed.
+- **§ 15.3.** Cites § 11111(a)(1); § 11111(a)(2) stays with § 15.2.
+- **§ 15.6.** The federally required copy to the state licensing board is stated apart from further state reporting, and both reach reports under §§ 15.7 and 15.9.
+- **§§ 15.10, 15.11.** "Reports submitted under Article XV," so § 15.9 reports enter the quarterly report and the exception notice. What executives receive is unchanged.
+
+The reviewer recommends sending this version to counsel and not reopening the architecture, the sample rule, or the health-policy boundary.
+
+Pre-revision copy: `_archive/prc-charter-draft-2026-11-16-before-fourth-review.md`.
+
+---
+
+# Revision of 2026-11-16 (fourth): simplification
+
+Recorded as item 67 in the Charter's open items. Piloted on Article IX (`_archive/article-ix-pilot-2026-11-16.md`), adjusted after review, then applied to every article. Operative text about 21,650 words to about 18,160.
+
+**Adjustments from the pilot review.** The Coordinator's same-day notice to members (§ 9.2) stays in the Charter: members may need it to question, modify or end a restriction before it lapses, and an unintended lapse of a warranted restriction is itself a safety risk. The day-20 reminder moves to OP-1, whose text is adopted with the Charter. The guide does not describe the continuations of a restriction as the Practitioner's choice. The investigatory restriction is described as a short, bounded period to investigate the clinical concern.
+
+**Lesson recorded for the remaining articles.** A notice is assessed for its role in oversight and safety, not only for whether missing it favors the Practitioner.
+
+The full change table, OP-1, and the counsel classification: `prc-simplification-2026-11-16.md`. Member guide: new section *Why the Charter says what it says*; pre-revision copy `_archive/prc-member-guide-2026-11-16-before-reasons-section.md`.

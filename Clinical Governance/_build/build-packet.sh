@@ -4,11 +4,11 @@ set -e
 S="$(cd "$(dirname "$0")/.." && pwd)"
 D="$HOME/Library/Mobile Documents/com~apple~CloudDocs/To Share/Clinical Governance"
 mkdir -p packet
-python3 packet-filter.py "$S/packet-start-here.md"            packet/00.md
-python3 packet-filter.py "$S/governance-framework-overview.md" packet/01.md --no-standfirst \
+python3 packet-filter.py "$S/Packet/packet-start-here.md"            packet/00.md
+python3 packet-filter.py "$S/Packet/governance-framework-overview.md" packet/01.md --no-standfirst \
   --retitle "What is not yet settled=>Health, impairment and fitness" \
   --drop-first-para "What is not yet settled"
-python3 packet-filter.py "$S/audit-program-explainer.md"       packet/05.md --no-standfirst
+python3 packet-filter.py "$S/Packet/audit-program-explainer.md"       packet/05.md --no-standfirst
 python3 packet-filter.py "$S/cqc-member-guide.md"              packet/06.md --drop "What is not settled yet"
 python3 packet-filter.py "$S/prc-member-guide.md"              packet/07.md --drop "What is not settled yet"
 node md2docx.js packet/00.md "$D/00 - Start Here.docx"                                4F6469 E8EDEE "Clinical Governance — what is in this packet"

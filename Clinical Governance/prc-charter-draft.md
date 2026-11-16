@@ -4,7 +4,7 @@
 
 *Draft v0.1 — 2026-08-26; revised 2026-08-30; composition revised 2026-09-18; revised for two committees under the Chief Executive Officer's authorization 2026-09-28; screening, APCs and the agreed resolution revised 2026-09-29. Not adopted. Prepared for counsel review.*
 *Established by the Chief Executive Officer under the Authorization referenced in § 1.1.*
-*Bracketed values are drafting defaults; see "Open items in this draft" at the end.*
+*Simplified 2026-11-16: the reasons for the rules are in the PRC member guide. Bracketed values are drafting defaults; see "Open items in this draft" at the end.*
 
 ---
 
@@ -16,7 +16,7 @@
 
 The authority is confined to the individual Practitioner. The Committee has no authority over staffing, employment, operations, or the Entity's policies, and § 3.2 states what it may not do.
 
-**1.1.2 Withdrawal.** **The Chief Executive Officer may withdraw the authority conferred by the Authorization, in part or in whole, at any time, in writing.** The route out is stated in this Charter rather than left to be inferred from the instrument that created it.
+**1.1.2 Withdrawal.** **The Chief Executive Officer may withdraw the authority conferred by the Authorization, in part or in whole, at any time, in writing.**
 
 **Withdrawal is prospective.** It does not vacate a Professional Review Action already final, does not terminate a restriction in force otherwise than on that restriction's own terms, and does not extinguish a reporting obligation that has already attached. Matters open on the date of withdrawal are concluded or closed under this Charter, or under whatever the Chief Executive Officer adopts in its place.
 
@@ -33,14 +33,14 @@ The authority is confined to the individual Practitioner. The Committee has no a
 **1.6 Definitions.** In this Charter, and in the Charter of the Clinical Quality Committee:
 
 - (a) **Practitioner.** A physician or APC furnishing care on behalf of the Entity, and a licensed psychotherapist to the extent § 6.5 provides.
-- (b) **Clinical Authorization.** The terms and conditions under which a Practitioner is permitted to furnish care on behalf of the Entity, including the Autonomy Tier assigned under § 1.6.1. **Clinical Authorization constitutes clinical privileges within the meaning of 42 U.S.C. § 11151(3)**, which defines clinical privileges to include "other circumstances pertaining to the furnishing of medical care under which a physician or other licensed practitioner is permitted to furnish such care by a health care entity." The term is used for internal clarity and does not alter that status.
+- (b) **Clinical Authorization.** The terms and conditions under which a Practitioner is permitted to furnish care on behalf of the Entity, including the Autonomy Tier assigned under § 1.6.1. **Clinical Authorization constitutes clinical privileges within the meaning of 42 U.S.C. § 11151(3)**, which defines clinical privileges to include "other circumstances pertaining to the furnishing of medical care under which a physician or other licensed practitioner is permitted to furnish such care by a health care entity."
 - (c) **Professional Review Action.** An action of the Committee, based on a Practitioner's competence or professional conduct that affects or could affect adversely the health or welfare of a patient, which adversely affects or may adversely affect the Practitioner's Clinical Authorization.
 - (d) **Professional Review Activity.** Activity undertaken to determine whether a Practitioner may furnish care, or the conditions under which care may be furnished, or to change or modify those conditions.
 - (e) **Proposed Action.** A Professional Review Action the Committee has voted to propose under § 10.1, before the Practitioner's rights under Article X have been exhausted or waived.
 - (f) **Management.** The Chief Executive Officer, Chief Operating Officer, Chief Medical Officer, Regional Chief Medical Officers, Regional Directors of Clinical Operations and Excellence, and any other person holding authority over the employment, compensation, contracting, scheduling, or assignment of Practitioners.
 - (g) **Employment Authority.** Authority to hire, terminate, discipline, set compensation for, evaluate for compensation purposes, or direct the assignment of a Practitioner.
 - (h) **The Authorization.** The written authorization of the Chief Executive Officer referenced in § 1.1.
-- (i) **Advanced Practice Clinician (APC).** A nurse practitioner or physician assistant, including one practicing in psychiatry. **Nurse practitioners and physician assistants are peers for every purpose of this Charter.** Their clinical responsibilities in the Entity are the same, and wherever this Charter matches a reviewer or panelist to a Practitioner's discipline, either profession is matched to the other.
+- (i) **Advanced Practice Clinician (APC).** A nurse practitioner or physician assistant, including one practicing in psychiatry. **Nurse practitioners and physician assistants are peers for every purpose of this Charter.** Wherever this Charter matches a reviewer or panelist to a Practitioner's discipline, either profession is matched to the other.
 - (j) **Service line.** Primary care or psychiatry, according to the care the Practitioner principally furnishes. A licensed psychotherapist is in the psychiatry service line.
 - (k) **Department Chair.** The chair of the Primary Care Committee or of the Psychiatry Committee.
 - (l) **Assigned supervising physician.** The physician the Entity assigns as responsible for an APC's practice and outcomes, whether or not the law of the jurisdiction requires a collaborative or supervisory arrangement for that APC. An assigned supervising physician holds no Employment Authority by virtue of the assignment.
@@ -58,7 +58,7 @@ The authority is confined to the individual Practitioner. The Committee has no a
 
 **The ladder is confined to authority because every tier on it is a Professional Review Action**, and carries the notice and hearing rights of Article X. A measure the Committee may impose directly, without that process, therefore cannot sit on it.
 
-**1.7 Uniform procedure.** This Charter applies identically to physicians and APCs. The federal protections of 42 U.S.C. §§ 11111 and 11112 are framed around professional review of physicians and reach review of other Practitioners less certainly. Uniform procedure is adopted deliberately rather than tiering process by discipline. Licensed psychotherapists are reviewed only under a panel constituted specially under § 6.5.
+**1.7 Uniform procedure.** This Charter applies identically to physicians and APCs. Licensed psychotherapists are reviewed only under a panel constituted specially under § 6.5.
 
 ---
 
@@ -66,7 +66,7 @@ The authority is confined to the individual Practitioner. The Committee has no a
 
 **2.1 Chair.** The Chair of Clinical Excellence chairs the Committee ex officio, for so long as that position is held. The chairmanship is not termed. **The Chair presides and does not vote**, and is not counted as a member for quorum or for any voting threshold.
 
-The Chair also chairs the Clinical Quality Committee, whose audit is one of the sources from which matters reach this Committee. **The findings and actions of this Committee do not rest on the Chair's view**, so that no one person stands at both ends of the same matter.
+**The findings and actions of this Committee do not rest on the Chair's view.**
 
 **2.1.1 The Chair signs the Committee's decisions.** **After each decision that closes a review, imposes a Quality Intervention, proposes or takes a Professional Review Action, or ratifies, modifies, or ends a restriction, the Chair confirms in writing that the process this Charter requires was followed, and signs the decision.** The signature certifies process. It is not a vote, and it confers no authority over the merits.
 
@@ -76,17 +76,15 @@ The Chair also chairs the Clinical Quality Committee, whose audit is one of the 
 
 **2.3 No Employment Authority.** **No person holding Employment Authority may serve on the Committee or in the Reviewer Pool.** Such persons may refer matters under § 4.1, may be interviewed, and may provide information, with the protection and limits stated in § 15.2, but they do not review, deliberate, or vote.
 
-**2.4 Discipline representation.** Standing membership shall include not fewer than [three] physicians, [two] APCs, and [one] clinician with psychiatric training. The physician floor is set at three so that a physician matter can be paneled under § 6.3(a) from the standing membership after one recusal.
+**2.4 Discipline representation.** Standing membership shall include not fewer than [three] physicians, [two] APCs, and [one] clinician with psychiatric training.
 
-**2.5 Reviewer Pool.** The Chair may maintain a Reviewer Pool of licensed clinicians in active clinical practice, holding no Employment Authority, from which the Chair may draw where a Review Panel cannot be constituted from the standing membership under § 6.1. Pool membership is not a Committee appointment, carries no fixed term, and carries no obligation to serve on any particular matter. **The Pool may be empty.** It exists so that discipline matching under § 6.3 and setting experience under § 6.4 can be met as the Committee's membership and case mix change, and so that review capacity can scale with case volume if it comes to that; the standing membership is the reviewing body in the ordinary case.
+**2.5 Reviewer Pool.** The Chair may maintain a Reviewer Pool of licensed clinicians in active clinical practice, holding no Employment Authority, from which the Chair may draw where a Review Panel cannot be constituted from the standing membership under § 6.1. Pool membership is not a Committee appointment, carries no fixed term, and carries no obligation to serve on any particular matter. **The Pool may be empty.** The standing membership is the reviewing body in the ordinary case.
 
 **2.5.1 Department Chairs at screening.** **The Department Chair for the Practitioner's service line screens each referral with the Chair under § 4.4, and in doing so acts for the Committee.** A Department Chair is not a member of the Committee, does not vote in any matter, and is not counted for quorum or for any voting threshold.
 
 A Department Chair screening under this Charter is a person assisting a professional review body for purposes of 42 U.S.C. § 11111(a)(1), executes the undertaking required by § 13.5 before receiving any referral, and is subject to Article XII as a member is. **A Department Chair who holds Employment Authority does not screen**, and § 4.4.1 applies.
 
 **What a Department Chair learns at screening remains in the Committee's record.** It is not carried to the department, raised in its meetings, or used in its work, and the department receives nothing concerning an identified Practitioner.
-
-**Screening by the Department Chair keeps the Committee's members clear of every matter until a review opens**, and places at the first decision a clinician who knows how that service line practises.
 
 **2.6 Vice-Chair.** Elected annually by the members from among the members. Presides whenever the Chair is recused or absent, and **while presiding stands in the Chair's place under § 2.1**: does not vote in the matter, and is not counted for quorum or for any voting threshold in it.
 
@@ -108,7 +106,7 @@ A Department Chair screening under this Charter is a person assisting a professi
 
 **Service on a Review Panel is not a ground of recusal.** A member who served on the Panel in a matter votes on it as a member. The Panel's proposal under § 6.7 does not bind the member who made it, and a member who has changed their view on the Committee's record records that they have.
 
-**2.9 Screening of the Coordinator.** The Coordinator holds operational responsibilities elsewhere in the Entity that bring the Coordinator into regular working contact with Practitioners who may become the subject of review. That is not disqualifying. It is addressed here rather than left undefined:
+**2.9 Screening of the Coordinator.** The Coordinator's operational responsibilities elsewhere in the Entity are not disqualifying, and are governed as follows:
 
 - (a) the Coordinator does not discuss the merits of any matter with the Practitioner who is its subject, and does not discuss any matter with any person in the Coordinator's operational reporting line, to any degree. **With the Practitioner, the Coordinator handles procedure only**: notices, periods, scheduling, questions about process under § 5.7.3(f), and access under § 13.4.1;
 - (b) the Coordinator's operational duties toward a Practitioner are performed without reference to any matter, and the existence of a matter does not change how those duties are performed;
@@ -119,9 +117,9 @@ A Department Chair screening under this Charter is a person assisting a professi
 
 **Case business does not wait for the monthly cycle.** The Committee convenes within [five] business days of a precautionary restriction to act under § 9.2.1, and within [fifteen] calendar days of receiving a hearing panel's recommendation to act under § 10.7, whether or not a regular meeting falls within either period.
 
-**2.11 Minutes, executive session, and attendance.** Professional Review Activity is conducted in executive session. Minutes state, for each matter: the matter considered and its identifier; the documents reviewed, identified individually; the members present, the members recused, and the times of departure and return; the action taken; and the vote. Deliberative content is summarized in substance and is not transcribed. The specificity required by this section is set by Ohio Rev. Code § 2305.252 case law, which requires document-level proof of scope and does not accept generalities.
+**2.11 Minutes, executive session, and attendance.** Professional Review Activity is conducted in executive session. Minutes state, for each matter: the matter considered and its identifier; the documents reviewed, identified individually; the members present, the members recused, and the times of departure and return; the action taken; and the vote. Deliberative content is summarized in substance and is not transcribed.
 
-Participation by electronic means is permitted where every participant can hear and be heard simultaneously and the confidentiality of the session can be maintained. **The Committee's meetings are not recorded.** The record of a hearing under § 10.5(c) is the one exception, and is made because that section requires it. Counsel may attend any meeting. Any other person attends only for a stated purpose, by invitation of the Chair.
+Participation by electronic means is permitted where every participant can hear and be heard simultaneously and the confidentiality of the session can be maintained. **The Committee's meetings are not recorded.** The record of a hearing under § 10.5(c) is the one exception. Counsel may attend any meeting. Any other person attends only for a stated purpose, by invitation of the Chair.
 
 ---
 
@@ -143,7 +141,7 @@ Participation by electronic means is permitted where every participant can hear 
 
 **3.2 The Committee may not:**
 
-- (a) take a Professional Review Action except under Article X, after the Practitioner has received notice and the opportunity for a hearing or has waived it. **The authority under Article IX, precautionary under § 9.1 and investigatory under § 9.8, is the sole exception to this subsection.** A restriction under § 9.8 ends at fourteen days under that section. A restriction imposed under § 9.1 is temporary, lapses automatically under § 9.2 absent ratification under § 9.2.1, terminates absolutely under § 9.5, and **is not a final Professional Review Action under this Charter.** Whether it is a professional review action at the moment of imposition for purposes of 42 U.S.C. § 11112(c)(2) is a question of law reserved to counsel, and this subsection neither decides it nor depends on the answer;
+- (a) take a Professional Review Action except under Article X, after the Practitioner has received notice and the opportunity for a hearing or has waived it. **The authority under Article IX, precautionary under § 9.1 and investigatory under § 9.8, is the sole exception to this subsection.** A restriction under § 9.8 ends at fourteen days under that section. A restriction imposed under § 9.1 is temporary, lapses automatically under § 9.2 absent ratification under § 9.2.1, terminates absolutely under § 9.5, and **is not a final Professional Review Action under this Charter.** Whether it is a professional review action for purposes of 42 U.S.C. § 11112(c)(2) is determined under applicable law, with counsel;
 - (b) make, recommend, or advise on any decision concerning employment, compensation, contracting, scheduling, facility assignment, or medical director designation;
 - (c) receive or consider information about a Practitioner's compensation, productivity, revenue, or cost. Economic consequences that follow mechanically from a change in Clinical Authorization are not within this exclusion; reaching for an economic instrument is;
 - (d) file any report concerning a Practitioner otherwise than under Article XV, which confines the Committee's reporting to its own actions. A report required on any other ground, including a report concerning an impaired practitioner under the law of a jurisdiction in which the Entity operates, is not the Committee's to make;
@@ -156,8 +154,6 @@ Participation by electronic means is permitted where every participant can hear 
 **3.5 Separate tracks, and separate records.** Employment decisions are made by Management, on the employment record, under the Entity's employment policies. A Professional Review Action is not an employment decision and an employment decision is not a Professional Review Action. Neither is a condition of the other. The record of a Professional Review Action and the record of any employment decision concerning the same Practitioner are maintained separately under § 13.1, and documents do not move between them.
 
 **3.6 Medical director designation.** Designation of a medical director under 42 C.F.R. § 483.70 is made by the facility, and nomination or withdrawal of nomination by the Entity is an administrative decision of Management, taken on an independently documented record. **The Committee takes no action on designation, and no Committee record is transmitted for the purpose of one.** Where Management asks, the Committee may confirm only the fact and terms of a final Professional Review Action of which Management already has notice under § 3.4, together with facts independently available from sources outside the Committee's record. **Findings, evidence, deliberations, and the record of any matter that did not result in final action are not transmitted.** Any disclosure beyond this section is made only on a permissible-disclosure analysis performed by counsel and recorded under § 3.2(e).
-
-**Stated this narrowly because a wider channel would defeat § 3.5.** A record available as a partial basis for an administrative designation is a record that has moved between the tracks that section keeps apart.
 
 ---
 
@@ -173,45 +169,43 @@ Participation by electronic means is permitted where every participant can hear 
 - (f) an external event — licensure board action, malpractice claim or settlement, a Data Bank query result, or loss of authorization elsewhere;
 - (g) self-referral by the Practitioner.
 
-**The audit is one source and not the principal one.** Nothing in this Article, and nothing in the CQC Charter, limits the Committee to conduct that some written standard happens to address.
+Nothing in this Article, and nothing in the CQC Charter, limits the Committee to conduct that a written standard addresses.
 
-**4.2 A facility complaint is a signal to look, not a finding.** A facility's interests in a matter are not confined to the quality of the care, and a complaint may follow from a clinical position the Practitioner was right to take — on antimicrobial stewardship, or on hospitalization rates. A complaint under § 4.1(e) is screened on its clinical merits and its source is recorded.
+**4.2 A facility complaint is a signal to look, not a finding.** A complaint under § 4.1(e) is screened on its clinical merits and its source is recorded.
 
-**4.3 Mandatory referral, and mandatory opening.** Two duties, stated separately because they fall on different people.
+**4.3 Mandatory referral, and mandatory opening.**
 
 **(a) The duty to refer.** The following shall be referred to the Committee, and shall not be handled by Management, by a contracted facility, or informally in lieu of referral: [a death or serious harm event in which a question of Practitioner performance has been raised]; [any external event under § 4.1(f)]; [any matter in which a Practitioner has been removed from duties on performance-related grounds, including removal to complete overdue documentation, for more than [seven] days in total, or on [three] or more occasions, within any period of [ninety] days]. **The duty falls on any person holding the information, and it is discharged by referring.** It is not discharged by forming a view that the matter would not survive review.
 
 The duty is **subject to applicable law, and does not require or permit the transfer of patient safety work product or of other legally protected material**, which this Committee may not receive under § 1.5. Where a person holds the relevant information only through a protected process, the duty is discharged by whatever referral that law permits, and by saying that it is so limited.
 
-**(b) The duty to open.** A referral under (a) is dispositioned under § 4.4(d). **Dispositions (b) and (c) of § 4.4 are not available to it, and disposition (e) only as § 4.3(d) provides.** A matter within (a) may well reflect a systems condition or contain an administrative element; the Committee identifies that in the review and refers it under Article XI or § 14.1, rather than in place of reviewing.
+**(b) The duty to open.** A referral under (a) is dispositioned under § 4.4(d). **Dispositions (b) and (c) of § 4.4 are not available to it, and disposition (e) only as § 4.3(d) provides.** Where a matter within (a) reflects a systems condition or contains an administrative element, the Committee identifies it in the review and refers it under Article XI or § 14.1, and still reviews the matter.
 
-**(c) The single exception.** Screening may disposition a referral under (a) as No action under § 4.4(a) on one ground only — **that the Practitioner named was not involved in the care or event, or that the matter is administrative in nature and does not concern the Practitioner's clinical practice, competence, or fitness to practice.** The determination is recorded with its reasons and counted in the next quarterly report under § 15.10. A referral naming the wrong Practitioner, and a licensure action on a purely administrative ground such as a lapsed registration or unmet continuing education, are the cases this subsection exists for. It is not a general discretion, and a judgment that the care was probably acceptable is not a ground under it. **A matter raising a question of health, impairment, or fitness to practise is not administrative under this subsection**; it is governed by (d).
+**(c) The single exception.** Screening may disposition a referral under (a) as No action under § 4.4(a) on one ground only — **that the Practitioner named was not involved in the care or event, or that the matter is administrative in nature and does not concern the Practitioner's clinical practice, competence, or fitness to practice.** The determination is recorded with its reasons and counted in the next quarterly report under § 15.10. A judgment that the care was probably acceptable is not a ground under it. **A matter raising a question of health, impairment, or fitness to practise is not administrative under this subsection**; it is governed by (d).
 
 **(d) Health, impairment, and fitness.** A matter raising a question of the Practitioner's health, impairment, or fitness to practise **may not be closed as administrative and is not adjudicated by this Committee.** It is dispositioned under § 4.4(e) and referred to **the pathway designated by the Chief Executive Officer for practitioner health matters** ("the Practitioner Health pathway"), and **the Committee's involvement in the health matter ends at referral**: it does not investigate it, adjudicate it, or manage it, imposes nothing in it, and **neither receives nor requests any information about the Practitioner's health, evaluation, treatment, or accommodation.** That last prohibition is absolute, and (d)(2) is not an exception to it.
 
-The destination is designated in the Authorization, or by a later written designation of the Chief Executive Officer, rather than named in this Charter, so that a change to the receiving policy does not require an amendment here.
+The destination is designated in the Authorization, or by a later written designation of the Chief Executive Officer.
 
-**The referral is made without exception and without delay.** The Committee does not withhold or defer a referral under this subsection on any ground, and does not first satisfy itself as to what will follow from it. **Retaining such a matter would require this Committee to investigate and manage a question it has no standard to decide.**
+**The referral is made without exception and without delay.** The Committee does not withhold or defer a referral under this subsection on any ground, and does not first satisfy itself as to what will follow from it.
 
 **The referral is recorded, and its fact is visible outside this Committee.** The Coordinator registers the matter under § 13.2 with its disposition, and **the number of dispositions under § 4.4(e), without the content of any matter, is included in the quarterly report under § 15.10.**
 
 **(d)(2) The safety question does not leave with the matter.** The health matter is closed to this Committee under (d). **A separate safety-status entry remains open, solely for the limited inquiry in this subsection**, and it is not a professional review of the Practitioner.
 
-What the Committee refers under (d) is the question of the Practitioner's health, which it cannot decide. **The concern that caused the referral — that a Practitioner may be furnishing care unsafely — is the Committee's own, and it stays open until something answers it.**
-
 The Coordinator diaries every matter dispositioned under § 4.4(e) at [thirty] days. On that day the Committee establishes **two facts and no others: whether the matter has been acted upon, and whether the Practitioner continues to furnish care.** Neither is information about the Practitioner's health, and establishing them requires no one to disclose any.
 
 **Where the matter has not been acted upon and the Practitioner continues to furnish care, that is a patient-safety concern within this Committee's scope.** The Chair raises it with the person responsible for the Practitioner Health pathway, and Article IX is available where the concern is immediate. The diary repeats at [thirty]-day intervals until either fact changes, and closes when either does.
 
-**This is not follow-up of the health matter and not monitoring of the Practitioner.** The Committee is following its own unanswered question, which it never referred anywhere. The inquiry is directed to the status of the referred matter, and the two facts stated above are the only two the Committee may establish under this subsection.
+**The inquiry is directed to the status of the referred matter.** It is not follow-up of the health matter or monitoring of the Practitioner, and the two facts stated above are the only two the Committee may establish under this subsection.
 
 **Referral under this subsection is not a report, and neither discharges nor affects any reporting obligation.** Where the law of a jurisdiction in which the Entity operates, or a facility contract, requires a report concerning an impaired or unfit practitioner, **that obligation stands independently and is unaffected by the referral having been made.** This Committee files no such report — see § 3.2(d). What is required, by whom, and by when is determined with counsel. **The Coordinator notifies counsel of every disposition under § 4.4(e)**, so that the question is asked at the time and not afterwards.
 
-**Where the matter also presents a question about care the Practitioner furnished, the Committee reviews the care.** It reviews the care and not the condition. A health condition may be context in such a review; the finding under Article VIII is about the care furnished. **This Charter supplies no standard for adjudicating fitness and confers no authority to determine it**, which is why a matter presenting fitness alone has no question for Article VIII to answer and does not open.
+**Where the matter also presents a question about care the Practitioner furnished, the Committee reviews the care.** It reviews the care and not the condition. A health condition may be context in such a review; the finding under Article VIII is about the care furnished. **This Charter confers no authority to determine fitness**, and a matter presenting fitness alone does not open.
 
-**Nothing in this subsection limits Article IX.** Imminent danger is imminent danger whatever its cause, and the precautionary authority does not wait on a pathway. Where a restriction under that Article is in force and the matter is dispositioned under § 4.4(e), § 9.7 governs.
+**Nothing in this subsection limits Article IX.** Where a restriction under that Article is in force and the matter is dispositioned under § 4.4(e), § 9.7 governs.
 
-**And nothing in it makes this Committee a participant in what follows.** Evaluation for fitness for duty, accommodation, leave, and every employment consequence belong to Management, and § 3.2(b) forbids this Committee from making, recommending, or advising on any of them. **A matter does not become professional review by having been screened here**, and the Committee's file on the health matter closes when the referral is made. The safety-status entry under (d)(2) is not that file and is not a review.
+**This Committee takes no part in what follows.** Evaluation for fitness for duty, accommodation, leave, and every employment consequence belong to Management, and § 3.2(b) forbids this Committee from making, recommending, or advising on any of them. **A matter does not become professional review by having been screened here**, and the Committee's file on the health matter closes when the referral is made. The safety-status entry under (d)(2) is not that file and is not a review.
 
 **4.4 Screening.** **The Chair and the Department Chair for the Practitioner's service line screen every referral within [ten] business days.** Screening determines only the route, not the merits. **A referral under § 4.1(a) resting on repetition after notice is screened for the record § 11.3 requires. One arriving without it is dispositioned under (a), with the reason recorded, and returned to the CQC.** Dispositions:
 
@@ -227,9 +221,7 @@ The Coordinator diaries every matter dispositioned under § 4.4(e) at [thirty] d
 - (b) the Department Chair is recused under Article XII or holds Employment Authority; or
 - (c) the Department Chair's seat is vacant, or the Department Chair cannot screen within the period.
 
-**A Department Chair does not decide at this Committee's door a matter they helped send to it.** Both Department Chairs sit as members of the CQC and withdraw there from referral determinations in their own service line (CQC § 2.2), and (a) covers a Department Chair who took part nonetheless, chiefly one added to screening under § 4.4.2.
-
-**4.4.2 Care across service lines.** Where a referral concerns care that falls within the other service line, the Chair may add the other Department Chair to the screening. A primary care Practitioner's prescribing of an antipsychotic is the ordinary case.
+**4.4.2 Care across service lines.** Where a referral concerns care that falls within the other service line, the Chair may add the other Department Chair to the screening.
 
 **4.4.3 Where those screening do not reach a majority.** A member of the Practitioner's discipline, designated by the Chair, decides the disposition on the referral and the reasons each screener has recorded. That member has taken no other part in the screening.
 
@@ -237,49 +229,41 @@ The Coordinator diaries every matter dispositioned under § 4.4(e) at [thirty] d
 
 **Where the answer is that it does, the matter is opened under § 4.4(d)**, whatever disposition would otherwise have followed, and the Chair considers at once whether to proceed under § 9.1 or § 9.8.
 
-Article IX supplies the authority to protect patients while a matter runs, and this section fixes the moment at which the question is first asked. The recorded answer is also what gives the statement under § 4.5.2 its meaning.
-
 **4.5 Every referral is dispositioned and recorded.** No referral is closed without a recorded disposition and a stated basis. The referrer is notified that the referral was received and screened, and is not told the outcome. What Management is told is stated at § 4.5.2, and what counsel is told at § 15.11.1.
 
-**4.5.1 Notice to the Practitioner on a closed referral.** A referral dispositioned under § 4.4(a) is ordinarily closed without notice to the Practitioner, and **a referral that was unsupported, mistaken, or made in bad faith shall be closed without notice.** Telling a Practitioner that an unsupported allegation was made and dismissed serves no one.
+**4.5.1 Notice to the Practitioner on a closed referral.** A referral dispositioned under § 4.4(a) is ordinarily closed without notice to the Practitioner, and **a referral that was unsupported, mistaken, or made in bad faith shall be closed without notice.**
 
-**This section does not apply to a referral dispositioned under § 4.7.** Such a matter is returned to the CQC pathway, and any notice to the Practitioner is given through the review report under § 5.4.1 or the close-out under § 5.5(c) of that Charter rather than twice and from two committees.
+**This section does not apply to a referral dispositioned under § 4.7.** Such a matter is returned to the CQC pathway, and any notice to the Practitioner is given through the review report under § 5.4.1 or the close-out under § 5.5(c) of that Charter.
 
 **Where those who screened the matter conclude that it raised a genuine concern that does not warrant review, they may notify the Practitioner of its substance.** The notice states what the concern was, that the Committee has determined not to open a review, and where the applicable standard and any supporting material are found. **It identifies no referrer.**
 
 **Such a notice is not a finding, is not an adverse action, and is not a Quality Intervention**, and § 4.6 is unaffected by it. It imposes nothing, requires no response, and is recorded in the register as part of the disposition and nowhere else.
 
-It exists because the alternative, for a concern that is genuine but minor, is a full review or complete silence. **Neither serves the Practitioner, and neither serves the purpose stated in § 1.2.**
-
 **4.5.2 The answer to Management.** **Where Management referred a matter under § 4.1(c), or asks about a matter it knows to be before the Committee, it receives the answer to the question under § 4.4.4 and nothing else.** The answer is one of two statements: that no action affecting the Practitioner's practice is required while the matter is before the Committee; or that the Committee has restricted the Practitioner's Clinical Authorization under Article IX, in which case notice is given under § 9.9. It is given when screening is complete, and given again only if it changes.
 
 **The first statement means that, on what screening has gathered, the matter does not presently warrant an interim restriction.** It is not a finding that the care met the standard of care or a prediction about care to come, and an open review, an agreed resolution, or education may stand behind it.
 
-A supervisor answers for the patients and facilities of a region, and whether a Practitioner is safe to continue seeing patients is a question Management may properly ask. It can be answered without the substance of the matter. The first statement protects the Practitioner, and the second adds nothing to the notice under § 9.9. Findings, evidence and deliberations remain withheld under §§ 3.3 and 3.4.
+Findings, evidence and deliberations remain withheld under §§ 3.3 and 3.4.
 
 **4.6 Screening is not review.** No finding adverse to a Practitioner is made at screening, and no Quality Intervention is imposed at screening.
 
 **4.7 Referrals arising from the audit, other than the CQC's own.** **Where any referral other than a referral by the CQC under § 4.1(a) arises from information obtained through the CQC's audit program — by whatever route under § 4.1, and whoever makes it** — screening shall determine whether it rests on a basis independent of the Practitioner's failure to satisfy a CQC standard or audit criterion; that is, whether it alleges a concern about the standard of care or about patient safety rather than noncompliance alone.
 
-**The test is the origin of the information and the basis asserted. It is not the identity or the role of the referrer.** A referral by Management under § 4.1(c), by a contracted facility under § 4.1(e), or by any other route is subject to this section on the same terms as one by a Practitioner or employee under § 4.1(b). Persons holding Employment Authority are excluded from this Committee and from the Pool under § 2.3 but may refer, and **the protections attaching to audit referrals cannot be avoided by choosing which box to tick.**
+**The test is the origin of the information and the basis asserted, whatever the identity or role of the referrer.** A referral by Management under § 4.1(c), by a contracted facility under § 4.1(e), or by any other route is subject to this section on the same terms as one by a Practitioner or employee under § 4.1(b). Persons holding Employment Authority, though excluded from this Committee and the Pool under § 2.3, may refer, and this section applies to them.
 
-**The same facts may support both. What must be independent is the basis, not the facts.**
+**The same facts may support both; what must be independent is the basis.**
 
 **A referral that on its face rests only on the Practitioner's failure to meet a CQC standard or audit criterion is dispositioned under § 4.4(a), with the reason recorded, and returned to the CQC to run its course there.** This applies regardless of whether the notice period under § 5.7 of the CQC Charter has run, whether the CQC has made an individual finding under § 5.1 of that Charter, and whether any criterion under its Audit Referral Policy has been met.
 
-The notice period is the clearest instance and not the defining one. A referral that the CQC could not yet make is plainly an attempt to get ahead of it; but a referral made after the period has run, resting on a finding the CQC's own ratified criteria would not refer, bypasses the same protections just as completely and is harder to see.
+**What this commits the Entity to.** Noncompliance with a CQC standard, unaccompanied by an independent concern about the standard of care or about patient safety, **does not reach this Committee by any route other than § 4.1(a). It reaches the Committee only through the CQC's audit-referral process, where the criteria of the Audit Referral Policy, in effect with this Committee's concurrence under § 11.5, have been met.** Arriving that way it is a referral and not a finding, and this Committee decides the standard-of-care question for itself on its own record under § 11.4.
 
-**What this commits the Entity to, stated rather than left to be inferred.** Noncompliance with a CQC standard, unaccompanied by an independent concern about the standard of care or about patient safety, **does not reach this Committee by any route other than § 4.1(a). It reaches the Committee only through the CQC's audit-referral process, where the criteria of the Audit Referral Policy, in effect with this Committee's concurrence under § 11.5, have been met.** Arriving that way it is a referral and not a finding, and this Committee decides the standard-of-care question for itself on its own record under § 11.4.
-
-That is the architecture. **This section polices the boundary between the two routes; it does not close one of them**, and the CQC is not required to form a standard-of-care view before referring under its own criteria. **Nothing here obstructs a person who believes a Practitioner's care raises a safety concern.** Such a person is required only to say so, and to say what the concern is.
+The CQC is not required to form a standard-of-care view before referring under its own criteria. **A person who believes a Practitioner's care raises a safety concern is required only to say so, and to say what the concern is.**
 
 ---
 
 ## Article V — Notice and the Practitioner's Participation
 
 **5.1 Notice on opening.** Within [five] business days of a decision to open a review, or, where those who screened the matter recommended an agreed resolution, within [five] business days of the Review Panel's decision not to concur under § 5.7.1, the Practitioner receives written notice stating: that a review has been opened; the general nature of the matter and the period and care at issue in terms sufficient to permit a response; that the Panel also examines a sample of the Practitioner's other care in the same clinical area under § 6.8, as it ordinarily does in every review; that the review may result in a Quality Intervention or in a Proposed Action, **and equally may close under § 8.5 without adverse finding or under § 8.5.1 with a finding and no intervention**; the Practitioner's rights under this Article; the name of the Coordinator as the point of contact; and the expected timeline.
-
-**The notice states the whole range of outcomes and not only its most serious end.** The possibility of a Proposed Action is real and is stated plainly. So is the fact that a review may close without any adverse finding at all. **A notice stating only that a review may result in a Quality Intervention or a Proposed Action omits § 8.5 and § 8.5.1**, and a Practitioner receiving one is entitled to the complete picture of what is and is not in prospect.
 
 **5.2 Response.** The Practitioner may submit a written response, and any records or information, within [twenty] calendar days of notice, extendable by the Chair for cause.
 
@@ -319,7 +303,7 @@ Where an agreed resolution is proposed on the recommendation of those who screen
 
 **5.7.4 The plan.** The plan states the education, directed reading, coursework, or case discussion to be undertaken, by when, and **who confirms completion.**
 
-**Completion is confirmed as a fact. What the Practitioner learned is not assessed**, because assessing it would be a determination about competence and this section rests on none.
+**Completion is confirmed as a fact. What the Practitioner learned is not assessed.**
 
 The plan is of defined duration and **is not extended.** Where it is not completed within its term the agreed resolution ends and the review proceeds under Articles VI and VIII. Time running under an agreed resolution does not count toward the periods in § 14.4.
 
@@ -327,7 +311,7 @@ The plan is of defined duration and **is not extended.** Where it is not complet
 
 **5.7.6 Two examinations of the care that follows.** **After the matter closes, the Committee examines a sample of the Practitioner's charts in the clinical area the plan concerned, twice: once for care furnished in the first full calendar quarter after completion, and once for the second.** Each examination is of [ten] charts, or of every chart in that area where there are fewer, and is made against the standard of care under § 8.1 by a member of the Practitioner's discipline designated by the Chair.
 
-**The examinations are follow-up of a closed matter.** They look at the care, and at nothing the Practitioner learned. Section 5.7.4 is unaffected: completion is confirmed as a fact, and what was learned is not assessed. Care furnished after completion is reviewable under § 4.1 whether or not an agreed resolution was ever made, and these examinations are the Committee looking at it on a date it set and disclosed in advance.
+**The examinations are follow-up of a closed matter.** They look at the care, and at nothing the Practitioner learned. Care furnished after completion is reviewable under § 4.1 whether or not an agreed resolution was ever made.
 
 **This section does not determine whether an investigation remains open for reporting purposes.** That question turns on what the Committee is actually doing. Where it arises under § 15.9, the Committee answers it with counsel on the facts and records the answer and its basis.
 
@@ -343,13 +327,7 @@ Where a quarter contains no care in the clinical area, that examination is taken
 - (d) a precautionary restriction under Article IX is in effect; or
 - (e) the Practitioner has been the subject of an agreed resolution within the preceding [two] years on a related concern.
 
-**This section is for a bounded gap in a Practitioner about whom there is no wider concern.** It is not a lighter disposition for a serious matter and may not be used to resolve one without the process Articles VI, VIII and IX require.
-
-**5.7.8 Why this section exists.** Between an offer of support that no one is obliged to accept and a contested review that determines whether care fell below standard, there was nothing.
-
-**A quality programme that is near-certain a bounded knowledge gap exists needs a way to see it closed and to know that it was**, and voluntary support cannot supply that, because nothing verifies it. **The section requires completion of a defined plan and confirms completion as a fact, and makes no finding about the care furnished**, and the Practitioner may decline it and take the process under Articles VI and VIII instead.
-
-**A concern serious enough to reach this Committee leaves the Entity obliged to know that the care now meets the standard.** Completion of a plan shows that the plan was done. The two examinations under § 5.7.6 show whether the care changed, and two quarters are examined because a single sample of a narrow clinical area can be too small, or too early, to show it. **The matter closes on completion and the examinations follow it**, so that no review stands open against a Practitioner about whom no finding was made for the months the examinations take.
+**An agreed resolution may not be used to resolve a serious matter without the process Articles VI, VIII and IX require.**
 
 ---
 
@@ -369,25 +347,23 @@ Where a quarter contains no care in the clinical area, that examination is taken
 
 **6.5 Psychotherapists.** A review of a licensed psychotherapist is conducted by a panel composed of clinicians of that discipline, constituted by the Chair, under a **standing discipline-specific addendum adopted by the Committee in advance, reviewed by counsel, and approved as an amendment under § 16.2.** **Except as this section provides, no provision of this Charter governing the conduct of an opened review applies to a psychotherapist unless the addendum incorporates it.**
 
-**No review of a psychotherapist opens until that addendum is in effect, and no restriction under Article IX is imposed on a psychotherapist before then.** Where a concern about a psychotherapist's care presents imminent danger in that period, the Chair refers it at once to Management and to counsel, who act under the Entity's other authority. Procedure written after the person and the matter are known is procedure written about them, and no amount of good faith in the drafting cures how it will look. The addendum shall address the heightened protection given psychotherapy notes under 45 C.F.R. § 164.501 and § 164.508.
+**No review of a psychotherapist opens until that addendum is in effect, and no restriction under Article IX is imposed on a psychotherapist before then.** Where a concern about a psychotherapist's care presents imminent danger in that period, the Chair refers it at once to Management and to counsel, who act under the Entity's other authority. The addendum shall address the heightened protection given psychotherapy notes under 45 C.F.R. § 164.501 and § 164.508.
 
-**What applies regardless of whether an addendum is in effect:** the duty to refer under § 4.3(a), screening under § 4.4, the records and confidentiality provisions of Article XIII, and the precautionary authority under Article IX. Imminent danger does not wait for a drafting cycle, and a matter that has been referred and screened must sit in a file governed by something. Where a matter concerning a psychotherapist is screened and cannot open for want of an addendum, the Committee shall adopt the addendum or record why it will not, and the fact is included in the next quarterly report under § 15.10.
+**What applies regardless of whether an addendum is in effect:** the duty to refer under § 4.3(a), screening under § 4.4, and the records and confidentiality provisions of Article XIII. Where a matter concerning a psychotherapist is screened and cannot open for want of an addendum, the Committee shall adopt the addendum or record why it will not, and the fact is included in the next quarterly report under § 15.10.
 
 **6.6 External reviewers.** Where neither the standing membership nor the Pool can supply a discipline-matched panel, the Chair may engage an external reviewer of the same discipline under a written confidentiality undertaking. An external reviewer is a person assisting a professional review body for purposes of 42 U.S.C. § 11111(a)(1).
 
 **6.7 The Panel is investigative and advisory. The Committee decides.** The Panel gathers the facts, assesses the matter under Article VIII, and **proposes** findings and a disposition. **The Committee adopts, modifies, or rejects that proposal by vote under § 2.8. The findings of this Committee are the findings the Committee adopts.** Panelists who are not members do not vote. Where the Committee modifies or rejects a proposal it records why, and the Panel's proposal is retained in the record either way.
 
-The distinction is not formal. Immunity under 42 U.S.C. § 11112(a) turns on the professional review body having acted in the reasonable belief that its action furthered quality health care, after a reasonable effort to obtain the facts. **There has to be one identifiable body that held that belief.** Under this Charter it is the Committee, and every provision of Article VIII is written to that.
-
 **6.8 The sample.** **In every opened review, the Panel also examines the Practitioner's care of [five] other recent patients in the clinical area of the referred matter**, to establish whether what the matter concerns is confined to it or recurs. The Coordinator identifies the patients, and the Panel does not choose them. The Panel may omit the sample where the matter concerns a single decision that does not depend on how the Practitioner ordinarily practises, and records why.
 
-**The sample is part of every review, so that taking it signals nothing.** A sample taken only in some reviews would tell the Practitioner something, and a second notice announcing it would add worry without adding information. The notice under § 5.1 therefore states at the outset that the sample is ordinarily part of every review, and where an agreed resolution is proposed, the notice under § 5.7.3 states what the sample showed. No other notice issues because a sample is examined.
+**The sample is part of every review.** The notice under § 5.1 states at the outset that the sample is ordinarily part of every review, and where an agreed resolution is proposed, the notice under § 5.7.3 states what the sample showed. No other notice issues because a sample is examined.
 
 **A new finding in the sample is answered before it is proposed.** Where the Panel proposes a finding that care furnished to a patient in the sample fell below the standard of care, it identifies those charts to the Practitioner before it proposes, and the Practitioner may respond in writing within [ten] business days. Where the sample is used only to establish whether the matter is confined or recurs, no further period is given, and the Panel's proposal states what the sample showed.
 
 **Findings follow the scope.** No finding rests on care outside the referred matter and the sample. A departure in the sample of a different kind from the one the matter concerns is a new matter under § 4.1, as § 8.2.1 provides for focused review.
 
-**Where those who screened recommend an agreed resolution, the Panel examines the sample before deciding whether to concur under § 5.7.1.** That section is confined to a gap in a defined clinical area, and the sample is how the Panel knows the gap is confined.
+**Where those who screened recommend an agreed resolution, the Panel examines the sample before deciding whether to concur under § 5.7.1.**
 
 ---
 
@@ -395,9 +371,9 @@ The distinction is not formal. Immunity under 42 U.S.C. § 11112(a) turns on the
 
 **7.1 Every review of an APC includes an assessment of the adequacy of the supervisory or collaborative arrangement applicable to that Practitioner.** The assessment is made every time and documented every time, whatever the outcome of the review.
 
-**7.2 Jurisdiction-neutral framing.** The Panel shall identify the supervisory, collaborative, or autonomous-practice structure applicable in the jurisdiction and to the Practitioner, and assess its adequacy as applied. The states in which the Entity operates differ, and one provides an autonomous practice pathway; the assessment is written to the arrangement that actually applies rather than to a single model.
+**7.2 Jurisdiction-neutral framing.** The Panel shall identify the supervisory, collaborative, or autonomous-practice structure applicable in the jurisdiction and to the Practitioner, and assess its adequacy as applied.
 
-**7.3 No automatic trigger.** **An assessment under this Article does not open a review of the collaborating or supervising physician.** Automatic escalation would convert every APC review into a physician review, and the consequences are asymmetric — mandatory Data Bank reporting attaches to physicians and not to APCs. In a group in which APCs carry most visit volume, an auto-trigger attaches the higher-consequence track to the multiplier, and the predictable result is that physicians decline to collaborate, or collaborate and stop reporting.
+**7.3 No automatic trigger.** **An assessment under this Article does not open a review of the collaborating or supervising physician.**
 
 **7.4 Where the assessment surfaces a concern.** Where the assessment identifies a specific concern about the performance of an identified physician in the oversight role, the Committee may open a review of that physician. That review is a new matter. It receives its own notice under Article V, its own Panel under Article VI, and its own record. Findings from the original review are evidence in it; they are not findings in it.
 
@@ -413,20 +389,20 @@ The distinction is not formal. Immunity under 42 U.S.C. § 11112(a) turns on the
 
 **8.1.2 Written standards are evidence, not the measure.** **A standard adopted by the CQC under Article IV of its Charter is evidence of the Entity's clinical expectation.** Where the standard adopts or restates a published guideline or an established professional consensus, it may also be relevant evidence of what the profession accepts. **Where it is internally authored, is an adaptation to this population or setting, or is designated an improvement target, its adoption by the Entity does not by itself establish what the profession accepts.** It is in no case conclusive of the standard of care, and it neither displaces that standard nor exhausts it.
 
-- (a) **A departure from the standard of care is reviewable whether or not any adopted standard addresses it.** Most of clinical practice is not reducible to written standards. The absence of a written standard is not a defense.
+- (a) **A departure from the standard of care is reviewable whether or not any adopted standard addresses it.** The absence of a written standard is not a defense.
 - (b) Compliance with an adopted standard does not establish that care met the standard of care.
 - (c) A departure from a standard the CQC designated an **improvement target** under § 4.4(b) of its Charter is not, without more, a departure from the standard of care, and does not alone support a Professional Review Action.
 - (d) **A requirement adopted under § 4.7(b) or § 4.7(e) of the CQC Charter as to the form of documentation or the entry in which it must appear — element by element rather than by global attestation, or accounted for in the treating Practitioner's own note — is a requirement about how and where a decision is recorded.** Its adoption by the Entity does not by itself establish the standard of care, and noncompliance with it does not by itself establish that the care furnished fell below standard.
 
-  **Whether a treating Practitioner should have known and recorded the status of a guideline-relevant therapy for a resident in their care is a question for the Panel to assess and the Committee to determine under § 6.7, on the facts before it**, and may be answered either way independently of anything in the CQC Charter or in this one. This subsection prevents the Entity's own documentation rule from supplying that answer. It does not assert that the underlying expectation is nothing, and the Committee shall not treat it as though it did.
+  **Whether a treating Practitioner should have known and recorded the status of a guideline-relevant therapy for a resident in their care is a question for the Panel to assess and the Committee to determine under § 6.7, on the facts before it**, and may be answered either way independently of anything in the CQC Charter or in this one. This subsection does not assert that the underlying expectation is nothing, and the Committee shall not treat it as though it did.
 
 **8.1.3 Systems conditions are considered in every review.** **The Panel assesses, and the Committee considers, whether a process, staffing, tooling, workflow, or standard condition caused or contributed to the matter. The question is asked in every review and the answer recorded in every review, whatever the finding.**
 
-This is not a separate step and it is not a defence to be raised by the Practitioner. **It is part of determining what happened.** Care is furnished inside a system, and a departure from standard commonly has more than one cause — the reconciliation workflow on admission, what a facility's medication administration record does on transfer, who was covering at the hour the decision was made, an interface that silently drops data. A review that does not ask the question will attribute to a Practitioner what belongs to the conditions of the work, and will do so without ever noticing that it did.
+**It is part of determining what happened**, and is not a defence the Practitioner must raise.
 
 **A systems condition does not by itself excuse a departure, and a finding is not defeated by identifying one.** The Committee determines what the care was and what the conditions were. **Both travel:** the finding under § 8.1 stands or falls on its own, and the systems condition is referred to the CQC under Article XI whether or not a finding is made against the Practitioner.
 
-**Where a systems condition is identified, the Committee shall state whether and how it bears on the disposition.** An intervention directed at a Practitioner will not correct a condition that was never the Practitioner's to control; imposing one starts the [six]-month clock under § 8.3 and produces a failed exit determination under § 8.6(g) for a departure the Practitioner could not have prevented.
+**Where a systems condition is identified, the Committee shall state whether and how it bears on the disposition.**
 
 **8.2 Tier One — Quality Interventions.** The Committee may impose directly, without the process of Article X:
 
@@ -461,13 +437,9 @@ Each of these restricts authority and is capable of being reportable. Each requi
 
 A closure under this section is **not a Quality Intervention** under § 8.2. It imposes nothing, requires nothing of the Practitioner, and carries no duration, exit criteria, or monitor, so that § 8.6 has nothing to attach to. It is not a Professional Review Action, no final action follows from it, and it is not reportable.
 
-**This section exists so that written feedback does not become the floor.** A minor and isolated departure may warrant a recorded finding and nothing more. Without this disposition the Committee would have to reach for § 8.2(a) merely to have somewhere to put such a finding, which would attach the apparatus of an intervention — and, to anyone reading the file later, the appearance of one — to matters that do not need it.
-
 **8.5.2 Teaching points.** **With any disposition under this Article, with a notice under § 4.5.1, and with an agreed resolution under § 5.7, the Committee gives the Practitioner every teaching point the review identified, however minor.** A teaching point is an observation about the care, the referred care or the sample under § 6.8, from which the Practitioner may learn.
 
 **A teaching point is not a finding.** Teaching points are stated separately from any finding and are labelled as teaching points. Where a finding was made, the notice states the finding first and the teaching points after it, under their own heading. Teaching points require nothing of the Practitioner, are not a Quality Intervention under § 8.2, and are not counted under this Charter or the Audit Referral Policy. A teaching point does not by itself establish, in any later matter, that the Practitioner was on notice of anything. Teaching points are given to the Practitioner and, under this section, to no one else.
-
-**Every review is an occasion to improve care, whatever its disposition.** The purpose stated in § 1.2 is the quality of care, and a review that closes without a finding has still read the Practitioner's charts closely. Teaching points are given on the footing that the Practitioner shares that purpose and will want them. The labelling keeps a list of small observations from reading as an indictment, and keeps a teaching point from being taken, inside the Committee or outside it, for a finding the Committee chose not to make.
 
 **8.6 Exit criteria, the monitor, and the exit determination.**
 
@@ -480,51 +452,44 @@ A closure under this section is **not a Quality Intervention** under § 8.2. It 
 
 **(c) Who may be the clinical monitor.** A member of the Committee or of the Reviewer Pool, named at the time of the disposition. **Where the intervention involves clinical judgment the monitor is discipline-matched on the terms of § 6.3**, and where the matter turns on care in a particular setting § 6.4 applies. Where the Pool cannot supply one, the Chair may engage an external reviewer under § 6.6.
 
-**(d) Who may not.** **No person holding Employment Authority; no person who is the Practitioner's collaborating or supervising physician; and no person subject to a recusal trigger under Article XII in the matter.** The reasons are those given at § 2.3 and § 12.1, and they apply with no less force to monitoring than to deliberating — an intervention overseen by the person who supervises the Practitioner is supervision conducted under this Charter's name.
+**(d) Who may not.** **No person holding Employment Authority; no person who is the Practitioner's collaborating or supervising physician; and no person subject to a recusal trigger under Article XII in the matter.**
 
-**(e) Ordinary clinical supervision is unaffected.** A Quality Intervention neither supplements, suspends, nor discharges the supervisory or collaborative arrangement applicable to the Practitioner. **That arrangement continues independently and is performed exactly as it would be were no intervention in place.** This is stated because subsection (d) will otherwise be read as transferring an oversight duty to this Committee, and the predictable result of that reading is that both sides step back.
+**(e) Ordinary clinical supervision is unaffected.** A Quality Intervention neither supplements, suspends, nor discharges the supervisory or collaborative arrangement applicable to the Practitioner. **That arrangement continues independently and is performed exactly as it would be were no intervention in place.**
 
 **(f) The monitor reports facts.** The monitor reports to the Committee what was required, what was done, and what was observed. **The monitor does not determine whether the exit criteria have been met and makes no recommendation as to disposition** — that is a determination of the Committee under § 6.7. The monitor reports to the Committee and to no one else, and § 3.2(b) governs anything the monitor learns.
 
 **(g) The exit determination.** **On the exit date the Committee determines whether the exit criteria were met, were not met, or were met in part, and records the determination with its basis.** Met closes the matter, and the Practitioner is notified in writing. **Not met is a ground to reconsider the disposition under § 8.4. It is not a ground to extend as of course.** An intervention may be extended once where the Committee records why a further period is likely to achieve what the first did not; § 8.3 governs thereafter.
 
-Without this subsection the path of least resistance at the exit date is extension, and § 8.3 would be the only thing standing between an intervention that is failing and one that never ends.
-
 ---
 
 ## Article IX — Precautionary Restriction
 
-**9.1 Authority.** Where the Chair, with [two] members, concludes that the failure to restrict a Practitioner's authority immediately may result in imminent danger to the health of any individual, **the Chair with those members may impose an immediate restriction** on the Practitioner's Clinical Authorization, pending review, as contemplated by 42 U.S.C. § 11112(c)(2). Imminent danger does not wait for a meeting, and this authority exists so that it need not.
+**9.1 Authority.** Where the Chair, with [two] members, concludes that the failure to restrict a Practitioner's authority immediately may result in imminent danger to the health of any individual, **the Chair with those members may impose an immediate restriction** on the Practitioner's Clinical Authorization, pending review, as contemplated by 42 U.S.C. § 11112(c)(2).
 
-**9.2 Automatic lapse.** A restriction under this Article **lapses automatically at [five] business days from its imposition unless the Committee ratifies it** under § 9.2.1. Lapse requires no action by anyone.
+**9.2 Automatic lapse.** A restriction under this Article **lapses automatically at [five] business days from its imposition unless the Committee ratifies it** under § 9.2.1. Lapse requires no action by anyone. The Coordinator notifies every member on the day of imposition.
 
-This is what keeps § 9.1 from conferring unilateral power: the restriction can be imposed immediately by three people, and it cannot be sustained by them. The Coordinator notifies every member on the day of imposition.
-
-**9.2.1 Ratification.** **Ratification is decided by the members not recused, other than the members who joined in imposing the restriction, by majority of those present and voting, with not fewer than [three] such members present.** This is a route-specific rule stated so that the determination has a threshold. **It states how the determination is made without deciding whether the determination is itself a Professional Review Action**, which is a question reserved to counsel and is not resolved here.
+**9.2.1 Ratification.** **Ratification is decided by the members not recused, other than the members who joined in imposing the restriction, by majority of those present and voting, with not fewer than [three] such members present.** Whether ratification is itself a Professional Review Action is determined under applicable law, with counsel.
 
 On ratification the Committee states the restriction's terms and the date by which the review shall conclude. The Committee may modify or end a precautionary restriction at any time, on its own motion or on the Practitioner's request.
 
 **9.3 Process follows.** A restriction under this Article is imposed without prior hearing. Notice under § 5.1 issues within [twenty-four] hours, and the review proceeds on an expedited basis. The Practitioner may address the Committee at the ratification meeting.
 
-**Expedited means that the timelines in § 14.4 do not apply.** The ordinary schedule — sixty days to the Panel's proposal and fifteen more to the Committee's decision — exceeds the hard stop in § 9.5, and applying it would guarantee that no matter under this Article could be resolved before the restriction terminated. **The Chair sets the schedule at the time of imposition, records it, and sets it so that the Committee can decide the matter, and give notice under § 10.2 of any action it proposes, before the [forty-five] days in § 9.5 expire.** The Practitioner's response period under § 5.2 shall not be shortened below [ten] calendar days, and an extension under § 14.4 is available in a matter under this Article only where the Practitioner requests it.
+**The timelines in § 14.4 do not apply.** The Chair sets the schedule at the time of imposition, records it, and sets it so that the Committee can decide the matter, and give notice under § 10.2 of any action it proposes, before the [forty-five] days in § 9.5 expire. The Practitioner's response period under § 5.2 shall not be shortened below [ten] calendar days, and an extension under § 14.4 is available in a matter under this Article only where the Practitioner requests it.
 
-**9.4 The thirty-day clock.** **A restriction that remains in effect longer than thirty days may become reportable**, whether or not the review has concluded and whether or not the restriction is styled precautionary, administrative, or interim. The clock runs from the date of imposition under § 9.1, not from ratification. The Coordinator tracks it and notifies the Chair and the members at day [twenty]. Reportability is determined by the Committee with counsel under § 15.7; the label does not control.
+**9.4 The thirty-day clock.** **A restriction that remains in effect longer than thirty days may become reportable**, whether or not the review has concluded. The period runs from imposition under § 9.1, not from ratification, and § 15.7 governs the determination.
 
-**9.5 Hard stop against drift.** A restriction under this Article terminates at [forty-five] days from imposition unless, before that day, the Committee has taken a Professional Review Action with the process Article X requires.
+**9.5 Hard stop.** A restriction under this Article terminates at [forty-five] days from imposition unless, before that day, the Committee has taken a Professional Review Action with the process Article X requires. It continues beyond that day only as follows.
 
-**One exception, and only one.** Where the Practitioner has requested a hearing under § 10.3, the restriction continues through the conclusion of that process. Requesting a hearing is the Practitioner's right, and the time the process takes is not attributed to the Practitioner as delay. The ordinary notice and hearing process may extend beyond forty-five days, and without this exception a precautionary restriction could end before a contested matter is decided. **The Committee reviews a restriction continued on this ground not less often than every [thirty] days**, on the record then available, and ends or modifies it where it is no longer warranted. Each review is recorded, and **the offer of an expedited schedule under § 10.2.1 is made again at each one**, because a Practitioner's view of the ordinary schedule changes when a restriction is running against them. Reportability is assessed at thirty days from imposition regardless, and the pendency of a hearing does not suspend that clock.
+- (a) **Where the Practitioner has requested a hearing under § 10.3**, the restriction continues through the conclusion of that process. Requesting a hearing is the Practitioner's right, and the time the process takes is not attributed to the Practitioner as delay. **The Committee reviews a restriction continued on this ground not less often than every [thirty] days**, on the record then available, ends or modifies it where it is no longer warranted, records each review, and **makes the offer of an expedited schedule under § 10.2.1 again at each one.**
+- (b) **Where notice of a Proposed Action restricting Clinical Authorization was given before the [forty-five] days expired**, the restriction continues while the period to request a hearing under § 10.2 runs. Where the period runs without a request, the Committee takes final action within [five] business days, and the restriction continues until it does. Where a hearing is requested, (a) governs.
 
-**The restriction also continues while the period to request a hearing under § 10.2 is running, where notice of a Proposed Action restricting Clinical Authorization was given before the [forty-five] days expired.** Where the period runs without a request, the Committee takes final action within [five] business days, and the restriction continues until it does. Where a hearing is requested, the preceding paragraph governs. Without this, a restriction noticed late in the forty-five days would end while the Practitioner was still deciding whether to contest, and a Practitioner who waited would practise unrestricted in the interval.
+The pendency of a hearing does not suspend the period under § 9.4.
 
-A precautionary restriction may not become a durable disposition by inertia. What extends it is a proposed action the Practitioner has been told of, for no longer than the Practitioner's own period to answer it, and then a process the Practitioner asked for.
+**9.6 Resignation during review.** Section 15.9 applies.
 
-**9.6 Resignation during review.** A Practitioner who resigns while under review, or in return for the Committee not opening or completing a review, does not thereby extinguish any obligation. The Committee records the circumstances and determines the reportability question with counsel under § 15.9.
+**9.7 Where no review follows.** Where the matter underlying a restriction under this Article is dispositioned under § 4.4(e) and no question about care furnished remains, **no review under Articles V and VI follows**, and the restriction is governed by §§ 9.2, 9.4 and 9.5 alone. **The Committee decides whether to ratify, modify, or end the restriction on the two facts § 4.3(d)(2) permits it to establish, and not on any finding about care.** Notice under § 5.1 issues regardless, and states that no review is open.
 
-**9.7 Where no review follows.** Where the matter underlying a restriction under this Article is dispositioned under § 4.4(e) and no question about care furnished remains, **no review under Articles V and VI follows**, and § 9.3's requirement that the review proceed has nothing to attach to. The Charter provides no standard by which this Committee could determine fitness, and a restriction does not create one.
-
-**The restriction is then governed by §§ 9.2, 9.4 and 9.5 alone.** It lapses at [five] business days unless the Committee ratifies it under § 9.2.1; the thirty-day reportability clock runs from imposition; and it terminates at [forty-five] days unless the Committee has taken a Professional Review Action with the process Article X requires. **The Committee decides whether to ratify, modify, or end the restriction on the two facts § 4.3(d)(2) permits it to establish, and not on any finding about care, of which there is none.** Notice under § 5.1 issues regardless, and states that no review is open.
-
-**The referral under § 4.3(d) states that a restriction stands and the date on which § 9.5 ends it.** It is made on the day of the disposition under § 4.4(e) or of the restriction, whichever is later, so that the Practitioner Health pathway receives it with the time in which a decision is needed.
+**The referral under § 4.3(d) states that a restriction stands and the date on which § 9.5 ends it.** It is made on the day of the disposition under § 4.4(e) or of the restriction, whichever is later.
 
 Where a question about care furnished does remain, the review proceeds under § 9.3 on that question alone, and the restriction is governed as in any other matter.
 
@@ -542,19 +507,15 @@ Where a question about care furnished does remain, the review proceeds under § 
 
 **(f) One clock.** **Where a restriction under § 9.1 follows a restriction under this section in the same matter, the thirty-day period under § 9.4 and § 15.7 runs from the imposition of the first, whatever the interval between them.** Two restrictions that together exceed thirty days are assessed as one.
 
-**(g) Why this section exists.** Tier One restricts nothing, and § 9.1 requires imminent danger. Between them, the Committee had no way to limit a Practitioner's practice for the few days it takes to read the charts. It could wait, and leave the Practitioner practising unrestricted while it looked; or it could reach for § 9.1 on a concern that does not honestly meet that standard, which starts the thirty-day clock toward a report in a matter that may end in nothing. **This section supplies a short, bounded step that does neither**, and (b) and (f) keep it from being used to do by repetition what it cannot do at once.
-
 **9.9 Notice to Management.** **On the day a restriction under § 9.1 or § 9.8 is imposed, the Chair gives written notice to the persons in Management responsible for the Practitioner's assignments**, stating that a restriction is in effect, its terms, when it took effect, and the date on which it lapses or ends. The notice states that the restriction rests on no finding and is not a final Professional Review Action. The Chair gives the same persons written notice when the restriction is ratified, modified, lapses, terminates, or ends, and when it is followed by a restriction under the other section or by a Professional Review Action.
 
 **The notice carries the terms and nothing else.** It states no finding and conveys nothing of the evidence or the deliberations, as § 3.4 provides for final action.
 
-**Management schedules and assigns the Practitioner, and a restriction it does not know of may be breached on the next assignment without anyone intending it.** The restriction operates on the Practitioner's Clinical Authorization and not on the roster, as § 10.8(f) provides for final action, and it binds the Practitioner from imposition. Scheduling and assignment consistent with it remain Management's, and nothing in this section directs Management as to either, which § 3.2(b) forbids. The Chair gives the notice, and not the Coordinator, because § 2.7.1 keeps the Coordinator's communications about the Committee's matters out of the Coordinator's own management line.
+The restriction binds the Practitioner from imposition and operates on Clinical Authorization and not on the roster, as § 10.8(f) provides for final action. Scheduling and assignment consistent with it remain Management's, and nothing in this section directs Management as to either.
 
 ## Article X — Professional Review Actions and Hearings
 
 **10.1 Proposal.** Where the Committee concludes under § 8.4 that a restriction on Clinical Authorization is warranted, it proposes the action by the vote § 2.8 requires. **No Professional Review Action becomes final before the Practitioner's rights under this Article are exhausted or waived.**
-
-This Article is written to satisfy the adequate notice and hearing requirements of 42 U.S.C. § 11112(b). Its purpose is to give a Practitioner whose Clinical Authorization is at risk a fair opportunity to answer, before clinicians who took no part in the review that produced the proposal.
 
 **10.1.1 What a hearing is not.** A hearing under this Article is not a court proceeding, is not governed by rules of evidence, and determines nothing about employment. **Its subject is the Practitioner's Clinical Authorization and nothing else.** Employment decisions are made by Management on its own record under § 3.5 and are not before the panel.
 
@@ -579,8 +540,6 @@ The notice is delivered by a method producing proof of receipt, and the period i
 
 The default expedited schedule is **[ten] days to request a hearing; the panel constituted within [five] business days of the request; notice of hearing not less than [ten] days before it, with the exchange under § 10.4 not later than [five] business days before the hearing; [ten] days for the panel's recommendation; and [ten] days for the Committee's decision.** The periods run in that order, and a matter on that schedule concludes in roughly [fifty] days.
 
-The ordinary periods run for the Practitioner's benefit, and many Practitioners will not want them. **Someone who believes a proposed action is unwarranted usually wants it resolved rather than extended.** The statutory minimums are a floor for the Practitioner's protection, not an obligation imposed on them, and a process that makes a Practitioner wait four months for a vindication they expect punishes by delay.
-
 **10.2.2 Waiver.** A Practitioner who does not request a hearing within the time allowed waives it, and the Committee may then take final action on the existing record under § 10.7. **Waiver does not affect reportability**, which turns on the action taken and not on whether it was contested.
 
 **10.3 The hearing panel.** A request for a hearing is made in writing to the Coordinator and requires no statement of grounds. Within [fifteen] days of the request the Chair constitutes a hearing panel of not fewer than [three] licensed clinicians, each of whom:
@@ -594,7 +553,7 @@ The ordinary periods run for the Practitioner's benefit, and many Practitioners 
 
 No person excluded by (b) may advise the panel or be present for its deliberations.
 
-**A member of the Clinical Quality Committee may sit where (b) is met.** That Committee sets standards and runs the audit and takes no part in any determination this Committee makes, and a member who had no part in the audit that produced the matter comes to it as fresh as any other clinician. **Members of this Committee may not sit**, because this Committee takes the final action and the panel is the independent step between its proposal and its decision.
+**A member of the Clinical Quality Committee may sit where (b) is met.**
 
 **10.3.1 Presiding officer.** The Chair may appoint a presiding officer, who need not be a clinician and may be an attorney. **The presiding officer rules on procedure and evidence and does not vote.** Where none is appointed, the panel elects a chair from among its members, who performs those functions and votes.
 
@@ -626,7 +585,7 @@ Not later than [ten] business days before the hearing, or [five] business days o
 
 **(a) The Committee decides.** Final action is taken by the Committee, by the vote § 2.8 requires, within [fifteen] days of receiving the panel's recommendation, or on the existing record where a hearing has been waived, forfeited, or withdrawn. Panelists do not vote on it.
 
-**(b) The Committee's review of the panel is limited.** **The Committee proposed the action and the Committee takes the final action, and the hearing panel is what stands between those two facts.** The Committee therefore accepts the panel's recommendation unless it finds, and states in writing, that:
+**(b) The Committee's review of the panel is limited.** **The Committee accepts the panel's recommendation unless it finds, and states in writing, that:**
 
 - (i) the recommendation is unsupported by the record of the hearing;
 - (ii) the hearing was affected by a material procedural defect; or
@@ -649,21 +608,21 @@ Not later than [ten] business days before the hearing, or [five] business days o
 **(b) The person who performs the restriction is not a monitor.** Where an action requires a proctor, a consultant whose consultation must be obtained, or a person whose approval must be sought, **that person performs the restriction rather than observes it**, and is named in the action.
 
 - (i) The person is a licensed clinician competent in the matter to which the restriction relates, discipline-appropriate on the terms of § 10.3(f).
-- (ii) **A clinician holding no Employment Authority is named where one competent to act is available.** Where none is, the Committee may name a clinician who holds Employment Authority, and records that no qualified alternative was available. The pool competent to proctor a particular kind of decision may be very small, and **a rule that cannot be satisfied would leave the restriction unenforceable**, which is a worse outcome than the one the exclusion guards against, because this role decides nothing about the Practitioner.
+- (ii) **A clinician holding no Employment Authority is named where one competent to act is available.** Where none is, the Committee may name a clinician who holds Employment Authority, and records that no qualified alternative was available.
 - (iii) **A person named under this subsection reports facts and nothing else**: that a required consultation or approval was sought, and whether it was given or refused. They make no assessment of the exit criteria and no recommendation as to disposition.
 - (iv) **They are recused under § 12.1 from every determination of the Committee in the matter**, including the determination under (d).
 
 **(c) Administration.** The Coordinator records the terms, receives the reports required by (b)(iii), tracks the duration and any review date, and brings the matter to the Committee on the date the action ends. This is administration from the record and requires no contact with the Practitioner.
 
-**(d) Termination is determined by the Committee.** **Whether the exit criteria have been met is a determination of the Committee, and not of any person named under (b) or (c).** Ending a restriction on Clinical Authorization is itself a decision about Clinical Authorization. On the determination the Committee ends the action and records that it has, and the Practitioner is notified in writing.
+**(d) Termination is determined by the Committee.** **Whether the exit criteria have been met is a determination of the Committee, and not of any person named under (b) or (c).** On the determination the Committee ends the action and records that it has, and the Practitioner is notified in writing.
 
 **(e) A restriction is not extended.** **A Professional Review Action of defined duration ends on its stated date, and is continued beyond that date only by a new Professional Review Action taken with the notice and hearing process this Article requires.**
 
-Where the exit criteria have not been met on the stated date, the action nonetheless ends, and the Committee proposes a fresh action if it concludes one is warranted. A restriction rolled forward without process is the defect § 8.3 guards against in Tier One, appearing here in a more serious form: a restriction on authority, capable of being reportable, continued without the Practitioner ever again receiving the rights that attach to imposing one.
+Where the exit criteria have not been met on the stated date, the action nonetheless ends, and the Committee proposes a fresh action if it concludes one is warranted.
 
 **(f) Implementation is not direction of Management.** **A restriction operates on the Practitioner's Clinical Authorization and not on the roster.** A Practitioner subject to one is not authorized to act otherwise than as it permits, and any obligation of Management to schedule, assign, or credential consistently with that follows from the authorization itself. Management learns of the action through the notice under § 3.4. **Nothing in this section directs Management as to employment, scheduling, or assignment**, which § 3.2(b) forbids, and nothing in § 3.2(b) relieves anyone of the effect of a restriction on Clinical Authorization.
 
-**10.9 Withdrawal and resignation.** A Practitioner may withdraw a hearing request in writing at any time, and the Committee may then take final action on the existing record. A Practitioner who resigns while a Proposed Action is pending, or in return for its not being taken, does not thereby extinguish any obligation. The Committee records the circumstances and determines reportability with counsel under § 15.9. **Resignation while a Proposed Action is pending may itself be reportable.**
+**10.9 Withdrawal and resignation.** A Practitioner may withdraw a hearing request in writing at any time, and the Committee may then take final action on the existing record. Resignation, and each other event in § 15.9, is governed by that section.
 
 **10.10 Periods.**
 
@@ -694,13 +653,13 @@ Where the exit criteria have not been met on the stated date, the action nonethe
 
 **11.3 From the CQC — referrals.** Referrals under § 4.1(a) arrive with the CQC's individual findings, the underlying data, **any information the Practitioner submitted in the CQC's correction step under § 5.5(a) of that Charter, which grounds were sustained, and what the CQC did with the submission,** and the disposition history. **Where the referral follows a second finding on the same standard it also carries the review report under § 5.4.1 or the close-out notice under § 5.5(c) of that Charter that opened the follow-up, with the offer of support, any commendation and any clinical comment removed, the disclosure of the follow-up look, the fact and date of the follow-up conducted, and, where a review report opened it, the disposition of the observations that report recorded** — without which a referral resting on repetition after notice cannot be screened under § 4.4. **Nothing concerning support offered under § 5.5(c)(5) of that Charter, and no clinical comment under § 5.5(e) of that Charter, is transmitted or requested.** They do not arrive with the CQC's deliberations, and the Committee does not request them.
 
-**The Practitioner's submission travels because this Committee starts independently.** A referral arriving with only the adverse half of the CQC's record would invite the Committee to begin where the CQC ended, which is the opposite of what § 11.4 requires. This provision mirrors § 6.3 of the CQC Charter and is to be kept aligned with it.
+This provision mirrors § 6.3 of the CQC Charter and is kept aligned with it.
 
 **11.4 Independence of the finding.** A referral from the CQC establishes that a threshold was met. It does not establish that care fell below standard, and the Committee makes its own finding on its own record.
 
 **11.5 Concurrence in the Audit Referral Policy.** **The Audit Referral Policy adopted by the CQC under § 6.2 of its Charter takes effect, and each revision of it takes effect, only on this Committee's concurrence, recorded by vote.** The Committee concurs or declines to concur, and records why. It does not amend the Policy, which remains the CQC's instrument.
 
-The concurrence exists because the Policy defines a route into this Committee, and the body that receives referrals by that route is the one able to say whether what arrives can be screened and reviewed. The Committee reviews its concurrence each year, when the CQC reviews the Policy.
+The Committee reviews its concurrence each year, when the CQC reviews the Policy.
 
 ---
 
@@ -709,10 +668,6 @@ The concurrence exists because the Policy defines a route into this Committee, a
 **12.1 Automatic and non-waivable.** The Chair, a member, a panelist, or a Department Chair screening under § 4.4 shall recuse from any matter in which they: made the referral; gave an opinion on the care at issue from which the referral arose; are a witness to the care or events at issue; participated in the care of the patient at issue; hold, or held within the preceding [five] years, a supervisory relationship with the Practitioner; participated or are likely to participate in an employment decision concerning the Practitioner; are the collaborating or supervising physician for the Practitioner; hold a personal, familial, or financial relationship a reasonable person would regard as bearing on impartiality; are in direct economic competition with the Practitioner; served as clinical monitor of a Quality Intervention concerning the Practitioner under § 8.6, or are named under § 10.8(b) as performing a restriction concerning the Practitioner; reviewed the care at issue at the request of counsel; are the subject of the matter; **or stand in any other relationship or circumstance — including a supervisory relationship older than the period stated above — that a reasonable person would regard as bearing on impartiality.**
 
 **A referral by the CQC under § 4.1(a) does not by itself require the Chair or a Department Chair to recuse**, where that person took no part in the CQC's determination to make it, as the CQC Charter requires, and no other trigger in this section applies. Holding a seat on both committees is not by itself a ground for recusal, and having read the chart or discussed the case, where no referral arose from it, is not one either.
-
-**Why prior service as monitor disqualifies.** A person who has spent months conducting case discussion with a Practitioner, or reading their charts under § 8.2(d), has formed views about them that are not on the record of the next matter. The departures that produce Quality Interventions recur, so the next matter is a real prospect rather than a theoretical one. The cost is one panelist per subsequent matter, which the Pool absorbs; the cost of the alternative is the appearance that the second record was not fresh.
-
-**Why the supervisory trigger is time-bounded and the residual clause is not.** Section 2.3 already excludes every person holding Employment Authority from both the Committee and the Pool. An unbounded lookback would compound that exclusion permanently, and in a Pool drawn from five states it would exhaust the discipline-matched reviewers under § 6.3 before it protected anyone. The residual clause carries the older cases on the same reasonable-person test this section applies everywhere else, which is the right instrument for a relationship whose significance depends on its facts rather than on its date.
 
 **12.2 Effect.** Exclusion from the materials and from the deliberation, not abstention from the vote alone. The recused person does not receive the case materials, leaves before deliberation, and does not return until the matter concludes. The minutes record the departure and the return.
 
@@ -734,8 +689,6 @@ The concurrence exists because the Policy defines a route into this Committee, a
 - (f) employment and personnel records;
 - (g) any record designated patient safety work product.
 
-**Each of the barriers stated elsewhere in this Charter depends on this separation.** The Committee's deliberations are not transmitted (§ 3.3); a hearing panel sits apart from the Committee that proposed the action (§ 10.3); and an individual's adverse action is not filed with the business of adopting procedures. **A single combined record would place material in the hands of people these provisions bar from receiving it**, whatever the process rule says.
-
 **Custody is not access.** Holding a record does not make it available to anyone not entitled to receive it; the separation governs who receives material, not who files it. The Coordinator's undertaking under § 13.5 and the duties under §§ 2.7.1 to 2.7.3 apply to every record in the Coordinator's custody.
 
 **Classification is not privilege.** How this Charter files a document does not establish that the document is privileged or otherwise protected in any jurisdiction, and nothing in this Article asserts that it does.
@@ -744,7 +697,7 @@ The concurrence exists because the Policy defines a route into this Committee, a
 
 **13.3 Retrospective posture.** The record of an opened professional review is created by and for the Committee, retrospectively, for the purpose of professional review.
 
-**Not every Committee record is a record of a professional review.** Screening and routing records for matters that never become one — a disposition under § 4.4(e), the safety-status entry under § 4.3(d)(2), a notice under § 4.5.1 — are Committee records maintained under this Article and subject to it, and they are not records of a professional review of any Practitioner. **Classifying them otherwise would assert of a matter that this Committee expressly did not review that it did.** **It does not duplicate, replace, or serve any documentation the Entity is independently required to create.** Documentation created to satisfy a regulatory, licensure, payer, or contractual obligation is not a Committee record and is not made one by being placed in a Committee file.
+**Not every Committee record is a record of a professional review.** Screening and routing records for matters that never become one — a disposition under § 4.4(e), the safety-status entry under § 4.3(d)(2), a notice under § 4.5.1 — are Committee records maintained under this Article and subject to it, and they are not records of a professional review of any Practitioner. **The Committee's record does not duplicate, replace, or serve any documentation the Entity is independently required to create.** Documentation created to satisfy a regulatory, licensure, payer, or contractual obligation is not a Committee record and is not made one by being placed in a Committee file.
 
 **13.4 Write as though the subject will read it.** In at least one jurisdiction in which the Entity operates, a Practitioner under review may obtain accumulated records pertaining to their own practice. Committee records shall be written on the assumption that the Practitioner will read them: findings stated, evidence identified, characterizations avoided.
 
@@ -758,13 +711,13 @@ The concurrence exists because the Policy defines a route into this Committee, a
 
 **Authorization under this Charter does not by itself establish that a disclosure is privileged or that it waives nothing.** Counsel evaluates any disclosure outside ordinary review, including one the law requires.
 
-**13.7 Underlying facts are not protected.** Medical records, the observations of witnesses with independent knowledge, and information otherwise available remain discoverable in every jurisdiction in which the Entity operates. Nothing in this Charter makes a fact confidential that would not otherwise be, and **the Committee shall not represent that a fact is protected from disclosure by reason of this Charter where it is not.** The obligation is stated as a prohibition rather than as a duty to volunteer, so that it can be breached only by saying something untrue.
+**13.7 Underlying facts are not protected.** Medical records, the observations of witnesses with independent knowledge, and information otherwise available remain discoverable in every jurisdiction in which the Entity operates. Nothing in this Charter makes a fact confidential that would not otherwise be, and **the Committee shall not represent that a fact is protected from disclosure by reason of this Charter where it is not.**
 
 **13.8 Retention and legal hold.** Case and hearing-panel records are retained [seven] years from closure or from final action, as applicable, or as counsel directs, whichever is longer. The governance record has no closure event and is retained as counsel directs. No record is altered or destroyed once litigation is filed or reasonably foreseeable.
 
 **13.9 Effective-date boundary.** **Peer review records created before the effective date of this Charter, under whatever arrangements preceded it, are not imported into the Committee's record.** Where a matter is pending on the effective date, the prior record is closed and a new record opened under this Charter.
 
-**This section is about records. It is not about care.** Nothing in it limits the Committee's review of care furnished, or of an event occurring, before the effective date. The contrary reading would exclude essentially every referral under § 4.1(f) — a malpractice claim, a settlement, and a licensure board action concern care furnished years earlier by their nature — and would exclude a serious harm event reported days after it occurred.
+**This section is about records.** Nothing in it limits the Committee's review of care furnished, or of an event occurring, before the effective date.
 
 ---
 
@@ -778,7 +731,7 @@ The concurrence exists because the Policy defines a route into this Committee, a
 
 **14.4 Timelines.** Screening [ten] business days from referral. Notice [five] business days from opening. Practitioner response [twenty] calendar days from notice. Panel proposal [sixty] calendar days from opening. Committee decision on the Panel's proposal [fifteen] calendar days from it. The periods after a Proposed Action are stated at § 10.10. Each extendable by the Chair for cause, recorded, and with written notice to the Practitioner.
 
-**14.5 Delay is a due process problem.** A review left open without action is not a neutral state. Every matter open beyond [ninety] days is counted, with the reasons and without identifying the Practitioner, in the quarterly report under § 15.10.
+**14.5 Delay is a due process problem.** Every matter open beyond [ninety] days is counted, with the reasons and without identifying the Practitioner, in the quarterly report under § 15.10.
 
 ---
 
@@ -786,9 +739,9 @@ The concurrence exists because the Policy defines a route into this Committee, a
 
 **15.1 The Committee and its participants.** The Committee, each hearing panel, their members, panelists, external reviewers, any presiding officer, the Coordinator, and any person assisting are entitled to the protections of 42 U.S.C. § 11111(a)(1) where the standards of § 11112(a) are met, and to the protections of the state statutes cited in § 1.3.
 
-**15.2 Persons providing information.** **A person who provides information to the Committee regarding the competence or professional conduct of a physician is not liable in damages for it under 42 U.S.C. § 11111(a)(2), unless the information is false and the person knew it was false.** This protection does not depend on the outcome of the review and does not depend on the standards of § 11112(a) being met. **This federal protection does not reach information about an APC or a psychotherapist.** What protection such information has depends on the statutes cited in § 1.3 and on other applicable law. The Committee's operating procedure provides for the protection that applies to be stated in communications soliciting information. **That instruction sits in the operating procedure and not in this Charter**, so that a communication issued on an outdated template is a process error to be corrected rather than a breach of the Charter.
+**15.2 Persons providing information.** **A person who provides information to the Committee regarding the competence or professional conduct of a physician is not liable in damages for it under 42 U.S.C. § 11111(a)(2), unless the information is false and the person knew it was false.** This protection does not depend on the outcome of the review and does not depend on the standards of § 11112(a) being met. **This federal protection does not reach information about an APC or a psychotherapist.** What protection such information has depends on the statutes cited in § 1.3 and on other applicable law. The Committee's operating procedure provides for the protection that applies to be stated in communications soliciting information.
 
-**15.3 Immunity is a presumption.** The protections of 42 U.S.C. § 11111(a) are available where a professional review action meets the standards of § 11112(a), and the presumption that it does is rebuttable. This Charter's process is written to meet those standards and is mandatory as the Entity's policy. A departure from it does not by itself decide whether the standards were met, and following it does not guarantee that they were. They cover damages. They do not cover injunctive or declaratory relief and do not extend to civil rights claims. They do not attach to employment decisions.
+**15.3 Immunity is a presumption.** The protections of 42 U.S.C. § 11111(a)(1) are available where a professional review action meets the standards of § 11112(a), and the presumption that it does is rebuttable. This Charter's process is written to meet those standards and is mandatory as the Entity's policy. A departure from it does not by itself decide whether the standards were met, and following it does not guarantee that they were. They cover damages. They do not cover injunctive or declaratory relief and do not extend to civil rights claims. They do not attach to employment decisions.
 
 **15.3.1 Defense and indemnity.** The Entity's commitment to defend and indemnify members, panelists, and persons assisting them for good-faith service, and to maintain insurance that covers it, is made in the Authorization. This Charter does not restate it and does not limit it.
 
@@ -796,7 +749,7 @@ The concurrence exists because the Policy defines a route into this Committee, a
 
 **15.5 Registration.** The Entity registers with the National Practitioner Data Bank as a reporting entity before this Charter takes effect.
 
-**15.6 Reports.** Where a Professional Review Action adversely affects the Clinical Authorization of a physician for a period longer than thirty days on the basis of professional competence or conduct affecting or potentially affecting patient health or welfare, the Entity submits an Initial Action Report within thirty days of the action, and reports to the applicable state licensing board as that state requires. **Reportability is determined by the character of the action and not by its label.** The Committee determines reportability with counsel in every case, and records the determination and its basis.
+**15.6 Reports.** Where a Professional Review Action adversely affects the Clinical Authorization of a physician for a period longer than thirty days on the basis of professional competence or conduct affecting or potentially affecting patient health or welfare, the Entity submits an Initial Action Report within thirty days of the action. **The Entity provides the appropriate state licensing board the copy of each report that federal law requires it to receive** (42 U.S.C. § 11133; 45 C.F.R. Part 60), and separately meets any further reporting duty under the law of that state. Both apply to a report under §§ 15.7 and 15.9 as to one under this section. **Reportability is determined by the character of the action and not by its label.** The Committee determines reportability with counsel in every case, and records the determination and its basis.
 
 **15.7 Precautionary and investigatory restrictions.** A precautionary restriction is not a final Professional Review Action under this Charter, and § 9.8(f) governs how an investigatory restriction followed by one is counted. **It is nonetheless capable of being reportable, and the question is asked in every case in which one remains in effect longer than thirty days from imposition.** The Committee determines reportability with counsel and records the determination and its basis, whether or not a report is filed and whether or not the underlying review has concluded. Neither the label given to the restriction nor its characterization in Article IX controls.
 
@@ -806,21 +759,19 @@ The concurrence exists because the Policy defines a route into this Committee, a
 
 **Mandatory reporting under 42 U.S.C. § 11133 concerns physicians.** Whether such an event concerning an APC is reported is determined with counsel under a rule applied the same way in every case, and any duty under state law is determined separately.
 
-**15.10 Quarterly report.** **The Chair meets quarterly with the Chief Medical Officer and the Chief Operating Officer and reports the Committee's work in aggregate:** the volume and categories of matters and their dispositions, dispositions under § 4.4(e), matters open beyond [ninety] days under § 14.5, reports made under § 15.6, and the systems conditions reviews have identified. The Chief Executive Officer receives the same report. **The report identifies no Practitioner and describes no matter.**
+**15.10 Quarterly report.** **The Chair meets quarterly with the Chief Medical Officer and the Chief Operating Officer and reports the Committee's work in aggregate:** the volume and categories of matters and their dispositions, dispositions under § 4.4(e), matters open beyond [ninety] days under § 14.5, reports submitted under Article XV, and the systems conditions reviews have identified. The Chief Executive Officer receives the same report. **The report identifies no Practitioner and describes no matter.**
 
-The meeting keeps the executive team informed and lets operations act on systems conditions. **It makes no decision about any Practitioner**, and nothing said at it is a route by which any matter is directed.
+**The meeting makes no decision about any Practitioner**, and nothing said at it is a route by which any matter is directed.
 
-**15.11 Exception notice.** The Chief Executive Officer is told promptly, outside the quarterly cycle, of **the fact** of each of the following: litigation filed or threatened arising from a Professional Review Activity; a report submitted under § 15.6 or § 15.7; a precautionary restriction that has remained in effect longer than thirty days; and any allegation that the process this Charter requires was not followed.
+**15.11 Exception notice.** The Chief Executive Officer is told promptly, outside the quarterly cycle, of **the fact** of each of the following: litigation filed or threatened arising from a Professional Review Activity; a report submitted under Article XV; a precautionary restriction that has remained in effect longer than thirty days; and any allegation that the process this Charter requires was not followed.
 
-**The notice is of the fact and not of the substance.** It identifies no Practitioner, describes no clinical matter, states no finding, and conveys nothing of any deliberation. An aggregate report is not enough once a matter has become a legal or reputational event, and receiving the merits would put at risk the privilege the Entity relies on and would draw the Chief Executive Officer into an individual matter, which § 1.1.2 excludes. **Where more than the fact is required, it is provided through counsel** on a permissible-disclosure analysis recorded under § 3.2(e).
+**The notice is of the fact and not of the substance.** It identifies no Practitioner, describes no clinical matter, states no finding, and conveys nothing of any deliberation. **Where more than the fact is required, it is provided through counsel** on a permissible-disclosure analysis recorded under § 3.2(e).
 
 **15.11.1 Notice to counsel.** **Where counsel refers a matter, or asks whether a matter before the Committee requires counsel's attention, the Committee answers that question and no other.** Those who screened the matter answer within the screening period under § 14.4. The answer is one of two statements: that the matter does not present a circumstance requiring counsel's attention, or that it does and counsel should contact the Chair. **The Committee gives the second answer to counsel unasked wherever a matter from any source presents such a circumstance**, at screening or at the stage of the matter where the circumstance first appears.
 
 The circumstances are: [death or serious harm to a patient in which a question of a Practitioner's care has been raised]; [a departure from the standard of care that those who screened the matter, or the Review Panel, regard as capable of having caused or contributed to harm to a patient]; [a letter from an attorney, an express statement that a claim will be made, or a complaint to a licensing board or regulatory agency concerning the care]; [a circumstance in which the Entity may owe the patient or the patient's representative disclosure of an error in care].
 
 **The answer is a statement of the fact and not of the substance.** It states no finding, conveys no view of the care, and conveys nothing of any deliberation. Where counsel requires more, counsel asks the Chair in writing and states the purpose, and the request and what was provided are recorded in the case register under § 13.2.
-
-**Counsel's question is about the Entity's position, and this Committee's is about the care.** The Entity may need to notify an insurer of a circumstance, preserve records, or answer an attorney or a regulator, and those needs arise before a review could conclude. A reviewer who knows that a finding will be read as an assessment of liability has reason to soften it, and a record prepared for that purpose invites the argument that it was prepared for the defense of claims rather than for professional review under § 13.3. The answer is therefore early, fixed in form, and silent on the merits.
 
 **Counsel's own assessment is separate.** Where counsel requires an assessment of the care for the Entity's legal purposes, counsel obtains it from a reviewer who takes no part in the matter here, under counsel's direction and in counsel's file. The Committee does not receive that assessment and builds its own record under Article VIII. A person who reviewed the care at counsel's request is recused under § 12.1.
 
@@ -846,7 +797,7 @@ This section does not limit counsel's part in determining reportability, in a he
 
 **16.4 Transition.** **Implementation of the Autonomy Tiers under § 1.6.1 does not by itself reduce, enlarge, or otherwise alter any Practitioner's existing authority to furnish care.** Every Practitioner then in service is brought within § 1.6.1 without individual review, at the Autonomy Tier corresponding to the terms on which that Practitioner is then authorized to furnish care.
 
-**Any restriction, supervision requirement, contractual scope limit, or other condition in effect on the effective date continues in effect** according to its own terms, and is recorded by the Coordinator. This is a transition provision. **It grants no authority that did not exist the day before.**
+**Any restriction, supervision requirement, contractual scope limit, or other condition in effect on the effective date continues in effect** according to its own terms, and is recorded by the Coordinator. **It grants no authority that did not exist the day before.**
 
 ---
 
@@ -1026,6 +977,10 @@ This section does not limit counsel's part in determining reportability, in a he
 Pre-revision copy for items 58 to 64: `_archive/prc-charter-draft-2026-11-16-before-external-review.md`.
 
 65. **Third review pass (§§ 1.3, 2.3, 2.9(a), 6.5, 9.5, 10.7(f), 10.10, 12.1, 13.4.1, 15.2, 15.3, 15.4, 15.9, 16.3), 2026-11-16.** Cross-references and statements of law brought into line with items 58 to 64. Section 2.3 points to § 15.2. The reporting period runs from the reportable event, and § 15.9 reaches surrender, accepted restriction, withdrawal and nonrenewal, including during the § 5.7.6 examinations, with physician reporting kept apart from APC reporting. Sections 15.3 and 15.4 describe the statutory consequences without tying them to compliance with the Charter. Section 13.4.1 is not confined to an open review; a mixed record is redacted only as the law permits (Patrick: a mention of another clinician does not by itself justify redaction). The § 9.5 premise is corrected. The § 12.1 CQC sentence is conditional on actual withdrawal. The Coordinator handles procedure with the Practitioner and never the merits. Section 1.3 states purpose, with qualification left to law. Section 16.3 makes the effective date depend on counsel's written confirmation of formation, privilege bases and their limits, and safeguards (Patrick: confirmation, not an assurance that every record will be privileged), on Data Bank registration, and on the designation of the health pathway, stated without its particulars so that a change to the HR policy behind it needs no amendment here (Patrick). Section 6.5 bars Article IX for psychotherapists until the addendum is in effect. **Not changed:** § 6.8. Patrick, 2026-11-16: Article X gives the Practitioner the sample evidence and a hearing before any restriction, and Tier One restricts nothing, so no further response period is added; the existing period for a new adverse finding in the sample stands. Pre-revision copy: `_archive/prc-charter-draft-2026-11-16-before-third-review.md`.
+
+66. **Fourth review pass (§§ 6.5, 15.3, 15.6, 15.10, 15.11), 2026-11-16.** Section 6.5 still listed the precautionary authority under Article IX among provisions applying without an addendum, contradicting the bar added in item 65; removed, and imminent danger goes to Management and counsel as § 6.5 now provides. Section 15.3 cites § 11111(a)(1), the protection the § 11112(a) standards govern, leaving § 11111(a)(2) to § 15.2. Section 15.6 distinguishes the copy the state licensing board must receive under federal law from further state reporting, for reports under §§ 15.6, 15.7 and 15.9 alike. Sections 15.10 and 15.11 refer to reports submitted under Article XV, so § 15.9 reports enter both. Pre-revision copy: `_archive/prc-charter-draft-2026-11-16-before-fourth-review.md`.
+
+67. **Simplification (Articles I to XVI), 2026-11-16.** Reasons, restatements and drafting notes removed from the operative text; rules kept. The reasons moved to the PRC member guide, section *Why the Charter says what it says*. The day-20 reportability reminder in § 9.4 moved to operating procedure OP-1, adopted and effective with this Charter; the Coordinator's same-day notice to members in § 9.2 stays. The § 9.5 heading is corrected to two lettered continuations. Cut rather than moved: the prediction in § 7.3, the count of autonomous-practice states in § 7.2, and the reporting-clock clause in § 9.8(g). No substantive decision authority, practitioner right, restriction limit, voting threshold, or external reporting duty changes. Every change, OP-1's text, and a proposed classification of each rule for counsel (legally required, needed for a protection, or policy choice) are in `prc-simplification-2026-11-16.md`. Pre-revision copy: `_archive/prc-charter-draft-2026-11-16-before-simplification.md`.
 
 **Bracketed defaults to confirm:** monthly meeting cadence; five-business-day lapse and forty-five-day stop on precautionary restrictions; the Coordinator's title, if "Executive Coordinator, Clinical Excellence" is not final; six standing members and the discipline mix, now three physicians; two-year terms; two-member panels; ten-day screening; five-day notice; twenty-day response; sixty-day panel findings; the ninety-day count in the quarterly report; six-month Tier One limit; the [five]-business-day notice, [ten]-business-day decision period and [two]-year repeat bar under § 5.7; the [ten]-chart sample and [four]-quarter limit for the examinations under § 5.7.6; seven-year retention; the mandatory referral list in § 4.3; the [four]-member floor for votes on Professional Review Actions and the [three]-member floor for precautionary ratification; the convening periods in § 2.10; the hearing periods in § 10.10, including the expedited schedule; hearing panel size of [three]; the [five] business days to final action after an unanswered notice under § 9.5; the [two] members joining the Chair under § 9.8; the circumstances requiring counsel's attention under § 15.11.1; the [five]-patient sample and the [ten]-business-day response under § 6.8.
 

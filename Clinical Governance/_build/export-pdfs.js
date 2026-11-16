@@ -1,3 +1,4 @@
+// Run from Clinical Governance/Packet/ (the HTML sources moved there 2026-11-16).
 // Exports seat-map.html (scale 0.82) and clinician-path.html (How a Review Unfolds, scale 0.80) to PDF with fonts embedded.
 // Run where Playwright and @fontsource/{spectral,public-sans,ibm-plex-mono} are installed; paths below are the cloud workspace's.
 // Built 2026-09-29; 2026-10-05: optional argv[2] exports one file only, railnote kept with its stage. Check page fill after any content change: a near-empty last page means adjust the scale.

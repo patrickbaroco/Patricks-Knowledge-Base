@@ -12,7 +12,7 @@ We've known for years that this is a problem worth fixing. A new trial out of Fr
 > - A cluster-randomized trial of over 34,000 patients on long-term PPIs found that giving **patients** an educational brochure, on top of the usual guidance to their prescriber, roughly **doubled** successful deprescribing compared with targeting the prescriber alone (15% vs. 7-8%).
 > - GERD symptom control was **no worse** in the group that cut back the most. Fear of rebound symptoms shouldn't be the reason we leave PPIs alone.
 > - Deprescribing efforts aimed only at the prescriber's inbox underperform ones that also inform the patient (in our setting, the resident and family). That lesson reaches well beyond PPIs.
-> - PPIs are one of the few classes where a taper genuinely matters, unlike the [[No. 017 — When Deprescribing Doesn't Need a Taper|drugs we covered in issue 17]]. Stopping cold after months of use can cause rebound acid hypersecretion.
+> - PPIs are one of the few classes where a taper genuinely matters, unlike the [[No. 017 — When Deprescribing Doesn’t Need a Taper|drugs we covered in issue 17]]. Stopping cold after months of use can cause rebound acid hypersecretion.
 
 ## Why This Matters
 
@@ -63,5 +63,5 @@ This is one well-conducted trial in French primary care outpatients with a mean 
 
 - Fournier JP, Gaultier A, Riche VP, Tessier P, Rat C, Nguyen-Soenen J. Deprescribing intervention and reduction of proton pump inhibitor use in primary care: a cluster randomized clinical trial. *JAMA Intern Med*. 2026;186(6):668–676. doi:10.1001/jamainternmed.2026.0584
 - Proton pump inhibitor use in older adults: long-term risks and stewardship considerations. Review, 2018-2025 literature (fracture, *C. difficile*, hypomagnesemia, B12 deficiency, pneumonia).
-- [[No. 017 — When Deprescribing Doesn't Need a Taper]]
+- [[No. 017 — When Deprescribing Doesn’t Need a Taper]]
 - [[No. 015 — Communication and Understanding]]

@@ -1,3 +1,4 @@
+// Run from Clinical Governance/Packet/ (the HTML sources moved there 2026-11-16).
 // Renders review-flow.html (one slide, 1600x900) to review-flow.png (2x) and review-flow.pdf with fonts embedded. Built 2026-10-05; run where Playwright and @fontsource are installed, as export-pdfs.js.
 const fs=require('fs');
 const {chromium}=require('/home/claude/.npm-global/lib/node_modules/playwright');
