@@ -105,4 +105,4 @@ A third, more systems-oriented teaching point is the "two I's and two G's" frame
 
 ## Related Notes
 
-[[Diagnostic Momentum]] · [[Base Rate]] · [[Illness Tempo]] · [[AV Block]] · [[Relative Bradycardia]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Momentum]] · [[Base Rate]] · [[Illness Tempo]] · [[AV Block]] · [[Relative Bradycardia]]

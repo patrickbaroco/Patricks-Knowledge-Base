@@ -1,0 +1,75 @@
+filters:
+  and:
+    - file.inFolder("Projects")
+    - or:
+        - "!status.isEmpty()"
+        - type == "goal"
+formulas:
+  touched: file.mtime.relative()
+properties:
+  status:
+    displayName: Status
+  domain:
+    displayName: Domain
+  next_action:
+    displayName: Next action
+  formula.touched:
+    displayName: Last touched
+views:
+  - type: kanban
+    name: Board
+    filters:
+      and:
+        - "!status.isEmpty()"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - next_action
+      - domain
+      - formula.touched
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: All projects
+    filters:
+      and:
+        - "!status.isEmpty()"
+    order:
+      - file.name
+      - status
+      - domain
+      - next_action
+      - formula.touched
+    sort:
+      - property: status
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: Goals
+    filters:
+      and:
+        - type == "goal"
+    order:
+      - file.name
+      - domain
+      - formula.touched
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Stale actives
+    filters:
+      and:
+        - status == "active"
+        - file.mtime < now() - "1 week"
+    order:
+      - file.name
+      - next_action
+      - formula.touched
+    sort:
+      - property: file.mtime
+        direction: ASC

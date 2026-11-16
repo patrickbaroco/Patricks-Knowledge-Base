@@ -56,7 +56,7 @@ That's real and worth stating plainly rather than dressing up. It's also the cat
 
 Documentation delinquency starts in the administrative lane. It can cross.
 
-Where it recurs on a pattern, or where a link to patient welfare appears, it becomes a matter for peer review. **In post-acute that link is shorter than the hospital version**, because the note is how a clinician communicates with the facility — a note that isn't there means a facility operating without information it needs.
+Where it persists after Management has acted on it and Management refers it, or where a link to patient welfare appears, it becomes a matter for peer review. **In post-acute that link is shorter than the hospital version**, because the note is how a clinician communicates with the facility — a note that isn't there means a facility operating without information it needs.
 
 So a documentation problem can start as something a supervisor handles and become something they don't see. That isn't arbitrary, but it will feel arbitrary if nobody says it in advance.
 

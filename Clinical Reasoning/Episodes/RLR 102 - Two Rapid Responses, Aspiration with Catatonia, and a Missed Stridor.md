@@ -123,4 +123,4 @@ Case 2's core teaching point is the physiologic distinction between inspiratory-
 
 ## Related Notes
 
-[[Shock]] · [[Altered Mental Status]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[When to Worry]]
+[[Clinical Reasoning MOC]] · [[Shock]] · [[Altered Mental Status]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[When to Worry]]

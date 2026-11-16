@@ -117,4 +117,4 @@ Diffuse idiopathic skeletal hyperostosis causes chronic, progressive spinal pain
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Illness Tempo]] · [[When to Worry]] · [[Spinal Epidural Abscess]] · [[Diagnostic Humility]] · [[RLR 094 - A Rate-Responsive Pacemaker Unmasking Coronary Disease, and Prostatic Malakoplakia]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Illness Tempo]] · [[When to Worry]] · [[Spinal Epidural Abscess]] · [[Diagnostic Humility]] · [[RLR 094 - A Rate-Responsive Pacemaker Unmasking Coronary Disease, and Prostatic Malakoplakia]]

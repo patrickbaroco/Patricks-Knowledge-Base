@@ -144,4 +144,4 @@ This episode's throughline across all three cases is the discipline of matching 
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Necrotizing Fasciitis]] · [[Fournier's Gangrene]] · [[CPPD and the Three Pseudos]] · [[Intra-Articular versus Extra-Articular Joint Pain Framework]] · [[Asymptomatic Severe Hypertension Management]] · [[Base Rate Neglect]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Necrotizing Fasciitis]] · [[Fournier's Gangrene]] · [[CPPD and the Three Pseudos]] · [[Intra-Articular versus Extra-Articular Joint Pain Framework]] · [[Asymptomatic Severe Hypertension Management]] · [[Base-Rate Neglect]]

@@ -144,4 +144,4 @@ A shared teaching point across both cases is the differing management logic of s
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Test Interpretation]] · [[Base Rate]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Base Rate]]

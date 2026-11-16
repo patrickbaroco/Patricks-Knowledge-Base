@@ -105,4 +105,4 @@ Never let unexplained leukopenia in a young woman pass without consideration of 
 
 ## Related Notes
 
-[[RLR 074 - Bilateral Facial Swelling and Pacemaker Lead-Induced SVC Syndrome]] · [[Angioedema]] · [[Three Dimensions of a Rash]] · [[Complement Levels]] · [[Leukopenia]] · [[Systemic Lupus Erythematosus]] · [[Diagnostic Humility]] · [[Schema-Based Reasoning]]
+[[Clinical Reasoning MOC]] · [[RLR 074 - Bilateral Facial Swelling and Pacemaker Lead-Induced SVC Syndrome]] · [[Angioedema]] · [[Three Dimensions of a Rash]] · [[Complement Levels]] · [[Leukopenia]] · [[Systemic Lupus Erythematosus]] · [[Diagnostic Humility]] · [[Schema-Based Reasoning]]

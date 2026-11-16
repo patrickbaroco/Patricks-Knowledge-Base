@@ -118,7 +118,7 @@ The closing meta-lesson generalizes beyond this specific case: pursuing further 
 - [ ] Build [[Approach to Isolated Oropharyngeal Dysphagia - When the Usual Clue Is Missing]]
 - [ ] Build [[Neuromuscular Junction Disease - Fatigability, Serology, and EMG Localization]]
 - [ ] Build [[Translating a Consultant's "Absolutely Not" - Capacity, Risk, and Informed Consent]]
-- [ ] Update [["Meta-skills of practice"]] / Diagnostic Certainty Thresholds and When to Act (149) — explicit cost-benefit weighing of further invasive testing against an improving trajectory and patient peace with uncertainty (156)
+- [ ] Update [[Meta-Skills of Practice]] / Diagnostic Certainty Thresholds and When to Act (149) — explicit cost-benefit weighing of further invasive testing against an improving trajectory and patient peace with uncertainty (156)
 - [ ] Consider grouping with [[Diagnosis as a Constructed Label versus Shepherding to Safety]] (149) — a second strong worked example of a deliberately unconfirmed diagnosis managed well
 
 ## Handbook Opportunities
@@ -130,4 +130,4 @@ The closing meta-lesson generalizes beyond this specific case: pursuing further 
 
 ## Related Notes
 
-[[Approach to Isolated Oropharyngeal Dysphagia - When the Usual Clue Is Missing]] · [[Neuromuscular Junction Disease - Fatigability, Serology, and EMG Localization]] · [[Translating a Consultant's "Absolutely Not" - Capacity, Risk, and Informed Consent]] · [[Diagnosis as a Constructed Label versus Shepherding to Safety]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Isolated Oropharyngeal Dysphagia - When the Usual Clue Is Missing]] · [[Neuromuscular Junction Disease - Fatigability, Serology, and EMG Localization]] · [[Translating a Consultant's "Absolutely Not" - Capacity, Risk, and Informed Consent]] · [[Diagnosis as a Constructed Label versus Shepherding to Safety]] · [[Diagnostic Humility]]

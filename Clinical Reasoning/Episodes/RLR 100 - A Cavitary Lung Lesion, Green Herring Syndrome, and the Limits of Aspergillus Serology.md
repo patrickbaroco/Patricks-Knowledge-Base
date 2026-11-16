@@ -97,4 +97,4 @@ The final and most consequential teaching point is that a lack of clinical impro
 
 ## Related Notes
 
-[[Granulomatous Disease]] · [[Shock]] · [[ANCA Serology Interpretation]] · [[When to Worry]] · [[Base Rate]]
+[[Clinical Reasoning MOC]] · [[Granulomatous Disease]] · [[Shock]] · [[ANCA Serology Interpretation]] · [[When to Worry]] · [[Base Rate]]

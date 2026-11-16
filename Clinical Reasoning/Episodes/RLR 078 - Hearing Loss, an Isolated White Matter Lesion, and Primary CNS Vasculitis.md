@@ -108,4 +108,4 @@ Primary CNS vasculitis is diagnosed only by brain biopsy, and even biopsy is imp
 
 ## Related Notes
 
-[[Anatomical Approach to Hearing Loss]] · [[Susac Syndrome]] · [[Primary CNS Vasculitis]] · [[T1 vs T2 vs FLAIR]] · [[Cognitive Autopsy]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Bow and Arrow versus Fishing Net]] · [[Anatomical Approach]]
+[[Clinical Reasoning MOC]] · [[Anatomical Approach to Hearing Loss]] · [[Susac Syndrome]] · [[Primary CNS Vasculitis]] · [[T1 vs T2 vs FLAIR]] · [[Cognitive Autopsy]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Bow and Arrow versus Fishing Net]] · [[Anatomical Approach]]

@@ -124,4 +124,4 @@ This episode's central teaching point is that a negative anatomic workup for int
 
 ## Related Notes
 
-[[Approach to Abdominal Pain]] · [[Small Bowel Obstruction]] · [[Cannabinoid Hyperemesis Syndrome]] · [[Terminal Diagnosis versus Proximal Diagnosis]] · [[Base Rate]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Abdominal Pain]] · [[Small Bowel Obstruction]] · [[Cannabinoid Hyperemesis Syndrome]] · [[Terminal Diagnosis versus Proximal Diagnosis]] · [[Base Rate]] · [[Diagnostic Humility]]

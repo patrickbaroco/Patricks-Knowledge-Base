@@ -14,11 +14,11 @@ Clear vs. Chameleon: functionally similar stiffness. Clear suits clear/spring cr
 
 ## General Dry Fly — 9'
 
-- 30" Clear .017 (25 lb)
-- 20" Clear .015 (20 lb)
-- 20" Clear .013 (15 lb)
-- 15" Ultragreen .011 (12 lb)
-- 10" Ultragreen .009 (8 lb)
+- 30" Clear .017 (20 lb)
+- 20" Clear .015 (15 lb)
+- 20" Clear .013 (12 lb)
+- 15" Ultragreen .012 (10 lb)
+- 10" Ultragreen .009 (6 lb)
 - 20" Rio/Cortland .006 (5X, ~4–5 lb)
 
 ## George Harvey Dry-Fly Leader (reference formula)
@@ -27,7 +27,7 @@ Not my own — Troutbitten's write-up of Harvey's original slack-leader design, 
 
 - 20" .015" (15 lb Maxima Chameleon)
 - 20" .013" (12 lb Maxima Chameleon)
-- 20" .011" (10 lb Maxima Chameleon)
+- 20" .012" (10 lb Maxima Chameleon)
 - 12" .009" (6 lb Maxima Chameleon)
 - 12" 3X soft nylon tippet
 - 18" 4X soft nylon tippet
@@ -45,9 +45,9 @@ For spring creeks, selective risers, flat/glassy water, small flies (#18–24).
 
 - 30" Clear .015 (15 lb)
 - 20" Clear .013 (12 lb)
-- 15" Clear .011 (10 lb)
-- 15" Ultragreen .009 (8 lb)
-- 12" Ultragreen .007 (6 lb)
+- 15" Clear .012 (10 lb)
+- 15" Ultragreen .009 (6 lb)
+- 12" Ultragreen .007 (4 lb)
 - 24" Rio/Cortland .005 (6X, ~3.5–4 lb)
 - 18" Rio/Cortland .004 (7X, ~2.5–3 lb)
 
@@ -55,36 +55,39 @@ Notes: long, gradual taper to dissipate energy and land tippet with slack. Degre
 
 ## Nymphing (tight-line / indicator)
 
-- 20" Clear .017 (25 lb)
-- 15" Clear .015 (20 lb)
-- 15" Clear .013 (15 lb)
-- 15" Ultragreen .011 (12 lb)
-- 24–36" Ultragreen .009 (8 lb) tippet, straight through (no further taper — want sink, not turnover)
+- 20" Clear .017 (20 lb)
+- 15" Clear .015 (15 lb)
+- 15" Clear .013 (12 lb)
+- 15" Ultragreen .012 (10 lb)
+- 24–36" Ultragreen .009 (6 lb) tippet, straight through (no further taper — want sink, not turnover)
 
-Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to .011 (10 lb) for bigger weighted patterns or fishing near structure.
+Adjust finer to .007 (4 lb) for smaller nymphs or more finicky fish; heavier to .012 (10 lb) for bigger weighted patterns or fishing near structure.
 
 ## Streamer / Big Water
 
 - 24" Clear .022 (30 lb)
 - 18" Clear .020 (25 lb)
 - 18" Clear .017 (20 lb)
-- 24–30" Ultragreen .015 (12–15 lb) tippet, short and stout
+- 24–30" Ultragreen .013–.015 (12–15 lb) tippet, short and stout
 
 ## Windy Day / Heavy Turnover — 7.5' stout
 
 - 24" Clear .022 (30 lb)
 - 18" Clear .020 (25 lb)
-- 18" Clear .017 (20 lb)
-- 18" Clear .015 (15 lb)
-- 12" Ultragreen .009 (8 lb) tippet
+- 16" Clear .017 (20 lb)
+- 12" Clear .015 (15 lb)
+- 8" Ultragreen .012 (10 lb)
+- 12" Ultragreen .009 (6 lb) tippet
 
 ## Small Stream / Delicate Presentation — 7.5'–8'
 
 - 18" Clear .015 (15 lb)
 - 15" Clear .013 (12 lb)
-- 12" Ultragreen .011 (10 lb)
-- 10" Ultragreen .009 (8 lb)
-- 18" Ultragreen .006–.005 (5 lb–4 lb) tippet
+- 12" Ultragreen .012 (10 lb)
+- 10" Ultragreen .009 (6 lb)
+- 18" tippet, either:
+  - Rio/Cortland .006–.005 (5X–6X) for dry flies
+  - Ultragreen .006–.005 (3 lb–2 lb) for subsurface
 
 ## X-to-Diameter Reference (nylon, for Rio/Cortland dry fly tippet)
 
@@ -99,11 +102,11 @@ Adjust finer to .007 (6 lb) for smaller nymphs or more finicky fish; heavier to 
 
 ## Knots
 
-Blood knot joins all sections (see [[Video Pro Tip The Easiest Blood-Knot Method You've Ever Seen!|this clipping]] for Christopher Fave's fast tying method) — hold each section to ~60–75% of prior diameter so the knot seats cleanly.
+Blood knot joins all sections (see [[Video Pro Tip The Easiest Blood-Knot Method You've Ever Seen!|this clipping]] for Christopher Fave's fast tying method) — keep adjacent sections within .002–.003" of each other so the knot seats cleanly.
 
 ## General Notes
 
-- Blood-knot all sections (see Knots above); hold each to ~60–75% of prior diameter.
+- Blood-knot all sections (see Knots above); keep adjacent sections within .002–.003".
 - Rebuild the terminal 2–3 ft rather than the whole leader.
 - Maxima runs thick for its rated strength vs. modern nylons — fine for butt/mid, but why tippet gets swapped out for dry fly work.
 - Fluorocarbon not used for dry fly tippet — denser than water, wants to sink.

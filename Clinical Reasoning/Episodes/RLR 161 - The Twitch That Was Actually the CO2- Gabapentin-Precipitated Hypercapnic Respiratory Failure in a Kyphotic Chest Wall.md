@@ -121,4 +121,4 @@ The gabapentin discussion carries independent clinical weight: an increasingly c
 
 ## Related Notes
 
-[[Approach to Acute Encephalopathy in the Hospitalized Patient]] · [[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · [[Unmasking Phenomenon]] · [[Case-Based Recall as a Diagnostic Trigger]]
+[[Clinical Reasoning MOC]] · [[Approach to Acute Encephalopathy in the Hospitalized Patient]] · [[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · [[Unmasking Phenomenon]] · [[Case-Based Recall as a Diagnostic Trigger]]

@@ -111,7 +111,7 @@ This is a **master class in framing and anchoring** delivered as a **cognitive a
 
 - [ ] [[Brain Mass Differential]] — create: neoplasm / infection / autoimmune / vascular (subacute stroke mimic) / radiation; base rate + tempo + imaging detail + immune status
 - [ ] [[Ring-Enhancing Lesions]] — DWI restriction, ring completeness, gray-white location; abscess vs met vs TB vs lymphoma
-- [ ] [[Hemorrhagic Brain Metastases]] / [[MRCT Mnemonic]] — melanoma/renal/choriocarcinoma/thyroid; base rate → lung; skin exam for melanoma
+- [ ] [[Hemorrhagic Brain Metastases]] / [[MIST Mnemonic]] — melanoma/renal/choriocarcinoma/thyroid; base rate → lung; skin exam for melanoma
 - [ ] [[CNS Tuberculosis]] / [[Tuberculous Meningitis]] — create: basilar meningitis, tuberculomas (miliary, hemorrhagic on SWI), hydrocephalus, vasculitis; CSF lymphocytic/low-glucose; serial PCR; steroids
 - [ ] [[QuantiFERON]] / [[IGRA Interpretation]] — exposure not active disease; conditional value soars in unexplained meningitis; "record-scratch"
 - [ ] [[CSF Lymphocytic Pleocytosis]] — infection (fungal/TB/viral) vs malignancy (leptomeningeal/lymphoma); low glucose narrows to TB/fungal/carcinomatous/sarcoid
@@ -138,5 +138,5 @@ This is a **master class in framing and anchoring** delivered as a **cognitive a
 
 ---
 
-**Related Notes:** [[RLR 050 - Subacute Ascending Neuropathy and POEMS Syndrome]] · [[RLR 046 - Aphasia and a Mycotic Aneurysm from Bartonella Endocarditis]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 052 - Chronic Hip Pain and a Fragility Fracture Mimicking a Pathologic Lesion]] · [[RLR 184 - New-Onset Seizure and an Unresolved Multifocal Pelvic Process]] · [[CPS 269 - Headache and Leptomeningeal Lymphomatosis]] · [[Brain Mass Differential]] · [[CNS Tuberculosis]] · [[Signal versus Noise]] · [[Framing Bias]] · [[Non-Convulsive Status Epilepticus]] · [[Cognitive Autopsy]] · [[Localization × Time Course]]
+**Related Notes:** [[Clinical Reasoning MOC]] · [[RLR 050 - Subacute Ascending Neuropathy and POEMS Syndrome]] · [[RLR 046 - Aphasia and a Mycotic Aneurysm from Bartonella Endocarditis]] · [[RLR 033 - Persistent Altered Mental Status and Spinal Epidural Abscess]] · [[RLR 017 - Back Pain and Disseminated Nocardiosis]] · [[RLR 052 - Chronic Hip Pain and a Fragility Fracture Mimicking a Pathologic Lesion]] · [[RLR 184 - New-Onset Seizure and an Unresolved Multifocal Pelvic Process]] · [[CPS 269 - Headache and Leptomeningeal Lymphomatosis]] · [[Brain Mass Differential]] · [[CNS Tuberculosis]] · [[Signal versus Noise]] · [[Framing Bias]] · [[Non-Convulsive Status Epilepticus]] · [[Cognitive Autopsy]] · [[Localization × Time Course]]
  · [[RLR 054 - Unsteady Gait, Confusion, and Hemorrhagic Brain Metastases from Small Cell Lung Cancer]]

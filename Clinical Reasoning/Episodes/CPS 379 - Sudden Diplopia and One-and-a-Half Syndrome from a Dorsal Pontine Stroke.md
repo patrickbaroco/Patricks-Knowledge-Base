@@ -129,4 +129,4 @@ The presenter closes with a visual teaching addendum on the extended family of t
 
 ## Related Notes
 
-[[One-and-a-Half Syndrome]] · [[Internuclear Ophthalmoplegia]] · [[Medial Longitudinal Fasciculus]] · [[Lacunar Stroke]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Base Rate]]
+[[Clinical Reasoning MOC]] · [[One-and-a-Half Syndrome]] · [[Internuclear Ophthalmoplegia]] · [[Medial Longitudinal Fasciculus]] · [[Lacunar Stroke]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Base Rate]]

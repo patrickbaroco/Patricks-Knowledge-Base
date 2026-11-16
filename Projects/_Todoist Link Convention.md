@@ -1,7 +1,7 @@
 ---
 type: reference
 about: How Obsidian project notes link to Todoist tasks
-last_touched: 2026-07-25
+last_touched: 2026-08-21
 ---
 
 # Todoist ↔ Obsidian Link Convention
@@ -28,4 +28,4 @@ Project note **Native Meadow Conversion** sets `todoist_label: prj-meadow`. Its 
 
 ## Status
 
-As of 2026-07-25 the convention is live. Active labels: `prj-transition`, `prj-quality`, `prj-acuity`, `prj-meadow`. Two projects — **Clinical Handbook** (`prj-handbook`) and **Clinical Reasoning** (`prj-reasoning`) — declare their labels in frontmatter but are intentionally kept **out of Todoist** and tracked in their project notes only (off-hours scholarship).
+As of 2026-08-21 the convention is live. Active labels: `prj-transition`, `prj-quality`, `prj-acuity`, `prj-meadow`, `prj-declutter`, `prj-peer`. Two projects — **Clinical Handbook** (`prj-handbook`) and **Clinical Reasoning** (`prj-reasoning`) — declare their labels in frontmatter but are intentionally kept **out of Todoist** and tracked in their project notes only (off-hours scholarship).

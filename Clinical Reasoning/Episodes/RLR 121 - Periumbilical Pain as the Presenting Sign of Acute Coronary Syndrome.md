@@ -124,4 +124,4 @@ The final, practice-changing teaching point, articulated explicitly by Rabih, is
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Test Interpretation]] · [[Shock]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Shock]]

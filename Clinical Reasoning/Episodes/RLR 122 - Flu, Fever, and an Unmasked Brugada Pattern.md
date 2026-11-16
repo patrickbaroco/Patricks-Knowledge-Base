@@ -124,4 +124,4 @@ The final teaching point is the demonstrated power of context and framing on int
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Test Interpretation]] · [[AV Block]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[AV Block]]

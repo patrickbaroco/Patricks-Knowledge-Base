@@ -2,11 +2,14 @@
 title: Braveheart
 year: 1995
 director: Mel Gibson
-genre: [historical, war, drama]
+genre:
+  - historical
+  - war
+  - drama
 rating: R
 rotten_tomatoes: 78
 runtime_minutes: 178
-family_friendly: false
+family_friendly: true
 watched: false
 date_watched:
 my_rating:

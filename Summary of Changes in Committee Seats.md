@@ -1,3 +1,5 @@
+*Updated 2026-09-28: the Council has since been dropped. The structure is two committees established by the CEO's authorization; the Council's case-level work sits in the Peer Review Committee, and the seat counts below for the PRC and CQC stand. The annual audit plan now goes through the Chair to the CMO and COO at the quarterly meeting.*
+
 Focus: keeping the committee’s as lean as possible.
 
 ### Clinical Governance Council

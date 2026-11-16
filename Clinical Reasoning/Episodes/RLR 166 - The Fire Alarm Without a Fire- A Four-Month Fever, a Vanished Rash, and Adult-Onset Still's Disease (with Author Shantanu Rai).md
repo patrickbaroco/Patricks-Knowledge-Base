@@ -122,4 +122,4 @@ The case's actual resolution is a memorable argument for periodically returning 
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · [[Case-Based Recall as a Diagnostic Trigger]] · ["Meta-skills of practice"]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Meta-Skills of Practice]]

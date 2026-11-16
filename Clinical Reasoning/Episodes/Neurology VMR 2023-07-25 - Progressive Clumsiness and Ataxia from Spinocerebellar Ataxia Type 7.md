@@ -132,4 +132,4 @@ This is an informal, monthly-format **Neurology VMR**, resuming after a travel-r
 
 ## Related Notes
 
-[[Localization × Time Course]] · [[Approach to Clumsiness]] · [[Approach to Gait Disorders]] · [[Cerebellar Exam Findings]] · [[Spinocerebellar Ataxia Type 7]] · [[Genetic (Hereditary) Ataxias — Overview]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[CPS 186 - Left-Sided Involuntary Movements and Hemichorea from Non-Ketotic Hyperglycemia]]
+[[Clinical Reasoning MOC]] · [[Localization × Time Course]] · [[Approach to Clumsiness]] · [[Approach to Gait Disorders]] · [[Cerebellar Exam Findings]] · [[Spinocerebellar Ataxia Type 7]] · [[Genetic (Hereditary) Ataxias — Overview]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[CPS 186 - Left-Sided Involuntary Movements and Hemichorea from Non-Ketotic Hyperglycemia]]

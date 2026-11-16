@@ -121,4 +121,4 @@ This is a live, volunteer-based Tuesday **Neurology VMR** session, distinct in f
 
 ## Related Notes
 
-[[Localization × Time Course]] · [[Neurophobia]] · [[Approach to Movement Disorders]] · [[Chorea]] · [[Hyperglycemic Hemichorea-Hemiballismus]] · [[Neuroimaging Density Patterns (CT Hyperdensity vs. Hypodensity)]] · [[Test Interpretation]] · [[CPS 146 - Right-Sided Weakness and Numbness and Medial Medullary Syndrome from a Vertebral Artery Dissection]] · [[CPS 179 - Headache and Blurry Vision from Racemose Neurocysticercosis with Communicating Hydrocephalus]]
+[[Clinical Reasoning MOC]] · [[Localization × Time Course]] · [[Neurophobia]] · [[Approach to Movement Disorders]] · [[Chorea]] · [[Hyperglycemic Hemichorea-Hemiballismus]] · [[Neuroimaging Density Patterns (CT Hyperdensity vs. Hypodensity)]] · [[Test Interpretation]] · [[CPS 146 - Right-Sided Weakness and Numbness and Medial Medullary Syndrome from a Vertebral Artery Dissection]] · [[CPS 179 - Headache and Blurry Vision from Racemose Neurocysticercosis with Communicating Hydrocephalus]]

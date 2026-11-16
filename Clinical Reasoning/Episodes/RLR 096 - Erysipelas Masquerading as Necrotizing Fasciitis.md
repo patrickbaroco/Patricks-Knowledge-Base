@@ -92,4 +92,4 @@ A second teaching point concerns the appropriate initial posture toward possible
 
 ## Related Notes
 
-[[Three Dimensions of a Rash]] · [[Illness Tempo]] · [[Diagnostic Humility]] · [[When to Worry]]
+[[Clinical Reasoning MOC]] · [[Three Dimensions of a Rash]] · [[Illness Tempo]] · [[Diagnostic Humility]] · [[When to Worry]]

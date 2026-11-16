@@ -2,17 +2,21 @@
 
 *A plain-language summary of the Committee's Charter, written for someone joining it. It is a summary: where it and the Charter differ, the Charter governs. Section numbers in parentheses show where to find the full text.*
 
+*Revised 2026-09-28 for the two-committee structure.*
+
 ---
 
 ## Start here
 
 This Committee reviews the care furnished by one identified clinician, and decides whether that care met the standard reasonably expected of a clinician of that discipline in that setting.
 
+It decides on the organization's behalf, under a written authorization from the Chief Executive Officer. Its signed decisions, including any restriction on a clinician's Clinical Authorization and what is reported to the National Practitioner Data Bank and to licensing boards, are the organization's own action (§ 1.1.1). The Chief Executive Officer takes no part in individual matters and cannot review a decision (§§ 1.1.2, 10.7(d)).
+
 Three separations explain nearly everything else in the Charter. Learn these and the rest follows.
 
 **1. The Panel investigates. The Committee decides.** For each review, a panel of two members (three where the Chair records why) gathers the facts, assesses the care, and **proposes** findings and an outcome. The Committee then votes to adopt, change, or reject that proposal. The findings are the Committee's, not the panel's (§ 6.7).
 
-**2. The Committee can teach. Only the Council can restrict.** The Committee can impose education, feedback, mentoring, or a period of looking at completed charts — none of which touches anyone's authority to practise. Anything that actually restricts what a clinician may do is recommended to the Governance Council, which decides it after formal notice and hearing rights (§§ 3.2(a), 8.4). One narrow exception: an emergency restriction, which expires on its own in days unless the Council ratifies it (Article IX).
+**2. The Committee can teach directly. A restriction comes only after notice and the chance of a hearing.** The Committee can impose education, feedback, mentoring, or a period of looking at completed charts — none of which touches anyone's authority to practise. Anything that actually restricts what a clinician may do is first proposed. The clinician is told why, receives the material relied on, and may ask for a hearing before clinicians who took no part in the review; only then does the Committee take final action (§§ 3.2(a), 8.4, Article X). Two narrow exceptions, both temporary: an emergency restriction, which expires on its own in days unless members who did not impose it ratify it, and an investigatory restriction of no more than fourteen days while a review is open (Article IX).
 
 **3. This Committee's subject is a person. The Quality Committee's subject is the system.** Where a review finds that staffing, workflow, tooling, a process, or a standard caused or contributed to what happened, that goes to the Clinical Quality Committee, without the clinician's name attached (Article XI).
 
@@ -27,17 +31,17 @@ The spine of the whole document, in order. Each step has its own section further
 | | Step | Who does it | Clock |
 |---|---|---|---|
 | 1 | **A matter arrives** — from any source (§ 4.1) | Anyone | — |
-| 2 | **Screening** — decides the route, never the merits (§ 4.4) | Chair + two members | 10 business days |
+| 2 | **Screening** — decides the route, never the merits (§ 4.4) | Chair + the Department Chair for the clinician's service line | 10 business days |
 | 3 | **A review is opened**, or the matter is routed elsewhere | Screeners | — |
 | 4 | **Notice to the clinician** — what it's about, what could follow (§ 5.1) | Coordinator | 5 business days from opening |
 | 5 | **The clinician responds** in writing, and may ask for an interview (§§ 5.2–5.3) | The clinician | 20 calendar days |
 | 6 | **A panel is constituted**, matched to the clinician's discipline (Article VI) | Chair | — |
 | 7 | **The panel investigates and proposes** findings and an outcome (§ 6.7) | The panel | 60 days from opening |
 | 8 | **The Committee votes** and makes its findings (§§ 6.7, 2.8) | The Committee | 15 days from the proposal |
-| 9 | **Outcome** — no finding, a finding with nothing attached, a Tier One intervention, or a Tier Two recommendation to the Council (Article VIII) | The Committee | — |
-| 10 | **The Council decides** anything in Tier Two, with notice and hearing rights | The Council | — |
+| 9 | **Outcome** — no finding, a finding with nothing attached, a Tier One intervention, or a proposed Tier Two action (Article VIII) | The Committee | — |
+| 10 | **Notice, a hearing if the clinician asks for one, and final action** on anything proposed in Tier Two (Article X) | The clinician decides whether to request a hearing; the Committee takes final action | 30 days to request a hearing |
 
-Two things can interrupt this at any point: an **emergency restriction** where waiting could put someone in danger (Article IX), and an **agreed resolution** — an education plan the clinician accepts instead of proceeding to findings (§ 5.7).
+Three things can interrupt this: an **emergency restriction** where waiting could put someone in danger (§ 9.1), a **fourteen-day investigatory restriction** while a review is open (§ 9.8), and an **agreed resolution** — an education plan the clinician accepts instead of proceeding to findings (§ 5.7).
 
 Every step is recorded. Every matter that arrives gets a recorded disposition, whether or not it becomes a review (§ 4.5).
 
@@ -53,18 +57,19 @@ Five outcomes exist, and they are not degrees of the same thing. Members mix the
 | **Adverse finding, nothing imposed** (§ 8.5.1) | The Committee | No | No |
 | **Agreed resolution** — an education plan the clinician accepts (§ 5.7) | Proposed by the Chair and the screeners; the clinician accepts or declines | No | No — and it rests on no finding at all |
 | **Quality Intervention** — "Tier One" (§ 8.2) | The Committee, directly | No | No |
-| **Professional Review Action** — "Tier Two" (§ 8.4) | **Only the Council**, on the Committee's recommendation, after notice and hearing rights | Yes | Capable of being |
+| **Professional Review Action** — "Tier Two" (§ 8.4) | **The Committee**, which proposes it and takes final action only after notice and hearing rights | Yes | Capable of being |
 
-Plus one temporary instrument that sits outside the ladder altogether:
+Plus two temporary instruments that sit outside the ladder altogether:
 
 | Instrument | Who does it | Restricts practice? | Reportable? |
 |---|---|---|---|
-| **Precautionary restriction** (Article IX) | Chair + two members, immediately | Yes, temporarily | Possibly, if it stays in force past 30 days |
+| **Precautionary restriction** (§ 9.1) | Chair + two members, immediately | Yes, temporarily | Possibly, if it stays in force past 30 days |
+| **Investigatory restriction** (§ 9.8) | Chair + two members, while a review is open | Yes, for no more than 14 days | Not on its own; counted with any precautionary restriction that follows it |
 
 Three definitions worth fixing in your head:
 
-- **Clinical Authorization** — the organization's permission for a clinician to furnish particular care. Restricting it is what Tier Two is about.
-- **A Professional Review Action** — a formal action restricting Clinical Authorization. It is the Council's to take, it carries hearing rights, and it is the only kind of outcome that can end up reported to a state board or to the federal National Practitioner Data Bank, a database that follows a clinician for the rest of their career.
+- **Clinical Authorization** — the organization's permission for a clinician to furnish particular care. Restricting it is what Tier Two is about. The levels of restriction, the Autonomy Tiers, are written into the Charter (§ 1.6.1).
+- **A Professional Review Action** — a formal action restricting Clinical Authorization. It is the Committee's to take, only after notice and hearing rights, and it is the main kind of outcome that can end up reported to a state licensing board or to the federal National Practitioner Data Bank, a database that follows a clinician for the rest of their career. A precautionary or investigatory restriction that stays in place longer than thirty days can also be reportable, and so can resigning while under review.
 - **Employment Authority** — the power to hire, fire, discipline, set pay, evaluate for pay, or direct assignments. It appears constantly in this Charter, always as a disqualifier.
 
 ---
@@ -73,16 +78,18 @@ Three definitions worth fixing in your head:
 
 | | |
 |---|---|
-| **Chair** | The Chair of Clinical Excellence, by virtue of the office (§ 2.1). |
-| **Members** | Six, appointed by the Council on the Chair's recommendation, plus the Chair. **All must be licensed clinicians in active practice.** Two-year terms, staggered (§ 2.2). |
-| **Discipline mix** | At least three physicians, at least two nurse practitioners or physician assistants, and at least one clinician with psychiatric training (§ 2.4). |
-| **Vice-Chair** | Elected annually from the members; presides whenever the Chair is recused or absent (§ 2.6). |
-| **Reviewer Pool** | An optional list of practising clinicians the Council may keep, reached only where a panel cannot be discipline-matched from the members (§ 2.5). It may be empty. Pool membership is not a Committee appointment and carries no obligation to take a particular matter. **Members review**; the Pool is the fallback, and an external reviewer sits behind it. |
+| **Chair** | The Chair of Clinical Excellence, by virtue of the office. **Presides and does not vote**, and is not counted for quorum or any voting threshold (§ 2.1). Signs each decision (§ 2.1.1). |
+| **Members** | Six, appointed by the Chair. **All must be licensed clinicians in active practice.** Two-year terms, staggered (§ 2.2). |
+| **Discipline mix** | At least three physicians, at least two APCs, and at least one clinician with psychiatric training (§ 2.4). Nurse practitioners and physician assistants are both APCs, and the Charter treats them as peers (§ 1.6(i)). |
+| **Vice-Chair** | Elected annually from the members; presides whenever the Chair is recused or absent, and while presiding stands in the Chair's place and does not vote in that matter (§ 2.6). |
+| **Reviewer Pool** | An optional list of practising clinicians the Chair may keep, reached only where a panel cannot be discipline-matched from the members (§ 2.5). It may be empty. Pool membership is not a Committee appointment and carries no obligation to take a particular matter. **Members review**; the Pool is the fallback, and an external reviewer sits behind it. |
 | **Coordinator** | The Executive Coordinator, Clinical Excellence. Keeps the records, runs the notices and the clocks, maintains the case register. Non-voting (§ 2.7). |
 
 **Nobody with Employment Authority serves — on the Committee or in the Pool** (§ 2.3). They may refer matters, be interviewed, and give information, and they are protected by federal law when they do. They do not review, deliberate, or vote.
 
-**Voting** (§ 2.8): a quorum is a majority of members not recused, and ordinary business goes by majority of those present. **A recommendation to the Council that would restrict a clinician needs a majority of all members not recused — whether or not they turn up.** Sitting on the panel is not a reason to recuse from the vote; a member who served on the panel votes as a member, is not bound by the proposal they helped write, and records it if they have changed their mind.
+**Voting** (§ 2.8): a quorum is a majority of members not recused, and ordinary business goes by majority of those present. **A vote to propose a Professional Review Action, and a vote to take one, needs a majority of all members not recused, whether or not they turn up, and is not taken with fewer than four members not recused.** Where recusals leave fewer than four, the Chair appoints a member for that matter alone, from the Pool or, if the Pool cannot supply one, a clinician who would be eligible for it; the clinician under review is told the name and may object. Sitting on the panel is not a reason to recuse from the vote; a member who served on the panel votes as a member, is not bound by the proposal they helped write, and records it if they have changed their mind.
+
+**What the Chair's signature means** (§ 2.1.1). After each decision that closes a review, imposes an intervention, proposes or takes a Professional Review Action, or ratifies, modifies, or ends a restriction, the Chair confirms in writing that the process in the Charter was followed, and signs the decision. The signature certifies process. It is not a vote and gives no say over the merits. Where the Chair cannot give that confirmation, the Chair states the defect in writing and returns the matter to the Committee, which cures the defect and decides again; the Chair does not substitute a different result. The Chair also chairs the Quality Committee, whose audit is one source of matters here, and keeping the Chair's view out of this Committee's findings means no one person stands at both ends of the same matter. The Chair still screens, constitutes panels, proposes agreed resolutions, and joins two members in imposing a precautionary or investigatory restriction.
 
 **One clock worth knowing:** screening runs continuously between meetings and does not wait for one (§ 2.10). The Chair can call a special meeting on two business days' notice, or on less where an emergency restriction is in play.
 
@@ -114,15 +121,15 @@ Two duties, on different people.
 
 - a death or serious harm event where a question about the clinician's performance has been raised;
 - any external event under § 4.1(f);
-- any matter where a clinician has been removed from duties for more than seven days on performance-related grounds.
+- any matter where a clinician has been removed from duties on performance-related grounds, benching to clear overdue notes included, for more than seven days in total or three or more times within ninety days.
 
 **The duty to open.** A matter in that list cannot be screened out as a systems condition or as an administrative matter. If it also reflects a systems condition — and it often will — the Committee identifies that during the review and refers it on, rather than instead of reviewing.
 
-**One exception, narrow on purpose** (§ 4.3(c)). A mandatory referral can be closed at screening on one ground only: the named clinician was not involved in the care or event, or the matter is administrative and does not touch clinical practice, competence, or fitness. A referral naming the wrong clinician, or a licensing action over a lapsed registration or unmet continuing education, is what this exists for. **A judgment that the care was probably fine is not a ground.** The decision is recorded with reasons and reported to the Council.
+**One exception, narrow on purpose** (§ 4.3(c)). A mandatory referral can be closed at screening on one ground only: the named clinician was not involved in the care or event, or the matter is administrative and does not touch clinical practice, competence, or fitness. A referral naming the wrong clinician, or a licensing action over a lapsed registration or unmet continuing education, is what this exists for. **A judgment that the care was probably fine is not a ground.** The decision is recorded with reasons and counted in the next quarterly report (§ 15.10).
 
 ### The one boundary rule that is easy to miss (§ 4.7)
 
-The Quality Committee's audit comes with protections built in: standards have to be adopted, taught, and in effect; a clinician gets a chance to correct the record; referral happens only where ratified criteria are met. **Those protections would be worth nothing if someone could take the same audit result, walk it round to this Committee as a personal referral, and skip all of it.**
+The Quality Committee's audit comes with protections built in: standards have to be adopted, taught, and in effect; a clinician gets a chance to correct the record; referral happens only where a criterion in the Audit Referral Policy is met, and that Policy takes effect only with this Committee's concurrence (§ 11.5). **Those protections would be worth nothing if someone could take the same audit result, walk it round to this Committee as a personal referral, and skip all of it.**
 
 So: where a referral other than the Quality Committee's own arises from information obtained through the audit, screening asks whether it rests on a basis **independent** of the clinician's failure to satisfy an audit standard — that is, whether it alleges a genuine concern about the standard of care or about patient safety, rather than non-compliance alone.
 
@@ -137,7 +144,11 @@ Four things to hold onto:
 
 ## Step 2 — Screening (§ 4.4)
 
-The Chair and two members screen every referral within ten business days. **Screening decides the route, not the merits** (§ 4.6). No finding adverse to anyone is made at screening, and nothing is imposed there.
+The Chair and the Department Chair for the clinician's service line (primary care or psychiatry) screen every referral within ten business days. **Screening decides the route, not the merits** (§ 4.6). No finding adverse to anyone is made at screening, and nothing is imposed there.
+
+**The Department Chair screens for this Committee and is not a member of it** (§ 2.5.1). They do not vote, sign the same confidentiality undertaking as members, and are bound by the same recusal rules. Nothing they learn at screening goes back to the department. Screening this way means every member comes to an opened review without having seen the referral.
+
+**A member of the clinician's discipline screens instead** where the Department Chair took part in the Quality Committee's decision on an audit referral, since both Department Chairs sit on the Quality Committee; and where the Department Chair is recused, unavailable, or holds employment authority (§ 4.4.1). **Where care crosses service lines**, the Chair may add the other Department Chair; a primary care clinician's antipsychotic prescribing is the usual example (§ 4.4.2). **Where the screeners disagree**, a member of the clinician's discipline who took no other part decides (§ 4.4.3).
 
 | Disposition | Meaning | Where it goes |
 |---|---|---|
@@ -145,7 +156,7 @@ The Chair and two members screen every referral within ten business days. **Scre
 | **Systems** | A process, staffing, tooling, or workflow condition | Clinical Quality Committee |
 | **Administrative** | A performance or conduct matter outside clinical care | Management, under Article XIV |
 | **Open a review** | The matter is reviewed | Articles V and VI |
-| **Practitioner Health** | A question of health, impairment, or fitness | The pathway the Council designates; the Committee keeps nothing |
+| **Practitioner Health** | A question of health, impairment, or fitness | The pathway the Chief Executive Officer designates; the Committee keeps nothing |
 
 **Everyone who refers is told the referral was received and screened. They are not told the outcome** (§ 4.5).
 
@@ -159,7 +170,7 @@ But where the screeners think the concern was genuine and simply doesn't warrant
 
 This is the most intricate passage in the Charter, and it is worth reading slowly, because the rule is counter-intuitive: **the Committee gives away the health question entirely, and keeps the safety question entirely.**
 
-**What leaves.** A matter raising a question about a clinician's health, impairment, or fitness to practise cannot be closed as administrative and is not decided here. It is referred to the pathway the Council designates for practitioner health matters. **The Council names that destination by resolution rather than in the Charter, so the destination can change without amending anything.**
+**What leaves.** A matter raising a question about a clinician's health, impairment, or fitness to practise cannot be closed as administrative and is not decided here. It is referred to the pathway the Chief Executive Officer designates for practitioner health matters. **The Chief Executive Officer names that destination in the authorization or a later written designation rather than in the Charter, so the destination can change without amending anything.**
 
 The referral is made **without exception and without delay**. The Committee does not hold it back on any ground and does not first satisfy itself about what will follow from it.
 
@@ -169,13 +180,13 @@ The referral is made **without exception and without delay**. The Committee does
 
 - The Coordinator diaries the matter at thirty days.
 - On that day the Committee establishes **two facts and no others**: has the matter been acted upon, and is the clinician still furnishing care? **Neither fact is information about anyone's health, and establishing them requires no one to disclose any.**
-- If the matter has not been acted on and the clinician is still furnishing care, that is a patient-safety concern within this Committee's scope. The Chair raises it with the Chair of the Council, and the emergency authority in Article IX is available if the concern is immediate.
+- If the matter has not been acted on and the clinician is still furnishing care, that is a patient-safety concern within this Committee's scope. The Chair raises it with the person responsible for the practitioner health pathway, and the emergency authority in Article IX is available if the concern is immediate.
 - The diary repeats every thirty days until either fact changes, and closes when either does.
 
 **Four further points members get wrong:**
 
 - **If the matter also raises a question about care that was actually furnished, the Committee reviews the care.** It reviews the care and not the condition. A health condition may be context; the finding is about the care. A matter presenting fitness *alone* has no question for this Committee to answer, so it does not open.
-- **Referral is not a report.** Where a law or a facility contract requires a report about an impaired or unfit practitioner, that duty stands on its own and is unaffected by the referral. This Committee files no reports at all; what is required, by whom, and by when is the Council's to determine — which is why the Coordinator notifies the Chair of the Council whenever a matter goes down this route, **so the question gets asked at the time rather than afterwards.**
+- **Referral is not a report.** Where a law or a facility contract requires a report about an impaired or unfit practitioner, that duty stands on its own and is unaffected by the referral. This Committee files no reports at all; what is required, by whom, and by when is determined with counsel — which is why the Coordinator notifies counsel whenever a matter goes down this route, **so the question gets asked at the time rather than afterwards.**
 - **Nothing here limits the emergency authority.** Imminent danger is imminent danger whatever its cause, and it does not wait for a pathway.
 - **The Committee takes no part in what follows.** Fitness-for-duty evaluation, accommodation, leave, and every employment consequence belong to Management, and this Committee is forbidden from making, recommending, or even advising on any of them.
 
@@ -185,12 +196,12 @@ The referral is made **without exception and without delay**. The Committee does
 
 Within five business days of the decision to open, the clinician gets written notice stating what the matter is, the period and care at issue in enough detail to answer, their rights, the Coordinator as point of contact, and the expected timeline.
 
-**The notice states the whole range of what could happen, not just the serious end** (§ 5.1). That the matter could lead to an intervention, or to a recommendation for a Professional Review Action, is real and is said plainly. **So is the fact that the review may close with no adverse finding at all, or with a finding and nothing attached.** A notice that mentions only the two serious outcomes is incomplete, and someone receiving it is entitled to the whole picture.
+**The notice states the whole range of what could happen, not just the serious end** (§ 5.1). That the matter could lead to an intervention, or to a proposed Professional Review Action, is real and is said plainly. **So is the fact that the review may close with no adverse finding at all, or with a finding and nothing attached.** A notice that mentions only the two serious outcomes is incomplete, and someone receiving it is entitled to the whole picture.
 
 - **Response** — in writing, with any records, within twenty calendar days; the Chair can extend for cause (§ 5.2).
 - **Interview** — the clinician may ask for one, and the panel may require one. **It is not a hearing.** They may bring someone with them, who does not participate (§ 5.3).
 - **No adverse inference** — a clinician who declines to respond or be interviewed is not for that reason found to have practised below standard. The review proceeds on what there is (§ 5.4).
-- **This is not the hearing.** Where the Committee recommends a Professional Review Action, formal notice and hearing rights attach at the Council, and they are separate from and additional to anything in this Article (§ 5.5).
+- **This is not the hearing.** Where the Committee proposes a Professional Review Action, formal notice and hearing rights attach under Article X, and they are separate from and additional to anything in this Article (§ 5.5).
 - **No retaliation** (§ 5.6) against anyone for giving information in good faith, taking part, or being the subject of a review. That protects participation and status; it is not immunity from the outcome of the process itself.
 
 ---
@@ -203,15 +214,17 @@ Within five business days of the decision to open, the clinician gets written no
 
 **It can be refused, freely.** The clinician may decline without giving a reason. The review then proceeds with every right unaffected. **Nothing follows from declining** — a refusal is not evidence of anything, is not recorded as adverse, and is not a factor in any later finding or disposition.
 
-**The notice** is its own notice, not the § 5.1 one, and issues on the same five-business-day timing. It states the concern and what gave rise to it, the proposed plan, that acceptance closes the matter with no finding and nothing reportable, that they may decline and what follows if they do, that they may take advice and put questions to the Coordinator, and gives at least ten business days to decide.
+**The notice** is its own notice, not the § 5.1 one, and issues on the same five-business-day timing. It states the concern and what gave rise to it, the proposed plan, that acceptance closes the matter with no finding and nothing reportable when the plan is completed, that the care that follows will be looked at twice, that they may decline and what follows if they do, that they may take advice and put questions to the Coordinator, and gives at least ten business days to decide.
 
 **The plan** says what education, reading, coursework, or case discussion is to be done, by when, and who confirms completion. **Completion is confirmed as a fact. What the clinician learned is not assessed** — assessing it would be a determination about competence, and this rests on none. The plan has a fixed term and **is not extended**; if it isn't completed in time, the agreed resolution ends and the review proceeds.
 
-**On completion** the matter closes, and the clinician is told in writing that it closed, that no finding was made, and that nothing further follows.
+**On completion** (§ 5.7.5) the matter closes, and the clinician is told in writing that it closed, that no finding was made, and that the care that follows will be looked at twice.
 
-**When it is not available** (§ 5.7.6). Not where the matter involves death or serious harm; not where it was a mandatory referral; not where the concern extends beyond the defined clinical area or bears on the clinician's care generally; not where an emergency restriction is in force; and not where the clinician had an agreed resolution on a related concern within the past two years. **This is for a bounded gap in someone about whom there is no wider concern.** It is not a lighter disposition for a serious matter.
+**Two looks at the care that follows** (§ 5.7.6). After the matter closes, a member of the clinician's discipline examines a sample of their charts in the clinical area the plan covered, twice: once for care in the first full quarter after completion, and once for the second. **These look at the care, and at nothing the clinician learned.** No review is open while they run, and the notice says they will happen before the clinician decides whether to accept. If both find the care meets the standard, the clinician is told that nothing further follows. An apparent departure is a new matter, and it cannot be resolved by agreement a second time.
 
-**Why it exists.** Between an offer of help nobody is obliged to accept and a contested review that determines whether care fell below standard, there was nothing in between. A programme that is near-certain a bounded knowledge gap exists needs a way to see it closed and to know that it was.
+**When it is not available** (§ 5.7.7). Not where the matter involves death or serious harm; not where it was a mandatory referral; not where the concern extends beyond the defined clinical area or bears on the clinician's care generally; not where an emergency restriction is in force; and not where the clinician had an agreed resolution on a related concern within the past two years. **This is for a bounded gap in someone about whom there is no wider concern.** It is not a lighter disposition for a serious matter.
+
+**Why it exists.** Between an offer of help nobody is obliged to accept and a contested review that determines whether care fell below standard, there was nothing in between. A programme that is near-certain a bounded knowledge gap exists needs a way to see it closed and to know that it was. **A concern serious enough to reach peer review leaves the organization obliged to be able to say the care now meets the standard**, and completing a plan shows only that the plan was done; that is what the two looks are for.
 
 ---
 
@@ -226,15 +239,14 @@ Within five business days of the decision to open, the clinician gets written no
 | Clinician under review | Panel must include |
 |---|---|
 | Physician | At least two physicians |
-| Nurse practitioner | At least two nurse practitioners — plus a physician where the matter involves the adequacy of collaborative or supervisory arrangements |
-| Physician assistant | At least two physician assistants or nurse practitioners, including at least one physician assistant where one is available |
-| Psychiatric nurse practitioner | At least two panelists with psychiatric training, at least one of them a psychiatric nurse practitioner |
+| APC | At least two APCs — plus a physician where the matter involves the adequacy of collaborative or supervisory arrangements |
+| APC practising in psychiatry | At least two panelists with psychiatric training, at least one of them an APC practising in psychiatry |
 
 **Setting matters too** (§ 6.4). Where the matter turns on care in a particular setting, at least one panelist must currently practise in that setting. **Post-acute and assisted living count as different settings.**
 
 **Where neither the members nor the Pool can supply a matched panel**, the Chair may engage an external reviewer of the same discipline under a written confidentiality undertaking (§ 6.6).
 
-**Psychotherapists are reviewed under a separate addendum** the Council adopts in advance and counsel reviews, and **no review of a psychotherapist opens until that addendum is in effect** (§ 6.5). Procedure written after the person and the matter are known is procedure written about them. What applies in the meantime regardless: the duty to refer, screening, the records rules, and the emergency authority — because imminent danger does not wait for a drafting cycle, and a matter that has been referred has to sit in a file governed by something.
+**Psychotherapists are reviewed under a separate addendum** the Committee adopts in advance, counsel reviews, and the Chief Executive Officer approves as an amendment, and **no review of a psychotherapist opens until that addendum is in effect** (§ 6.5). Procedure written after the person and the matter are known is procedure written about them. What applies in the meantime regardless: the duty to refer, screening, the records rules, and the emergency authority — because imminent danger does not wait for a drafting cycle, and a matter that has been referred has to sit in a file governed by something.
 
 ### The panel proposes. The Committee decides. (§ 6.7)
 
@@ -244,11 +256,11 @@ The panel gathers the facts, assesses the matter, and **proposes** findings and 
 
 ---
 
-## Reviews of nurse practitioners and physician assistants (Article VII)
+## Reviews of APCs (Article VII)
 
 **Every such review includes an assessment of whether the supervisory or collaborative arrangement was adequate.** It is made every time and documented every time, whatever the outcome (§ 7.1). The panel identifies the structure that actually applies in that jurisdiction — the states differ, and one has an autonomous practice pathway — and assesses it as applied (§ 7.2).
 
-**It does not automatically open a review of the collaborating or supervising physician** (§ 7.3). Automatic escalation would turn every advanced practice review into a physician review, and the consequences are not symmetric: mandatory Data Bank reporting attaches to physicians and not to advanced practice clinicians. In a group where advanced practice clinicians carry most of the visit volume, an automatic trigger would attach the higher-consequence track to the larger number — and the predictable result is that physicians stop agreeing to collaborate, or collaborate and stop reporting.
+**It does not automatically open a review of the collaborating or supervising physician** (§ 7.3). Automatic escalation would turn every APC review into a physician review, and the consequences are not symmetric: mandatory Data Bank reporting attaches to physicians and not to advanced practice clinicians. In a group where advanced practice clinicians carry most of the visit volume, an automatic trigger would attach the higher-consequence track to the larger number — and the predictable result is that physicians stop agreeing to collaborate, or collaborate and stop reporting.
 
 What happens instead:
 
@@ -294,11 +306,11 @@ Three consequences:
 
 **1. Closed, no adverse finding (§ 8.5).** The care met standard. The clinician is told in writing.
 
-**2. Adverse finding, nothing imposed (§ 8.5.1).** The care did not meet standard, but no intervention and no recommendation is warranted. The finding is recorded and the clinician is told in writing, in terms distinguishable from the § 8.5 notice. It imposes nothing, requires nothing, has no duration, no exit criteria and no monitor.
+**2. Adverse finding, nothing imposed (§ 8.5.1).** The care did not meet standard, but no intervention and no Professional Review Action is warranted. The finding is recorded and the clinician is told in writing, in terms distinguishable from the § 8.5 notice. It imposes nothing, requires nothing, has no duration, no exit criteria and no monitor.
 
 **Why this outcome exists: so that written feedback does not become the floor.** A minor, isolated departure may deserve a recorded finding and nothing else. Without this option the Committee would have to reach for a Tier One intervention just to have somewhere to put the finding — which would attach the apparatus of an intervention, and its appearance to anyone reading the file later, to a matter that does not need one.
 
-**3. Tier One — a Quality Intervention (§ 8.2).** Imposed by the Committee directly, no Council involvement:
+**3. Tier One — a Quality Intervention (§ 8.2).** Imposed by the Committee directly, without the hearing process of Article X:
 
 - (a) written feedback;
 - (b) education, directed reading, or coursework;
@@ -309,7 +321,7 @@ Three consequences:
 
 **Retrospective focused review has one rule members should know cold** (§ 8.2.1). It establishes facts about care furnished after the disposition; **it is not itself a finding and produces none.** Where it turns up an apparent further departure, the monitor reports it and **it becomes a new matter** — its own screening, its own notice, its own panel. It is not folded back into the matter that produced the intervention, and no finding is made in that earlier matter on the strength of it. A clinician is entitled to know their care is being examined and to answer it, and an open intervention is not a standing waiver of that.
 
-**4. Tier Two — a recommendation to the Council (§ 8.4).** Where the Committee concludes a restriction on Clinical Authorization is warranted, it recommends one of:
+**4. Tier Two — a proposed Professional Review Action (§ 8.4).** Where the Committee concludes a restriction on Clinical Authorization is warranted, it proposes one of:
 
 - (a) mandatory consultation in defined circumstances;
 - (b) proctoring or prospective approval in defined circumstances;
@@ -317,7 +329,7 @@ Three consequences:
 - (d) non-renewal at term;
 - (e) termination of Clinical Authorization.
 
-**Each restricts authority, each is capable of being reportable, and each requires the Council's notice and hearing process before it becomes final.**
+**Each restricts authority, each is capable of being reportable, and each requires the notice and hearing process of Article X before it becomes final.** That process is described below.
 
 ### The rules that keep an intervention from becoming permanent
 
@@ -338,7 +350,38 @@ Three consequences:
 
 **The exit determination** (§ 8.6(g)). On the exit date the Committee determines whether the criteria were met, not met, or met in part, and records the basis. Met closes the matter and the clinician is told. **Not met is a ground to reconsider the disposition — it is not a ground to extend as a matter of course.** An intervention may be extended once, and only where the Committee records why a further period is likely to achieve what the first did not.
 
-**Anti-drift** (§ 8.3). An intervention that has been extended once and reaches the end, or that has run past six months, comes back to the Committee, which must either close it or convert it into a Tier Two recommendation with full process. **Tier One may not be used to accomplish by accumulation what Tier Two requires process to accomplish directly.**
+**Anti-drift** (§ 8.3). An intervention that has been extended once and reaches the end, or that has run past six months, comes back to the Committee, which must either close it or propose a Professional Review Action with full process. **Tier One may not be used to accomplish by accumulation what Tier Two requires process to accomplish directly.**
+
+---
+
+## When a restriction is proposed — notice, hearing, and final action (Article X)
+
+**No Professional Review Action becomes final before the clinician's hearing rights are used or waived** (§ 10.1). The hearing is about the clinician's Clinical Authorization and nothing else. It is not a court proceeding and it decides nothing about employment (§ 10.1.1).
+
+**The notice** (§ 10.2) states that an action has been proposed, the reasons in enough detail to answer, the action and how long it would last or what would end it, and that the clinician has thirty days from receipt to request a hearing. With it, or within five business days, the clinician receives the material the Committee relied on: the findings, the evidence, and any response they have already given. They do not receive the Committee's deliberations.
+
+**An expedited schedule is offered with every notice** (§ 10.2.1). It shortens the periods so that a contested matter concludes in roughly forty-five days instead of roughly one hundred and twenty. **Declining carries no inference.** The choice is not recorded as delay and is not considered by the panel or the Committee on any question before them. Someone who believes a proposed action is unwarranted usually wants it resolved rather than extended, and the ordinary periods exist for the clinician's protection.
+
+**A clinician who does not request a hearing in time waives it**, and the Committee may take final action on the existing record (§ 10.2.2). Waiver does not affect reportability.
+
+**The hearing panel** (§ 10.3). At least three licensed clinicians, constituted by the Chair within fifteen days of the request, each of whom:
+
+- is not a member of this Committee;
+- took no part in the review, in the audit that produced the matter, or in the decision to propose the action;
+- holds no Employment Authority, has no recusal trigger, and is not in direct economic competition with the clinician;
+- together with the others, matches the clinician's discipline.
+
+**A member of the Clinical Quality Committee may sit where they took no part in the audit behind the matter.** Members of this Committee may not, because this Committee takes the final action and the panel is the independent step between its proposal and its decision. The Chair may appoint a presiding officer, who may be an attorney, rules on procedure and evidence, and does not vote (§ 10.3.1). The clinician may object to a panelist (§ 10.3.2).
+
+**At the hearing** (§ 10.5) the clinician may be represented, by an attorney or anyone else. A record is made and the clinician may have a copy. **The Committee's representative bears the burden of establishing the factual basis for the action by a preponderance of the evidence**; the clinician does not have to prove the action unwarranted. The panel is not bound by rules of evidence.
+
+**The panel recommends. The Committee takes final action** (§§ 10.6, 10.7). The panel issues a written recommendation within thirty days of the close of the hearing, to the Committee and the clinician at the same time. **The Committee accepts it unless it finds, and states in writing, that the recommendation is unsupported by the hearing record, that the hearing had a material procedural defect, or that the recommendation rests on an error about the Committee's authority or the applicable standard.** The Committee does not substitute its own judgment for the panel's on a matter the panel decided on the evidence. The reason is structural: the Committee proposed the action and takes the final action, and the hearing panel is what stands between those two. The written decision is signed under § 2.1.1.
+
+**The decision is final** (§ 10.7(d)). No officer of the organization, including the Chief Executive Officer, can review, modify, or reverse it.
+
+**A restriction of defined duration ends on its stated date** (§ 10.8(e)). Where the exit criteria have not been met, it still ends, and continuing it takes a new Professional Review Action with the same notice and hearing rights. Whether the exit criteria were met is the Committee's determination (§ 10.8(d)).
+
+**Management is told the action and nothing more** (§ 3.4): what it is, when it takes effect, and how long it lasts or what ends it. Management does not receive the findings, the evidence, or the deliberations. Employment decisions are made by Management on its own record, and the two tracks and their records are kept separate (§ 3.5).
 
 ---
 
@@ -350,26 +393,40 @@ Three consequences:
 
 | Clock | What happens |
 |---|---|
-| **Same day** | The Coordinator notifies the Chair of the Council (§ 9.2). |
+| **Same day** | The Coordinator notifies every member (§ 9.2). |
 | **24 hours** | Notice to the clinician under § 5.1 issues, and the review proceeds on an expedited schedule (§ 9.3). |
-| **5 business days** | **The restriction lapses automatically unless the Council ratifies it.** Lapse requires no action by anyone (§ 9.2). |
-| **Day 20** | The Coordinator notifies the Chair and the Council that the reportability clock is approaching (§ 9.4). |
-| **30 days** | **A restriction still in force may become reportable** — whatever it is called, and whether or not the review has finished. The clock runs from imposition, not ratification. The Council determines reportability with counsel; the label does not control (§ 9.4). |
-| **45 days** | **The restriction terminates**, unless before that day the Council has taken a Professional Review Action with its full process (§ 9.5). |
+| **5 business days** | **The restriction lapses automatically unless it is ratified by members who did not join in imposing it**, by majority, with at least three of them present. Lapse requires no action by anyone (§§ 9.2, 9.2.1). |
+| **Day 20** | The Coordinator notifies the Chair and the members that the reportability clock is approaching (§ 9.4). |
+| **30 days** | **A restriction still in force may become reportable** — whatever it is called, and whether or not the review has finished. The clock runs from imposition, not ratification. The Committee determines reportability with counsel; the label does not control (§ 9.4). |
+| **45 days** | **The restriction terminates**, unless before that day the Committee has taken a Professional Review Action with the full process of Article X, or one of the two exceptions below applies (§ 9.5). |
 
-**Expedited means the ordinary timelines do not apply** (§ 9.3). The normal schedule — sixty days to the panel's proposal, fifteen more to the Committee's recommendation — runs past the forty-five-day stop, so the Chair sets a schedule at the time of imposition that gets the recommendation to the Council in time for it to act. **The clinician's response period is never cut below ten calendar days**, and an extension is available only where the clinician asks for one. The clinician may address the Council at the ratification meeting.
+**Expedited means the ordinary timelines do not apply** (§ 9.3). The normal schedule — sixty days to the panel's proposal, fifteen more to the Committee's decision — runs past the forty-five-day stop, so the Chair sets a schedule at the time of imposition that lets the Committee decide the matter, and give notice of any action it proposes, before the forty-five days expire. **The clinician's response period is never cut below ten calendar days**, and an extension is available only where the clinician asks for one. The clinician may address the Committee at the ratification meeting.
 
-**One exception to the forty-five-day stop, and only one** (§ 9.5). Where the clinician has requested a hearing, the restriction continues through that process — because the statutory minimum periods (thirty days to request a hearing, thirty days' notice before it) already exceed forty-five days, so without this a precautionary restriction could not survive any contested matter. **The Council then reviews the restriction at least every thirty days** and terminates or modifies it where it is no longer warranted. **The reportability clock at thirty days runs regardless; a pending hearing does not suspend it.**
+**Two exceptions to the forty-five-day stop, both tied to the hearing** (§ 9.5). First, where the clinician has requested a hearing, the restriction continues through that process — because the statutory minimum periods (thirty days to request a hearing, thirty days' notice before it) already exceed forty-five days, so without this a precautionary restriction could not survive any contested matter. **The Committee then reviews the restriction at least every thirty days**, terminates or modifies it where it is no longer warranted, and offers the expedited schedule again at each review. **The reportability clock at thirty days runs regardless; a pending hearing does not suspend it.**
 
-**Resigning does not make it go away** (§ 9.6). A clinician who resigns while under review, or in exchange for a review not being opened or finished, extinguishes no obligation. The Committee records the circumstances and sends the reportability question to the Council.
+Second, where notice of a proposed action restricting Clinical Authorization went out before day forty-five, the restriction continues while the clinician's thirty days to request a hearing run. If no hearing is requested, the Committee takes final action within five business days, and the restriction continues until it does. Without this, a restriction noticed late would end while the clinician was still deciding whether to contest.
 
-**Where the underlying matter turns out to be a health matter and no question about care remains** (§ 9.7), no review follows — this Charter provides no standard by which this Committee could determine fitness, and a restriction does not create one. The restriction is then governed only by the lapse, the reportability clock, and the hard stop, and the Council decides what to do on the basis of the process the matter was referred to. Notice still issues, and it says that no review is open.
+**Resigning does not make it go away** (§ 9.6). A clinician who resigns while under review, or in exchange for a review not being opened or finished, extinguishes no obligation. The Committee records the circumstances and determines the reportability question with counsel.
+
+**Where the underlying matter turns out to be a health matter and no question about care remains** (§ 9.7), no review follows — this Charter provides no standard by which this Committee could determine fitness, and a restriction does not create one. The restriction is then governed only by the lapse, the reportability clock, and the hard stop, and the Committee decides whether to ratify, modify, or end it on the two facts the safety-status entry permits it to establish, and on no finding about care, of which there is none. Notice still issues, and it says that no review is open.
+
+### The fourteen-day investigatory restriction (§ 9.8)
+
+**What it is.** Where a review is open and the Chair and two members conclude that the clinician should not keep furnishing care in a defined area without restriction while the facts are gathered, but the concern falls short of imminent danger, those three may suspend or restrict the clinician's authorization for up to fourteen days. The terms are written down at the time and are no broader than the concern requires.
+
+**It ends on its own**, at fourteen days or on any earlier date set at imposition, with no action by anyone. **It is never extended, renewed, or imposed again in the same matter or on the same facts.** The Committee may end it sooner, on its own motion or at the clinician's request.
+
+**It rests on no finding.** The clinician is told in writing at imposition what the restriction is, the date it ends, that it is imposed while a review is conducted, and that no finding has been made. It is not an outcome under Article VIII and not a final Professional Review Action, and nothing in the review may treat it as evidence of anything.
+
+**What can follow.** Before it ends, the Committee lets it end, proposes a Professional Review Action, or, where the concern has become imminent danger, a precautionary restriction is imposed on that finding, stated on the record. A precautionary restriction is not a means of continuing an investigatory one, and a proposed action does not continue it either. **Where a precautionary restriction follows in the same matter, the thirty-day reportability clock runs from the first restriction**, so two restrictions that together pass thirty days are assessed as one.
+
+**Why it exists.** Tier One restricts nothing, and a precautionary restriction requires imminent danger. Without this step the Committee could only leave a clinician practising unrestricted while it read the charts, or reach for the emergency authority on a concern that does not meet its standard and start the thirty-day clock toward a report in a matter that may end in nothing.
 
 ---
 
 ## Recusal (Article XII)
 
-**Automatic and non-waivable.** A member or panelist recuses from any matter where they:
+**Automatic and non-waivable.** A member, panelist, or Department Chair screening a matter recuses from any matter where they:
 
 - took part in the care of the patient at issue;
 - hold, or held in the past five years, a supervisory relationship with the clinician;
@@ -399,7 +456,7 @@ Three consequences:
 
 ### The rule that most affects you personally (§ 13.6)
 
-Committee information stays inside the protected process. Inside it: transmittal to the Council, referral to the Quality Committee, referral of an administrative matter, communication with counsel, a disclosure counsel has analysed and recorded, and whatever is needed to implement an action the Council has taken.
+Committee information stays inside the protected process. Inside it: delivery to the clinician of the material relied on, delivery of the record to a hearing panel, referral to the Quality Committee, referral of an administrative matter, notice to Management, the quarterly and exception reports, communication with counsel, a disclosure counsel has analysed and recorded, and whatever is needed to implement an action the Committee has taken.
 
 **Repeating it outside that is not protected.** Restating a finding in a hallway, in correspondence outside the process, in a facility meeting, or in a management discussion is neither privileged nor immunized, and **no federal or state protection reaches the person who repeats it.** The test is authorization, not medium or audience — an email to counsel is inside the process; a conversation with a facility administrator is not.
 
@@ -411,7 +468,7 @@ Related: **underlying facts are not protected** (§ 13.7). Medical records, what
 
 **Administrative matters** — attendance, timeliness, documentation delinquency, conduct not affecting patient care, and performance in the medical director role — belong to Management under written policy. The Committee refers them and records the referral (§ 14.1).
 
-**But an administrative matter can become a clinical one** (§ 14.2), where it recurs on a defined pattern under the applicable policy, or where a link to patient welfare appears. **In post-acute and assisted living that link is shorter than the hospital analogy suggests, because the note is how the clinician communicates with the facility.** Documentation delinquency that leaves a facility without information it needs to care for a resident has a link to patient welfare and is within this section.
+**But an administrative matter can become a clinical one** (§ 14.2), where it persists after Management has acted on it and Management refers it to the Committee, or where a link to patient welfare appears. **In post-acute and assisted living that link is shorter than the hospital analogy suggests, because the note is how the clinician communicates with the facility.** Documentation delinquency that leaves a facility without information it needs to care for a resident has a link to patient welfare and is within this section.
 
 **The medical director role is distinct** from performance as an attending, and from capacity or caseload. **The Committee reviews attending performance only.** Where a matter presents more than one, the Committee identifies which it is reviewing and records that the others were identified and routed (§ 14.3).
 
@@ -425,11 +482,11 @@ Related: **underlying facts are not protected** (§ 13.7). Medical records, what
 | Notice to the clinician | 5 business days from opening |
 | Clinician's response | 20 calendar days from notice |
 | Panel's proposal | 60 calendar days from opening |
-| Committee's recommendation | 15 calendar days from the proposal |
+| Committee's decision on the panel's proposal | 15 calendar days from the proposal |
 
-Each is extendable by the Chair for cause, recorded, with written notice to the clinician.
+Each is extendable by the Chair for cause, recorded, with written notice to the clinician. The periods after a proposed action, from the thirty days to request a hearing to final action, are in § 10.10.
 
-**Delay is a due process problem, not a neutral state** (§ 14.5). Every matter open beyond ninety days is reported to the Council with the reason.
+**Delay is a due process problem, not a neutral state** (§ 14.5). Every matter open beyond ninety days is counted, with the reasons and without identifying the clinician, in the quarterly report (§ 15.10).
 
 ---
 
@@ -438,8 +495,17 @@ Each is extendable by the Chair for cause, recorded, with written notice to the 
 - **Members, panelists, external reviewers, the Coordinator, and anyone assisting** are protected by federal law where the federal standards are met, and by the peer review statutes of the five states (§ 15.1).
 - **Anyone who provides information to the Committee is protected unless the information is false and they knew it was false** (§ 15.2). That protection does not depend on how the review turns out, and does not depend on the federal process standards being met. It is the protection a referring colleague actually needs.
 - **Immunity is a rebuttable presumption, not a shield** (§ 15.3). It is available only where the process in this Charter was actually followed. It covers damages. **It does not cover injunctive or declaratory relief, does not extend to civil rights claims, and does not attach to employment decisions.**
+- **Defense and indemnity** for good-faith service, and insurance that covers it, are committed by the organization in the Chief Executive Officer's authorization (§ 15.3.1).
 
 That last point is the practical reason for following the procedure in this Charter exactly. The protections are available only where the process was in fact followed, so the record of having followed it is what the immunity rests on.
+
+---
+
+## Reporting (Article XV)
+
+- **The Data Bank and licensing boards.** The Committee determines reportability with counsel in every case and records the basis (§ 15.6). Where a Professional Review Action adversely affects a physician's Clinical Authorization for more than thirty days on grounds of competence or conduct, a report goes to the Data Bank within thirty days of the action, and to the state licensing board as that state requires. The character of the action decides reportability; its label does not. The organization registers with the Data Bank before the Charter takes effect (§ 15.5).
+- **Upward reporting is in aggregate** (§ 15.10). The Chair meets quarterly with the Chief Medical Officer and the Chief Operating Officer and reports the Committee's work: the volume and categories of matters and their dispositions, referrals down the health route, matters open beyond ninety days, reports made, and the systems conditions reviews have identified. The Chief Executive Officer receives the same report. **It identifies no clinician and describes no matter, and the meeting makes no decision about any clinician.**
+- **Four exception notices** (§ 15.11). The Chief Executive Officer is told promptly of the fact, and only the fact, of litigation arising from a review, a report to the Data Bank, a precautionary restriction in force longer than thirty days, and any allegation that the process in the Charter was not followed. No clinician is named and no matter is described.
 
 ---
 
@@ -458,10 +524,10 @@ That last point is the practical reason for following the procedure in this Char
 
 ## What is not settled yet
 
-- **The psychotherapist addendum**, which the Council must adopt before any review of a psychotherapist can open.
-- **Indemnification and insurance** for members, panelists, Pool members, external reviewers, and the Coordinator. A question for counsel and the Board, and a fair thing to ask about before agreeing to serve.
-- **A number of questions with counsel**, including exactly where the line sits between retrospective focused review and mandatory consultation, whether the thirty-day reportability analysis runs from imposition or from final action, and how the emergency restriction is characterized under federal law at the moment it is imposed.
-- **The bracketed defaults throughout** — six members with three physicians among them, two-member panels, two-year terms, the ten/five/twenty/sixty/fifteen-day clocks, the six-month Tier One limit, the five-day lapse and forty-five-day stop, seven-year retention. All are drafting defaults and all are open to argument.
+- **The psychotherapist addendum**, which the Committee must adopt, and the Chief Executive Officer approve, before any review of a psychotherapist can open.
+- **Whether the Chief Executive Officer's authorization is enough for state privilege.** Indiana's statute protects committees "organized by the governing body," and whether a committee established by the Chief Executive Officer's authorization meets that is with counsel.
+- **Other questions with counsel**, kept in `counsel-questions.md`.
+- **The bracketed defaults throughout** — six members with three physicians among them, two-member panels, two-year terms, the ten/five/twenty/sixty/fifteen-day clocks, the six-month Tier One limit, the five-day lapse and forty-five-day stop, the four-member floor for votes on Professional Review Actions, the three-member hearing panel and the hearing periods, seven-year retention. All are drafting defaults and all are open to argument.
 
 ---
 
@@ -469,26 +535,34 @@ That last point is the practical reason for following the procedure in this Char
 
 **Adverse finding** — a determination that the care did not meet the standard reasonably expected. It may be recorded with nothing attached to it.
 
-**Agreed resolution** — an education plan the clinician accepts instead of proceeding to findings. Rests on no finding, may be refused freely, not reportable.
+**Agreed resolution** — an education plan the clinician accepts instead of proceeding to findings. Rests on no finding, may be refused freely, not reportable, and closes when the plan is completed, followed by two looks at the care that follows.
 
-**Clinical Authorization** — the organization's permission for a clinician to furnish particular care. Only the Council can restrict it.
+**APC (Advanced Practice Clinician)** — a nurse practitioner or physician assistant. The two are peers throughout the Charter.
+
+**Clinical Authorization** — the organization's permission for a clinician to furnish particular care. Restricted only by a Professional Review Action, or temporarily under Article IX.
 
 **Clinical monitor** — the person who runs the clinical side of a Tier One intervention and reports facts about it. Reports to the Committee only, decides nothing.
 
 **Employment Authority** — the power to hire, fire, discipline, set pay, evaluate for pay, or direct assignments. Anyone holding it is excluded from the Committee, from the Pool, and from monitoring.
 
-**Precautionary restriction** — an immediate, temporary restriction imposed by the Chair and two members where waiting could put someone in danger. Lapses in five business days without the Council's ratification.
+**Hearing panel** — at least three clinicians who are not Committee members and took no part in the review, the audit, or the decision to propose. Hears a proposed Professional Review Action and recommends. The Committee accepts the recommendation except on the three grounds in § 10.7(b).
 
-**Professional Review Action ("Tier Two")** — a formal action restricting Clinical Authorization. The Council's to take, after notice and hearing rights. Capable of being reportable.
+**Investigatory restriction** — a restriction of up to fourteen days, imposed by the Chair and two members while a review is open, for a concern short of imminent danger. Ends on its own, is never extended or repeated on the same facts, and rests on no finding.
+
+**Precautionary restriction** — an immediate, temporary restriction imposed by the Chair and two members where waiting could put someone in danger. Lapses in five business days unless ratified by members who did not impose it.
+
+**Professional Review Action ("Tier Two")** — a formal action restricting Clinical Authorization. The Committee's to propose and, after notice and hearing rights, to take. Capable of being reportable.
 
 **Quality Intervention ("Tier One")** — feedback, education, mentoring, or retrospective focused review, imposed by the Committee directly. Restricts nothing. Not reportable. Always carries a duration, exit criteria, and a named monitor.
 
 **Retrospective focused review** — reading defined categories of a clinician's completed charts after a disposition. Establishes facts; produces no findings; anything it turns up becomes a new matter.
 
-**Reviewer Pool** — an optional list of practising clinicians the Council may keep, drawn on only where a panel cannot be discipline-matched from the members. It may be empty. Not a Committee appointment.
+**Reviewer Pool** — an optional list of practising clinicians the Chair may keep, drawn on only where a panel cannot be discipline-matched from the members. It may be empty. Not a Committee appointment.
 
 **Review Panel** — the two or more clinicians constituted for one matter. Investigates and proposes. Does not decide.
 
-**Screening** — the ten-business-day decision on which route a referral takes. Decides route, never merits.
+**Department Chair** — the chair of the Primary Care Committee or the Psychiatry Committee. Screens referrals for their service line with the Chair; not a member and does not vote.
+
+**Screening** — the ten-business-day decision on which route a referral takes. Decides route, never merits. Made by the Chair and the Department Chair.
 
 **Systems condition** — a process, staffing, tooling, workflow, or standard condition that caused or contributed to a matter. Asked about in every review, and referred to the Clinical Quality Committee without the clinician's name.

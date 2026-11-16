@@ -144,4 +144,4 @@ The rest evolves by chart. The syphilis test returns first: positive treponemal 
 
 ## Related Notes
 
-[[Infectious Proctitis]] · [[Syphilis Serology]] · [[Secondary Syphilis]] · [[Jarisch-Herxheimer Reaction]] · [[Mpox]] · [[Vesicular Rash Differential]] · [[HSV]] · [[VZV]] · [[HIV Pre-Exposure Prophylaxis]] · [[Doxy-PEP]] · [[Ceftriaxone]] · [[Doxycycline]] · [[Penicillin]] · [[Anal Fissure]] · [[Lymphogranuloma Venereum]] · [[Correlated Risk]] · [[Availability Heuristic]] · [[Premature Closure]] · [[Anchoring Bias]]
+[[Clinical Reasoning MOC]] · [[Infectious Proctitis]] · [[Syphilis Serology]] · [[Secondary Syphilis]] · [[Jarisch-Herxheimer Reaction]] · [[Mpox]] · [[Vesicular Rash Differential]] · [[HSV]] · [[VZV]] · [[HIV Pre-Exposure Prophylaxis]] · [[Doxy-PEP]] · [[Ceftriaxone]] · [[Doxycycline]] · [[Penicillin]] · [[Anal Fissure]] · [[Lymphogranuloma Venereum]] · [[Correlated Risk]] · [[Availability Heuristic]] · [[Premature Closure]] · [[Anchoring Bias]]

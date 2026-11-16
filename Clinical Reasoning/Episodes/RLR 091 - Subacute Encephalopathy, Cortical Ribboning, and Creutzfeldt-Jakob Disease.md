@@ -132,4 +132,4 @@ Myoclonus without an identifiable toxic-metabolic or medication cause should pro
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Illness Tempo]] · [[Diagnostic Humility]] · [[Base Rate]] · [[Altered Mental Status]] · [[Paraneoplastic Neurologic Syndrome]] · [[Tremor]] · [[RLR 089 - Sudden Obtundation, Status Epilepticus, and Pituitary Apoplexy]] · [[RLR 088 - Post-Infusion Hypotension, an Unmasked Massive Pleural Effusion, and Reactivated Tuberculosis]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Illness Tempo]] · [[Diagnostic Humility]] · [[Base Rate]] · [[Altered Mental Status]] · [[Paraneoplastic Neurologic Syndrome]] · [[Tremor]] · [[RLR 089 - Sudden Obtundation, Status Epilepticus, and Pituitary Apoplexy]] · [[RLR 088 - Post-Infusion Hypotension, an Unmasked Massive Pleural Effusion, and Reactivated Tuberculosis]]

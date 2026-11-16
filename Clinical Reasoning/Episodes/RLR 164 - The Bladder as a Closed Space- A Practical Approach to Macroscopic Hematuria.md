@@ -119,4 +119,4 @@ The broader diagnostic-versus-therapeutic framing — most bleeding into a hollo
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · ["Meta-skills of practice"] · [[Terminal Diagnosis versus Proximal Diagnosis]] · [[Case-Based Recall as a Diagnostic Trigger]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · [[Meta-Skills of Practice]] · [[Terminal Diagnosis versus Proximal Diagnosis]] · [[Case-Based Recall as a Diagnostic Trigger]]

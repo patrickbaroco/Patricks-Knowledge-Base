@@ -238,3 +238,182 @@ Nine provisions revised so that this Charter and the schedule adopted under § 6
 **§ 9.3, a floor for determinations concerning an identified Practitioner.** Dispositions under § 5.5 and determinations under Article VI were taken by the members eligible under § 2.5 with no stated minimum. The decision that turns an observation into a finding could have been taken by two people, or by whichever one was not away. Council § 7.3(b) sets a floor of four for the analogous vote. This Charter now requires [three] eligible members present, and the determination waits where fewer are.
 
 **What the Committee now costs.** The Chair of Clinical Excellence and the two department chairs sit by office. With a floor of three eligible members and the department chairs eligible where they hold no Employment Authority, four appointed practicing clinicians keeps three reliably in the room. A working Committee is seven members, with analytics, learning and development, enterprise priorities and the Coordinator at the table as functions.
+
+## 20. Two committees under the Chief Executive Officer's authorization, and commendation and recognition (2026-09-28)
+
+**The Council is dropped.** The Chief Executive Officer establishes this Committee by a written authorization (§ 1.1), and amendments take effect on the Chief Executive Officer's written approval (§ 10.4). Definitions come from § 1.6 of the PRC Charter (§ 1.7) and the Coordinator's protections from §§ 2.7.1–2.7.5 of that Charter (§ 2.7). The Audit Referral Policy takes effect on the PRC's concurrence rather than the Council's ratification (§ 6.2). The annual audit plan and the § 7.4 report go to the Chair's quarterly meeting with the Chief Medical Officer and the Chief Operating Officer, with the same report to the Chief Executive Officer. § 7.3 is rewritten for systems conditions reached at any stage of a PRC matter. § 2.5 and the Open items no longer describe a Council rule. Composition is unchanged from item 19. The three-body version is preserved at `_archive/cqc-charter-draft-2026-09-22-three-body.md`.
+
+**Commendation and recognition added** from `cqc-commendation-proposal.md`: § 5.5(d) commendation, new § 7.6 recognition and shared practice, the § 8.1.1 classification of each, § 3.1(g), and the § 7.6(b) inquiry added to the education function at § 2.8. The proposal's two counsel questions are in the Charter's For counsel list.
+
+---
+
+# Revision of 2026-09-29: APCs, and Department Chairs at PRC screening
+
+§ 2.4 now reads "Physicians and APCs," using the term the PRC Charter defines at § 1.6(i). The Department Chairs now screen PRC referrals for their service line (PRC §§ 2.5.1, 4.4); a Department Chair who took part in this Committee's determination on a referred matter does not screen it (PRC § 4.4.1(a)). § 7.1 is unaffected. Recorded in the Charter's Open items.
+
+# Revision of 2026-09-29 (second): recusal and the review guide
+
+New § 9.6 (recusal, mirroring PRC § 12.1, with the assigned supervising physician named first) and § 9.6.1 (presiding member where the Chair is recused). §§ 9.3 and 9.4 conformed. New § 4.5.1: each standard is disseminated with a review guide in the open record, shared with assigned supervising physicians for routine chart review, which is supervision conducted outside the Committee; § 8.1.1 lists the review guide as open and distinguishes it from the protected audit register. Pay, chart sampling and completion measurement for supervisory review belong to operations and are not in the Charter (Patrick, 2026-09-29). "Assigned supervising physician" defined at PRC § 1.6(l).
+
+# Revision of 2026-09-29 (third): audit results reported by enterprise and territory
+
+New § 7.4.1, agreed with Dr. Rucci: results each cycle for the enterprise and each RDCOE territory, composite per measure (physicians and APCs together), suppressed below [thirty] charts or [ten] Practitioners or where one Practitioner exceeds [forty] percent of charts, no outlier designation. The CMO and COO decide distribution; the Committee does not distribute. Results are open record (§ 8.1.1).
+
+# Revision of 2026-09-29 (fourth): the APC's choice of what to share
+
+New § 5.5(c)(6), agreed with Dr. Rucci: the close-out notice tells an APC they may share it with their assigned supervising physician or ask for help without sharing it, and includes a separate page the APC may forward for the second (a request naming only the clinical area, with the review guide, nothing from the protected record). The APC shares; the Committee transmits nothing and does not learn or record the choice. Counsel question on privilege already listed.
+
+# Revision of 2026-09-29 (fifth): the concern flag
+
+New § 5.5(b)(1.1): the audit instrument carries a flag for a chart that meets the standard but raises a concern about the care; flagged charts are brought before the members when the safety question is put. A flag is not an observation, is not notified, counts toward nothing and supports no audit referral; any referral is a member's own under § 6.7(c). Arose from the antipsychotic "sneezing" stress test.
+
+# Revision of 2026-10-04: the review report, and checking an observation only where a referral could follow
+
+Direction from Patrick, worked through on the antipsychotic example: the Committee should be experienced as helpful and educational and unlike the PRC; most audits should be a review and a report with an offer of help and an acknowledgment that the audit may have something wrong; reviewer time is limited; repetition after a review must remain referable; supervising physicians share responsibility for management.
+
+- **§ 5.4.1 (new), the review report.** Issued to every Practitioner whose charts are examined. Per chart: met or not, and for each observation what the standard required, what was found, and decision versus documentation. Carries any commendation, any clinical comment, the support offer, the APC's choice, and (where a follow-up will run) the disclosure and a plain statement that a repeat will be checked formally and may be referred. Corrections invited on the § 5.5(a)(1) grounds with no deadline; applied by an examining clinician and recorded under § 5.5(a)(8). Imposes nothing. Committee receives a cycle summary: safety question over charts with observations and flagged charts, systems conditions may be recorded, no determination about any Practitioner.
+- **§ 5.4.2 (new).** Correction step and disposition run only at (a) a follow-up look on a Criterion B measure, reaching the earlier report's observations too; (b) a single-occasion standard; (c) reported figures meeting Criterion C. Where every earlier observation falls, the new ones are closed out and followed up as a first matter.
+- **§ 5.5 lead, (a)(5), (b), (b)(1), (c)(3), (c)(5), (c)(6), (d)(3).** Conformed: § 5.5 applies where § 5.4.2 requires; the notice at repetition lists the earlier report's observations; the safety question is put at every cycle summary; the review report is the first record of notice for Criterion B; the support offer and the APC's choice travel in the review report; commendations are notified in it.
+- **§ 5.5(e) (new), clinical comment.** Advice from a colleague on management the standard does not reach. Optional request to a physician member of the same service line; required where an examining clinician who is not a physician would comment on a physician's entry. Report waits up to [ten] business days. Counts toward nothing, never transmitted under § 6.3, protected. A standard-of-care concern goes to the flag, not a comment.
+- **§ 5.5(f) (new, interim, for confirmation).** Repeated comment on a psychiatric APC's resident may go to the supervising physician as a clinical question where no periodic review entry exists. Only exception to § 5.5(c)(6).
+- **§ 4.7(f) (new) and § 4.3.** The periodic visit note (SNF regulatory visit under 42 C.F.R. § 483.30; ALF periodic physician visit) is examined as the visiting physician's own entry on the own-note rule. Default: reaches every primary care standard unless excluded with reasons at adoption. Concurrence satisfies it only where it says what is concurred in. §§ 5.5(a)(1)(vi) and (a)(4)(i) conformed.
+- **§ 5.9.** New paragraph: a wave at the review report (fraction set in the Policy) is a systems condition; no follow-up looks open; re-measure under § 5.11.6.
+- **§§ 5.11.1–5.11.4.** Follow-up opens on a review report on a Criterion B measure or on a closed-out finding; window runs from the report or close-out; observations at follow-up checked under § 5.5 where § 5.4.2 applies; disclosure made in the report or close-out.
+- **§ 6.3.** The chain carries the review report or close-out that opened the follow-up and the disposition of the report's observations; no clinical comment travels.
+- **§§ 7.4, 8.1(b), 8.1.1, 8.3, 9.6.** Reporting, records classification and recusal extended to review reports, cycle summaries and clinical comments.
+- **§ 5.1.** An uncorrected observation in a review report stands as reported, remains unvalidated, and may open a follow-up look.
+
+Pre-revision copy: `_archive/cqc-charter-draft-2026-10-04-before-two-step.md`.
+
+**Consistency check, 2026-10-04.** A separate agent read the revised Charter, Policy, PRC Charter and the three clinician-facing documents against each other. Twenty-six defects reported; fixed in the same session: the review report now discloses and encloses the formal notice where § 5.4.2(b) or (c) applies, and its "no deadline" and "supports no referral" statements are qualified accordingly (§ 5.4.1(a)–(c)); the referral chain strips the support offer, commendations and comments from the transmitted report (§ 6.3, PRC § 11.3); § 5.11.2 narrowed so a follow-up cannot repeat on validated earlier findings, cannot follow a referral, runs only on Criterion B measures, observes the §§ 4.4(a), 4.5, 5.7, 8.7 gates, and lapses if every observation is corrected first; § 5.4.2(a) treats a window observation from any examination as made at the look and excludes the opening period; notification date for review-report items fixed at § 5.5(a)(2); § 4.7(b) and (e) carve-outs extended to § 4.7(f); § 5.9 carries the Policy's number floor and suspends § 5.4.2(c); § 5.4.2(c) cites elements (a)–(c) only; recording a systems condition at the cycle summary brought under §§ 2.5, 9.3, 9.6, with the safety question put Practitioner by Practitioner; § 5.10(b), (c) record systems conditions and open no look; § 5.11.6 reaches review-report systems conditions and None measures; § 7.4 reports withheld looks and § 6.6 declines; § 9.6 cross-refers § 5.5(f); a pre-existing citation of PRC § 4.7 for screening the repetition chain corrected to § 4.4 (§ 6.3, PRC § 11.3, Policy § 3.3); duplicate ninety-day default removed. Left for Patrick: pre-existing frequency statements ("expected to fire often", § 5.5(a)(1)(iv); "the most common correction there is" and "this happens a lot" in the explainer); § 5.5(f) reaches only a resident who happens to recur in the follow-up sample.
+
+
+# Revision of 2026-10-05: a request for help, the periodic review entry in every service line, and § 5.5(f) withdrawn
+
+Decided with Patrick after the Rucci meeting of 2026-10-05.
+
+- **§ 7.7 (new), a request for help.** Any Practitioner may ask for help in a clinical area without first being audited. Raised by Patrick 2026-10-01 as a "self-referral" pathway and not drafted until now. The request goes to the education function, which decides how to answer it. It opens nothing (no selection, no follow-up look, no count, no transmittal), is never recorded against the Practitioner, and shields nothing. Help given is fenced by § 5.5(c)(5)(iv)–(vi). § 8.1.1 classifies the request as kept in neither record, and any record of help given as open and unattributed.
+- **§ 4.7(f), the periodic review entry.** Renamed from the periodic visit note and made service-line neutral: the primary care regulatory or periodic visit, and the supervising psychiatrist's periodic visit or review, wherever entered in the resident's record. Default reach now runs to every service line a standard applies to, with exclusion only by reasons at adoption; psychiatry previously had to be brought in standard by standard. Entries that begin after adoption are reached after the § 5.7 notice period. §§ 4.3, 4.7(b), 5.5(a)(1)(vi) and (a)(4)(i) conformed.
+- **§ 5.5(f) withdrawn.** It attached a consequence to a clinical comment that § 5.5(e)(3) says counts toward nothing; § 5.5(e)(1) says a comment is not an act of the Committee, and (f) had the Committee send it; it was the only exception to § 5.5(c)(6); and the neutral § 4.7(f) does its work once psychiatric supervisory review is entered in the chart. §§ 5.5(c)(6) and 9.6 lose their exception clauses. Cost, accepted: until that documentation exists, a persisting management question short of a standard-of-care concern reaches a supervising psychiatrist only by the APC's choice.
+- **Confirmed:** Policy § 5.7 fraction and floor at the review report; Criterion C group rate on reported figures with corrections received applied (§ 3.4).
+- **Companions conformed:** member guide (§ 4.7(f) section and glossary, new section on § 7.7, § 5.5(f) paragraph removed); audit program explainer (short version, new section on asking for help, physicians' notes, psychiatry exception removed); practitioner notice template (§ 5.5(f) variants removed; reports state that help may be asked for at any time).
+
+Pre-revision copies: `_archive/*-2026-10-05-before-help-request.md`.
+
+
+
+# Revision of 2026-10-15: the scope of a request for help, and a present risk it discloses
+
+- **§ 7.7, scope.** "Help in a clinical area" becomes "help in any aspect of their clinical practice, documentation included." Patrick's scenario: an NP with a documentation backlog who knows she is struggling and wants help without involving Management. Documentation workflow is not a clinical area as the section used the term, and a strict reading could have refused the request in the case most likely to arise.
+- **§ 7.7, a present risk.** New paragraph. Where the help discloses a resident at present risk, including an undocumented change in a plan of care, the first object of the help is to remove it, and the Practitioner's acting on it answers the concern. The person helping refers to the PRC on what the request disclosed only where the failure to act may result in imminent danger (the PRC Article IX threshold) or the Practitioner does not act within [ten] business days, and tells the Practitioner at the time of referring. PRC § 4.3(a) and any referral on information obtained otherwise are unaffected. If the person answering a request could refer on what it disclosed, asking would become a way to be referred; if they could never refer, the request could hide a present danger.
+- **What § 7.7 does not do, unchanged.** The request and the help stay out of Management under § 5.5(c)(5)(iv)–(vi). The delinquency itself does not: Management sees open notes from the EMR, and the open-notes policy applies regardless.
+- **Conformed:** § 6.7 opening sentence ("Except as § 7.7 provides…") and § 6.7(c) ("subject to § 7.7"). Companions: member guide § 7.7 section; audit program explainer, "Asking for help on your own"; practitioner notice template (both variants).
+
+Pre-revision copy: `_archive/cqc-charter-draft-2026-10-15-before-help-scope.md`.
+
+
+# Revision of 2026-10-15: a Clinical Quality Reviewer, and the examining clinician at the correction step
+
+Raised by Patrick: committee members are busy clinicians and cannot audit a large number of charts. Rough arithmetic on about 300 prescribers at five charts each puts one per-clinician sweep near 1,500 charts and 150–200 hours. A near-full-time NP who does some clinical work could carry the program's chart reading. Patrick asked whether she could be a member.
+
+- **§ 2.2.1 (new), Clinical Quality Reviewer.** A physician or APC assigned by the Entity to examine charts as a principal duty sits as a member ex officio while the assignment lasts, if in active clinical practice and holding no Employment Authority. Counts toward § 2.3. Examines at the Committee's direction under § 3.2; other members may examine too; the Reviewer's own charts are examined by another member. Ex officio so the seat does not lapse mid-assignment. A Reviewer who leaves practice examines as a person assisting under § 10.1 and is not a member.
+- **§ 9.6.2 (new), the examining clinician.** No part in the correction step, the § 5.5 disposition or an Article VI determination on an observation on a chart the member examined; not counted under § 9.3 there; may present the examination and answer questions, then withdraws. Not reached: the § 5.5(b)(1) question and recording a systems condition at the cycle summary, commendations, clinical comments, conducting a follow-up look. **The cycle-summary carve-out is for Patrick's confirmation.** The gap predates the Reviewer (any member could examine under § 3.2).
+- **§ 9.6(f) (new).** A member recuses where the member is the Practitioner. Not previously stated.
+- **Consequence, accepted.** The Reviewer will seldom be eligible for a determination about an identified Practitioner and adds nothing to the § 9.3 floor of three; recruiting math for eligible members is unchanged.
+- **Already sufficient, unchanged.** § 5.5(e)(2) (physician member writes a comment on a physician's entry where the examiner is not a physician); PRC § 10.3(b) (no one who took part in the audit sits on a hearing panel).
+- **Companions not conformed.** Member guide and seat map held until the position exists; a Reviewer seat in a circulating document implies a resourced position.
+
+Pre-revision copy: `_archive/cqc-charter-draft-2026-10-15-before-reviewer.md`.
+
+---
+
+# Revision of 2026-10-26: the Chair votes, except on a referral
+
+Raised while estimating committee time for Rucci. The Charter was silent on the Chair's vote. The default for the chair of a small committee is a vote on everything, but the Chair also screens every referral at the PRC (PRC § 4.4), and the screeners may recommend an agreed resolution (PRC § 5.7.1) on a preliminary view of the merits. A Chair who voted to refer would then shape the PRC's outcome, which PRC § 2.1 exists to prevent and PRC § 4.4.1(a) already prevents for Department Chairs.
+
+- **§ 2.1.** The Chair is a member, votes, and is counted for quorum and for every voting threshold. The Chair takes no part in a determination under Article VI, withdraws before it is discussed, is not counted under § 9.3 in it, and § 9.6.1 applies as on recusal.
+- **Alternatives considered.** A vote on everything with the Vice-Chair proposing any agreed resolution at the PRC (text in both charters); and accepting the overlap on the strength of the Practitioner's right to decline (leaves the § 4.4.1(a) asymmetry unexplained). Patrick chose the withdrawal.
+- **Cost.** None to the § 9.3 floor: the Chair of Primary Care, the Chair of Psychiatry, the designated physician alternate and the APCs remain eligible.
+- **§ 5.5 dispositions left alone** (Patrick). With the agreed resolution proposed only on the Review Panel's concurrence (PRC § 5.7.1, revised the same day), screening a CQC referral is chiefly a check of the record § 6.3 requires.
+- **Companions not conformed.** Member guide, seat map, B1 (How It Works, CEO Path) and the Rucci copies.
+
+Pre-revision copy: `_archive/cqc-charter-draft-2026-10-26-before-chair-vote.md`.
+
+---
+
+# Revision of 2026-10-26 (second): the Department Chairs withdraw from referral in their own service line
+
+- **§ 2.2.** The Chairs of the Primary Care and Psychiatry Committees take no part in an Article VI determination concerning a Practitioner in their own service line, withdraw before it is discussed, and are not counted under § 9.3 in it.
+- **Why.** PRC § 4.4.1(a) substituted a PRC member for a Department Chair who had taken part in the CQC's determination. Since PRC § 5.7.1 now has the screeners recommend an agreed resolution, and audit referrals are the matters an agreed resolution best suits, the substitution removed the Department Chair's knowledge of the service line where it was meant to apply. It also spent one of the PRC's two primary care physicians at screening, leaving one for a two-physician panel. What the Department Chair gives up here is small: an Article VI determination establishes only that a finding was made and a written criterion met (§ 6.4).
+- **Kept.** A vote on the other service line's referrals, on standards, the audit plan and § 5.5 dispositions.
+- **Cost.** On a primary care physician's referral the designated physician alternate is the only primary care physician voting; the § 9.3 floor of three holds with the alternate, the Chair of Psychiatry and the APCs.
+- **PRC § 4.4.1(a)** narrowed to a Department Chair who took part in an Article VI determination, which now arises chiefly where the other Department Chair joins screening under PRC § 4.4.2.
+- **Companions not conformed.** Member guide, seat map, B1 and the Rucci copies.
+
+Pre-revision copy: `_archive/cqc-charter-draft-2026-10-26-before-dept-chair-withdrawal.md`.
+
+---
+
+# Revision of 2026-11-13: clinical policies, and concerns about after-hours care
+
+Patrick asked for two additions: the Committee's authority over clinical policies, "ownership, or at least approval," and a route for criticism of the after-hours triage service that gives quick review, tracking, and referral to peer review where it is warranted, without sending every concern there.
+
+**§ 7.8, clinical policies.**
+
+- **Approval, proposal and non-renewal; custody stays with the responsible function.** The Entity's clinical policy review is run today by the responsible functions (OCH coordinates the 2026 cycle for 2027), with Patrick reviewing. Ownership in the full sense would make the Committee keeper of the policy library and the cycle, which it has no staff for, and would sit badly with § 7.5, under which it directs no operational change. Approval, the power to propose, and a declined renewal that lets a policy lapse give the Committee the clinical content, which is what ownership would have been for.
+- **Definition by subject.** A clinical policy governs what a Practitioner assesses, orders, prescribes, monitors or documents as clinical judgment. Administrative policies (attendance, scheduling, billing, documentation timeliness) are outside it, but a clinical provision inside one is approved. Disagreement over character goes to [the Chief Medical Officer] (§ 7.8.7).
+- **What approval decides (§ 7.8.3).** Clinical soundness for this population; consistency with adopted standards; that the policy can be followed in the settings it governs; and that it says nothing about facilities or their care beyond what it needs. The last two come from the 2026-11 review of the IV fluids policy, which omitted hypodermoclysis, the usual first-line option, and carried a characterization of facility diets a surveyor would read as the Entity's own.
+- **A policy is not a standard (§ 7.8.5).** Without this, approval would turn every line of every clinical policy into an expectation, with no § 4.4 designation and no notice period, and into something a departure from could be argued to show. Measurement against a policy requires a standard adopted under Article IV. The evidentiary limit is phrased as what approval does not by itself establish.
+- **Renewal without change (§ 7.8.4)** goes through the Chair and is reported, because the Committee meets an hour a month.
+- **Facility resident care policies** under 42 C.F.R. § 483.70(h) are excluded: they are the facility's, under its medical director.
+- **§ 7.8.8** writes in the 2026-11-03 direction that any policy may be brought to the Committee for its effect on care, with § 7.5 as the means and no power to direct.
+
+**§ 7.9, concerns about after-hours care.**
+
+- **The Committee, not the PRC.** PRC screening may not reach the merits (PRC §§ 4.4, 4.6), and dismissing a concern that does not hold up requires reading the encounter. Sending each concern to the PRC would put every triage clinician before peer review on a reading made with the next morning's information.
+- **The hindsight rule (§ 7.9.4).** The encounter is judged on what was known, or could reasonably have been learned, at the time of the call. The outcome is not the measure except as it shows what was conveyed. This is the substance of the route.
+- **The reviewer's question is the § 6.7(c) question** any person answers before referring: whether the encounter raises a concern about the standard of care or patient safety. Its reading is advice and a route decision, not a finding, and a closure is not a determination that the care met the standard of care.
+- **Dispositions:** reasonable at the time; feedback with the offer of support, counting toward nothing; referral under § 6.7(c); systems under § 7.5. Repeated feedback on the same point ([twice] in [twelve] months) obliges the reviewer to consider referral and record the answer, so repetition after feedback stays reachable without a count.
+- **Tracking without a file (§ 7.9.7).** The register records every concern by source, facility, category and disposition. A concern closed as reasonable carries no Practitioner's name, so a triage clinician builds no record of criticism that did not hold up. The aggregate goes to the Committee and into the quarterly report, which is where patterns in how calls reach the service (information missing at the time of the call, what a facility can do after hours) become visible.
+- **Carve-outs (§ 7.9.2).** PRC § 4.3(a) mandatory referrals and imminent danger go straight to the PRC. § 6.7(c) is not limited, so anyone may still refer a triage encounter directly to the PRC; the route cannot be made exclusive without undoing the unconditioned route the Charter rests on.
+- **Reviewer (§ 7.9.3).** Has worked the service within [two] years, holds no Employment Authority, may be a person assisting rather than a member; physician for a physician's care, service-line matched for psychiatry; § 9.6 recusal applies.
+
+**The tension.** The Committee was built never to decide whether care was appropriate (§§ 5.5, 5.8(b)), and § 10.1 advises anyone with a concern about an identified Practitioner to take it to the PRC, where HCQIA's protection for informants fits more clearly. § 7.9 departs from both. The draft limits the departure by confining the reviewer to the § 6.7(c) judgment and making the reading advisory, and § 10.1 now names the exception. The alternative is a PRC fast track with a triage-experienced screener allowed a limited merits reading; it would keep the informant protection but put the label "peer review" on every concern, which is what Patrick asked to avoid.
+
+**Conformed:** §§ 1.3, 3.1(h)–(i), 7.4, 8.1.1 (open: approved policies and returned drafts; protected: policy deliberation, the triage register and reviews), 9.5, 9.6, 10.1, and the bracketed defaults.
+
+**Open for Patrick:** whether a Practitioner whose encounter is closed as reasonable is told (drafted: not told, as PRC § 4.5.1); whether the person who raised the concern hears the outcome (drafted: receipt only, as PRC § 4.5); whether triage experience is required of the reviewer.
+
+**Proposed for the PRC Charter, not applied.** A sixth screening disposition at § 4.4: "(f) **Triage review** — the referral concerns a triage encounter within § 7.9.1 of the CQC Charter, is not within § 4.3(a), and the answer under § 4.4.4 is that no action is required. Sent to the CQC under § 7.9 of its Charter." Without it, a concern about a triage encounter that reaches the PRC first is screened there, and § 7.9 works only for concerns that arrive at the Committee.
+
+**Companions not conformed.** Member guides, seat map, How a Review Unfolds, review flow, B1.
+
+Pre-revision copy: `_archive/cqc-charter-draft-2026-11-13-before-policies-triage.md`.
+
+---
+
+# Revision of 2026-11-13 (second): § 7.9 is the triage lead's request for an outside opinion
+
+Patrick: the route is the PA who leads the triage service asking for an outside opinion, and the reviewer has to be more than someone who has worked triage.
+
+- **§ 7.9.1.** Entry is the clinical lead's request, covering a criticism the service received from any source or an encounter one of its Practitioners asked to have read. Anyone may still refer directly to the PRC under § 6.7(c).
+- **§ 7.9.3.** The reviewer is a physician member of the Committee, designated by the Chair, who works no triage shifts, has no supervisory relationship with the service or the Practitioner, and holds no Employment Authority; a psychiatrist member for psychiatric care. The opinion carries weight with the facility and the day team because it comes from outside the service, which a triage colleague's would not. **The Chair is excluded** because the Chair screens every PRC referral, including any this review produces. **A Department Chair may review** but then does not screen the resulting referral.
+- **§ 7.9.6.** The lead receives the opinion: the disposition, and the point given under (b). Under (c), only that the matter was referred. Uptake of support is not disclosed. The lead decides what to tell whoever raised the concern. The opinion may not be entered in any employment or performance record.
+- **§ 7.9.7.** The register records who raised the concern with the service, by kind.
+- **Proposed for the PRC Charter, not applied.** § 4.4.1(a) extended: a Department Chair is replaced at screening where they reviewed the encounter under CQC § 7.9. The proposed § 4.4(f) disposition now reads "Sent to the CQC for review under § 7.9 of its Charter, and the service's clinical lead is told."
+- **Open:** whether the lead holds Employment Authority over the service's Practitioners. If so, giving the lead the (b) point puts the Committee's feedback in an employment line, and § 7.9.6's bar on entering it in a performance record would be carrying more weight than a bar should.
+
+Pre-revision copy: `_archive/cqc-charter-draft-2026-11-13-before-triage-lead.md`.
+
+---
+
+# Revision of 2026-11-13 (third): § 7.9 withdrawn
+
+Patrick: take it out of the CQC and keep it simple. The triage lead wants to be able to ask about a case ("was it appropriate to send this patient to the hospital?"), including concerns facilities raise with non-clinical operations leaders that come to her, and needs an unbiased opinion, which today usually comes from Patrick. That is an ordinary clinical consultation, and it needs no committee.
+
+- **Removed:** § 7.9 and its conforming edits to §§ 1.3, 3.1(i), 7.4, 8.1.1, 9.5, 9.6 and 10.1. § 7.8 stands. The two entries above record what was drafted and why it was withdrawn.
+- **What already covers the consult.** Where an opinion shows a concern about the standard of care or patient safety, the physician consulted refers it to the PRC under PRC § 4.1(b). PRC § 4.3(a) mandatory referrals apply to the lead and to the physician as to anyone.
+- **Withdrawn with it:** the proposed PRC § 4.4(f) and § 4.4.1(a) edits, and the two counsel questions on § 7.9.
+- **Still worth considering (PRC):** an explicit § 12.1 recusal ground for a person who gave an opinion on the care at issue before the referral, parallel to the existing ground for review at counsel's request. Matters when Patrick, who screens every referral, is the physician consulted.
+
+Pre-revision copy: `_archive/cqc-charter-draft-2026-11-13-before-triage-withdrawn.md`.

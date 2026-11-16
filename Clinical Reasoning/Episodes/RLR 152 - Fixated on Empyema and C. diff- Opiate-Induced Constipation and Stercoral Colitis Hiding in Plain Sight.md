@@ -131,4 +131,4 @@ The meta-lesson, made explicit twice, is that the correctness of a downstream te
 
 ## Related Notes
 
-[[Opiate-Induced Constipation and Stercoral Colitis]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Decision Validity Independent of Outcome]] · [[Colonization versus Infection in the Non-Sterile Airway]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Opiate-Induced Constipation and Stercoral Colitis]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Decision Validity Independent of Outcome]] · [[Colonization versus Infection in the Non-Sterile Airway]] · [[Diagnostic Humility]]

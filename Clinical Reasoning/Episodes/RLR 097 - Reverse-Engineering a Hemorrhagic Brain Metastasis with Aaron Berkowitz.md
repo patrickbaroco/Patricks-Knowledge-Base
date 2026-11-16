@@ -97,4 +97,4 @@ A secondary clinical teaching point involves the tension in holding a TKI for a 
 
 ## Related Notes
 
-[[T1 vs T2 vs FLAIR]] · [[Hickam's Dictum]] · [[Background Affects Foreground]] · [[Leave-One-Out Reasoning]] · [[Anticoagulation Reversal]]
+[[Clinical Reasoning MOC]] · [[T1 vs T2 vs FLAIR]] · [[Hickam's Dictum]] · [[Background Affects Foreground]] · [[Leave-One-Out Reasoning]] · [[Anticoagulation Reversal]]

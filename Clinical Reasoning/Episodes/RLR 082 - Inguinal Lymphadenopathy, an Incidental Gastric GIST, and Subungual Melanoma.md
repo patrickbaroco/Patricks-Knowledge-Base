@@ -108,4 +108,4 @@ Subungual melanoma is a notoriously easy site to miss, often persisting for mont
 
 ## Related Notes
 
-[[Approach to Groin Pain]] · [[Approach to Lymphadenopathy]] · [[Retroperitoneal Lymphadenopathy]] · [[Subungual Melanoma]] · [[Anchoring Bias]] · [[Cognitive Autopsy]] · [[Anatomical Approach]] · [[Schema-Based Reasoning]]
+[[Clinical Reasoning MOC]] · [[Approach to Groin Pain]] · [[Approach to Lymphadenopathy]] · [[Retroperitoneal Lymphadenopathy]] · [[Subungual Melanoma]] · [[Anchoring Bias]] · [[Cognitive Autopsy]] · [[Anatomical Approach]] · [[Schema-Based Reasoning]]

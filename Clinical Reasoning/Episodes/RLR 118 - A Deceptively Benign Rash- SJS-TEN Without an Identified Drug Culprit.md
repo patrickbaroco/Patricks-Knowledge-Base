@@ -118,4 +118,4 @@ The most conceptually significant teaching point, emphasized explicitly by both 
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Test Interpretation]] · [[Systemic Lupus Erythematosus]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Systemic Lupus Erythematosus]]

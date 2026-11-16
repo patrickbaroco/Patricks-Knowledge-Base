@@ -121,4 +121,4 @@ This case is built around the generalist's specific value in bridging specialty 
 
 ## Related Notes
 
-[[Exertional Dyspnea - Shortness of Breath Pyramid]] · [[Hematuria and AKI - Narrowing the Differential]] · [[Complement Levels in Glomerulonephritis]] · [[ANCA Positivity Beyond Primary Vasculitis]] · [[Culture-Negative Endocarditis - Approach]] · [[Infective Endocarditis-Associated Glomerulonephritis]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Exertional Dyspnea - Shortness of Breath Pyramid]] · [[Hematuria and AKI - Narrowing the Differential]] · [[Complement Levels in Glomerulonephritis]] · [[ANCA Positivity Beyond Primary Vasculitis]] · [[Culture-Negative Endocarditis - Approach]] · [[Infective Endocarditis-Associated Glomerulonephritis]] · [[Diagnostic Humility]]

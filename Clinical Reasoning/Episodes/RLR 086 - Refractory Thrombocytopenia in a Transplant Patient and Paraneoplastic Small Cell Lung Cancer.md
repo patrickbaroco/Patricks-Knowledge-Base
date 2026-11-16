@@ -111,4 +111,4 @@ When an unexpected finding (like refractory thrombocytopenia in a transplant rec
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Diagnostic Humility]] · [[Treatment as a Diagnostic Test]] · [[Thrombocytopenia]] · [[Anemia and Thrombocytopenia]] · [[Hemolysis]] · [[Paraneoplastic Neurologic Syndrome]] · [[Illness Tempo]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Diagnostic Humility]] · [[Treatment as a Diagnostic Test]] · [[Thrombocytopenia]] · [[Anemia and Thrombocytopenia]] · [[Hemolysis]] · [[Paraneoplastic Neurologic Syndrome]] · [[Illness Tempo]]

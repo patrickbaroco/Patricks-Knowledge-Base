@@ -115,4 +115,4 @@ This episode braids together three teaching threads that are easy to treat as se
 
 ## Related Notes
 
-[[Disproportionate Sinus Tachycardia - Diagnostic Framework]] · [[Obstructive Shock - Pericardiac vs Intracardiac]] · [[Neutropenic Fever - Empiric Management]] · [[Discharge Readiness Beyond Medical Stability]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Disproportionate Sinus Tachycardia - Diagnostic Framework]] · [[Obstructive Shock - Pericardiac vs Intracardiac]] · [[Neutropenic Fever - Empiric Management]] · [[Discharge Readiness Beyond Medical Stability]] · [[Diagnostic Humility]]

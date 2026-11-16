@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1600">
+<title>Review Flow, One Page</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* One slide, 1600 x 900. Two lanes: the Quality Committee above, peer review below; where a matter starts runs down the left. */
+:root{
+  --paper:#FFFFFF; --ink:#131F1E; --muted:#5B6E6C; --line2:#BCC9C7; --conn:#5B6E6C; --sunk:#EEF2F1;
+  --teal:#0E6F6B; --teal-w:#E3EFEE; --teal-band:#F3F8F7;
+  --wine:#8A4257; --wine-w:#F3E7EA; --wine-band:#FAF4F5;
+  --brass:#8C6416; --brass-w:#F4EDDD;
+  --slate:#4F6469; --slate-w:#E8EDEE;
+  --stop:#A63A2E; --stop-w:#F6E7E4;
+}
+html,body{margin:0;padding:0;background:var(--paper)}
+svg{display:block;width:1600px;height:900px}
+.eb{font-family:"IBM Plex Mono",monospace;font-size:13px;letter-spacing:.14em;fill:var(--muted)}
+.h1{font-family:Spectral,Georgia,serif;font-weight:600;font-size:38px;fill:var(--ink);letter-spacing:-.01em}
+.sub{font-family:"Public Sans",sans-serif;font-size:17px;fill:var(--muted)}
+.lane{font-family:"IBM Plex Mono",monospace;font-size:12.5px;letter-spacing:.14em;font-weight:500}
+.t{font-family:Spectral,Georgia,serif;font-weight:600;font-size:19px;fill:var(--ink)}
+.c{font-family:"IBM Plex Mono",monospace;font-size:11px;fill:var(--muted);letter-spacing:.03em}
+.b{font-family:"Public Sans",sans-serif;font-size:13.5px;fill:var(--muted)}
+.x{font-family:"Public Sans",sans-serif;font-size:12.5px;fill:var(--ink)}
+.l{font-family:"IBM Plex Mono",monospace;font-size:11.5px;fill:var(--muted);letter-spacing:.03em}
+.ft{font-family:"IBM Plex Mono",monospace;font-size:11px;fill:var(--muted);letter-spacing:.04em}
+.cn{fill:none;stroke:var(--conn);stroke-width:1.6}
+.ex{fill:none;stroke:var(--slate);stroke-width:1.3;stroke-dasharray:4 4}
+</style>
+</head>
+<body>
+<svg viewBox="0 0 1600 900" role="img" aria-label="One-page flow of a review. A matter starts in one of three ways: a clinician asks for help, which goes to education and opens nothing; an audit, which produces a review report for every clinician whose charts were read, then a single look back where a repeat could be referred, then a formal notice, then the written referral criteria; or a direct concern from compliance or anyone with a patient-safety concern, which goes straight to peer review screening. Screening leads to a review, which ends in an agreed resolution, a closure or Tier One response, or a proposed restriction with a hearing. Every outcome is written to the clinician, and only a restriction lasting more than 30 days is reportable.">
+<defs>
+<marker id="ar" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="var(--conn)"></path></marker>
+</defs>
+
+<!-- heading -->
+<text class="eb" x="40" y="52">CLINICAL GOVERNANCE · HOW A REVIEW UNFOLDS</text>
+<text class="h1" x="40" y="96">From a concern to an outcome</text>
+<text class="sub" x="40" y="126">Where a matter starts, every step it can take, and every place it can end. Most end at the review report.</text>
+
+<!-- lanes -->
+<rect x="280" y="140" width="1300" height="378" fill="var(--teal-band)"></rect>
+<rect x="280" y="140" width="4" height="378" fill="var(--teal)"></rect>
+<text class="lane" x="300" y="166" fill="var(--teal)">CLINICAL QUALITY COMMITTEE</text>
+<rect x="280" y="566" width="1300" height="296" fill="var(--wine-band)"></rect>
+<rect x="280" y="566" width="4" height="296" fill="var(--wine)"></rect>
+<text class="lane" x="300" y="592" fill="var(--wine)">PEER REVIEW COMMITTEE</text>
+<text class="lane" x="40" y="166" fill="var(--muted)">WHERE IT STARTS</text>
+
+<!-- inputs -->
+<rect x="40" y="186" width="210" height="72" rx="3" fill="var(--paper)" stroke="var(--ink)" stroke-width="1.4"></rect>
+<text class="t" x="56" y="214">A clinician</text>
+<text class="t" x="56" y="238">asks for help</text>
+
+<rect x="40" y="316" width="210" height="90" rx="3" fill="var(--paper)" stroke="var(--ink)" stroke-width="1.4"></rect>
+<text class="t" x="56" y="344">An audit</text>
+<text class="b" x="56" y="366">against a standard that was</text>
+<text class="b" x="56" y="384">taught and noticed first</text>
+
+<rect x="40" y="612" width="210" height="96" rx="3" fill="var(--paper)" stroke="var(--ink)" stroke-width="1.4"></rect>
+<text class="t" x="56" y="640">Compliance</text>
+<text class="b" x="56" y="662">or anyone with a patient-</text>
+<text class="b" x="56" y="680">safety concern · no audit</text>
+<text class="b" x="56" y="698">or threshold needed</text>
+
+<!-- request for help -->
+<path class="cn" d="M250,222 H294" marker-end="url(#ar)"></path>
+<rect x="300" y="186" width="230" height="72" rx="3" fill="var(--slate-w)" stroke="var(--slate)" stroke-width="1.3" stroke-dasharray="5 4"></rect>
+<text class="t" x="316" y="212">Help, from education</text>
+<text class="c" x="316" y="229">CQC § 7.7</text>
+<text class="b" x="316" y="247">opens nothing · never recorded</text>
+<text class="b" x="556" y="218">Any clinician, at any time, with or without an audit.</text>
+<text class="b" x="556" y="238">Every review report and close-out also carries the same offer of help.</text>
+
+<!-- audit row -->
+<path class="cn" d="M250,361 H294" marker-end="url(#ar)"></path>
+
+<rect x="300" y="300" width="230" height="122" rx="3" fill="var(--teal-w)" stroke="var(--teal)" stroke-width="1.4"></rect>
+<text class="t" x="316" y="328">Review report</text>
+<text class="c" x="316" y="346">CQC § 5.4.1</text>
+<text class="b" x="316" y="368">to every clinician whose charts</text>
+<text class="b" x="316" y="386">were read · an offer of help</text>
+<text class="b" x="316" y="404">· not a finding, no deadline</text>
+
+<path class="cn" d="M470,300 V284 H950 V294" marker-end="url(#ar)" stroke-dasharray="6 4"></path>
+<text class="l" x="710" y="276" text-anchor="middle">at once, on a single-gap or pattern standard</text>
+<path class="cn" d="M530,361 H574" marker-end="url(#ar)"></path>
+<rect x="580" y="300" width="230" height="122" rx="3" fill="var(--brass-w)" stroke="var(--brass)" stroke-width="1.4"></rect>
+<text class="t" x="596" y="328">Look back, once</text>
+<text class="c" x="596" y="346">CQC § 5.11</text>
+<text class="b" x="596" y="368">only where a repeat could be</text>
+<text class="b" x="596" y="386">referred · a sample of care</text>
+<text class="b" x="596" y="404">from 45 to 135 days later</text>
+
+<path class="cn" d="M810,361 H854" marker-end="url(#ar)"></path>
+<rect x="860" y="300" width="230" height="122" rx="3" fill="var(--teal-w)" stroke="var(--teal)" stroke-width="1.4"></rect>
+<text class="t" x="876" y="328">Formal notice</text>
+<text class="c" x="876" y="346">CQC §§ 5.4.2, 5.5(a)</text>
+<text class="b" x="876" y="368">if the same gap appears · 10</text>
+<text class="b" x="876" y="386">business days to show where</text>
+<text class="b" x="876" y="404">either review is wrong</text>
+
+<path class="cn" d="M1090,361 H1134" marker-end="url(#ar)"></path>
+<rect x="1140" y="300" width="230" height="122" rx="3" fill="var(--teal-w)" stroke="var(--teal)" stroke-width="1.4"></rect>
+<text class="t" x="1156" y="328">Referral criteria</text>
+<text class="c" x="1156" y="346">Audit Referral Policy</text>
+<text class="b" x="1156" y="368">a repeat after review · a single</text>
+<text class="b" x="1156" y="386">gap, where designated · a</text>
+<text class="b" x="1156" y="404">pattern well above peers</text>
+
+<!-- quality exits -->
+<path class="ex" d="M415,422 V440"></path>
+<rect x="300" y="440" width="230" height="56" rx="3" fill="var(--paper)" stroke="var(--slate)" stroke-width="1.2"></rect>
+<rect x="300" y="440" width="4" height="56" fill="var(--slate)"></rect>
+<text class="x" x="316" y="463">Most standards end here.</text>
+<text class="x" x="316" y="482">Corrections come off the report.</text>
+
+<path class="ex" d="M695,422 V440"></path>
+<rect x="580" y="440" width="230" height="56" rx="3" fill="var(--paper)" stroke="var(--slate)" stroke-width="1.2"></rect>
+<rect x="580" y="440" width="4" height="56" fill="var(--slate)"></rect>
+<text class="x" x="596" y="463">Clear on the second look:</text>
+<text class="x" x="596" y="482">the matter closes.</text>
+
+<path class="ex" d="M975,422 V440"></path>
+<rect x="860" y="440" width="230" height="56" rx="3" fill="var(--paper)" stroke="var(--slate)" stroke-width="1.2"></rect>
+<rect x="860" y="440" width="4" height="56" fill="var(--slate)"></rect>
+<text class="x" x="876" y="463">Withdrawn, or put down</text>
+<text class="x" x="876" y="482">to systems: closes.</text>
+
+<path class="ex" d="M1255,422 V440"></path>
+<rect x="1140" y="440" width="230" height="56" rx="3" fill="var(--paper)" stroke="var(--slate)" stroke-width="1.2"></rect>
+<rect x="1140" y="440" width="4" height="56" fill="var(--slate)"></rect>
+<text class="x" x="1156" y="463">No criterion met:</text>
+<text class="x" x="1156" y="482">the finding closes.</text>
+
+<!-- referral connector -->
+<path class="cn" d="M1370,361 H1470 V542 H510 V610" marker-end="url(#ar)"></path>
+<rect x="728" y="531" width="484" height="22" fill="var(--paper)"></rect>
+<text class="l" x="970" y="546" text-anchor="middle">referral to peer review, only where a written criterion is met</text>
+
+<!-- compliance into screening -->
+<path class="cn" d="M250,660 H294" marker-end="url(#ar)"></path>
+
+<!-- peer review row -->
+<rect x="300" y="616" width="230" height="122" rx="3" fill="var(--wine-w)" stroke="var(--wine)" stroke-width="1.4"></rect>
+<text class="t" x="316" y="644">Screening</text>
+<text class="c" x="316" y="662">PRC § 4.4</text>
+<text class="b" x="316" y="684">Chair and department chair ·</text>
+<text class="b" x="316" y="702">10 business days · the route,</text>
+<text class="b" x="316" y="720">not the merits</text>
+
+<path class="ex" d="M415,738 V756"></path>
+<rect x="300" y="756" width="230" height="74" rx="3" fill="var(--paper)" stroke="var(--slate)" stroke-width="1.2"></rect>
+<rect x="300" y="756" width="4" height="74" fill="var(--slate)"></rect>
+<text class="x" x="316" y="779">No action, systems,</text>
+<text class="x" x="316" y="798">administrative, or the</text>
+<text class="x" x="316" y="817">practitioner health pathway.</text>
+
+<path class="cn" d="M530,677 H574" marker-end="url(#ar)"></path>
+<rect x="580" y="616" width="230" height="122" rx="3" fill="var(--wine-w)" stroke="var(--wine)" stroke-width="1.4"></rect>
+<text class="t" x="596" y="644">A review</text>
+<text class="c" x="596" y="662">PRC Arts. V–VI</text>
+<text class="b" x="596" y="684">two members matched to the</text>
+<text class="b" x="596" y="702">clinician's discipline review it</text>
+<text class="b" x="596" y="720">· the Committee decides</text>
+
+<!-- branches -->
+<path class="cn" d="M810,677 H830 V633 H854" marker-end="url(#ar)"></path>
+<path class="cn" d="M830,677 V713 H854" marker-end="url(#ar)"></path>
+<path class="cn" d="M830,677 V793 H854" marker-end="url(#ar)"></path>
+
+<rect x="860" y="598" width="260" height="70" rx="3" fill="var(--paper)" stroke="var(--wine)" stroke-width="1.3"></rect>
+<text class="t" x="876" y="621" font-size="17">Agreed resolution</text>
+<text class="b" x="876" y="640">no finding · nothing reportable</text>
+<text class="c" x="876" y="658">PRC § 5.7</text>
+
+<rect x="860" y="678" width="260" height="70" rx="3" fill="var(--paper)" stroke="var(--wine)" stroke-width="1.3"></rect>
+<text class="t" x="876" y="701" font-size="17">Closed, or Tier One</text>
+<text class="b" x="876" y="720">nothing restricted · not reportable</text>
+<text class="c" x="876" y="738">PRC Art. VIII</text>
+
+<rect x="860" y="758" width="260" height="70" rx="3" fill="var(--paper)" stroke="var(--wine)" stroke-width="1.3"></rect>
+<text class="t" x="876" y="781" font-size="17">Restriction proposed</text>
+<text class="b" x="876" y="800">notice · the right to a hearing</text>
+<text class="c" x="876" y="818">PRC § 10.1</text>
+
+<path class="cn" d="M1120,793 H1164" marker-end="url(#ar)"></path>
+<rect x="1170" y="758" width="200" height="70" rx="3" fill="var(--paper)" stroke="var(--wine)" stroke-width="1.3"></rect>
+<text class="t" x="1186" y="781" font-size="17">Hearing</text>
+<text class="b" x="1186" y="800">clinicians who took no part</text>
+<text class="c" x="1186" y="818">PRC Art. X</text>
+
+<path class="cn" d="M1120,633 H1414" marker-end="url(#ar)"></path>
+<path class="cn" d="M1120,713 H1414" marker-end="url(#ar)"></path>
+<path class="cn" d="M1370,793 H1414" marker-end="url(#ar)"></path>
+
+<!-- outcome -->
+<rect x="1420" y="598" width="150" height="230" rx="3" fill="var(--paper)"></rect>
+<text class="t" x="1436" y="626">Outcome</text>
+<text class="c" x="1436" y="644">PRC § 10.7</text>
+<text class="b" x="1436" y="668">written to the</text>
+<text class="b" x="1436" y="686">clinician, every time</text>
+<rect x="1420" y="716" width="150" height="112" fill="var(--stop-w)"></rect>
+<rect x="1420" y="716" width="4" height="112" fill="var(--stop)"></rect>
+<text class="x" x="1436" y="744" fill="var(--stop)">Reportable only</text>
+<text class="x" x="1436" y="764" fill="var(--stop)">if a restriction lasts</text>
+<text class="x" x="1436" y="784" fill="var(--stop)">more than 30 days</text>
+<text class="x" x="1436" y="804" fill="var(--stop)">(NPDB, state boards)</text>
+<rect x="1420" y="598" width="150" height="230" rx="3" fill="none" stroke="var(--ink)" stroke-width="1.4"></rect>
+
+<!-- footer -->
+<text class="ft" x="40" y="884">Drawn from the draft Clinical Quality Committee and Peer Review Committee charters, revised 2026-10-05. Day counts are drafting defaults. Not adopted.</text>
+</svg>
+</body>
+</html>

@@ -1,0 +1,588 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Clinical Governance Seat Map</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<style>
+:root{
+  --paper:#F2F5F4;
+  --surface:#FFFFFF;
+  --sunk:#EAEFEE;
+  --ink:#131F1E;
+  --muted:#5B6E6C;
+  --line:#D3DDDB;
+  --line2:#BCC9C7;
+  --conn:#5B6E6C;
+  --teal:#0E6F6B;
+  --wine:#8A4257;
+  --brass:#8C6416;
+  --slate:#4F6469;
+  --teal-w:#E3EFEE;
+  --wine-w:#F3E7EA;
+  --brass-w:#F4EDDD;
+  --slate-w:#E8EDEE;
+  --stop:#A63A2E;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0D1413;
+    --surface:#151F1E;
+    --sunk:#1B2625;
+    --ink:#E3EBE9;
+    --muted:#93A6A3;
+    --line:#26332F;
+    --line2:#35443F;
+    --conn:#8AA09C;
+    --teal:#59C4B8;
+    --wine:#DE94A8;
+    --brass:#D8AC58;
+    --slate:#9BB2B7;
+    --teal-w:#122927;
+    --wine-w:#2A1A1F;
+    --brass-w:#26200F;
+    --slate-w:#182224;
+    --stop:#E8705E;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0D1413;
+  --surface:#151F1E;
+  --sunk:#1B2625;
+  --ink:#E3EBE9;
+  --muted:#93A6A3;
+  --line:#26332F;
+  --line2:#35443F;
+  --conn:#8AA09C;
+  --teal:#59C4B8;
+  --wine:#DE94A8;
+  --brass:#D8AC58;
+  --slate:#9BB2B7;
+  --teal-w:#122927;
+  --wine-w:#2A1A1F;
+  --brass-w:#26200F;
+  --slate-w:#182224;
+  --stop:#E8705E;
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Public Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  font-size:15.5px;
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1120px;margin:0 auto;padding:44px 28px 96px}
+p{margin:0 0 1em}
+a{color:inherit}
+
+.eyebrow{
+  font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--muted);margin:0 0 14px;
+}
+h1{
+  font-family:Spectral,Georgia,"Times New Roman",serif;
+  font-weight:600;font-size:clamp(34px,5.2vw,50px);line-height:1.08;
+  letter-spacing:-.015em;margin:0 0 18px;text-wrap:balance;max-width:16ch;
+}
+.lede{font-size:18px;line-height:1.55;max-width:62ch;color:var(--ink)}
+.lede + .lede{color:var(--muted);font-size:16px}
+
+.stamp{
+  display:inline-flex;gap:10px;align-items:center;margin-top:26px;
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;
+  color:var(--muted);border:1px solid var(--line2);border-radius:2px;padding:7px 12px;
+}
+.stamp b{color:var(--ink);font-weight:500}
+
+hr.rule{border:0;border-top:1px solid var(--line);margin:56px 0 0}
+
+h2{
+  font-family:Spectral,Georgia,serif;font-weight:600;
+  font-size:27px;line-height:1.2;letter-spacing:-.01em;margin:52px 0 6px;text-wrap:balance;
+}
+h2 + .sub{color:var(--muted);font-size:15px;margin:0 0 26px;max-width:64ch}
+
+figure{margin:0}
+.fig{
+  background:var(--surface);border:1px solid var(--line);border-radius:3px;
+  padding:22px 18px;overflow-x:auto;
+}
+.fig svg{display:block;min-width:720px;width:100%;height:auto}
+.fig--sm svg{min-width:440px}
+figcaption{color:var(--muted);font-size:13.5px;margin-top:14px;max-width:70ch}
+
+.legend{
+  display:flex;flex-wrap:wrap;gap:10px 26px;margin-top:18px;
+  font-size:12.5px;color:var(--muted);
+}
+.legend span{display:inline-flex;align-items:center;gap:8px}
+.sw{width:14px;height:14px;border-radius:2px;border:1px solid var(--line2);flex:none}
+.ln{width:22px;height:0;border-top:1.6px solid var(--conn);flex:none}
+.ln.d{border-top-style:dashed}
+
+/* ---- body panels ---- */
+.body-panel{margin-top:64px}
+.body-panel .head{border-top:3px solid var(--accent);padding-top:16px}
+.body-panel .kicker{
+  font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--accent);margin:0 0 8px;
+}
+.body-panel h3{
+  font-family:Spectral,Georgia,serif;font-weight:600;font-size:30px;
+  line-height:1.15;margin:0 0 8px;letter-spacing:-.012em;
+}
+.body-panel .job{font-size:17px;max-width:60ch;margin:0}
+
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:34px;margin-top:30px;align-items:start}
+@media (max-width:820px){.cols{grid-template-columns:minmax(0,1fr);gap:28px}}
+
+.blocklabel{
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--muted);margin:0 0 12px;
+}
+
+.seatbox{background:var(--sunk);border:1px solid var(--line);border-radius:3px;padding:18px 18px 16px}
+.seatgroup{padding:12px 0;border-bottom:1px solid var(--line)}
+.seatgroup:first-of-type{padding-top:2px}
+.seatgroup:last-of-type{border-bottom:0;padding-bottom:2px}
+.seatrow{display:flex;align-items:center;gap:12px}
+.chips{display:flex;gap:4px;flex:none}
+.chip{width:13px;height:17px;border-radius:1.5px;background:var(--accent);opacity:.9}
+.chip.hollow{background:transparent;border:1.6px solid var(--accent);opacity:.75}
+.seatrow .name{font-size:14px;line-height:1.35}
+.seatrow .n{
+  font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--muted);
+  font-variant-numeric:tabular-nums;margin-left:auto;flex:none;padding-left:10px;
+}
+.seatnote{font-size:13px;color:var(--muted);margin:5px 0 0;line-height:1.5}
+
+.floors{margin-top:16px;display:flex;flex-direction:column;gap:8px}
+.floor{display:flex;gap:11px;font-size:13.5px;line-height:1.45;color:var(--muted)}
+.floor b{color:var(--ink);font-weight:600}
+.floor .tick{width:6px;height:6px;border-radius:1px;background:var(--accent);flex:none;margin-top:8px}
+
+ol.tasks{margin:0;padding:0;list-style:none;counter-reset:t}
+ol.tasks li{
+  counter-increment:t;position:relative;padding:0 0 0 34px;margin:0 0 14px;
+  font-size:14.5px;line-height:1.55;
+}
+ol.tasks li::before{
+  content:counter(t,decimal-leading-zero);position:absolute;left:0;top:2px;
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--accent);
+  letter-spacing:.02em;
+}
+ol.tasks li b{font-weight:600}
+
+.cannot{margin-top:26px;border-left:2px solid var(--stop);padding:2px 0 2px 16px}
+.cannot .blocklabel{color:var(--stop);margin-bottom:7px}
+.cannot p{margin:0;font-size:14px;line-height:1.55;color:var(--muted)}
+.cannot p b{color:var(--ink);font-weight:500}
+
+.callout{
+  margin-top:24px;background:var(--accent-w);border:1px solid var(--line);
+  border-radius:3px;padding:16px 18px;
+}
+.callout p{margin:0;font-size:14px;line-height:1.55}
+.callout p + p{margin-top:9px}
+.callout strong{font-weight:600}
+
+.prov{border-bottom:1.5px dotted var(--muted);cursor:help}
+
+.boundary{
+  margin-top:26px;border:1px solid var(--line);border-radius:3px;
+  background:var(--surface);overflow:hidden;
+}
+.boundary .bh{
+  padding:14px 20px;border-bottom:1px solid var(--line);
+  display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;
+}
+.boundary .bh strong{font-family:Spectral,Georgia,serif;font-size:19px;font-weight:600}
+.boundary .bh span{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);letter-spacing:.08em}
+.boundary ul{margin:0;padding:14px 20px 18px;list-style:none;display:grid;gap:9px;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.boundary li{font-size:14px;line-height:1.5;padding-left:22px;position:relative;color:var(--muted)}
+.boundary li::before{content:"";position:absolute;left:0;top:9px;width:11px;height:2px;border-radius:1px;background:var(--stop)}
+.boundary li b{color:var(--ink);font-weight:500}
+
+table.open{width:100%;border-collapse:collapse;margin-top:8px}
+table.open td{padding:13px 0;border-top:1px solid var(--line);vertical-align:top;font-size:14.5px;line-height:1.5}
+table.open td:first-child{
+  width:210px;padding-right:24px;font-weight:600;
+}
+table.open tr:last-child td{border-bottom:1px solid var(--line)}
+
+footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);
+  color:var(--muted);font-size:13px;line-height:1.6}
+footer code{font-family:"IBM Plex Mono",monospace;font-size:12px}
+</style>
+<style>html{color-scheme:light dark}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<div class="wrap">
+
+  <p class="eyebrow">Clinical governance framework · draft for discussion</p>
+  <h1>Who sits where, and what each body does</h1>
+  <p class="lede">Two chartered committees and two clinical departments. This page shows the seats on each, the work each one owns, and how the primary care and psychiatry committees feed the Quality Committee without ever touching peer review.</p>
+  <p class="lede">Seats are shown by role, not by name — nobody has been appointed or elected yet.</p>
+  <p class="stamp"><b>Not adopted.</b> Charters drafted, under revision, prepared for counsel review.</p>
+
+  <hr class="rule">
+
+  <h2>How the four bodies connect</h2>
+  <p class="sub">The CEO's written Authorization establishes both committees, and the CEO takes no part in any case. Quality and Peer Review are co-equal — neither reports to the other.</p>
+
+  <figure>
+    <div class="fig">
+      <svg viewBox="0 0 980 590" role="img" aria-label="Diagram: the Chief Executive Officer's written Authorization establishes the Clinical Quality Committee and the Peer Review Committee; the CEO takes no part in cases. Quality refers individual concerns to Peer Review only where a written criterion is met; Peer Review sends systems conditions back. Peer Review takes final action and reports to the NPDB and state licensing boards, gives Management notice of final actions only, and reports in aggregate at the quarterly meeting with the CMO and COO, with the same report to the CEO. The primary care and psychiatry committees feed Quality only.">
+        <defs>
+          <marker id="a1" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0,0 L8,4 L0,8 z" fill="var(--conn)"></path>
+          </marker>
+          <marker id="a2" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0,0 L8,4 L0,8 z" fill="var(--slate)"></path>
+          </marker>
+        </defs>
+
+        <style>
+          .nx{fill:var(--surface);stroke:var(--line2);stroke-width:1.2}
+          .nt{font-family:Spectral,Georgia,serif;font-weight:600;font-size:15px;fill:var(--ink);text-anchor:middle}
+          .ns{font-family:"Public Sans",sans-serif;font-size:10.5px;fill:var(--muted);text-anchor:middle}
+          .cn{fill:none;stroke:var(--conn);stroke-width:1.4}
+          .cnd{fill:none;stroke:var(--slate);stroke-width:1.4;stroke-dasharray:5 4}
+          .lab{font-family:"IBM Plex Mono",monospace;font-size:9.5px;fill:var(--muted);text-anchor:middle;letter-spacing:.03em}
+          .labs{font-family:"IBM Plex Mono",monospace;font-size:9.5px;fill:var(--muted);letter-spacing:.03em}
+          .chipbg{fill:var(--surface)}
+          .anno{font-family:"Public Sans",sans-serif;font-size:11.5px;fill:var(--muted)}
+        </style>
+
+        <!-- CEO -->
+        <rect x="300" y="10" width="380" height="78" rx="2" fill="var(--brass-w)" stroke="var(--brass)" stroke-width="1.4"></rect>
+        <text class="nt" x="490" y="37">Chief Executive Officer</text>
+        <text class="ns" x="490" y="56">a written Authorization establishes both committees</text>
+        <text class="ns" x="490" y="74">approves the charters · may withdraw · takes no part in cases</text>
+
+        <!-- establishes -->
+        <path class="cn" d="M400,88 V126 H180 V178" marker-end="url(#a1)"></path>
+        <path class="cn" d="M580,88 V126 H700 V178" marker-end="url(#a1)"></path>
+        <rect class="chipbg" x="245" y="117" width="90" height="18"></rect>
+        <text class="lab" x="290" y="130">establishes</text>
+        <rect class="chipbg" x="595" y="117" width="90" height="18"></rect>
+        <text class="lab" x="640" y="130">establishes</text>
+
+        <!-- CQC -->
+        <rect x="40" y="182" width="280" height="118" rx="2" fill="var(--teal-w)" stroke="var(--teal)" stroke-width="1.4"></rect>
+        <text class="nt" x="180" y="210">Clinical Quality Committee</text>
+        <text class="ns" x="180" y="230">define · teach · measure</text>
+        <text class="ns" x="180" y="256">standards, education, the audit</text>
+        <text class="ns" x="180" y="274">no authority over any individual</text>
+
+        <!-- PRC -->
+        <rect x="560" y="182" width="280" height="118" rx="2" fill="var(--wine-w)" stroke="var(--wine)" stroke-width="1.4"></rect>
+        <text class="nt" x="700" y="210">Peer Review Committee</text>
+        <text class="ns" x="700" y="230">review the care, choose the response</text>
+        <text class="ns" x="700" y="256">6 voting members · Chair presides without a vote</text>
+        <text class="ns" x="700" y="274">final action after notice and a hearing</text>
+
+        <!-- between the two committees -->
+        <path class="cn" d="M320,230 H552" marker-end="url(#a1)"></path>
+        <rect class="chipbg" x="336" y="216" width="208" height="28" stroke="var(--line)" stroke-width="1"></rect>
+        <text class="lab" x="440" y="227">referral, only where a</text>
+        <text class="lab" x="440" y="238">written criterion is met</text>
+
+        <path class="cn" d="M560,282 H328" marker-end="url(#a1)"></path>
+        <rect class="chipbg" x="336" y="268" width="208" height="28" stroke="var(--line)" stroke-width="1"></rect>
+        <text class="lab" x="440" y="279">systems conditions and</text>
+        <text class="lab" x="440" y="290">de-identified patterns back</text>
+
+        <!-- PRC outputs -->
+        <path class="cn" d="M840,258 H900 V410 H846" marker-end="url(#a1)"></path>
+        <text class="lab" x="873" y="402">reports</text>
+        <rect class="nx" x="560" y="386" width="280" height="48" rx="2"></rect>
+        <text class="nt" x="700" y="409" font-size="13">NPDB · state licensing boards</text>
+        <text class="ns" x="700" y="425">a restriction beyond 30 days is reportable</text>
+
+        <path class="cnd" d="M840,232 H928 V476 H846" marker-end="url(#a2)"></path>
+        <text class="lab" x="887" y="468">notice only</text>
+        <rect class="nx" x="560" y="452" width="280" height="48" rx="2" stroke-dasharray="5 4"></rect>
+        <text class="nt" x="700" y="475" font-size="13">Management</text>
+        <text class="ns" x="700" y="491">hiring, pay, scheduling — untouched</text>
+
+        <path class="cnd" d="M840,206 H956 V547 H846" marker-end="url(#a2)"></path>
+        <text class="lab" x="901" y="539">aggregate only</text>
+        <rect class="nx" x="560" y="518" width="280" height="58" rx="2" stroke-dasharray="5 4"></rect>
+        <text class="nt" x="700" y="540" font-size="13">CMO and COO · quarterly meeting</text>
+        <text class="ns" x="700" y="556">both committees report through the Chair</text>
+        <text class="ns" x="700" y="570">the CEO receives the same report</text>
+
+        <!-- departments -->
+        <path class="cnd" d="M180,362 V306" marker-start="url(#a2)" marker-end="url(#a2)"></path>
+        <path class="cnd" d="M106,362 H254"></path>
+        <path class="cnd" d="M106,362 V382" marker-end="url(#a2)"></path>
+        <path class="cnd" d="M254,362 V382" marker-end="url(#a2)"></path>
+        <rect class="chipbg" x="76" y="321" width="208" height="30"></rect>
+        <text class="lab" x="180" y="333">priorities down · measures up</text>
+        <text class="lab" x="180" y="345">open material only</text>
+
+        <rect x="40" y="386" width="132" height="52" rx="2" fill="var(--slate-w)" stroke="var(--slate)" stroke-width="1.4" stroke-dasharray="5 4"></rect>
+        <text class="nt" x="106" y="410" font-size="12.5">Primary Care</text>
+        <text class="nt" x="106" y="426" font-size="12.5">Committee</text>
+        <rect x="188" y="386" width="132" height="52" rx="2" fill="var(--slate-w)" stroke="var(--slate)" stroke-width="1.4" stroke-dasharray="5 4"></rect>
+        <text class="nt" x="254" y="410" font-size="12.5">Psychiatry</text>
+        <text class="nt" x="254" y="426" font-size="12.5">Committee</text>
+
+        <text class="anno" x="356" y="398">The two departments are not</text>
+        <text class="anno" x="356" y="416">chartered as peer review bodies,</text>
+        <text class="anno" x="356" y="434">and never need to be — because</text>
+        <text class="anno" x="356" y="452">of where the boundary sits.</text>
+      </svg>
+    </div>
+    <div class="legend">
+      <span><i class="sw" style="background:var(--brass-w);border-color:var(--brass)"></i>CEO — authorizes, takes no part in cases</span>
+      <span><i class="sw" style="background:var(--teal-w);border-color:var(--teal)"></i>Quality</span>
+      <span><i class="sw" style="background:var(--wine-w);border-color:var(--wine)"></i>Peer review</span>
+      <span><i class="sw" style="background:var(--slate-w);border-color:var(--slate)"></i>Department — not chartered</span>
+      <span><i class="ln"></i>authority or decision</span>
+      <span><i class="ln d"></i>information only</span>
+    </div>
+  </figure>
+
+  <!-- ================= CQC ================= -->
+  <section class="body-panel" style="--accent:var(--teal);--accent-w:var(--teal-w)">
+    <div class="head">
+      <p class="kicker">Body one</p>
+      <h3>Clinical Quality Committee</h3>
+      <p class="job">Defines what good care looks like here, builds the education that teaches it, and measures whether it is being delivered.</p>
+    </div>
+
+    <div class="cols">
+      <div>
+        <p class="blocklabel">Who sits on it</p>
+        <div class="seatbox">
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip"></i></span><span class="name">Chair of Clinical Excellence — chairs it <em>ex officio</em>, untermed</span></div>
+          </div>
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip"></i><i class="chip"></i></span><span class="name">Chair of the Primary Care Committee<br>Chair of the Psychiatry Committee</span></div>
+            <p class="seatnote">Both sit as members by office.</p>
+          </div>
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i></span><span class="name">Members appointed by the Chair</span><span class="n">open</span></div>
+            <p class="seatnote">Physicians and APCs. <span class="prov" title="Bracketed drafting default">Two-year</span> staggered terms, renewable. No fixed number is set in the charter; four practising clinicians keeps the floor below met with margin. A licensed psychotherapist is consulted on any psychotherapy standard rather than seated, until the peer review addendum for that discipline exists.</p>
+          </div>
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip hollow" style="opacity:.35"></i><i class="chip hollow" style="opacity:.35"></i><i class="chip hollow" style="opacity:.35"></i></span><span class="name">At the table, not members</span></div>
+            <p class="seatnote">Analytics; learning &amp; development; <b>enterprise priorities</b> — the ACO and clinical operations view, which the committee must answer in its annual audit plan; and the Executive Coordinator, who is custodian of the records and does not vote.</p>
+          </div>
+
+          <div class="floors">
+            <div class="floor"><span class="tick"></span><span>At least <b><span class="prov" title="Bracketed drafting default">two-thirds</span></b> of members must be licensed clinicians in active practice — the statutory floor in Indiana and North Carolina is half, and the charter says it may never be amended below that.</span></div>
+            <div class="floor"><span class="tick"></span><span>At most <b><span class="prov" title="Bracketed drafting default">one</span></b> member may hold <b>employment authority</b>. That member takes full part in standards, education and systems work — and <b>withdraws</b> before any finding attributed to a named clinician is discussed.</span></div>
+            <div class="floor"><span class="tick"></span><span>A member <b>recuses</b> from anything concerning a clinician they supervise, a resident they treated, or anyone they have a close personal or financial tie to.</span></div>
+            <div class="floor"><span class="tick"></span><span>No finding is attributed to a named clinician with fewer than <b><span class="prov" title="Bracketed drafting default">three</span></b> eligible members present. Where fewer are in the room, it waits.</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <p class="blocklabel">What it does</p>
+        <ol class="tasks">
+          <li><b>Adopts the standards.</b> Each one is designated at adoption as either a <b>minimum expectation</b> — which an individual can be held to — or an <b>improvement target</b>, which can never support a referral. The vote is express; there is no default.</li>
+          <li><b>Sets the education agenda</b> that teaches each standard, and what conforming documentation looks like, before anything is measured.</li>
+          <li><b>Owns the audit.</b> Every audit question maps to a standard in effect. The instrument is validated against clinician review before it can produce anything about an individual.</li>
+          <li><b>Checks with the clinician first.</b> An observation is not a finding until the clinician has had the chance to show the resident wasn't theirs, wasn't in the population, or that the note exists where the search didn't look.</li>
+          <li><b>Closes most findings out.</b> A written close-out, an offer of support that is never recorded or counted either way, and one further look at that clinician's charts about <span class="prov" title="Bracketed drafting default">135</span> days later.</li>
+          <li><b>Reports each audit's results</b> to the CMO and COO for the whole organization and each RDCOE territory, one figure per measure with no clinician identifiable. The CMO and COO decide how the results are shared.</li>
+          <li><b>Routes systems conditions</b> to whoever can act on them — and reports at the quarterly meeting with the CMO and COO whether they were acted on.</li>
+          <li><b>Refers</b> an individual concern to Peer Review only where a criterion in the Audit Referral Policy is met. Quality adopts the Policy, and it takes effect only on Peer Review's concurrence. Quality's involvement then ends completely.</li>
+        </ol>
+
+        <div class="cannot">
+          <p class="blocklabel">What it cannot do</p>
+          <p>It is <b>not</b> a professional review body. It makes no finding about competence, does not decide whether care met the standard of care, and <b>imposes no consequence of any kind on any individual, at any point.</b></p>
+        </div>
+
+        <div class="callout">
+          <p><strong>Why the audit isn't a disciplinary instrument.</strong> Failing an internal standard does not establish substandard care. If a criterion would refer a large share of the clinicians it applies to, that is treated as a systems problem — the standard asks the wrong thing, the audit question doesn't measure it, or it was never properly taught — and it routes to revision or education, never to mass referral.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= PRC ================= -->
+  <section class="body-panel" style="--accent:var(--wine);--accent-w:var(--wine-w)">
+    <div class="head">
+      <p class="kicker">Body two</p>
+      <h3>Peer Review Committee</h3>
+      <p class="job">Reviews the care an identified clinician furnished, decides whether it met the standard, and chooses a response proportionate to what it finds.</p>
+    </div>
+
+    <div class="cols">
+      <div>
+        <p class="blocklabel">Who sits on it — 6 voting seats, and a non-voting Chair</p>
+        <div class="seatbox">
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip hollow" style="opacity:.35"></i></span><span class="name">Chair of Clinical Excellence — <em>ex officio</em>, untermed, <b>presides without a vote</b></span></div>
+            <p class="seatnote">Not counted for quorum or any voting threshold. After each decision the Chair confirms in writing that the process was followed, and signs. Where the Chair cannot confirm it, the matter goes back to the Committee to be cured and decided again, and the Chair cannot substitute a result.</p>
+          </div>
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip"></i><i class="chip"></i><i class="chip"></i><i class="chip"></i><i class="chip"></i><i class="chip"></i></span><span class="name">Members appointed by the Chair</span><span class="n"><span class="prov" title="Bracketed drafting default">6</span></span></div>
+            <p class="seatnote">All licensed clinicians in active practice. <span class="prov" title="Bracketed drafting default">Two-year</span> staggered terms. A vice-chair is elected annually from among them and presides whenever the Chair is recused or absent, standing in the Chair's place without a vote in that matter.</p>
+          </div>
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip hollow" style="opacity:.35"></i></span><span class="name">Department chair for the clinician's service line — <b>screens only, without a vote</b></span></div>
+            <p class="seatnote">Screens each referral with the Chair, acting for this committee and not a member of it. A member of the clinician's discipline screens instead where the department chair took part in the Quality Committee's decision on an audit referral. Nothing learned at screening goes back to the department, and every member comes to an opened review without having seen the referral.</p>
+          </div>
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip hollow" style="opacity:.35"></i><i class="chip hollow" style="opacity:.35"></i></span><span class="name">Reviewer Pool — optional, and may be empty</span></div>
+            <p class="seatnote"><b>Members review.</b> Each case is reviewed by <span class="prov" title="Bracketed drafting default">two</span> members, three where the Chair says why. The pool is reached only where discipline matching cannot be met from the membership, and an outside reviewer sits behind both. Pool membership is not a committee seat.</p>
+          </div>
+
+          <div class="floors">
+            <div class="floor"><span class="tick"></span><span>Standing membership includes at least <b><span class="prov" title="Bracketed drafting default">three</span> physicians</b>, <b><span class="prov" title="Bracketed drafting default">two</span> APCs</b>, and <b><span class="prov" title="Bracketed drafting default">one</span> clinician with psychiatric training</b>.</span></div>
+            <div class="floor"><span class="tick"></span><span><b>No one holding employment authority may serve</b> — not on the committee, not in the pool. Supervisors may refer a matter and be interviewed; they do not review, deliberate, or vote. The exclusion is categorical, with no exception for a supervisor who happens to be the best-qualified reviewer available.</span></div>
+            <div class="floor"><span class="tick"></span><span>A vote to propose or take a professional review action needs <b>a majority of all members not recused</b>, and is not taken with fewer than <b><span class="prov" title="Bracketed drafting default">four</span></b>. Where recusals go deeper, the Chair appoints a Pool member or a Pool-eligible clinician for that case alone, and the clinician may object.</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <p class="blocklabel">What it does</p>
+        <ol class="tasks">
+          <li><b>Screens every referral</b> within <span class="prov" title="Bracketed drafting default">ten</span> business days, the Chair with the department chair for the clinician's service line — deciding the route, never the merits. Matters arrive from the audit, from any clinician or employee, from management, facilities, patients and families, adverse events, or an external action.</li>
+          <li><b>Opens a review</b> and assigns two discipline-matched members to it. They investigate and <em>propose</em>; the committee decides.</li>
+          <li><b>Closes with no finding</b> where the care met standard, and notifies the clinician in writing that the review closed without an adverse finding.</li>
+          <li><b>Agrees an educational resolution</b> for a bounded knowledge gap: no finding, nothing reportable, and it may be refused with no consequence. What was learned is confirmed as done, never graded; the matter closes when the plan is completed, and the care that follows is looked at twice over the next two quarters.</li>
+          <li><b>Imposes Tier One directly</b> — written feedback, education, mentoring, or retrospective focused review. None of these restricts anyone's authority to practise and none is reportable. Each states its duration and its exit criteria in writing on the day it is imposed.</li>
+          <li><b>Proposes Tier Two</b> — mandatory consultation, proctoring, a scope restriction, non-renewal, or termination of clinical authorization. The clinician receives written notice, the material relied on, and the right to a hearing before any of these becomes final.</li>
+          <li><b>Holds the hearing within peer review.</b> A panel of at least <span class="prov" title="Bracketed drafting default">three</span> clinicians who are not members of the Committee, and took no part in the review, the audit, or the decision to propose, hears the matter and recommends. The Committee accepts the recommendation unless it is unsupported by the hearing record, the hearing had a material procedural defect, or it rests on an error about authority or the standard.</li>
+          <li><b>Takes final action.</b> Its signed decision is the company's action, and no officer, including the CEO, can review it. It determines reportability with counsel and causes reports to be filed with the NPDB and state licensing boards.</li>
+          <li><b>Restricts precautionarily</b> where there is imminent danger. The Chair and <span class="prov" title="Bracketed drafting default">two</span> members impose it, and it lapses at <span class="prov" title="Bracketed drafting default">five</span> business days unless members who did not join in imposing it ratify it.</li>
+          <li><b>Restricts for up to 14 days while it investigates</b>, for a concern short of imminent danger, on the same authority of the Chair and two members. The restriction ends on its own, is never extended or repeated on the same facts, and rests on no finding.</li>
+          <li><b>Routes what isn't its subject</b> — systems conditions to Quality, and any question of a clinician's health, impairment or fitness to <b>the practitioner health pathway the CEO designates</b>, which handles it under its own policies. Peer review keeps only the safety question: whether the clinician is still furnishing care while the matter is unresolved.</li>
+        </ol>
+
+        <div class="cannot">
+          <p class="blocklabel">What it cannot do</p>
+          <p>It cannot make a restriction final without notice and the opportunity for a hearing. It cannot make, recommend, or advise on <b>employment, compensation, contracting, scheduling, facility assignment or medical director designation.</b> It may not receive or consider a clinician's <b>productivity, revenue or cost</b>. Management receives notice of a final action, stating what it is, when it takes effect and how long it lasts, and <b>never the findings, the evidence, or the deliberations.</b></p>
+        </div>
+
+        <div class="callout">
+          <p><strong>Most of what this committee does is not reportable.</strong> Nothing in Tier One restricts anyone's authority to practise, and the agreed educational resolution closes with no finding when the plan is completed, with the care looked at twice over the next two quarters. Most people's experience of the committee is designed to be: this doesn't have to be a big deal, do this education, we'll follow up, and we're done. What is different from the conversation that happens today is that there is now a <em>but if you don't</em> at the end of it.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= departments ================= -->
+  <section class="body-panel" style="--accent:var(--slate);--accent-w:var(--slate-w)">
+    <div class="head">
+      <p class="kicker">The two departments</p>
+      <h3>Primary Care and Psychiatry</h3>
+      <p class="job">Each owns the priorities and measures for its own discipline. Neither is chartered, and neither takes any part in peer review — which is what lets them stay unchartered.</p>
+    </div>
+
+    <figure style="margin-top:30px">
+      <p class="blocklabel">The loop with Quality</p>
+      <div class="fig">
+        <svg viewBox="0 0 900 430" role="img" aria-label="Diagram: ACO measures and known quality gaps feed the Clinical Quality Committee, which sends a priority and a question down to the primary care and psychiatry committees; they send back the measure for their discipline. A boundary between them marks that nothing attributed to an individual crosses.">
+          <defs>
+            <marker id="b1" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+              <path d="M0,0 L8,4 L0,8 z" fill="var(--conn)"></path>
+            </marker>
+          </defs>
+          <style>
+            .n2{font-family:Spectral,Georgia,serif;font-weight:600;font-size:16px;fill:var(--ink);text-anchor:middle}
+            .s2{font-family:"Public Sans",sans-serif;font-size:11.5px;fill:var(--muted);text-anchor:middle}
+            .l2{font-family:"IBM Plex Mono",monospace;font-size:10px;fill:var(--muted);text-anchor:middle;letter-spacing:.03em}
+          </style>
+          <rect x="320" y="8" width="260" height="42" rx="2" fill="var(--surface)" stroke="var(--line2)" stroke-width="1.2" stroke-dasharray="5 4"></rect>
+          <text class="s2" x="450" y="27" font-size="12">ACO measures · known quality gaps</text>
+          <text class="s2" x="450" y="42" font-size="10.5">where the priorities come from</text>
+          <path class="cn" d="M450,50 V74" marker-end="url(#b1)"></path>
+
+          <rect x="280" y="78" width="340" height="94" rx="2" fill="var(--teal-w)" stroke="var(--teal)" stroke-width="1.4"></rect>
+          <text class="n2" x="450" y="109">Clinical Quality Committee</text>
+          <text class="s2" x="450" y="131">sets the priority and asks the question</text>
+          <text class="s2" x="450" y="151">then ratifies the answer, teaches it, audits it</text>
+
+          <path class="cn" d="M280,124 H230 V352 H274" marker-end="url(#b1)"></path>
+          <text class="l2" x="214" y="238" transform="rotate(90 214 238)">the priority + the ask</text>
+
+          <path class="cn" d="M620,352 H670 V124 H626" marker-end="url(#b1)"></path>
+          <text class="l2" x="686" y="238" transform="rotate(-90 686 238)">the measure it chooses</text>
+
+          <path d="M250,250 H650" fill="none" stroke="var(--stop)" stroke-width="1.4" stroke-dasharray="6 5"></path>
+          <rect x="306" y="238" width="288" height="24" fill="var(--surface)"></rect>
+          <text class="l2" x="450" y="255" fill="var(--stop)" font-size="9.5">nothing attributed to an individual crosses</text>
+
+          <rect x="280" y="318" width="340" height="94" rx="2" fill="var(--slate-w)" stroke="var(--slate)" stroke-width="1.4" stroke-dasharray="5 4"></rect>
+          <text class="n2" x="450" y="347" font-size="15">Primary Care Committee</text>
+          <text class="n2" x="450" y="369" font-size="15">Psychiatry Committee</text>
+          <text class="s2" x="450" y="392">each owns the measures for its own discipline</text>
+        </svg>
+      </div>
+      <figcaption>Traffic runs both ways. Quality hands down the priority and asks what the discipline would choose as its measure; the department works it out in its own meeting and brings it back; Quality discusses, ratifies, and then builds the education and designs the audit around it. What it replaces is everyone in one room hashing out anxiolytics one week and transitions of care the next.</figcaption>
+    </figure>
+
+    <div class="cols">
+      <div>
+        <p class="blocklabel">Who sits on them, and where they connect</p>
+        <div class="seatbox">
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip"></i></span><span class="name">A chair for each — who also sits on the Quality Committee</span></div>
+            <p class="seatnote">This is the join. The department chairs are the same people in both rooms, which is how a discipline's priorities travel without any record travelling with them. Each chair also screens peer review referrals for their service line, in the Peer Review Committee's name; nothing from screening comes back to the department.</p>
+          </div>
+          <div class="seatgroup">
+            <div class="seatrow"><span class="chips"><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i><i class="chip hollow"></i></span><span class="name">Practising clinicians of that discipline</span></div>
+            <p class="seatnote">The reason for a department layer with only two disciplines is participation: it brings the broader clinical community into the decisions instead of leaving them to a handful of senior roles.</p>
+          </div>
+          <div class="floors">
+            <div class="floor"><span class="tick"></span><span>They contribute to <b>standards development and the education agenda</b>, on material circulated to them for comment. That material is <b>open</b> — not privileged, and not treated as if it were.</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <p class="blocklabel">What they never receive</p>
+        <div class="boundary">
+          <div class="bh"><strong>The boundary</strong> <span>CQC § 7.1</span></div>
+          <ul style="grid-template-columns:minmax(0,1fr)">
+            <li><b>The Quality Committee's internal deliberative material</b> — the protected half of its record.</li>
+            <li><b>Any observation or finding attributed to a named clinician.</b> Not in aggregate with names attached, not informally, not at all.</li>
+            <li><b>Any part in a disposition</b> — the departments are not in the room when a finding is closed out or referred.</li>
+            <li><b>Any part in peer review</b>, in any form, at any stage. The chair's screening is done for the Peer Review Committee, and none of it reaches the department.</li>
+          </ul>
+        </div>
+        <div class="callout" style="--accent-w:var(--slate-w)">
+          <p><strong>Why the boundary has to be written down.</strong> Privilege breaks at the edge of an unchartered body. Because the departments touch only the open, circulated half of Quality's output, they need no charter of their own — but that boundary has to be written down, which is what § 7.1 does.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <h2>Still open</h2>
+  <p class="sub">One question is with counsel and will be answered before anything is adopted. The two items open earlier now have answers.</p>
+  <table class="open">
+    <tr><td>Privilege under the CEO's Authorization</td><td>Indiana's statute protects committees "organized by the governing body." Whether committees established by the CEO's written Authorization are protected committees there, and in each of the other four states, is with counsel. No case is reviewed before privilege has a written answer.</td></tr>
+    <tr><td>Audit Referral Policy</td><td>The criteria by which an audit finding is allowed to reach peer review. Drafted. Adopted and revised by Quality, in effect only on Peer Review's concurrence, and reviewed annually.</td></tr>
+    <tr><td>Indemnification</td><td>Committed in the CEO's Authorization, with insurance to cover it. Clinicians do not join peer review bodies without knowing the company stands behind them. Federal immunity is a presumption against damages, not protection from being sued.</td></tr>
+  </table>
+
+  <footer>
+    <p>Seats shown by role; no appointments or elections have been made. Figures marked with a <span class="prov">dotted underline</span> are drafting defaults in the charters, not settled numbers. Drawn from the Clinical Quality Committee and Peer Review Committee charter drafts (v0.1, composition revised 2026-09-18, revised for two committees 2026-09-28, screening and agreed resolution revised 2026-09-29) and the governance framework overview. <b>Not adopted; prepared for counsel review.</b></p>
+  </footer>
+
+</div>
+</body>
+</html>

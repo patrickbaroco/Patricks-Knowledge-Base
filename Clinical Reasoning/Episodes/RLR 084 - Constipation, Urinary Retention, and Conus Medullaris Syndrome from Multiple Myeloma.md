@@ -123,4 +123,4 @@ Structurally compressive cauda equina or conus medullaris syndrome is a surgical
 
 ## Related Notes
 
-[[Anatomical Approach]] · [[Treatment as a Diagnostic Test]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Schema-Based Reasoning]] · [[Neuroanatomical Localization]] · [[Cauda Equina and Conus Medullaris Syndrome]] · [[Multiple Myeloma]]
+[[Clinical Reasoning MOC]] · [[Anatomical Approach]] · [[Treatment as a Diagnostic Test]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Schema-Based Reasoning]] · [[Neuroanatomical Localization]] · [[Cauda Equina and Conus Medullaris Syndrome]] · [[Multiple Myeloma]]

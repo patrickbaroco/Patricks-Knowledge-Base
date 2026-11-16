@@ -120,4 +120,4 @@ The Japanese hosts add the epidemiologic and clinical-reasoning coda. Behçet's 
 
 ## Related Notes
 
-[[Behçet's Disease]] · [[Pathergy]] · [[Colitis]] · [[Inflammatory Bowel Disease]] · [[A20 Haploinsufficiency]] · [[Young Patient Schema]] · [[Fecal Calprotectin]] · [[Stool Lactoferrin]] · [[Illness Tempo]] · [[Center of Gravity]] · [[Schema-Based Reasoning]] · [[Base Rate]] · [[Diagnostic Momentum]] · [[Anchoring Bias]] · [[Cognitive Autopsy]] · [[Representativeness Heuristic]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]
+[[Clinical Reasoning MOC]] · [[Behçet's Disease]] · [[Pathergy]] · [[Colitis]] · [[Inflammatory Bowel Disease]] · [[A20 Haploinsufficiency]] · [[Young Patient Schema]] · [[Fecal Calprotectin]] · [[Stool Lactoferrin]] · [[Illness Tempo]] · [[Center of Gravity]] · [[Schema-Based Reasoning]] · [[Base Rate]] · [[Diagnostic Momentum]] · [[Anchoring Bias]] · [[Cognitive Autopsy]] · [[Representativeness Heuristic]] · [[RLR 060 - Transient Loss of Consciousness and Cardiac Sarcoidosis]] · [[RLR 032 - Fever and Chronic Myelomonocytic Leukemia]]

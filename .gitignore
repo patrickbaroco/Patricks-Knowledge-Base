@@ -1,1 +1,8 @@
 _to_delete/
+
+# Sensitive financial documents: keep local, never push to GitHub
+Finances/ein-and-tax-ids.md
+Finances/Tax Documents/
+Finances/Solo 401k/
+Finances/Apple Card CSV/*.csv
+Claude outputs/*Account Application.pdf

@@ -135,4 +135,4 @@ This episode threads together three reusable skills: a "phase of matter" framewo
 
 ## Related Notes
 
-[[Abdominal Distension - Phase of Matter Framework]] · [[Ureteral (and Biliary) Stricture - Luminal, Mural, Extraluminal Framework]] · [[Constipation as a Cause of Hydronephrosis]] · [[Diagnostic Threshold and Historian Reliability]] · [[Chronic Eosinophilia - Workup and When to Stop]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Abdominal Distension - Phase of Matter Framework]] · [[Ureteral (and Biliary) Stricture - Luminal, Mural, Extraluminal Framework]] · [[Constipation as a Cause of Hydronephrosis]] · [[Diagnostic Threshold and Historian Reliability]] · [[Chronic Eosinophilia - Workup and When to Stop]] · [[Diagnostic Humility]]

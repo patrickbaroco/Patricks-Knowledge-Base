@@ -3,6 +3,15 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "date_watched": "date"
+    "date_watched": "date",
+    "date_started": "date",
+    "date_finished": "date",
+    "date_added": "date",
+    "my_rating": "number",
+    "pages": "number",
+    "year": "number",
+    "series_number": "number",
+    "goodreads_rating": "number",
+    "genre": "multitext"
   }
 }

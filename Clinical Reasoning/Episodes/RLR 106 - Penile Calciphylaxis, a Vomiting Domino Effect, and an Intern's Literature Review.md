@@ -105,4 +105,4 @@ A third, more systems-level teaching point is the value of trainee-driven litera
 
 ## Related Notes
 
-[[Treatment as a Diagnostic Test]] · [[Diagnostic Humility]] · [[Anasarca]] · [[Illness Tempo]] · [[When to Worry]]
+[[Clinical Reasoning MOC]] · [[Treatment as a Diagnostic Test]] · [[Diagnostic Humility]] · [[Anasarca]] · [[Illness Tempo]] · [[When to Worry]]

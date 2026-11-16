@@ -106,4 +106,4 @@ Modern epidemiology of SVC syndrome has shifted from the classic teaching center
 
 ## Related Notes
 
-[[SVC Syndrome]] · [[Pemberton Sign]] · [[Four Compartments of Eye Complaints]] · [[Anasarca]] · [[NSRCA Framework]] · [[Anatomical Approach]] · [[Schema-Based Reasoning]] · [[Illness Script]] · [[Base Rate]] · [[Availability Heuristic]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[SVC Syndrome]] · [[Pemberton Sign]] · [[Four Compartments of Eye Complaints]] · [[Anasarca]] · [[NSRCA Framework]] · [[Anatomical Approach]] · [[Schema-Based Reasoning]] · [[Illness Script]] · [[Base Rate]] · [[Availability Heuristic]] · [[Diagnostic Humility]]

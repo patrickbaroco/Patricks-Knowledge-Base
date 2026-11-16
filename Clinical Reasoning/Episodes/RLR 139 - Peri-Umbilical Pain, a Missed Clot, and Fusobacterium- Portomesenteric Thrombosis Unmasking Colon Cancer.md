@@ -111,4 +111,4 @@ The episode's central teaching point is a two-stage "why is this here" disciplin
 
 ## Related Notes
 
-[[Approach to Abdominal Pain]] · [[Mesenteric and Portal Venous Thrombosis]] · [[Fusobacterium]] · [[Ultra-Hypercoagulable State - Combined Arterial and Venous Thrombosis]] · [[Base Rate]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Abdominal Pain]] · [[Mesenteric and Portal Venous Thrombosis]] · [[Fusobacterium]] · [[Ultra-Hypercoagulable State - Combined Arterial and Venous Thrombosis]] · [[Base Rate]] · [[Diagnostic Humility]]

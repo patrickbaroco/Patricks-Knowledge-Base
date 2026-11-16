@@ -114,4 +114,4 @@ A third teaching point is epidemiologic: Legionella risk tracks with exposure to
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Altered Mental Status]] · [[Illness Tempo]] · [[Localization × Time Course]] · [[Base Rate]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Altered Mental Status]] · [[Illness Tempo]] · [[Localization × Time Course]] · [[Base Rate]]

@@ -146,4 +146,4 @@ The second case centers on model of care: as allied health professionals' expert
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Ultra-Hypercoagulable State]] · [[Decision Validity Independent of Outcome]] · [[Approach to an Elevated Lipase Beyond Pancreatitis]] · ["Meta-skills of practice"]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Ultra-Hypercoagulable State]] · [[Decision Validity Independent of Outcome]] · [[Approach to an Elevated Lipase Beyond Pancreatitis]] · [[Meta-Skills of Practice]]

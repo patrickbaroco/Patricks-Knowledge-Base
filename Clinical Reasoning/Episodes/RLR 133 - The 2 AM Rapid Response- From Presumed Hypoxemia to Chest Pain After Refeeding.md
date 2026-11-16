@@ -133,4 +133,4 @@ This episode is fundamentally about the discipline of re-framing in real time: a
 
 ## Related Notes
 
-[[Rapid Response and Code Approach]] · [[Hypertension and Tachycardia Together - Catecholamine Framework]] · [[Acute Chest Pain in the Hospitalized Patient - Workup Sequencing]] · [[Cognitive Autopsy - Process vs Outcome]] · [[PE Testing Base Rates and Ordering Thresholds]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Rapid Response and Code Approach]] · [[Hypertension and Tachycardia Together - Catecholamine Framework]] · [[Acute Chest Pain in the Hospitalized Patient - Workup Sequencing]] · [[Cognitive Autopsy - Process vs Outcome]] · [[PE Testing Base Rates and Ordering Thresholds]] · [[Diagnostic Humility]]

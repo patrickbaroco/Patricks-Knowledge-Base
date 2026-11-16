@@ -352,3 +352,243 @@ The one place two-member panels cost something. § 6.3(a) requires two physician
 ## What this does not touch
 
 The hospital committee reviews physicians drawn from a medical staff organized by department. This Committee reviews physicians, nurse practitioners, physician assistants and psychiatric nurse practitioners across five states, and § 6.3 exists because of that. The hospital model transfers as a default about who reviews; it does not transfer as a reason to loosen matching.
+
+---
+
+# Revision of 2026-09-28: two committees, authorized by the Chief Executive Officer
+
+The Council is dropped. The Chief Executive Officer establishes the Clinical Quality Committee and this Committee by a written authorization and confers on this Committee the authority to decide, on the Entity's behalf, matters of an individual Practitioner's professional competence or conduct. There is no board in the structure. The three-body version is preserved at `_archive/prc-charter-draft-2026-09-22-three-body.md`.
+
+## What changed, by Article
+
+- **Article I.** § 1.1 establishment by the Authorization; new § 1.1.1 (authority, scoped to the individual Practitioner) and § 1.1.2 (withdrawal, prospective, no case-level role). § 1.3 adds health care entity status and hearing panels. § 1.6 now carries the definitions the Council Charter held, and new § 1.6.1 writes in the Autonomy Tiers, which the Council would have kept in a separate framework.
+- **Article II.** The Chair presides without a vote (§ 2.1) and certifies process and signs each decision (§ 2.1.1). The Vice-Chair stands in the same place when presiding (§ 2.6). Members appointed by the Chair (§ 2.2); Pool maintained by the Chair (§ 2.5). The Coordinator's protections are written in at §§ 2.7.1–2.7.5. § 2.8 adds the vote and the [four]-member floor for proposing and taking a Professional Review Action. § 2.10 adds convening periods; § 2.11 minutes, executive session, attendance and recording.
+- **Article III.** Powers now include proposing and taking actions, reportability, concurrence in the Audit Referral Policy, and the psychotherapist addendum. § 3.2(a) and (d) rewritten. New §§ 3.4–3.6: notice to Management, separate tracks and records, medical director designation.
+- **Articles IV–IX.** Council references conformed. The Practitioner Health pathway is designated by the Chief Executive Officer (§ 4.3(d)). Precautionary ratification by the members who did not join in imposing the restriction (§ 9.2.1). § 9.5 carries the continuation-through-hearing exception and the repeated expedited offer. § 9.7 rewritten for a Committee that now decides.
+- **Article X** replaced. It is now the hearing procedure and final action, carried from the draft Fair Hearing Procedure, with the exit-criteria rules for restrictions from Council § 8.6 at § 10.8.
+- **Article XI.** New § 11.5, concurrence in the Audit Referral Policy.
+- **Articles XII–XVI.** Recusal trigger for a person performing a restriction; records segregation expanded to the governance record and hearing-panel records; Article XV now carries reporting to the Data Bank and upward reporting (§§ 15.4–15.12); amendment with the Chief Executive Officer's approval; transition at § 16.4.
+
+## Decided with Patrick, 2026-09-28
+
+The Audit Referral Policy takes effect on this Committee's concurrence. CQC members may sit on hearing panels where they took no part in the audit; members of this Committee may not. The Autonomy Tiers live in this Charter. The seat counts of 2026-09-18 are kept.
+
+## Open
+
+Recorded as items 34–42 in the Charter's Open items, with new questions for counsel: the Authorization and state privilege (Indiana first); the Chair's certification role; CQC members on panels; the hearing procedure questions; the waiver of the thirty-day minimums. Two design gaps were closed the same day: where recusals go below the floor, the Chair appoints a Pool member or a clinician eligible for the Pool, whom the Practitioner may object to (§ 2.8); and a precautionary restriction continues through the Practitioner's period to request a hearing where notice of a restricting Proposed Action issued before day forty-five (§ 9.5).
+
+---
+
+# Revision of 2026-09-29: screening, APCs, and the agreed resolution
+
+Decided with Patrick while reading *How a Review Unfolds*. Recorded as items 44–46 in the Charter's Open items.
+
+## What changed
+
+- **Screening (§§ 2.5.1, 4.4, 4.4.1–4.4.3, 4.5.1, 5.7.1, 12.1).** The Chair screens with the Department Chair for the Practitioner's service line, in place of two members. Department Chairs act for the Committee at screening, do not vote, are persons assisting under 42 U.S.C. § 11111(a)(1), sign the § 13.5 undertaking, and are subject to Article XII. Nothing learned at screening goes to the department. A member of the Practitioner's discipline substitutes where the Department Chair took part in the CQC's determination on an audit referral, or is recused, holds Employment Authority, or is unavailable. The Chair may add the other Department Chair where care crosses service lines. A member of the discipline who took no other part decides where the two screeners disagree. The agreed resolution is still proposed by those who screened.
+- **APCs (§§ 1.6(a), (i)–(k), 1.7, 2.4, 6.3, 7.1, 7.3, 10.3).** Nurse practitioners and physician assistants are defined together as Advanced Practice Clinicians and stated to be peers. Panels: physician, two physicians; APC, two APCs; APC practicing in psychiatry, two panelists with psychiatric training, one of them an APC practicing in psychiatry. Service line and Department Chair defined.
+- **Agreed resolution (§§ 5.7.3, 5.7.5, 5.7.6, 5.7.8).** The matter still closes when the plan is completed. It is then followed by two examinations of the Practitioner's care in the plan's clinical area, one for each of the two full quarters after completion, against the standard of care, disclosed in the notice before the Practitioner decides. A departure found on an examination is a new matter under § 4.1, and § 5.7.7(e) bars resolving it by agreement. What was learned is still not assessed. New § 5.7.6; former §§ 5.7.6–5.7.7 renumbered 5.7.7–5.7.8. Keeping the review open through both quarters was drafted first and rejected the same day: it would have lengthened the period in which a resignation is a resignation during review (§§ 9.6, 15.9) and blurred the agreed resolution into focused review without a finding. Counsel question added on whether the examinations are an investigation for Data Bank purposes.
+
+## Why
+
+Screening by the Department Chair keeps every member clear of a matter until a review opens and puts discipline knowledge at the first decision. The substitution for audit referrals keeps one person from deciding at the PRC's door what they decided at the CQC. APCs are treated as peers because their clinical responsibilities are identical and nurse practitioners far outnumber physician assistants. The examinations exist because a gap serious enough to reach peer review leaves the Entity obliged to be able to say the care now meets the standard; completion of a plan shows only that the plan was done. They follow a closed matter so that no review stays open against someone about whom no finding was made.
+
+Pre-revision copies: `_archive/prc-charter-draft-2026-09-29-before-screening.md`, `_archive/cqc-charter-draft-2026-09-29-before-screening.md`.
+
+
+# Revision of 2026-10-04: § 11.3 conformed to the CQC review report
+
+The CQC's first review of a Practitioner is now a review report (CQC § 5.4.1), and the correction step runs at the second occasion, reaching the earlier report's observations (CQC § 5.4.2(a)). § 11.3 now lists the review report or close-out that opened the follow-up, and the disposition of the report's observations, in the chain a repetition referral carries; no CQC clinical comment (CQC § 5.5(e)) is transmitted or requested. Pre-revision copy: `_archive/prc-charter-draft-2026-10-04-before-two-step.md`.
+
+Also 2026-10-04: § 4.5.1 now names the CQC review report as well as the close-out as the route of notice for a matter returned to the CQC pathway; § 11.3 strips the support offer, commendations and comments from the transmitted report, and its citation for screening the repetition chain is corrected from § 4.7 (which excludes CQC referrals under § 4.1(a)) to § 4.4.
+
+Also 2026-10-04 (second pass): § 4.4 now states that a CQC referral resting on repetition after notice is screened for the record § 11.3 requires and returned to the CQC if it arrives without it, so that the citations of § 4.4 in CQC § 6.3, § 11.3 and Policy § 3.3 point to a provision that says so.
+
+
+# Revision of 2026-10-15: § 14.2 reduced to the rule
+
+§ 14.2 now reads: "An administrative matter becomes a matter for the Committee where it recurs on a defined pattern under the applicable policy, or where a nexus to patient welfare is identified. Documentation delinquency that leaves a facility without information it needs to care for a resident has a nexus to patient welfare." Removed: the explanation of why the nexus is shorter in post-acute and assisted living, which is reasoning and belongs in the member guide, where it already is; "and is within this section," which the nexus limb already says; and the implementation-checklist sentence with its statement that the section does not depend on the conforming policy revisions. That statement was added in the external review (item 27) after "the applicable policies shall say so" was removed. With that clause gone, the nexus limb operates on its own text, so the statement was redundant. No rule changed. The conforming revisions to the late-note policy, owned by operations and in part HR, remain an implementation item. Recorded as Open item 48.
+
+
+# Revision of 2026-10-15 (second): § 14.2, the pattern limb
+
+"Recurs on a defined pattern under the applicable policy" becomes "persists after Management has acted on it under the applicable policy and Management refers it to the Committee." Decided by Patrick after working through a hypothetical NP with 40 open notes: the Committee should not take up open notes or the open-notes policy. The old limb tied intake to a count set by operations; and because the open-notes policy acts automatically through a 50% pay reduction, persistence alone would have admitted every clinician docked once and still delinquent. A delinquency with no nexus to patient welfare now reaches the Committee only when Management judges its own tools exhausted. The nexus limb is unchanged and is reached from any source. The open-notes policy no longer needs to set a referral threshold for this Committee; what remains on the implementation checklist is that a removal of more than [seven] days on performance-related grounds is referred under § 4.3(a), and that Management's action rests on administrative grounds. Companions conformed: PRC member guide (Article XIV section), `supervisors-what-changes.md`. Recorded as Open item 49. Pre-revision copy: `_archive/prc-charter-draft-2026-10-15-before-14-2-referral.md`.
+
+
+# Revision of 2026-10-15 (third): § 4.3(a), repeated short removals
+
+The mandatory-referral item for removal from duties now reads: "any matter in which a Practitioner has been removed from duties on performance-related grounds, including removal to complete overdue documentation, for more than [seven] days in total, or on [three] or more occasions, within any period of [ninety] days." Previously only a single removal of more than [seven] days triggered referral, so repeated shorter removals escaped it. Raised by Patrick in reviewing Steve Colvin's draft incomplete-notes escalation procedure, which allows benching at its Tier 3. A carve-out for removal solely to complete documentation was drafted and rejected: pulling a clinician from the field is costly to operations and done reluctantly, so three removals in three months shows that Management's strongest measure has failed repeatedly, which is a clinical concern in itself. Referral under this item is mandatory and § 4.3(b) requires the review to open; screening retains only the wrong-Practitioner exit under § 4.3(c) and the Practitioner Health route under § 4.3(d). "Removed" means imposed by Management; requested catch-up time does not count. The operations procedure may refer earlier (its draft refers at two occurrences in a quarter). Recorded as Open item 50. Counsel question added. Pre-revision copy: `_archive/prc-charter-draft-2026-10-15-before-cumulative-removal.md`.
+
+---
+
+# Revision of 2026-10-26: the agreed resolution, recommended at screening and proposed on the Panel's concurrence
+
+Raised by Patrick while settling the Chair's vote at the CQC. Recorded as item 51 in the Charter's open items.
+
+- **§ 5.7.1.** Those who screened the matter may recommend an agreed resolution on opening, with the plan. The Review Panel reads the record and decides within [ten] business days of opening whether it concurs. Both panelists must concur, in the gap and in the plan, which they may amend. Without concurrence the review proceeds before the same Panel. The Panel may propose an agreed resolution later on its own reading.
+- **§ 5.7.3.** The notice runs from the Panel's concurrence. It still replaces the § 5.1 notice where the screeners recommended.
+- **§ 5.1.** Where the screeners recommended and the Panel does not concur, notice runs from the Panel's decision.
+- **§ 4.4(d).** Opening a review may carry the recommendation.
+
+**Why.** Screening determines the route and not the merits. An agreed resolution rests on a preliminary view that the matter is a bounded gap and not a concern about the Practitioner's care generally, and the screeners alone formed it from the referral; the Committee only recorded the result, so a matter could close on the Chair's view, which § 2.1 exists to prevent. The Panel is discipline-matched under § 6.3 and the screeners need not be. Unanimity is required because a two-member Panel cannot produce a majority and an agreed resolution closes the matter without findings. The same Panel proceeds on non-concurrence because it has read the charts and only proposes; a declined proposal also proceeds before it, since its concurrence was a view in the Practitioner's favour and § 5.7.2 already makes a refusal count for nothing.
+
+**Alternatives considered.** Leaving the proposal with the screeners; moving it to the Panel alone, which lost the Department Chair's knowledge of the service line at the first look.
+
+**Companions not conformed.** PRC member guide, How a Review Unfolds, the one-page review flow (`review-flow.html`), and the Rucci and Jen copies.
+
+Pre-revision copy: `_archive/prc-charter-draft-2026-10-26-before-ar-concurrence.md`.
+
+---
+
+# Revision of 2026-10-26 (second): § 4.4.1(a) narrowed
+
+Recorded as item 52 in the Charter's open items.
+
+- **§ 4.4.1(a).** A member of the discipline substitutes where the Department Chair took part in the CQC's Article VI determination to make the referral. The § 4.7 limb and the reach to any CQC determination concerning the Practitioner, § 5.5 dispositions included, are dropped.
+- **Why.** CQC § 2.2 now has each Department Chair withdraw from Article VI determinations in their own service line, so that the Department Chair screens audit referrals and recommends any agreed resolution on them. The substitution remains for a Department Chair who took part anyway, chiefly one added under § 4.4.2 for care crossing service lines. Section 5.5 dispositions are left alone for Department Chairs as for the Chair.
+- **Companions not conformed.** PRC member guide, How a Review Unfolds, the review flow, and the Rucci and Jen copies.
+
+Pre-revision copy: `_archive/prc-charter-draft-2026-10-26-before-dept-chair-withdrawal.md`.
+
+---
+
+# Revision of 2026-11-10: notice to counsel
+
+Recorded as item 53 in the Charter's open items.
+
+- **§ 15.11.1 (new).** Where counsel refers a matter or asks whether one requires counsel's attention, those who screened it answer within the screening period, in one of two fixed statements. The Committee also tells counsel unasked wherever a matter presents one of four bracketed circumstances: death or serious harm with a question of a Practitioner's care; a departure capable of having caused or contributed to harm; an attorney's letter, an express threat of a claim, or a complaint to a board or regulator; a possible duty to disclose an error. The answer is of the fact and not the substance. More is given only on counsel's written request stating a purpose, recorded in the case register. Counsel's own assessment of the care is made by a reviewer outside the matter and kept in counsel's file. Counsel's part in reportability, hearings and advice on process is unaffected.
+- **§ 4.5.** Points to § 15.11.1 for what counsel is told.
+- **§ 12.1.** New recusal trigger: reviewed the care at issue at the request of counsel.
+
+**Why.** Raised by Patrick on 2026-11-10 after general counsel asked him for a quality-of-care review of a family complaint, with no clinical body to send the clinical questions to. His direction: answer counsel's liability question, and keep the clinical question with a clinical body. Counsel's needs come early and concern the Entity's position; the Committee's question concerns the care. A finding written for a liability reader would be softened, and a record shaped for litigation weakens the privilege the Committee relies on. The fact-and-not-substance form follows § 15.11.
+
+**Alternatives considered.** Giving counsel the Committee's findings, which § 13.6 would already permit as communication with counsel; leaving counsel to wait for the review to conclude. Both rejected for the reasons above.
+
+**Left alone.** § 15.11, whose litigation item concerns litigation arising from the Committee's own activity. § 13.6. Billing and coding, which stay with compliance.
+
+**Companions not conformed.** PRC member guide, How a Review Unfolds, the review flow, and the Rucci and Jen copies.
+
+Counsel questions added to `counsel-questions.md`. Pre-revision copy: `_archive/prc-charter-draft-2026-11-10-before-counsel-notice.md`.
+
+---
+
+# Revision of 2026-11-10 (second): the safety question at screening, and the answer to Management
+
+Recorded as item 54 in the Charter's open items.
+
+- **§ 4.4.4 (new).** Before any disposition, the screeners ask whether the matter presents a risk to patients requiring action before it concludes, and record that it was put and the answer. The answer is not a finding. Where it is yes, the matter opens under § 4.4(d) and the Chair considers § 9.1 or § 9.8 at once.
+- **§ 4.5.2 (new).** Management, where it referred under § 4.1(c) or asks about a matter it knows of, receives one of two statements: no action affecting the Practitioner's practice is required; or the Practitioner's Clinical Authorization has been restricted under Article IX, with terms and end date. Given at the close of screening and again only if it changes. The first statement is defined: patients do not need protecting while the matter runs, and it says nothing about whether the care met the standard.
+- **§ 4.5.** Cross-reference now names § 4.5.2 and § 15.11.1.
+
+**Why.** Raised by Patrick on 2026-11-10. The clinician's supervisor had followed up on the family complaint behind the counsel review, and her underlying question, whether to worry about this clinician, is one a supervisor answering for a region's patients and facilities may properly ask. It is answerable without clinical substance, and answering it keeps the clinical pathway intact. The safety question mirrors CQC § 5.5(b)(1).
+
+**Alternatives considered.** Leaving § 4.5 as it was, so that Management learns nothing until a final action under § 3.4; giving Management the screening disposition. The first leaves a supervisor with a legitimate question and no answer; the second discloses the route of a clinical matter to the employment line.
+
+**Flagged, then fixed the same day.** Article IX gave Management no notice of an interim restriction where Management did not refer. See the third revision of 2026-11-10 below.
+
+**Companions not conformed.** PRC member guide, How a Review Unfolds, the review flow, and the Rucci and Jen copies.
+
+Pre-revision copy: `_archive/prc-charter-draft-2026-11-10-before-safety-answer.md`.
+
+---
+
+# Revision of 2026-11-10 (third): notice to Management of an interim restriction
+
+Recorded as item 55 in the Charter's open items.
+
+- **§ 9.9 (new).** On the day a restriction under § 9.1 or § 9.8 is imposed, the Chair gives written notice to the persons in Management responsible for the Practitioner's assignments, with the restriction's terms, when it took effect, when it lapses or ends, and that it rests on no finding and is not a final action. Further notice on ratification, modification, lapse, termination, end, or succession. No finding, evidence or deliberation.
+- **§ 4.5.2.** The second statement now refers to the § 9.9 notice in place of restating its contents.
+
+**Why.** Patrick's direction, 2026-11-10, closing the gap flagged under item 54. Article IX notified the Practitioner and the members; § 3.4 notified Management of final action only. Management schedules and assigns the Practitioner, so an interim restriction it did not know of could be breached on the next assignment.
+
+**Drafting choices.** Notice goes to the persons responsible for the Practitioner's assignments, a function, rather than to Management as defined in § 1.6(f), which would reach the whole executive team. The section follows § 10.8(f): the restriction operates on Clinical Authorization, and scheduling consistent with it stays with Management without direction from the Committee. The Chair gives the notice because § 2.7.1 forbids the Coordinator to disclose Committee matters within the Coordinator's management line.
+
+**Companions not conformed.** PRC member guide, How a Review Unfolds, the review flow, and the Rucci and Jen copies. Counsel question (c) under § 4.5.2 revised to ask about the notice.
+
+Pre-revision copy: `_archive/prc-charter-draft-2026-11-10-before-art-ix-notice.md`.
+
+---
+
+# Revision of 2026-11-10 (fourth): the sample
+
+Recorded as item 56 in the Charter's open items.
+
+- **§ 6.8 (new).** Every opened review includes [five] other recent patients in the clinical area of the referred matter, identified by the Coordinator, not by the Panel. Selection is deliberately general: Patrick rejected a rule naming the most recent patients before the care at issue, which would mean reconstructing timestamps for no benefit. Omitted only for a single decision that does not depend on ordinary practice, with the reason recorded. A proposed new finding on sampled care is shown to the Practitioner first, with [ten] business days to respond; a sample used only to establish whether the matter is confined or recurs carries no further period, and the proposal states what it showed. Findings follow the scope; an unrelated departure is a new matter. The Panel examines the sample before concurring in an agreed resolution.
+- **§ 5.1.** The opening notice states that the sample is ordinarily part of every review.
+- **§ 5.7.3(a).** The agreed-resolution notice states what the sample showed.
+
+**Why.** Patrick asked on 2026-11-10 whether a true peer review would look only at the referred case, and on hearing that a bounded sample was usual, ruled out a second notice when scope widens: two notices are high-stress for a clinician, and the wider scope implies nothing. A sample taken in every review and stated at the outset carries no signal and needs no notice of its own.
+
+**Alternatives considered.** A discretionary sample with notice when taken (rejected for the second notice and the signal); a discretionary sample without notice (rejected because § 8.2.1 holds that a Practitioner is entitled to know what care is examined).
+
+**The one later contact that remains.** Where the Panel proposes a new finding on care in the sample, the Practitioner is shown those charts and may respond within [ten] business days, a period additional to § 5.2's. Patrick narrowed this the same day: no further period where the sample only establishes whether the referred matter is confined or recurs, since that adds nothing for the Practitioner to answer. The proposal then states what the sample showed.
+
+**Companions not conformed.** PRC member guide, How a Review Unfolds, the review flow, and the Rucci and Jen copies.
+
+Pre-revision copy: `_archive/prc-charter-draft-2026-11-10-before-sample.md`.
+
+---
+
+# Revision of 2026-11-10 (fifth): teaching points
+
+Recorded as item 57 in the Charter's open items.
+
+- **§ 8.5.2 (new).** With every disposition, every § 4.5.1 notice and every agreed resolution, the Practitioner receives every teaching point the review identified, however minor, drawn from the referred care or the § 6.8 sample. Stated separately from any finding and labelled; a finding, where made, comes first. Requires nothing; not a Quality Intervention; not counted; does not by itself establish notice in a later matter; given to the Practitioner alone.
+
+**Why.** Patrick, 2026-11-10: the prime mission is to improve quality, every opportunity to do so is to be taken, and every clinician is assumed to want that. He would give all teaching points, minor ones included, and be clear which, if any, is a finding. The Charter had no disposition or notice that carried observations short of a finding, where the CQC has clinical comments.
+
+**Drafting choices.** The provision attaches to every outcome rather than to § 8.5 alone, so a finding and teaching points can travel together. The no-notice sentence is phrased as what a teaching point does not by itself establish, per the drafting convention for evidentiary limits. Counsel questions added on organizational knowledge and on whether the no-notice sentence travels.
+
+**Companions not conformed.** PRC member guide, How a Review Unfolds, the review flow, and the Rucci and Jen copies.
+
+Pre-revision copy: `_archive/prc-charter-draft-2026-11-10-before-teaching-points.md`.
+
+---
+
+# Revision of 2026-11-16: external review of the current draft
+
+Recorded as items 58 to 64 in the Charter's open items. An external review of the 2026-11-10 draft raised some thirty points, and a reply to Claude's assessment of it refined several. Each point applied was checked against the Charter text first.
+
+**Applied.**
+- **§ 13.4.1 (new), §§ 3.3, 10.2.** Disclosure limits yield to access the law gives the Practitioner; Indiana's § 34-30-15-4 access stated.
+- **§§ 1.1.2, 1.7, 13.6, 15.11.** Categorical statements of law restated as conditional. § 13.6 retitled and given a closing sentence on what authorization does not by itself establish.
+- **§ 15.2.** Information-provider protection confined to information about a physician.
+- **§§ 5.7.1, 5.7.3(c), 5.7.6.** No promise of non-reportability or of investigation status; the notice tells the Practitioner the § 15.9 question exists.
+- **§ 4.5.2.** First statement restated in terms of whether an interim restriction is warranted.
+- **§ 9.5.** A requested hearing's time is not attributed to the Practitioner.
+- **§ 9.7.** The health referral carries the restriction's end date.
+- **§§ 10.2.1, 10.4, 10.10.** Expedited schedule made internally consistent; "the floor" sentence replaced.
+- **§ 12.1.** Reaches the Chair; referral and witness triggers added; CQC referrals expressly outside it. A broad assessment-before-referral trigger was drafted and struck by Patrick the same day, and replaced by a narrow one: an opinion on the care from which the referral arose.
+- **Open items.** Item 64 records that this section leaves the Charter at adoption and is preserved here.
+
+**Not applied.**
+- **State-specific sittings and a sponsor for each entity.** Eventus is one entity with one board. Additional structure follows only where counsel identifies a specific unmet condition, which the review's reply accepted.
+- **A separate Clinical Authorization Policy.** § 1.6(b) and § 16.4 carry the concept; whether a new hire's day-one authorization needs stating is an open drafting question.
+- **The remaining section-level points** (quorum math, Coordinator communications, mentoring limits, fixed-date restriction exits, cumulative counting under § 9.8(f), event-specific reporting triggers) were not taken up in this round and remain available from the review.
+
+**Referred to counsel** in `counsel-questions.md`: Indiana access, North Carolina membership and Chapter 90B, the § 5.7.6 tradeoff, Chair recusal, APC informants, psychotherapists and psychotherapy notes, the health-only restriction, Kentucky and LTC ACO, and the employment consequences of a restriction.
+
+**Companions not conformed.** PRC member guide (§§ 5.7, 10.2.1 and 9.5 passages and the glossary), How a Review Unfolds, the review flow, the seat map, and the Rucci and Jen copies.
+
+Pre-revision copies: `_archive/prc-charter-draft-2026-11-16-before-external-review.md`, `_archive/prc-charter-revisions-2026-11-16-before-external-review.md`, `_archive/counsel-questions-2026-11-16-before-external-review.md`.
+
+---
+
+# Revision of 2026-11-16 (second): third review pass
+
+Recorded as item 65 in the Charter's open items. A third external pass read the revised draft and found leftovers from the first: cross-references and statements of law not yet brought into line. Each was confirmed against the text.
+
+- **§ 2.3** points to § 15.2 for the protection of persons providing information; **§ 15.2** says "this federal protection" and leaves other protection to the statutes and other law.
+- **§§ 10.7(f), 10.10** run the reporting period from the reportable event under Article XV. **§ 15.9** reaches surrender, accepted restriction, withdrawal and nonrenewal, including during the § 5.7.6 examinations; physician reporting is mandatory, APC reporting is decided with counsel under a consistent rule.
+- **§§ 15.3, 15.4** state the statutory consequences: the § 11112(a) standards decide immunity, the Charter's process is mandatory as policy, and § 11111(b) is the consequence of failing to report.
+- **§ 13.4.1** is not confined to an open review; mixed records are redacted only as the law permits, and a mention of another clinician does not by itself justify redaction (Patrick's qualification).
+- **§ 9.5** no longer says the statutory periods necessarily exceed forty-five days.
+- **§ 12.1** CQC sentence made conditional on the person's actual withdrawal from the referral determination.
+- **§ 2.9(a)** permits procedural contact between the Coordinator and the Practitioner and bars the merits.
+- **§ 1.3** states what the Committee is established to serve as; qualification is left to law and activity.
+- **§ 16.3** effective date conditioned on counsel's written confirmation of formation, privilege bases and limits, and safeguards (Patrick: confirmation, not an assurance that every record will be privileged), on Data Bank registration, and on the designation of the health pathway under § 4.3(d). The condition names the designation only. Patrick: the pathway is written, and the Charter should not need amending each time the HR policy behind it changes.
+- **§ 6.5** bars Article IX for psychotherapists until the addendum is in effect, with imminent danger referred to Management and counsel.
+
+**Not changed: § 6.8.** The review proposed a response period before recurrence in the sample raises an intervention. Patrick declined and the reviewer withdrew it: Article X gives the sample evidence and a hearing before any restriction, and Tier One restricts nothing. The existing response period where the sample supports a new adverse finding stands.
+
+Pre-revision copies: `_archive/prc-charter-draft-2026-11-16-before-third-review.md`, `_archive/prc-charter-revisions-2026-11-16-before-third-review.md`.

@@ -123,4 +123,4 @@ This case functions as an extended tutorial on what an elevated creatinine can a
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Base Rate Neglect]] · [[Luminal, Mural, and Extraluminal Framework]] · [[AKI versus CKD- Distinguishing Features]] · [[Bladder Hernia and High-Pressure Urinary Retention]] · [[Approach to Elevated Creatinine Without a True GFR Drop]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Base-Rate Neglect]] · [[Luminal, Mural, and Extraluminal Framework]] · [[AKI versus CKD- Distinguishing Features]] · [[Bladder Hernia and High-Pressure Urinary Retention]] · [[Approach to Elevated Creatinine Without a True GFR Drop]]

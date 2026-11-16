@@ -122,4 +122,4 @@ The final, most practically applicable teaching point is the nocturnal-pressure-
 
 ## Related Notes
 
-[[AV Block]] · [[Shock]] · [[Diagnostic Humility]] · [[Relative Bradycardia]]
+[[Clinical Reasoning MOC]] · [[AV Block]] · [[Shock]] · [[Diagnostic Humility]] · [[Relative Bradycardia]]

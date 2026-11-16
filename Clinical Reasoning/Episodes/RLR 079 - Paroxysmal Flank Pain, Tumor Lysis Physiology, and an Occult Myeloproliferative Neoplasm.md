@@ -118,4 +118,4 @@ The four core myeloproliferative neoplasms can be organized against the CBC itse
 
 ## Related Notes
 
-[[Approach to Flank Pain]] · [[Five Ps of Intrinsic Renal Disease]] · [[Tumor Lysis Syndrome]] · [[Myeloproliferative Neoplasms]] · [[Spurious Hyperkalemia]] · [[Base Rate]] · [[Anatomical Approach]] · [[Susac Syndrome]]
+[[Clinical Reasoning MOC]] · [[Approach to Flank Pain]] · [[Five Ps of Intrinsic Renal Disease]] · [[Tumor Lysis Syndrome]] · [[Myeloproliferative Neoplasms]] · [[Spurious Hyperkalemia]] · [[Base Rate]] · [[Anatomical Approach]] · [[Susac Syndrome]]

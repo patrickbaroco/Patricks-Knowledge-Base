@@ -29,7 +29,7 @@ A 32-year-old woman presents with five days of new left facial numbness superimp
 
 ## Case Narrative
 
-The case was presented by A, a physician in Myanmar, and discussed by Andrea and Sridhara, with [[Aaron Berkowitz]] guiding the discussion.
+The case was presented by A, a physician in Myanmar, and discussed by Andrea and Sridhara, with Aaron Berkowitz guiding the discussion.
 
 Given the chief concern — a 32-year-old woman with five days of left facial numbness — Andrea's first instinct was to note the subacute-feeling tempo (not sudden, not chronic) and to start gathering more history about triggers, favoring an infectious or inflammatory precipitant like Bell's palsy over a vascular cause given the several-day evolution. She also raised trigeminal neuralgia/migraine-associated facial paresthesias, multiple sclerosis, peripheral neuropathy, and non-neurologic mimics (dental abscess, sinus disease). Sridhara added an explicit **thinking-fast-versus-thinking-slow** framing: the fast pattern-match to a young woman with days of facial numbness is a demyelinating process, but slowing down reintroduces stroke, something local, or a Bell's palsy with a secondary sensory misperception from impaired proprioception.
 

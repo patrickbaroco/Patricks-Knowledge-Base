@@ -151,7 +151,7 @@ The episode's closing personal note — the death of the RLR 156 patient — ser
 - [ ] Build [[Approach to an Elevated Lipase Beyond Pancreatitis]]
 - [ ] Build [[Rectal/Bowel Wall Thickening on CT - Stercoral versus Malignant]]
 - [ ] Build [[Ureteral Stone Size and Spontaneous Passage Probability]]
-- [ ] Update [["Meta-skills of practice"]] — the "may I invite you to help me care for this patient" consult-framing technique, credited with surfacing the case's key insight (159)
+- [ ] Update [[Meta-Skills of Practice]] — the "may I invite you to help me care for this patient" consult-framing technique, credited with surfacing the case's key insight (159)
 - [ ] Update [[Diagnostic Certainty Thresholds and When to Act]] (149) — the "abrupt delta over time" urgency principle generalized from RLR 149's trending-white-count logic to gait decline (159)
 
 ## Handbook Opportunities
@@ -163,4 +163,4 @@ The episode's closing personal note — the death of the RLR 156 patient — ser
 
 ## Related Notes
 
-[[Approach to Dizziness - Intrinsic versus Extrinsic and the Value of Provocative Testing]] · [[Posterior Circulation Stroke - CT Blind Spot and MRI Indications]] · [[Approach to an Elevated Lipase Beyond Pancreatitis]] · [[Rectal/Bowel Wall Thickening on CT - Stercoral versus Malignant]] · [[Diagnostic Certainty Thresholds and When to Act]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Dizziness - Intrinsic versus Extrinsic and the Value of Provocative Testing]] · [[Posterior Circulation Stroke - CT Blind Spot and MRI Indications]] · [[Approach to an Elevated Lipase Beyond Pancreatitis]] · [[Rectal/Bowel Wall Thickening on CT - Stercoral versus Malignant]] · [[Diagnostic Certainty Thresholds and When to Act]] · [[Diagnostic Humility]]

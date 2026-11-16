@@ -120,4 +120,4 @@ A third teaching point is communication-focused: modeling how to respond to a pa
 
 ## Related Notes
 
-[[Complement Levels]] · [[Systemic Lupus Erythematosus]] · [[Rapidly Progressive Glomerulonephritis]] · [[Diagnostic Humility]] · [[ANCA Serology Interpretation]]
+[[Clinical Reasoning MOC]] · [[Complement Levels]] · [[Systemic Lupus Erythematosus]] · [[Rapidly Progressive Glomerulonephritis]] · [[Diagnostic Humility]] · [[ANCA Serology Interpretation]]

@@ -120,4 +120,4 @@ This episode is structured as a live demonstration of visual, stepwise clinical 
 
 ## Related Notes
 
-[[Petechiae, Purpura, and Ecchymosis - Approach]] · [[Vasculitis Mimickers]] · [[Cannonball Pulmonary Metastases - Differential]] · [[Vessel-Centric Framework - Wall, Lumen, or Infiltration]] · [[Angiosarcoma - Cutaneous and Metastatic Presentation]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Petechiae, Purpura, and Ecchymosis - Approach]] · [[Vasculitis Mimickers]] · [[Cannonball Pulmonary Metastases - Differential]] · [[Vessel-Centric Framework - Wall, Lumen, or Infiltration]] · [[Angiosarcoma - Cutaneous and Metastatic Presentation]] · [[Diagnostic Humility]]

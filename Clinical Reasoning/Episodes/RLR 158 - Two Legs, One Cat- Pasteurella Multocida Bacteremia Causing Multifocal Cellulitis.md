@@ -130,4 +130,4 @@ The closing personal anecdote reinforces a broader, recurring show theme: a spec
 
 ## Related Notes
 
-[[Approach to Unilateral Lower Extremity Erythema and Edema - Cellulitis versus DVT]] · [[Pasteurella Multocida and Cat-Associated Skin and Soft Tissue Infections]] · [[Multifocal Hematogenous Cellulitis - A Recognized but Rare Pattern]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Unilateral Lower Extremity Erythema and Edema - Cellulitis versus DVT]] · [[Pasteurella Multocida and Cat-Associated Skin and Soft Tissue Infections]] · [[Multifocal Hematogenous Cellulitis - A Recognized but Rare Pattern]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Diagnostic Humility]]

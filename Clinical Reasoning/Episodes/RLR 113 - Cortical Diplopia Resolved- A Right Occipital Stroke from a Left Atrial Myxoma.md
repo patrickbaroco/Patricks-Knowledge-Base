@@ -117,4 +117,4 @@ The unifying teaching point is the deliberate juxtaposition of a rare and diagno
 
 ## Related Notes
 
-[[Neuroanatomical Localization]] · [[Localization × Time Course]] · [[Unifying Diagnosis]] · [[Diagnostic Humility]] · [[Illness Tempo]]
+[[Clinical Reasoning MOC]] · [[Neuroanatomical Localization]] · [[Localization × Time Course]] · [[Unifying Diagnosis]] · [[Diagnostic Humility]] · [[Illness Tempo]]

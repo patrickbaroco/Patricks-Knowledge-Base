@@ -142,4 +142,4 @@ Berkowitz closes by reflecting that this was a case of testing whether one lesio
 
 ## Related Notes
 
-[[MOG Antibody Disease]] · [[ADEM]] · [[Neuromyelitis Optica Spectrum Disorder]] · [[Longitudinally Extensive Transverse Myelitis]] · [[Parsonage-Turner Syndrome]] · [[Abulia]] · [[Cerebellar vs Corticospinal Localization]] · [[Ring-Enhancing Brain Lesions]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Unifying Diagnosis]]
+[[Clinical Reasoning MOC]] · [[MOG Antibody Disease]] · [[ADEM]] · [[Neuromyelitis Optica Spectrum Disorder]] · [[Longitudinally Extensive Transverse Myelitis]] · [[Parsonage-Turner Syndrome]] · [[Abulia]] · [[Cerebellar vs Corticospinal Localization]] · [[Ring-Enhancing Brain Lesions]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Unifying Diagnosis]]

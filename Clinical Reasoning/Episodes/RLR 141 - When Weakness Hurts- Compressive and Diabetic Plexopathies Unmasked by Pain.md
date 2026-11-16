@@ -130,4 +130,4 @@ The unifying teaching point across both cases is that severe pain combined with 
 
 ## Related Notes
 
-[[Approach to Weakness]] · [[Brachial Plexopathy]] · [[Diabetic Neuropathy]] · [[Approach to Radiculopathy]] · [[Base Rate]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Weakness]] · [[Brachial Plexopathy]] · [[Diabetic Neuropathy]] · [[Approach to Radiculopathy]] · [[Base Rate]] · [[Diagnostic Humility]]

@@ -14,6 +14,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+      - property: rotten_tomatoes
+        direction: ASC
       - property: runtime_minutes
         direction: ASC
     columnSize:

@@ -113,4 +113,4 @@ The closing and arguably most important teaching point is philosophical: the emp
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Test Interpretation]] · [[Illness Tempo]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Illness Tempo]]

@@ -118,4 +118,4 @@ Acute promyelocytic leukemia is the leukemia most classically associated with DI
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Base Rate]] · [[Cognitive Autopsy]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[Tumor Lysis Syndrome]] · [[Thrombocytopenia]] · [[Anemia and Thrombocytopenia]] · [[Hemolysis]] · [[RLR 079 - Paroxysmal Flank Pain, Tumor Lysis Physiology, and an Occult Myeloproliferative Neoplasm]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Base Rate]] · [[Cognitive Autopsy]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[Tumor Lysis Syndrome]] · [[Thrombocytopenia]] · [[Anemia and Thrombocytopenia]] · [[Hemolysis]] · [[RLR 079 - Paroxysmal Flank Pain, Tumor Lysis Physiology, and an Occult Myeloproliferative Neoplasm]]

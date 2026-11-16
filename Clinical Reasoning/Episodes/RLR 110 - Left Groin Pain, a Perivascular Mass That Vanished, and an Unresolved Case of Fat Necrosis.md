@@ -115,4 +115,4 @@ A third teaching point is procedural: the episode models comfort with an explici
 
 ## Related Notes
 
-[[Diagnostic Momentum]] · [[Anchoring Bias]] · [[Base Rate]] · [[Illness Tempo]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Momentum]] · [[Anchoring Bias]] · [[Base Rate]] · [[Illness Tempo]] · [[Diagnostic Humility]]

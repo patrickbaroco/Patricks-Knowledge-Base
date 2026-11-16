@@ -139,4 +139,4 @@ The episode is structured as two interlocking teaching threads. The first is a r
 
 ## Related Notes
 
-[[Anion Gap Metabolic Acidosis - Four Bucket Framework]] · [[Osmolar Gap and Toxic Alcohol Workup]] · [[Delta-Delta Gap Calculation]] · [[Type A vs Type B Lactic Acidosis]] · [[Small Bowel Obstruction - Adhesions and Hernias]] · [[Reasoning About Multiple Simultaneous Diagnoses]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Anion Gap Metabolic Acidosis - Four Bucket Framework]] · [[Osmolar Gap and Toxic Alcohol Workup]] · [[Delta-Delta Gap Calculation]] · [[Type A vs Type B Lactic Acidosis]] · [[Small Bowel Obstruction - Adhesions and Hernias]] · [[Reasoning About Multiple Simultaneous Diagnoses]] · [[Diagnostic Humility]]

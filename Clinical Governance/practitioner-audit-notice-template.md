@@ -1,55 +1,137 @@
-# Practitioner Notice — Audit Observations
+# Clinician Letters — Review Report, Follow-up Notice, and Follow-up Result
 
-*Template issued under § 5.5(a)(5) of the CQC Charter, with the close-out and support elements from § 5.5(c). Operating document, not charter text. Draft — not adopted.*
+*Templates for the letters issued under §§ 5.4.1, 5.5(a)(5), 5.5(c) and 5.11 of the CQC Charter. Operating documents, not charter text. Draft, not adopted. Revised 2026-10-04 for the review report; the earlier single notice is in `_archive/practitioner-audit-notice-template-2026-10-04-before-two-step.md`.*
 
----
-
-*Plain-language notice issued under § 5.5(a)(5). The register entry and the enclosure carry the detail; this page carries the framing. Written to be read once, in five minutes, by someone who is annoyed.*
+*Four letters. Almost every clinician will only ever receive the first. The second is the formal notice: it goes to a clinician whose follow-up look finds the same gap on a standard that can lead to a referral on repetition, and, with the first letter, where a standard can refer on a single occasion or a clinician's figures would meet the pattern rule (§ 5.4.2(b), (c)). The third closes a follow-up that was clear. The fourth reports the outcome of a formal notice. Each is signed by a clinician.*
 
 ---
 
-**QUALITY AUDIT — OBSERVATIONS FOR YOUR REVIEW**
+## 1. Review report (§ 5.4.1)
 
-**Standard:** [name and section] · **Audit cycle:** [ ] · **Record examined:** [date] · **Response due:** [date, 10 business days]
+*Issued to every clinician whose charts were read in the cycle, whether or not anything was found. Bracketed sections drop out when empty. The version for a clinician whose charts all met the standard is the first section, the "What we read" table, any commendation, any clinical comment, the offer of help, and for APCs the sharing statement.*
 
-**What this is.** Our routine audit of [standard] examined [n] of your charts and flagged [m] where the record does not appear to meet it. This is not a complaint and it is not peer review. **No finding has been made about your care, and nothing here counts for anything until it has been checked with you.** That check is what this notice is for. Charts get attributed to the wrong clinician, diagnoses get miscoded, and notes sit in places an automated search does not reach — you are the person best positioned to catch that.
+**CLINICAL QUALITY FEEDBACK: [STANDARD]**
 
-**What was flagged.** See the enclosed list. For each chart it gives the resident, the date of service, what the standard requires, what the audit found, and whether the gap appears to be in **the decision** or in **the documentation of it**.
+[Facility or facilities] · Charts read: [n] · Care dates: [from–to]
 
-**What we are asking you to do.** Look at the list and tell us where the audit is wrong. Please respond by [date].
+[Name],
 
-**These will correct a flag** — in roughly the order they turn out to matter:
+This quarter's quality review looked at [standard, in plain words: e.g. antipsychotic prescribing for residents with dementia]. Every clinician whose residents were included receives this same report. We read [n] of your charts.
 
-1. **It wasn't your patient.** You were covering, the resident wasn't on your panel then, or another clinician was managing that condition.
-2. **The resident doesn't have the condition.** Wrong code, an old echo, a diagnosis that later testing ruled out, or a diagnosis established by data the standard doesn't accept.
-3. **It didn't happen.** You did order it, you did do the assessment, you did make the call — and there's a record showing it.
-4. **You wrote it and our tool missed it.** Your own note is there, but under a different encounter, in a scanned document, in a section our tool doesn't read, or in an addendum you made before this notice. **Tell us where to look.** This one holds no matter how the standard is worded — and it's the most common correction on standards that ask you to account for each element, because *"held per cardiology"* is easy to write and easy for a search to miss.
-5. **The timing is wrong.** The care predates the date this standard started counting, or predates the point where the standard asked for the entry.
-6. **Someone else documented what the standard accepts** — where this standard doesn't ask you to account for the element in your own note. The enclosure says whether it does.
+**What the standard asks.** [One or two sentences, element by element. E.g.: For a resident with dementia on an antipsychotic, the note names the behavior being treated and whether it is one that warrants the drug, what has been tried besides the medication, and where the resident stands on dose reduction: the date of the last attempt and how the target behavior responded, or why one is not due.] The review guide is attached, with examples of notes that meet it.
 
-**These will not correct a flag.** We would rather tell you now than have you spend a day on it:
+**What we read.**
 
-- **A reason that appears only in someone else's note.** If cardiology stopped it, or ID advised against it, or palliative documented the goals of care, and your note says nothing about that element — the gap stands. The enclosure tells you which standards work this way.
+| Resident | Date of service | Met the standard | What was missing | Decision or documentation |
+|---|---|---|---|---|
+| [ ] | [ ] | Yes | | |
+| [ ] | [ ] | Not yet | [element] | [documentation] |
 
-  **To be clear about how small this ask is: you do not have to justify their decision, or repeat their reasoning, or take it on as yours.** *"SGLT2i discontinued by cardiology, recurrent mycotic infections"* meets the standard. So does *"anticoagulation on hold per cardiology, pending EGD 9/12."* What we need is that your note shows you knew where the element stood. A note that is silent on it reads the same whether you considered it or never saw it, and for a resident on six therapies managed by four clinicians, that difference is the whole point.
+[**Something done well.** Your note on [resident, date] [what it showed]. With your permission we would like to use a version with the resident's details removed in teaching; your name is left off unless you tell us otherwise.]
 
-  One caution on the pending version: it holds for this cycle, not forever. If the same element is still pending next cycle with the follow-up long past and nothing new written, that's a new flag.
-- **Telling us your reasoning now.** If you considered it and decided against it and didn't write it down, the gap stands. **Tell us anyway** — we write it down, it stays with the record, and if this ever goes further it goes with it.
-- **Amending the chart now.** It won't change this cycle's flag. **But if care was given and the chart doesn't show it, amend it** — you owe that to the resident and the facility regardless of any audit. Use a proper dated addendum, never an edit to an existing entry, and tell us you did it. It counts from the next cycle on.
-- **Arguing that the care was right.** We're not the committee that asks that question, and we won't be deciding it.
+[**A clinical note from a colleague.** *[Comment text, signed by its author, e.g.: Quetiapine was restored to the prior dose after two evenings of calling out following the reduction. Calling out that settles with redirection may not need the full dose back; a partial restoration, or a second attempt after treating evening pain, could be worth considering. I'd be glad to talk it through. — [Name, credentials]]* This is one clinician's view, offered as advice. It is not a finding and counts toward nothing.]
 
-**What happens after.** Every flag ends up in one of three places: **withdrawn** (the audit was wrong, or you showed us where to look); **a systems issue** (this is about the order set, the workflow, or how we wrote the standard — it comes off your record entirely and goes to fixing the thing); or **a confirmed gap**.
+[**A formal notice is enclosed** — include only where § 5.4.2(b) or (c) applies: For [the items marked], this standard is one where [a single gap can be referred / your figures, as reported, would meet the pattern rule in the Audit Referral Policy]. Those items are checked with you formally, under the enclosed notice, which sets ten business days for a response. The rest of this report is as described below.]
 
-**A confirmed documentation gap, on its own, is not a referral to anybody.** It sits in the audit record. What we do next is fix the standard, the tooling, or the teaching around it, and audit again.
+**If we got something wrong, tell us.** Charts get attributed to the wrong clinician, diagnoses get miscoded, and notes sit in places a search does not reach: a scanned document, an addendum, a section the search does not read. If any of the charts above is wrong for one of these reasons, reply and say which and where to look. **There is no deadline.** If you correct every item before a follow-up look, the look does not happen. Anything you correct comes off this report.
 
-**You will hear back either way**, with what happened to each item and where to find the standard and examples of what meets it.
+What will correct an item: it wasn't your resident or your decision; the resident doesn't have the condition; it was done and there is a record of it; your own note covers it and we missed it; or the care predates the date this standard started counting. [Where the standard asks your own note to account for each element: a reason that appears only in another clinician's note does not correct an item, though one line in your note saying where the element stands does.] Explaining your reasoning now, or adding to the chart now, won't change this report. If the chart is missing something you did, add a dated addendum anyway; you owe that to the resident, and it counts from the next review on.
 
-**Help, if you want it.** Everyone who gets one of these letters gets the same offer: if it would be useful, we can set up a conversation with a clinician who works in this area, a short teaching session, or a case discussion. **Ask and we'll arrange it.** We don't record who takes this up, it isn't counted anywhere, and it plays no part in anything that follows — so there's no downside to asking and no mark against you for not.
+**Help, if you want it.** Everyone who receives this report gets the same offer: [a half-hour conversation with a clinician who works in this area about any of these residents, a short teaching session, or a case discussion]. Reply to ask. We do not record who asks, and it plays no part in anything that follows. You can also ask for help with any part of your practice, documentation included, at any time, with or without a review. [**For APCs:** You may share this report with your supervising physician, or ask them for help without sharing it. The attached one-page request names only the topic and includes the review guide.]
 
-**To be clear about what this offer does and doesn't change.** You're under no obligation to take it up. **You are still held to the standard, the items above still stand, and your own professional obligation to close a gap once you know about it is your own** — we're offering help with it, not excusing it.
+[**Next** — include only where a follow-up look will run (§ 5.11.4):] We will read a small sample of your charts on this standard covering care from [date] to [date]. Nothing before [date] is included; that time is yours to use the offer above and make any change. If the sample is clear, that ends it and we will tell you so. If the same gap appears, you will receive a notice with ten business days to show us where the review is wrong, including anything in this report, and a repeated gap after that can be referred to the Peer Review Committee.
 
-**We'll look at this again, and here's exactly when.** **Nothing you do for the next [six weeks] is part of it.** That time is yours — to take up the offer above if you want it, and to get the change in place. After that we'll look at a sample of your charts on this same standard covering the following **[three months]**, whatever the audit happens to be focused on by then.
+[**No follow-up** — use where the cycle was a systems condition under § 5.9:] Many clinicians' charts did not yet meet this standard, which tells us the teaching or the tools need work before anyone's individual charts are looked at again. No follow-up of your charts will come from this report.
 
-If it's clear, that's the end of it and you go back into the general pool — **we don't keep looking.** If it isn't, we'll tell you that too. We're telling you now because you should know it's coming, and because otherwise the offer above would be hollow.
+[Name, credentials], for the Clinical Quality Committee
+Questions: [Coordinator, contact]
 
-**Questions:** [coordinator, contact]. You are welcome to call before you respond.
+---
+
+### Attachment for APCs: request for help
+
+> I'd like help with [clinical area, e.g. antipsychotic prescribing in dementia]. The review guide for the standard is attached. Could we look at a few of my residents together?
+>
+> [APC name]
+
+*Nothing from the report is on this page. The APC decides whether to send it; the Committee never learns whether they did.*
+
+---
+
+## 2. Formal notice (§§ 5.4.2, 5.5(a)(5))
+
+*The formal check. Written below for the follow-up case (§ 5.4.2(a)), where it lists the new items and the items from the earlier report together. For a single-occasion or pattern case (§ 5.4.2(b), (c)) it is enclosed with the review report: drop the first paragraph and the references to an earlier report.*
+
+**CLINICAL QUALITY: FORMAL NOTICE ON [STANDARD] — RESPONSE INVITED BY [DATE, ten business days]**
+
+[Name],
+
+In [month] we sent you a report on [standard] and said we would look at a sample of your charts covering care from [date] to [date]. We have done that, and [m] of the [n] charts we read do not yet appear to meet the standard. Before anything is decided, we are checking every item with you, including the items from the earlier report.
+
+**Nothing has been decided about your care.** This notice asks one question: did the review correctly identify where the chart falls short of the standard? It does not ask whether the care was appropriate, and the Committee does not decide that.
+
+**The items.** The enclosure lists each chart from both reviews: resident, date of service, what the standard asks, what we found, and whether the gap appears to be in the decision or in its documentation.
+
+**What corrects an item**, in the order these usually come up:
+
+1. It wasn't your resident or your decision.
+2. The resident doesn't have the condition.
+3. It was done, and there is a record of it.
+4. Your own note covers it and the review missed it. Tell us where to look.
+5. The timing is wrong: the care predates the date the standard started counting.
+6. [Where the standard allows it:] another clinician's note documents what the standard accepts.
+
+**What does not:** a reason that appears only in another clinician's note, where the standard asks your own note to account for the element; reasoning you can give now but did not write down (tell us anyway: it is recorded and travels with the file); an addendum made after the report or notice in which the item was first listed; and an argument that the care was right, which is not this Committee's question.
+
+**What happens next.** Each item is withdrawn, recorded as a systems issue, or confirmed. If no item from the earlier report is confirmed, the new items are treated as a first report of their own and nothing is referred on repetition. [Single-occasion or pattern case, and any standard carrying a single-occasion designation: confirmed items can be referred under that rule.] If items from both reviews are confirmed, the Audit Referral Policy, which is open to everyone, decides whether the matter goes to the Peer Review Committee. You will hear the outcome of every item either way.
+
+The offer of help in the earlier report still stands.
+
+[Name, credentials], for the Clinical Quality Committee
+Questions: [Coordinator, contact]. You are welcome to call before you respond.
+
+---
+
+## 3. Follow-up result: clear (§ 5.11.3(a))
+
+**CLINICAL QUALITY FOLLOW-UP: [STANDARD]**
+
+[Name],
+
+We read [n] of your charts on [standard] covering care from [date] to [date], as the report of [month] said we would. They meet the standard. That ends the follow-up, and nothing further comes from the earlier report.
+
+[Variant, look did not run (§ 5.11.2): Every item in the report of [month] has been corrected, so the follow-up look it described will not take place. Nothing further comes from that report.]
+
+[Variant, nothing to examine (§ 5.11.5): None of your residents in [date] to [date] fell within this standard, so there was nothing to read. The follow-up is closed, and nothing further comes from the report of [month].]
+
+[Your note on [resident, date] is an example of what the standard is for: [what it showed].]
+
+[Name, credentials], for the Clinical Quality Committee
+
+---
+
+## 4. Outcome of a formal notice (close-out, § 5.5(c))
+
+**CLINICAL QUALITY: OUTCOME OF THE REVIEW OF [STANDARD]**
+
+[Name],
+
+Thank you for your response of [date]. [Or: We did not receive a response, and have reviewed the items on the record.] Here is what became of each item.
+
+| Resident | Date of service | Outcome | Ground, if corrected |
+|---|---|---|---|
+| [ ] | [ ] | Withdrawn | [e.g. not your resident] |
+| [ ] | [ ] | Systems issue | [e.g. order set has no field for the indication] |
+| [ ] | [ ] | Confirmed | |
+
+[If every item was withdrawn:] Every item has been withdrawn, and nothing further follows.
+
+[If any item was confirmed and no referral criterion was met:] The confirmed items stay in the Committee's protected record. They are not sent to anyone with authority over your employment. [Where a follow-up look follows: we will read a small sample of your charts on this standard covering care from [date] to [date]. Nothing before [date] is included.]
+
+[If a referral criterion was met:] Under the Audit Referral Policy, the confirmed items have been referred to the Peer Review Committee. That committee screens every referral on its own record, and this Committee takes no further part.
+
+The standard and its review guide are at [location].
+
+**Help, if you want it.** [The same offer as in letter 1.] Reply to ask. We do not record who asks, and it plays no part in anything that follows. You can also ask for help with any part of your practice, documentation included, at any time, with or without a review. [**For APCs:** the sharing statement and attached request page, as in letter 1.]
+
+[Name, credentials], for the Clinical Quality Committee

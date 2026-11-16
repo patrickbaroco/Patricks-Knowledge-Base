@@ -114,4 +114,4 @@ The knee-arthritis subplot, while smaller, reinforces the show's recurring "two-
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Decision Validity Independent of Outcome]] · ["Meta-skills of practice"] · [[Illness Scripts and Updating Them]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Decision Validity Independent of Outcome]] · [[Meta-Skills of Practice]] · [[Illness Scripts and Updating Them]]

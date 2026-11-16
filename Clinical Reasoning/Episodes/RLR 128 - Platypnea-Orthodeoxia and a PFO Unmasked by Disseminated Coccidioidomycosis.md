@@ -120,4 +120,4 @@ This episode is a study in how a single new physical exam or monitoring finding 
 
 ## Related Notes
 
-[[Platypnea-Orthodeoxia and Shunt Physiology]] · [[Culture-Negative Endocarditis - Approach]] · [[Concurrent Neutrophilia and Eosinophilia - Differential]] · [[Disseminated Coccidioidomycosis - Pulmonary and Hematologic Manifestations]] · [[PFO and Paradoxical Embolism]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Platypnea-Orthodeoxia and Shunt Physiology]] · [[Culture-Negative Endocarditis - Approach]] · [[Concurrent Neutrophilia and Eosinophilia - Differential]] · [[Disseminated Coccidioidomycosis - Pulmonary and Hematologic Manifestations]] · [[PFO and Paradoxical Embolism]] · [[Diagnostic Humility]]

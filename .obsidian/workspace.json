@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a168d438012cf553",
+        "id": "4041441b2078f37b",
         "type": "tabs",
         "children": [
           {
-            "id": "d8a710aa6e3fbbd1",
+            "id": "fafd1eab0b67643b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tremor.md",
-                "mode": "source",
+                "file": "Today.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tremor"
+              "title": "Today"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tremor",
+                "query": "tag:fishing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,16 +163,27 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "37571d08ae07bd2d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -186,51 +196,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d8a710aa6e3fbbd1",
+  "active": "fafd1eab0b67643b",
   "lastOpenFiles": [
-    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Peer Review Council.md",
-    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Clinical Quality Council.md",
-    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Clinical Excellence Portfolio.md",
-    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Clinical Excellence Cadence Map.md",
-    "Projects/_Parked/clinical-excellence-drafts-2026-08-14/Chair of Clinical Excellence.md",
-    "Projects/_Parked/clinical-excellence-drafts-2026-08-14",
-    "Projects/_Parked",
-    "Logbook/Weekly/2026-W33.md",
-    "Logbook/Daily/2026-08-20-Th.md",
-    "Logbook/Daily/2026-08-19-We.md",
-    "Logbook/Daily/2026-08-18-Tu.md",
-    "Logbook/Daily/2026-08-17-Mo.md",
-    "Logbook/Daily/2026-08-16-Su.md",
-    "Logbook/Daily/2026-08-15-Sa.md",
-    "Logbook/Daily/2026-08-14-Fr.md",
-    "Logbook/Daily/2026-08-13-Th.md",
-    "Logbook/Daily/2026-08-12-We.md",
-    "Logbook/Daily/2026-08-10-Mo.md",
-    "Peer Review/medical-peer-review-primer.md",
-    "Peer Review",
-    "_to_delete/clinical-excellence-drafts-2026-08-14/Peer Review Council.md",
-    "_to_delete/clinical-excellence-drafts-2026-08-14/Clinical Quality Council.md",
-    "_to_delete/clinical-excellence-drafts-2026-08-14/Clinical Excellence Portfolio.md",
-    "_to_delete/clinical-excellence-drafts-2026-08-14/Clinical Excellence Cadence Map.md",
-    "_to_delete/clinical-excellence-drafts-2026-08-14/Chair of Clinical Excellence.md",
-    "_to_delete/clinical-excellence-drafts-2026-08-14",
-    "Movies/Mad Max Fury Road.md",
-    "Movies/Edge of Tomorrow.md",
-    "Movies/The Truman Show.md",
-    "Movies/Eternal Sunshine of the Spotless Mind.md",
-    "Curbsiders Episodes",
-    "Projects/Week Ahead/Archive/2026",
-    "Projects/Week Ahead/Archive",
-    "Logbook/Daily/Archive/2026-07",
-    "Logbook/Daily/Archive/2026-06",
-    "Logbook/Daily/Archive",
-    "Meadow Map.png",
-    "Meadow Project Map.png",
-    "Pasted image 20260714183410.png",
-    "Pasted image 20260714183353.png",
-    "Pasted image 20260714183308.png",
-    "Pasted image 20260714183244.png",
-    "Pasted image 20260714183211.png",
-    "Pasted image 20260714183423.png"
+    "Clinical Governance/_archive/prc-charter-revisions-2026-11-16-before-third-review.md",
+    "Clinical Governance/_archive/prc-charter-draft-2026-11-16-before-third-review.md",
+    "Clinical Governance/_archive/counsel-questions-2026-11-16-before-external-review.md",
+    "Clinical Governance/_archive/prc-charter-revisions-2026-11-16-before-external-review.md",
+    "Clinical Governance/_archive/prc-charter-draft-2026-11-16-before-external-review.md",
+    "Finances/Weekly/2026-W47.md",
+    "Movies/_Movies.base",
+    "Projects/Week Ahead/2026-11-16.md",
+    "Projects/Week Ahead/Archive/2026/2026-11-09.md",
+    "Logbook/Daily/2026-11-15-Su.md",
+    "Movies/Greyhound.md",
+    "Movies/Master and Commander.md",
+    "Movies/No Country for Old Men.md",
+    "Movies/Moneyball.md",
+    "Movies/Apollo 13.md",
+    "Movies/O Brother Where Art Thou.md",
+    "Movies/True Grit (2010).md",
+    "Movies/Fargo.md",
+    "Movies/All Quiet on the Western Front (2022).md",
+    "Movies/Hell or High Water.md",
+    "Movies/Heat.md",
+    "Movies/Senna.md",
+    "Movies/Touching the Void.md",
+    "Movies/Thirteen Lives.md",
+    "Movies/Contact.md",
+    "Movies/Ex Machina.md",
+    "Movies/Blade Runner 2049.md",
+    "Drafts/Feeling Well.md.sb-3051f312-RgRJoa",
+    "Drafts",
+    "Projects/LTC Reform RFI/SFC Long-Term Care RFI 2026-10-16.pdf",
+    "Projects/LTC Reform RFI",
+    "Quotes/_Quotes.base",
+    "Books/_Books.base",
+    "Books",
+    "Projects/sedqIdF79",
+    "Finances/Apple Card CSV/apple-card-2026-01-to-09-01.csv",
+    "Clinical Governance/Clinical Governance 4 - Review Flow.png",
+    "Attachments/Evernote/2012-08-08 James River Float Plan (2).jpg",
+    "Attachments/Evernote/2022-06-22 Aspiration-Induced Lung Injury.png",
+    "Attachments/Evernote/2022-05-21 Grill Station Idea.png",
+    "Attachments/Evernote/2022-02-10 Abdominal Distention.png",
+    "Attachments/Evernote/2022-02-01 Facility Pharmacy List.png",
+    "Attachments/Evernote/2022-01-18 Commonplace.png",
+    "Attachments/Evernote/2019-02-11 Creekside Lodging card (2).jpg",
+    "Attachments/Evernote/2019-02-11 Creekside Lodging card (1).jpg",
+    "Attachments/Evernote/2012-08-09 James River Float Route.jpg"
   ]
 }

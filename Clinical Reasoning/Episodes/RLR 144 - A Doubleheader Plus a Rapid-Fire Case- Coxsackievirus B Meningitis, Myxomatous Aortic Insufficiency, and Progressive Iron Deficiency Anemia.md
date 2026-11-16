@@ -152,5 +152,5 @@ A theme running quietly under all three cases — flagged explicitly by Reza in 
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Base Rate Neglect]] · [[Anchoring Bias]] · [[Outcome Bias]] · [[Substance or Stem Cell Framework]] · [[Approach to Aortic Insufficiency]] · [[Mitral Regurgitation- Primary versus Functional]] · [[Approach to Anemia]] · [[Neutrophilic Leukocytosis]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Base-Rate Neglect]] · [[Anchoring Bias]] · [[Outcome Bias]] · [[Substance or Stem Cell Framework]] · [[Approach to Aortic Insufficiency]] · [[Mitral Regurgitation- Primary versus Functional]] · [[Approach to Anemia]] · [[Neutrophilic Leukocytosis]]
 

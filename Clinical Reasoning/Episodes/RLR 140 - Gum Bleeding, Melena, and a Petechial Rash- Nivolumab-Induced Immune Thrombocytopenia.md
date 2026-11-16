@@ -116,4 +116,4 @@ The episode's throughline is a bleeding-pattern-to-mechanism heuristic (site and
 
 ## Related Notes
 
-[[Approach to Thrombocytopenia]] · [[Immune Thrombocytopenia (ITP)]] · [[Approach to Anemia]] · [[Ultra-Hypercoagulable State - Combined Arterial and Venous Thrombosis]] · [[Base Rate]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Thrombocytopenia]] · [[Immune Thrombocytopenia (ITP)]] · [[Approach to Anemia]] · [[Ultra-Hypercoagulable State - Combined Arterial and Venous Thrombosis]] · [[Base Rate]] · [[Diagnostic Humility]]

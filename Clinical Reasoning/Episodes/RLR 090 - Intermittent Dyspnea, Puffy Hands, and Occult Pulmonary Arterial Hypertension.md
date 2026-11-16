@@ -116,4 +116,4 @@ A patient's substance use history, however extensive and well-documented, should
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Anchoring Bias]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Anatomical Approach]] · [[Transient Loss of Consciousness]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Anchoring Bias]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Anatomical Approach]] · [[Transient Loss of Consciousness]]

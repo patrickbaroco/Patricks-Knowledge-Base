@@ -137,4 +137,4 @@ Yusuf closes with several teaching points: Behçet's syndrome is uncommon and it
 
 ## Related Notes
 
-[[Neuro-Behçet's Disease]] · [[Multiple Cranial Neuropathies]] · [[Medial Longitudinal Fasciculus]] · [[Rhombencephalitis]] · [[Neuromyelitis Optica Spectrum Disorder]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Availability Heuristic]]
+[[Clinical Reasoning MOC]] · [[Neuro-Behçet's Disease]] · [[Multiple Cranial Neuropathies]] · [[Medial Longitudinal Fasciculus]] · [[Rhombencephalitis]] · [[Neuromyelitis Optica Spectrum Disorder]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Availability Heuristic]]

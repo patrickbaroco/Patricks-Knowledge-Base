@@ -113,7 +113,7 @@ The closing personal anecdote — Reza's early-attending humbling by a resident'
 - [ ] Build [[When Does Atrial Fibrillation Actually Cause Hypotension - Atrial Kick Dependence]]
 - [ ] Build [[Rate versus Rhythm as Independent Drivers of Hemodynamic Compromise]]
 - [ ] Update [[Approach to New Tachyarrhythmia]] (155) — add the "innocent bystander AFib" default and the 220-minus-age rate threshold as decision aids
-- [ ] Update [["Don't relinquish clinical judgment to a reassuring consultant"]] — new variant: a trainee's (rather than a consultant's) well-reasoned real-time pushback overriding a senior clinician's reflex, credited as formative years later (157)
+- [ ] Update [[Don't Relinquish Clinical Judgment to a Reassuring Consultant]] — new variant: a trainee's (rather than a consultant's) well-reasoned real-time pushback overriding a senior clinician's reflex, credited as formative years later (157)
 
 ## Handbook Opportunities
 
@@ -124,4 +124,4 @@ The closing personal anecdote — Reza's early-attending humbling by a resident'
 
 ## Related Notes
 
-[[Arrhythmia as Loss of Coordination - Atrial, Atrioventricular, and Ventricular Compartments]] · [[When Does Atrial Fibrillation Actually Cause Hypotension - Atrial Kick Dependence]] · [[Rate versus Rhythm as Independent Drivers of Hemodynamic Compromise]] · [[Approach to New Tachyarrhythmia]] · [[Pulse Deficit and Pulse-Telemetry Discordance - A Framework]]
+[[Clinical Reasoning MOC]] · [[Arrhythmia as Loss of Coordination - Atrial, Atrioventricular, and Ventricular Compartments]] · [[When Does Atrial Fibrillation Actually Cause Hypotension - Atrial Kick Dependence]] · [[Rate versus Rhythm as Independent Drivers of Hemodynamic Compromise]] · [[Approach to New Tachyarrhythmia]] · [[Pulse Deficit and Pulse-Telemetry Discordance - A Framework]]

@@ -123,4 +123,4 @@ The overarching, explicitly named teaching point is methodological: presenting a
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Test Interpretation]] · [[Shock]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Shock]]

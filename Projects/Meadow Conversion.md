@@ -1,50 +1,97 @@
 ---
 project: Native Meadow Conversion
+scope_note: "Re-scoped 2026-08-30 — meadow is now the drainfield only. Gully + front are a woodland treatment; orchard is separate. Name and todoist_label kept to avoid breaking links."
 status: active
 domain: personal
 topic: gardening
 started: 2026-07-01
-next_action: "Mark out where we want the meadow (targeted 2026-08-13)"
+next_action: "Keep the gully seedbed moist until the fescue emerges (expected ~Oct 26 – Nov 2; dry forecast through Oct 27). Then orchard guards Nov 1 and drainfield dormant seeding early-to-mid November. Front deferred to 2027."
 todoist_label: prj-meadow
 stakeholders: []
+keeps_bees: true
 related:
   - "[[Meadow Timeline]]"
   - "[[Materials Quantities for Meadow Project]]"
   - "[[Gardening MOC]]"
-last_touched: 2026-07-30
+last_touched: 2026-10-18
+gated_until: 2026-11-01
+gate: "October cluster closed: drainfield Application 2 done 10/4 and 10/8, gully seeded 10/12. Next: orchard guards 2026-11-01, then dormant seeding 2026-11-07."
 ---
 
 ## Context
-Converting ~0.8 acres of the Fishersville property to native meadow, across three zones:
-drainfield (mostly sunny/open, ~0.4 ac — but a small strip at the top has fruit trees),
-gully (~0.2 ac, dappled shade from many small trees but gets a lot of morning/early-afternoon
-sun — part-sun/part-shade), and front (shaded, ~0.2 ac). Two rounds of glyphosate knockdown
-while the grass is green and actively growing (late August and mid-September), then dormant
-seeding mid-October through early December. Seed mix sourced from Roundstone or Ernst
-(native Virginia mix) for the open sunny drainfield; the gully (part-sun) and front zone
-(shaded) may each need a different mix, and the fruit-tree strip likely needs to be
-excluded from the meadow mix entirely (open questions).
+**Re-scoped 2026-08-30.** This was a single ~0.74 ac meadow conversion across three zones.
+It is now **four zones with three different treatments**, because the shaded zones were
+never good meadow ground:
+
+| Zone | Area | Treatment |
+|---|---|---|
+| **Drainfield** | 1,067 m² (~0.26 ac) | **Meadow.** Sunny/open. Ernst Virginia Gentleman's Mix. The only zone getting glyphosate + dormant seeding. |
+| **Gully** | 918 m² (~0.23 ac) | **Woodland.** Wooded but no consistent canopy — grass will grow. Infill trees + no-mow fine fescue. |
+| **Front** | 1,000 m² (~0.25 ac) | **Woodland.** Shaded, currently mowed lawn. Infill trees + no-mow fine fescue, over-seeded into what's there. |
+| **Orchard** | 453 m² (~0.11 ac) | **Orchard floor.** Clean rings under trees + short mowed alley + optional clover. |
+
+**Why the re-scope:** Mix 181 was chosen in July only because Ernst had no clean native
+part-shade product — it was a least-bad option, not a good one. Meadow species want sun.
+The bee-forage review on 2026-08-30 reached the same conclusion independently ("treat the
+shaded zones as habitat and structure; the drainfield is where the forage is"). Rather than
+force a weak meadow onto two shaded zones, treat them as what they already are: woodland.
+
+**What the re-scope buys:**
+- Glyphosate drops from 0.74 ac to **0.26 ac** — 2–3 backpack loads per pass instead of 5–8
+- The **Roundstone Mix 181 order (4 lbs) is cancelled**
+- **The front lawn never goes brown.** Over-seeding into existing turf is additive, so the
+  18-month ugly phase in [[Meadow Timeline]] now applies only to the drainfield, out back —
+  not to the zone visible from the road
+- Understory trees (redbud, serviceberry, basswood) fill the **spring bee-forage gap** that
+  the meadow structurally cannot
 
 ## Decisions
 - Dormant seeding over spring seeding — better establishment odds for native mix, avoids competing with a full growing season of weed pressure
 - Glyphosate knockdown (two rounds) chosen over tilling — less soil disturbance, avoids waking a fresh weed seed bank
 - Seed source: Roundstone or Ernst
 - Sprayer: 4-gallon battery backpack sprayer (purchased)
+- **2026-08-30: Orchard floor = clean rings + mowed sod, not a planted understory.** Two zones, not one groundcover:
+  - **Vegetation-free ring under each tree** — ~2 ft radius for dwarf rootstock, out toward 6 ft for semi-dwarf/standard. Genuinely bare, *not* wood-mulched: mulch against a trunk is ideal vole habitat and voles girdle fruit trees under winter snow. A 12 in. collar of gravel 3–4 in. deep is the acceptable alternative — it collapses vole runways instead of sheltering them.
+  - **Existing grass in between, mowed to 3–5 in.** Regular close mowing is the single highest-value vole prevention step. The X758 deck maxes at 5.25 in., right at the top of the range. No seed order, no glyphosate, no establishment year — the alley is already done.
+  - **Optional: overseed Dutch white clover into the alley.** N fixation, stays low under a mower, pollinator value, ~$15 for 0.11 ac. Best done by **frost-seeding Feb 2027** onto frozen ground — same freeze-thaw mechanism as the dormant meadow seeding, no seedbed prep. Keep it out of the clean rings; clover in bloom means bees underfoot at harvest.
+  - **Rejected: extending the meadow mix or any tall pollinator understory into the orchard.** Tall cover is prime vole habitat, hides drops, and blocks leaf sanitation — which directly undercuts the [[Cherry Tree]] leaf-spot plan (rake and burn fallen leaves; end-of-season rake due 2026-11-15). A short, clean orchard floor serves the vole plan and the leaf-spot plan at once.
+- **2026-08-30: Expand the orchard, shrink the meadow.** The orchard grows out of the top of the drainfield, taking ~453 m² that was going to be meadow. Drainfield meadow portion measured at **1,067 m² (~0.26 ac)**; total meadow drops to ~0.74 ac. Ernst order reduced 6 → 5 lbs.
 - Glyphosate product: one 2.5-gallon jug of 41% concentrate covers both knockdown rounds across all 0.8 acres
+- **2026-09-23: Gully is kill-and-reseed; the front is deferred to 2027.** One glyphosate pass on the gully Fri 9/25, fine fescue seeded Oct 3-4 with Oct 10 as the last date. The front is not treated this year and stays mowed lawn. Seed was bought for the gully only.
 
 ## Open questions
-- Roundstone vs. Ernst — final call and reasoning
+- **(Deferred to 2027 with the front zone.)** **How shaded is the front zone, really?** It currently grows lawn, so it is not deep shade — but no-mow fine fescue fails in *deep* shade (Prairie Nursery explicitly excludes dense-canopy conditions). Count actual sun hours on a clear day before ordering seed. If parts are too dark, those spots get sedge plugs or stay leaf litter.
+- **Tree species and count for gully + front** — "a few more, not overdone." Palette drafted (redbud, serviceberry, basswood; sourwood if soil pH allows). Needs an actual count and a nursery source.
+- **Soil pH in the gully/front** — determines whether sourwood, the prize honey tree, is viable. Shenandoah Valley limestone often runs alkaline; sourwood wants acidic.
+- **More bloom for the bees — dedicated HB1 patch, or a forb-only over-seed?** Leaning toward carving ~0.05–0.10 ac out of the sunny drainfield near the hives for Roundstone **Mix HB1 (Honey Bee Specialty Mix)** at its own rate, rather than diluting the Ernst grassland across the whole zone. Needs a call to Roundstone: HB1 price, what its 2 introduced forb species are, and whether they'll do a forb-only custom blend. See "Bloom & bee value" in [[Materials Quantities for Meadow Project]]. Undecided.
 - Exact knockdown timing given this year's weather/growth
 - Mowing plan for year one establishment
-- **Shaded front zone:** does it need a separate shade-tolerant seed mix rather than the standard sun mix? Does its grass green up on the same schedule as the sunny zones for knockdown timing?
-- **Gully (part-sun/part-shade):** will a standard full-sun mix perform adequately given morning/early-afternoon sun plus dappled shade from small trees, or is a part-sun/edge blend needed?
-- **Fruit tree strip (top of drainfield):** how to treat this small area — likely excluded from the meadow seed mix and glyphosate broadcast application; needs its own plan (mow strip vs. orchard groundcover) plus spray-drift caution near the trees during knockdown.
+- **Orchard tree count and ages** — needed to size the clean rings (2 ft radius for dwarf vs. ~6 ft for semi-dwarf/standard) and to decide whether hardware-cloth trunk guards are needed before winter. Everything else about the orchard floor is settled (see Decisions).
 
 ## Plan / upcoming
-- Mark out the meadow footprint — postponed to **2026-08-13** (was 2026-08-11)
-- Order materials: seeds (~11 lbs PLS with buffer), glyphosate (one 2.5-gal jug of 41% concentrate) — postponed to **2026-08-13**, intentionally sequenced after the mark-out the same day so seed quantities can be confirmed against the walked/measured footprint before ordering
-- Resolve shaded-zone open question before finalizing seed order and knockdown schedule (gully water question resolved — no water)
-- First glyphosate knockdown round (seasonal — late August, while grass is actively growing)
+
+### Drainfield — meadow (the only zone with the old plan intact)
+- **Ernst order placed 2026-09-05.**
+- **Knockdown Application 1: done 2026-09-16. Application 2: Oct 3-4** if there is visible green regrowth by then, otherwise Oct 10-11. Both clear first frost (~Oct 19 at 10% probability).
+- Glyphosate now only **~0.5–0.8 qt per pass** over 0.26 ac — 2–3 backpack loads. The 2.5-gal jug already bought is now heavily oversized. Keep passes out of the orchard
+- Dormant seed early-to-mid November, not October: in still-warm soil part of the mix germinates and is killed at frost. Window runs to early December
+- Undecided: carve ~0.05–0.10 ac near the hives for Roundstone **Mix HB1** (see Open questions)
+
+### Gully + front — woodland (new, 2026-08-30)
+- **Cancel the Roundstone Mix 181 order (4 lbs).** No longer needed
+- **Check actual sun hours in the front zone** before buying seed
+- **Blend it from two Ernst species, 50/50: Chewings fescue ($4.16/lb) + creeping red fescue ($3.58/lb)** — the two Ohio State ranks most shade-tolerant. Skip sheep fescue (dry/sunny specialist, taller, priciest). Weights by option in [[Materials Quantities for Meadow Project]]; Option B is 42 lbs of each
+- **Gully: spray Fri 9/25 (fallback 9/26-27), seed Oct 2-4, last date Oct 10.** Seven days between spray and seed for translocation. At ~1,400 ft, Virginia Extension's preferred fall window for cool-season grass closes mid-September, so earlier beats later. One knockdown, not two. **Front deferred to 2027.**
+- Local backup: **Augusta Cooperative Farm Bureau**, 1205 Richmond Ave, Staunton (~10 mi) — stocks creeping red fescue, can order Chewings
+- **Add Dutch white clover at ~5% by weight (~0.25 lb/1,000 sq ft): ~2 lbs gully, ~2 lbs front if light allows.** Buy inoculated. Only worth it if mowing once or twice a year — in a truly unmowed stand the fescue shades the clover out. **Mow after clover bloom, or in fall only**, so the June cut doesn't take the bloom off at its peak
+- Full **order list** (Ernst ~$561 + clover from Augusta Co-op) is in [[Materials Quantities for Meadow Project]]
+- **Infill trees: dormant season, Nov–Mar.** Redbud and serviceberry for early-spring bee forage, basswood for the June flow, sourwood if pH allows. "A few more, not overdone"
+- **Deer protection is not optional** — tubes or cages on every new tree, budgeted up front
+
+### Orchard
+- Clear the vegetation-free rings under each tree; keep the alley mowed to 3–5 in.
+- **Before winter:** confirm tree count/ages; buried hardware-cloth guards (1/4 in. mesh, 6 in. deep) on young or thin-barked trees. The one orchard item with a real deadline
+- **Feb 2027 (optional):** frost-seed Dutch white clover into the alley, ~1 lb
 
 ## Log
 - 2026-07: Project scoped, timeline and materials list drafted in Obsidian callout syntax
@@ -58,3 +105,28 @@ excluded from the meadow mix entirely (open questions).
 - 2026-07-28: Open-items review. Set concrete dates: footprint marking in ~2 weeks (2026-08-11), materials order resurfacing 2026-08-06. Deleted a redundant duplicate materials task ("Order seeds and glyphosate for the meadow") — the more detailed "Buy meadow seeds — Ernst + Roundstone" task at Personal-Fishersville is now the single tracked materials task.
 - 2026-07-30: Open-items review. Confirmed holding — no change; footprint marking stays at 8/11, materials order reminder stays at 8/6.
 - 2026-08-10: Reviewed acreage — flagged that the 0.897-acre figure (corrected 2026-07-25, in [[Materials Quantities for Meadow Project]]) is a desk measurement from the Google Earth map, not yet field-verified, and that this note's own "~0.8 acres" and the "Mark out" Todoist task's "~0.5 acre" description had both gone stale relative to it. Decided to postpone both the footprint mark-out and the seed order from 8/11/8/7 to **2026-08-13**, sequenced so the walked/measured footprint can confirm (or correct) seed quantities before ordering. Rescheduled both Todoist tasks accordingly. Acreage figures intentionally left unchanged pending Thursday's measurement.
+- 2026-08-30: Walked and measured the **front zone on the ground: 1,000 m² (~0.247 ac)**, superseding the 1,192 m² Google Earth estimate — ~16% smaller. Total conversion area revised 0.897 → **~0.85 acres**. Neither order changes: Roundstone Mix 181 stays a 4 lb order (3.53 lbs with buffer, down from 3.86), glyphosate stays inside one 2.5-gal jug. Drainfield (1,520 m²) and gully (918 m²) are still unverified desk measurements. Note the mark-out slipped past its 2026-08-13 date, and the late-August knockdown window is now open.
+- 2026-08-30: Decided to **expand the orchard and reduce the meadow accordingly**. The orchard takes area off the top of the drainfield (the old "fruit tree strip"), so the sunny drainfield zone — and the Ernst seed order that depends on it — will shrink. Ernst order held pending Patrick's new drainfield measurement; the Roundstone Mix 181 order (gully + front, 4 lbs) is unaffected and can proceed. Broadcast glyphosate and broadcast seeding must now exclude a larger orchard footprint.
+- 2026-08-30: New drainfield meadow area measured at **1,067 m² (~0.264 ac)** after the orchard expansion — ~453 m² moved from meadow to orchard, making the orchard ~6× its original fruit-tree-strip size. **Total meadow now ~0.74 acres** (from 0.897 → 0.85 → 0.74 across today's two measurements). Ernst order drops 6 lbs → **5 lbs** (~$283 → ~$236); Roundstone Mix 181 unchanged at **4 lbs**; glyphosate still one 2.5-gal jug with room to spare. Both seed orders unblocked. Gully (918 m²) remains the only unverified desk measurement. Fruit-tree-strip open question closed and replaced with an orchard groundcover question.
+- 2026-08-30: Knockdown rescheduled. The late-August window passed unused; set **Application 1 for the weekend of Sept 12–13** and **Application 2 for Oct 3–4** (or Oct 10–11 at four weeks). September is not too late — cool-season fescue resumes vigorous root-translocating growth in early fall, so a mid-September pass is at least as effective as late August. The binding constraint is Application 2 against first frost: Staunton-area 10% frost probability is ~Oct 19, 50% ~Nov 1, so Oct 3–11 clears it. **If Application 1 slips past ~Sept 20 the schedule breaks.** Site prep shifts to mid-Oct/early-Nov and dormant seeding to early-to-mid November (window runs to early December, so there is room).
+- 2026-08-30: Settled the orchard groundcover question. Answer is two zones rather than one planting: a vegetation-free ring under each tree (grass competes hard with young fruit trees for water and N) plus the existing grass mowed short at 3–5 in. between them, per UMass New England Tree Fruit and Rutgers orchard-floor guidance. Deliberately *not* wood mulch against trunks and *not* a tall understory — both create vole habitat, and voles girdle fruit trees under winter snow. Optional Dutch white clover overseed into the alley, frost-seeded Feb 2027. Near-zero cost, nothing to order, no competition with the fall meadow timeline. Noted the synergy with the [[Cherry Tree]] leaf-spot sanitation plan: short clean floor makes the November rake work. Open question narrowed to tree count/ages, which drives ring radius and whether trunk guards are needed before winter.
+  Refs: https://netreefruit.org/weeds/ground-cover-management · https://plant-pest-advisory.rutgers.edu/vole-management-in-the-orchard/
+- 2026-08-30: Bee forage review — noted for the first time that we keep bees, which is a real input to the seed decision. Pulled Ernst's published composition for Virginia Gentleman's Mix: **76% grass / 24% forbs by weight**, 24 forb species, largest 4%. Assessment: strong mid-to-late summer forage (partridge pea, mountainmints, bergamot, Susans, milkweeds), a valuable fall goldenrod/aster flow for winter stores, and **essentially no spring forage** — which is precisely when colonies build up. Orchard fruit bloom, lawn dandelions and the planned orchard clover cover the spring gap, so the Feb 2027 clover frost-seed is upgraded from optional to worth doing. Also flagged that the hives get nothing from the meadow until **2028** (Year 2). Left open whether to over-seed a showy forb mix on the drainfield; kept the grass-heavy ratio for now because it is what makes the planting durable.
+- 2026-08-30: Researched Roundstone's flowering blends for an over-seed. Key finding: **all of their pollinator mixes contain grasses** (HB1: 3 grasses / 17 native forbs / 2 introduced forbs at 7.5–10.9 lbs/ac; SS-D1: 4 grasses / 20 forbs at 7.0–10.25 lbs/ac), so none is a clean forb-only booster to layer onto a drainfield that is already 76% grass. Their wildflower category is individual species only. Reframed the option: use **HB1 as a dedicated ~0.05–0.10 ac bee patch** near the hives at its own seeding rate, keeping the rest of the drainfield as the Ernst grassland — concentrated forage without giving up the grass structure. Alternative is a forb-only custom blend, which Roundstone can likely do. Flagged HB1's 2 non-native forbs as something to identify before ordering, given this is a native conversion. All three questions fold into the Mix 181 quote call we already owe them.
+- 2026-08-30: Looked at Roundstone **Mix 168 (Southern Riparian Buffer Mix)** — 8 grasses / 12 wildflowers, 7.2–10.4 lbs/ac. Set aside: grass-heavy so useless as a forb booster, and it is a streambank mix whose species (big bluestem, switchgrass, deer tongue, narrow-leaved sunflower) assume open full sun. The gully's binding constraint is shade, which Mix 181 addresses. **But it surfaced a gap in our own reasoning:** confirming the gully doesn't carry water answered the glyphosate question, not whether the gully bottom is seasonally moist — gullies channel runoff and can hold moisture with no visible stream. Added as an open question to check after the next heavy rain, since Mix 181 assumes mesic soil.
+- 2026-08-30: **Gully confirmed dry** — not just free of running water, but not seasonally moist either. Closes the soil-moisture question opened earlier today. Mix 181 stands as spec'd for the gully; nothing to raise with Roundstone on that front, and no reason to revisit riparian mixes. The gully is now fully settled except that its 918 m² area is still a desk estimate.
+- 2026-08-30: Wrote an **appearance timeline** into [[Meadow Timeline]] — month by month from the Sept 12 spray through 2028, deliberately recorded in advance. Key findings: the brown-down takes 2–3 weeks and shows nothing for the first week (normal, not a failed spray); **winter brown is the least conspicuous phase** since the whole landscape is brown anyway; **April 2027 is the hard month**, when other lawns green up and ours comes back as annual weeds over invisible native seedlings; year one reads as a rough mowed field; 2028 is the payoff. Corrected a wrong assumption in the materials note — a November nurse crop is erosion protection and will *not* improve winter appearance. Reinforced that the mowed path loop and a wide mown frame on the front zone are the highest-leverage aesthetic move, and that over-raking thatch trades appearance for erosion. Noted that spring 2027 is when meadow conversions get abandoned; household should know the schedule before April.
+- 2026-08-30: **Major re-scope.** Decided the gully and front are not meadow ground and should be treated as woodland — infill trees plus a low no-mow groundcover — rather than forced into a shade "meadow." This retroactively validates a compromise we had been carrying since July: Mix 181 was picked only because Ernst had no clean native part-shade product. Consequences: meadow shrinks to the drainfield alone (0.26 ac), glyphosate drops from 0.74 to 0.26 ac, the Roundstone Mix 181 order is cancelled, and — most valuably — **the front lawn never browns**, so the 18-month ugly phase no longer touches the zone visible from the road. Understory trees also fill the spring bee-forage gap the meadow structurally cannot. Researched no-mow grass options in detail (see [[Materials Quantities for Meadow Project]]): fine fescue blends are the answer, and Prairie Nursery names "open canopy woodlands" as exactly where they perform — which is the gully. Opened four questions: real sun hours in the front, over-seed vs. kill-and-reseed, tree species/count, and soil pH for sourwood.
+- 2026-08-30: Worked out the over-seed question properly and it changed the answer. **Over-seeding plus no-mow is not viable** — the existing turf-type tall fescue reaches 3–4 ft unmowed while fine fescue lays over at 6–8 in., so an unmowed mixed stand is coarse clumps spiking out of a low mat, worse than either alone. Recalculated the brown phase for a fescue conversion: **~4–6 weeks, not 18 months**, because a fast-germinating turfgrass goes in immediately rather than dormant-seeded natives. Spray ~Sept 5–6, seed Sept 19–26, green by early-to-mid October. Also established these zones need **one** knockdown, not two. Priced a self-blend from Ernst: 50/50 Chewings + creeping red, the two most shade-tolerant fine fescues per Ohio State trials — Option B is 42 lbs each, ~$325, riding along on the same Ernst order as the meadow seed (~$561 total). Found the local backup (Augusta Co-op, Staunton). Noted that Ernst's Conservation Shade Mix — rejected in July as a turf/bluegrass blend — is now nearly the right product, though its 20% bluegrass suits mowing rather than no-mow. **Ernst's shade spec requires ≥2 hrs direct sun, which makes the front-zone light count a go/no-go rather than a nicety.**
+- 2026-08-30: Worked through adding clover to the fescue zones. **Yes for the gully, conditional for the front** — white clover is full sun to part shade and sits *below* fine fescue on the shade ladder, so the front could pass the fescue light test and still fail for clover. Two real constraints surfaced: (1) in a truly unmowed 6–8 in. fescue stand the fescue shades the clover out — commercial fescue+clover no-mow mixes are sold as "0–2 mows per year," not never, so the clover only works if we take Prairie Nursery's June-and-fall cut; (2) rate discipline matters more than anything, since clover seed is ~800,000 seeds/lb vs ~450,000 for fescue and too much clover dominates the establishment year. Settled on **~5% by weight, ~0.25 lb/1,000 sq ft — 2 lbs gully, 2 lbs front**, bought inoculated. Also **refined an earlier caution**: "fine fescue dislikes nitrogen" applies to synthetic fertilizer, not to clover's ~1 lb N/1,000 sq ft/yr biological trickle. Flagged a beekeeping conflict — a June mow removes clover bloom at its peak, so mow after bloom or in fall only. Consolidated everything into a single **order list** in [[Materials Quantities for Meadow Project]].
+
+- 2026-09-08 (weekly review): **`next_action` repointed — both of its steps had already closed.** The sun-hour count landed 9/1 and the Ernst order went in 9/5 (5 lbs Virginia Gentleman's Mix + the fine fescue blend, ~$561), but the field had not been updated since 8/30, so the note read as blocked on two things that were done. The live item is the **9/12 mow-and-spray**, which was pushed from 9/6 in the 9/5 sweep. That still clears the 24-48 dry hours and leaves the drainfield knockdown at 9/12-13 against a 9/19-26 seeding — no slack left in the chain.
+
+- 2026-09-12: **Knockdown moved to Mon 9/14 for rain, and the zone was corrected.** Mowing happened 9/11 on schedule; it rained 9/12 and is forecast to rain 9/13, so Application 1 goes Monday. That still clears the ~Sept 20 limit with six days to spare, and Application 2 stays at Oct 3-4 (or Oct 10-11), well inside the ~Oct 19 frost date. Seeding is unchanged at 9/19-26 for the fescue zones and early-to-mid November for the drainfield.
+  **The more important correction is scope.** Both `next_action` and the Todoist task still read "spray glyphosate on the gully and front" — wording that predates the 2026-08-30 re-scope and survived the 9/8 review. Since the re-scope the **drainfield is the only zone getting glyphosate**; the gully and front are woodland, and their single knockdown is a separate job that **cannot be scheduled until the A/B/C decision is made** (Option A over-seeds and needs no spray at all, B kills both zones, C kills the gully only). Dating a gully/front spray before that decision would have been dating a job whose existence is still undecided. Task renamed to "Glyphosate knockdown #1 — drainfield (meadow)" and its description rewritten; the stale gate on the sun-hour count (closed 9/1) removed from it.
+
+- 2026-09-23 (project review): **Application 1 went down 9/16**, inside the ~Sept 20 limit; `next_action` still showed it pending. Application 2 stays at Oct 3-4, 17 days out, contingent on visible regrowth; Oct 10-11 is the fallback. **Gully/front decided:** the gully is sprayed once on Fri 9/25 (moved up from 9/26; forecast dry 9/25-9/30) and seeded Oct 2-4 alongside drainfield Application 2, with Oct 10 as the last date; the front is deferred to 2027 and seed was bought for the gully only. Considered moving the drainfield seeding up to the second week of October and kept it at early-to-mid November, since native mix sown into warm soil partly germinates and dies at frost. Gate kept at 2026-10-03 to cover the October cluster, with the 9/25 spray tracked in Todoist; it advances to 11/1 and then 11/7 as each cluster clears. No `prj-meadow` task was open in Todoist at review; five added (gully spray 9/25, gully seed 10/2 with an Oct 10 deadline, drainfield App 2 10/3, orchard guards 11/1, dormant seeding 11/7).
+
+- 2026-10-08: **Sprayed the remaining green areas in the drainfield and gully; all the grass is knocked down.** Isaias this weekend rules out seeding the gully by its Oct 10 last date; the medium-term forecast makes Monday afternoon 10/12 or Tuesday morning 10/13 reasonable instead.
+
+- 2026-10-12: **Gully seeded** with the 50/50 Chewings + creeping red fescue blend, the day after Isaias's remnants cleared and one day inside the 10/13 deadline. (Todoist task checked off 10/16; the backfilled 10/12 daily first recorded it as not done and was corrected 10/18.) At ~1,400 ft with mid-October soil cooling and nights in the mid-30s to low 40s, expect emergence at the slow end of the range: **first green ~Oct 26 – Nov 2**, Chewings ahead of the creeping red. The forecast is dry through at least Oct 27, so the seedbed needs daily light watering until emergence; seed that starts to germinate and then dries out is lost. Any seed that does not germinate before the soil drops below ~50°F should hold over and come up in spring as a dormant seeding.

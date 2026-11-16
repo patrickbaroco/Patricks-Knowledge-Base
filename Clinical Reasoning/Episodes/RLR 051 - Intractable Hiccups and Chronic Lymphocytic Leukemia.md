@@ -114,4 +114,4 @@ The episode is a clinic in **not dismissing a "small" symptom**. The reflexive s
 
 ---
 
-**Related Notes:** [[RLR 049 - Hyperacute Epigastric Pain, Splenic Vein Thrombosis, and Gallstone Pancreatitis]] · [[RLR 050 - Subacute Ascending Neuropathy and POEMS Syndrome]] · [[Analogical Reasoning]] · [[Chronic Lymphocytic Leukemia]] · [[Lymphocytosis]] · [[Splenomegaly]] · [[Splenic Infarct]] · [[Hiccups]] · [[Tempo Triage]] · [[Cough]] · [[Altered Mental Status]]
+**Related Notes:** [[Clinical Reasoning MOC]] · [[RLR 049 - Hyperacute Epigastric Pain, Splenic Vein Thrombosis, and Gallstone Pancreatitis]] · [[RLR 050 - Subacute Ascending Neuropathy and POEMS Syndrome]] · [[Analogical Reasoning]] · [[Chronic Lymphocytic Leukemia]] · [[Lymphocytosis]] · [[Splenomegaly]] · [[Splenic Infarct]] · [[Hiccups]] · [[Tempo Triage]] · [[Cough]] · [[Altered Mental Status]]

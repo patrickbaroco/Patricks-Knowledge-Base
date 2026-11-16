@@ -118,4 +118,4 @@ Finally, the episode's autobiographical reveal does double duty as a lesson on p
 
 ## Related Notes
 
-[[Fasciculation]] · [[Positive vs Negative Neurological Phenomena]] · [[Benign Fasciculation Syndrome]] · [[Availability Heuristic]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[RLR 189 - Static Left, Racing Right- A Six-Month Chase from Suspected Lung Cancer to Acute Fibrinous and Organizing Pneumonia|RLR 189]]
+[[Clinical Reasoning MOC]] · [[Fasciculation]] · [[Positive vs Negative Neurological Phenomena]] · [[Benign Fasciculation Syndrome]] · [[Availability Heuristic]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[RLR 189 - Static Left, Racing Right- A Six-Month Chase from Suspected Lung Cancer to Acute Fibrinous and Organizing Pneumonia|RLR 189]]

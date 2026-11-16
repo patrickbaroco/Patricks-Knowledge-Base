@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Where the Existing Work Goes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<style>
+:root{
+  --paper:#F2F5F4; --surface:#FFFFFF; --sunk:#EAEFEE;
+  --ink:#131F1E; --muted:#5B6E6C; --line:#D3DDDB; --line2:#BCC9C7; --conn:#5B6E6C;
+  --teal:#0E6F6B; --wine:#8A4257; --brass:#8C6416; --slate:#4F6469;
+  --teal-w:#E3EFEE; --wine-w:#F3E7EA; --brass-w:#F4EDDD; --slate-w:#E8EDEE;
+  --stop:#A63A2E;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0D1413; --surface:#151F1E; --sunk:#1B2625;
+    --ink:#E3EBE9; --muted:#93A6A3; --line:#26332F; --line2:#35443F; --conn:#8AA09C;
+    --teal:#59C4B8; --wine:#DE94A8; --brass:#D8AC58; --slate:#9BB2B7;
+    --teal-w:#122927; --wine-w:#2A1A1F; --brass-w:#26200F; --slate-w:#182224;
+    --stop:#E8705E;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0D1413; --surface:#151F1E; --sunk:#1B2625;
+  --ink:#E3EBE9; --muted:#93A6A3; --line:#26332F; --line2:#35443F; --conn:#8AA09C;
+  --teal:#59C4B8; --wine:#DE94A8; --brass:#D8AC58; --slate:#9BB2B7;
+  --teal-w:#122927; --wine-w:#2A1A1F; --brass-w:#26200F; --slate-w:#182224;
+  --stop:#E8705E;
+}
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:"Public Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  font-size:15.5px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1120px;margin:0 auto;padding:44px 28px 96px}
+p{margin:0 0 1em}
+
+.eyebrow{font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace;font-size:11px;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 14px}
+h1{font-family:Spectral,Georgia,"Times New Roman",serif;font-weight:600;
+  font-size:clamp(34px,5.2vw,50px);line-height:1.08;letter-spacing:-.015em;
+  margin:0 0 18px;text-wrap:balance;max-width:16ch}
+.lede{font-size:18px;line-height:1.55;max-width:64ch}
+.lede + .lede{color:var(--muted);font-size:16px}
+.stamp{display:inline-flex;gap:10px;align-items:center;margin-top:26px;
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;
+  color:var(--muted);border:1px solid var(--line2);border-radius:2px;padding:7px 12px}
+.stamp b{color:var(--ink);font-weight:500}
+
+hr.rule{border:0;border-top:1px solid var(--line);margin:56px 0 0}
+h2{font-family:Spectral,Georgia,serif;font-weight:600;font-size:27px;line-height:1.2;
+  letter-spacing:-.01em;margin:52px 0 6px;text-wrap:balance}
+h2 + .sub{color:var(--muted);font-size:15px;margin:0 0 26px;max-width:66ch}
+
+figure{margin:0}
+.fig{background:var(--surface);border:1px solid var(--line);border-radius:3px;
+  padding:22px 18px;overflow-x:auto}
+.fig svg{display:block;min-width:740px;width:100%;height:auto}
+figcaption{color:var(--muted);font-size:13.5px;margin-top:14px;max-width:72ch}
+.legend{display:flex;flex-wrap:wrap;gap:10px 26px;margin-top:18px;
+  font-size:12.5px;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:8px}
+.sw{width:14px;height:14px;border-radius:2px;border:1px solid var(--line2);flex:none}
+
+/* ---- the five moves ---- */
+.move{border-top:2px solid var(--ph);padding-top:16px;margin-top:44px}
+.move-head{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-bottom:20px}
+.move-head h3{font-family:Spectral,Georgia,serif;font-weight:600;font-size:23px;
+  margin:0;letter-spacing:-.01em}
+.move-head .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--ph)}
+
+.grid3{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr) minmax(0,1.15fr);
+  gap:0 1px;background:var(--line);border:1px solid var(--line);border-radius:3px;overflow:hidden}
+@media (max-width:840px){.grid3{grid-template-columns:minmax(0,1fr)}}
+.cell{background:var(--surface);padding:16px 18px 18px}
+.cell.adds{background:var(--sunk)}
+.cell .k{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--muted);margin:0 0 9px}
+.cell.adds .k{color:var(--ph)}
+.cell p{margin:0;font-size:14px;line-height:1.55;color:var(--muted)}
+.cell p + p{margin-top:8px}
+.cell b{color:var(--ink);font-weight:600}
+.cell ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:7px}
+.cell li{font-size:14px;line-height:1.5;color:var(--muted);padding-left:16px;position:relative}
+.cell li::before{content:"";position:absolute;left:0;top:8px;width:6px;height:6px;
+  border-radius:1px;background:var(--ph)}
+.cell li b{color:var(--ink);font-weight:600}
+
+.keeps{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));
+  gap:22px 34px;margin-top:26px}
+.keep{border-left:2px solid var(--slate);padding:2px 0 2px 16px}
+.keep h4{margin:0 0 5px;font-size:15px;font-weight:600}
+.keep p{margin:0;font-size:14px;line-height:1.55;color:var(--muted)}
+
+.callout{margin-top:30px;background:var(--sunk);border:1px solid var(--line);
+  border-radius:3px;padding:18px 20px}
+.callout p{margin:0;font-size:14.5px;line-height:1.6}
+.callout p + p{margin-top:10px}
+.callout strong{font-weight:600}
+
+footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);
+  color:var(--muted);font-size:13px;line-height:1.6}
+</style>
+<style>html{color-scheme:light dark}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<div class="wrap">
+
+  <p class="eyebrow">Clinical governance framework · draft for discussion</p>
+  <h1>Where the existing work goes</h1>
+  <p class="lede">Two of the three bodies take over work the group already does, in a more defined form. <b>The Clinical Governance Council has no predecessor</b> — nothing today approves what a peer review committee recommends, because nothing today produces such a recommendation.</p>
+  <p class="lede">This traces the five clinical governance activities running today into what will hold them. None of the work disappears, and one forum keeps running under a name that describes it.</p>
+  <p class="stamp"><b>Not adopted.</b> Charters drafted, under revision, prepared for counsel review.</p>
+
+  <hr class="rule">
+
+  <h2>Where each activity lands</h2>
+  <p class="sub">Read left to right. Everything on the left runs today. The Council sits on the right with nothing pointing into it, because nothing today does what it does.</p>
+
+  <figure>
+    <div class="fig">
+      <svg viewBox="0 0 940 560" role="img" aria-label="Diagram: five activities running today on the left map into destinations on the right. The Clinical Governance Steering Committee, signature standard audits and the ACO education slot go to the Clinical Quality Committee. The experienced clinician roundtable splits: its clinical questions go to the Quality Committee and the rest continues as a renamed forum. Informal peer review becomes the chartered Peer Review Committee. The Clinical Governance Council has no incoming line because it is new.">
+        <defs>
+          <marker id="m1" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0,0 L8,4 L0,8 z" fill="var(--conn)"></path>
+          </marker>
+        </defs>
+        <style>
+          .old{fill:var(--slate-w);stroke:var(--slate);stroke-width:1.3;stroke-dasharray:5 4}
+          .ot{font-family:"Public Sans",sans-serif;font-size:13px;fill:var(--ink);text-anchor:middle;font-weight:500}
+          .nt{font-family:Spectral,Georgia,serif;font-weight:600;font-size:16px;fill:var(--ink);text-anchor:middle}
+          .ns{font-family:"Public Sans",sans-serif;font-size:11px;fill:var(--muted);text-anchor:middle}
+          .cn{fill:none;stroke:var(--conn);stroke-width:1.3}
+          .cnd{fill:none;stroke:var(--conn);stroke-width:1.3;stroke-dasharray:5 4}
+          .lb{font-family:"IBM Plex Mono",monospace;font-size:9.5px;fill:var(--muted);text-anchor:middle;letter-spacing:.03em}
+          .hd{font-family:"IBM Plex Mono",monospace;font-size:10px;fill:var(--muted);letter-spacing:.13em}
+        </style>
+
+        <text class="hd" x="20" y="14">RUNS TODAY</text>
+        <text class="hd" x="650" y="14">AFTERWARDS</text>
+
+        <rect class="old" x="20" y="30" width="250" height="58" rx="2"></rect>
+        <text class="ot" x="145" y="54">Clinical Governance</text><text class="ot" x="145" y="72">Steering Committee</text>
+
+        <rect class="old" x="20" y="100" width="250" height="58" rx="2"></rect>
+        <text class="ot" x="145" y="124">Signature standard</text><text class="ot" x="145" y="142">audits</text>
+
+        <rect class="old" x="20" y="170" width="250" height="58" rx="2"></rect>
+        <text class="ot" x="145" y="194">ACO education,</text><text class="ot" x="145" y="212">its own monthly slot</text>
+
+        <rect class="old" x="20" y="240" width="250" height="58" rx="2"></rect>
+        <text class="ot" x="145" y="264">Experienced clinician</text><text class="ot" x="145" y="282">roundtable</text>
+
+        <rect class="old" x="20" y="340" width="250" height="58" rx="2"></rect>
+        <text class="ot" x="145" y="364">Peer review,</text><text class="ot" x="145" y="382">informal</text>
+
+        <rect x="650" y="30" width="270" height="188" rx="2" fill="var(--teal-w)" stroke="var(--teal)" stroke-width="1.5"></rect>
+        <text class="nt" x="785" y="110">Clinical Quality Committee</text>
+        <text class="ns" x="785" y="134">standards · education · audit</text>
+        <text class="ns" x="785" y="153">and the clinical question resource</text>
+
+        <rect class="old" x="650" y="242" width="270" height="66" rx="2"></rect>
+        <text class="ot" x="785" y="266">The forum, renamed</text>
+        <text class="ns" x="785" y="288">operational and day-to-day questions</text>
+
+        <rect x="650" y="332" width="270" height="66" rx="2" fill="var(--wine-w)" stroke="var(--wine)" stroke-width="1.5"></rect>
+        <text class="nt" x="785" y="357" font-size="15">Peer Review Committee</text>
+        <text class="ns" x="785" y="378">chartered · members review the cases</text>
+
+        <rect x="650" y="422" width="270" height="82" rx="2" fill="var(--brass-w)" stroke="var(--brass)" stroke-width="2"></rect>
+        <text class="nt" x="785" y="452" font-size="15">Clinical Governance Council</text>
+        <text class="ns" x="785" y="473">approves recommendations,</text>
+        <text class="ns" x="785" y="490">takes every final action</text>
+        <rect x="650" y="410" width="52" height="17" rx="2" fill="var(--brass)"></rect>
+        <text x="676" y="422" font-family="IBM Plex Mono, monospace" font-size="9.5" fill="var(--paper)" text-anchor="middle" letter-spacing=".08">NEW</text>
+        <text class="lb" x="785" y="524">nothing today does this</text>
+
+        <path class="cn" d="M270,59 H470 V70 H646" marker-end="url(#m1)"></path>
+        <text class="lb" x="370" y="51">dissolves into</text>
+
+        <path class="cn" d="M270,129 H470 V116 H646" marker-end="url(#m1)"></path>
+        <text class="lb" x="370" y="121">rebuilt by</text>
+
+        <path class="cn" d="M270,199 H470 V162 H646" marker-end="url(#m1)"></path>
+        <text class="lb" x="370" y="191">folded into education</text>
+
+        <path class="cnd" d="M270,257 H610 V196 H646" marker-end="url(#m1)"></path>
+        <text class="lb" x="400" y="249">clinical questions only</text>
+
+        <path class="cn" d="M270,281 H470 V275 H646" marker-end="url(#m1)"></path>
+        <text class="lb" x="370" y="273">everything else, kept and renamed</text>
+
+        <path class="cn" d="M270,369 H470 V365 H646" marker-end="url(#m1)"></path>
+        <text class="lb" x="370" y="361">chartered as</text>
+      </svg>
+    </div>
+    <div class="legend">
+      <span><i class="sw" style="background:var(--slate-w);border-color:var(--slate);border-style:dashed"></i>Runs today</span>
+      <span><i class="sw" style="background:var(--teal-w);border-color:var(--teal)"></i>Quality</span>
+      <span><i class="sw" style="background:var(--wine-w);border-color:var(--wine)"></i>Peer review</span>
+      <span><i class="sw" style="background:var(--brass-w);border-color:var(--brass)"></i>Council — new</span>
+    </div>
+    <figcaption>Quality priorities, the education that teaches them, and the audit that tests them stop being separate conversations in separate rooms. The roundtable is the one that splits rather than moves: the clinical questions get a home built for them, and the rest of what it does carries on under a name that fits.</figcaption>
+  </figure>
+
+  <!-- 1 -->
+  <section class="move" style="--ph:var(--teal)">
+    <div class="move-head"><span class="n">Move one</span><h3>The steering committee becomes the Clinical Quality Committee</h3></div>
+    <div class="grid3">
+      <div class="cell">
+        <p class="k">Today</p>
+        <p>A standing committee that sets an agenda for each meeting and works through clinical quality topics with broad attendance.</p>
+      </div>
+      <div class="cell">
+        <p class="k">Becomes</p>
+        <p>The <b>Clinical Quality Committee</b> — chartered by the Council, with defined membership, a clinician floor written into the charter, and three named jobs: adopt the standards, set the education agenda, run the audit.</p>
+      </div>
+      <div class="cell adds">
+        <p class="k">What that adds</p>
+        <ul>
+          <li>A priority becomes a <b>defined measure</b>, adopted by express vote and recorded in a standards register.</li>
+          <li>Each measure carries <b>the date its measurement period begins</b> and the date the committee looks again — both set at adoption.</li>
+          <li>A standing obligation to <b>report whether a measure moved</b>, annually, to the Council and the Board.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2 -->
+  <section class="move" style="--ph:var(--teal)">
+    <div class="move-head"><span class="n">Move two</span><h3>Signature standard audits are rebuilt as the audit program</h3></div>
+    <div class="grid3">
+      <div class="cell">
+        <p class="k">Today</p>
+        <p>Audits run against the signature standards, on their own schedule, separate from any stated quality priority.</p>
+      </div>
+      <div class="cell">
+        <p class="k">Becomes</p>
+        <p>An audit program <b>designed by the Quality Committee and aligned to enterprise quality priorities</b> — with materially more rigor in what is asked, how it is measured, and what follows.</p>
+      </div>
+      <div class="cell adds">
+        <p class="k">What that adds</p>
+        <ul>
+          <li><b>Every audit question maps to a standard that has been adopted and is in effect.</b> A question that maps to nothing is retired, or its standard is adopted first.</li>
+          <li>The instrument is <b>validated against clinician review</b> before it can produce anything about an individual.</li>
+          <li>A result is an <b>observation</b> until the clinician has had the chance to answer it — then it is a finding, or it is withdrawn.</li>
+          <li>Every observation gets a <b>recorded disposition</b> and the clinician is told what became of it.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3 -->
+  <section class="move" style="--ph:var(--teal)">
+    <div class="move-head"><span class="n">Move three</span><h3>ACO education becomes part of all clinical education</h3></div>
+    <div class="grid3">
+      <div class="cell">
+        <p class="k">Today</p>
+        <p>ACO education has its own monthly slot, held separately from the rest of the clinical education calendar.</p>
+      </div>
+      <div class="cell">
+        <p class="k">Becomes</p>
+        <p><b>A component of every clinical education channel rather than a separate entity.</b> ACO measures are one of the inputs the Quality Committee draws on when it sets the agenda, and they are taught inside the specialty didactics.</p>
+      </div>
+      <div class="cell adds">
+        <p class="k">What that adds</p>
+        <ul>
+          <li>Education follows <b>the current priority</b>. If heart failure is the six-month initiative, the sessions track heart failure.</li>
+          <li>One subject at a time, <b>across every channel at once</b> — seminars, the weekly meeting, the newsletter, the one-page version.</li>
+          <li>Education and quality stop being planned by different people on different calendars. Someone from the education function sits with Quality.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4 -->
+  <section class="move" style="--ph:var(--teal)">
+    <div class="move-head"><span class="n">Move four</span><h3>The roundtable splits, and gets a name that fits</h3></div>
+    <div class="grid3">
+      <div class="cell">
+        <p class="k">Today</p>
+        <p>The experienced clinician roundtable. <b>Most of what gets asked there is operational</b> — the EMR, the Scribe application, day-to-day questions about how something works or who to take it to.</p>
+        <p>Clinical questions come up as well, but they are not the bulk of it. The name describes neither half, so nobody is quite sure what the forum is for.</p>
+      </div>
+      <div class="cell">
+        <p class="k">Becomes</p>
+        <p><b>The forum continues, renamed for what it actually is</b> — the place to bring a question when you would not otherwise know where to take it. That function is worth keeping and is kept intact.</p>
+        <p><b>The clinical questions move.</b> They get a home built for them by the Quality Committee, as one of its early projects.</p>
+      </div>
+      <div class="cell adds">
+        <p class="k">What that adds</p>
+        <ul>
+          <li><b>The operational half keeps a front door</b>, under a name that tells people it is the right door. Questions about the EMR, the Scribe application and day-to-day process have somewhere to go.</li>
+          <li><b>A resource for clinical questions</b>, so an answer given once is available afterwards instead of living in one meeting with whoever attended.</li>
+          <li>Two different kinds of question stop competing for the same half hour.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5 -->
+  <section class="move" style="--ph:var(--wine)">
+    <div class="move-head"><span class="n">Move five</span><h3>Peer review becomes a chartered process</h3></div>
+    <div class="grid3">
+      <div class="cell">
+        <p class="k">Today</p>
+        <p>Peer review is conducted informally. There is no charter, no defined process, and no clinical authorization framework for a review to act on — so there are also none of the legal protections that attach to a formal peer review body.</p>
+      </div>
+      <div class="cell">
+        <p class="k">Becomes</p>
+        <p>A chartered <b>Peer Review Committee</b> whose members review the cases under a written procedure, and a <b>Clinical Governance Council</b> that takes every final action after notice and the opportunity for a hearing.</p>
+      </div>
+      <div class="cell adds">
+        <p class="k">What that adds</p>
+        <ul>
+          <li><b>Nobody with authority over a clinician's employment</b> sits on the committee or reviews a case.</li>
+          <li><b>Proportionate responses</b> between doing nothing and ending someone's relationship with the organization — feedback, education, mentoring, focused review, an agreed resolution that closes with no finding.</li>
+          <li>Notice, two discipline-matched reviewers, and an <b>independent hearing</b> where clinical authority may be restricted.</li>
+          <li>Federal and state <b>peer review protection</b> for the organization and for everyone who serves — which is unavailable to an informal process however careful it is.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <h2>The one part that is new</h2>
+  <p class="sub">Everything above continues in a more defined form. This does not exist today in any form.</p>
+
+  <section class="move" style="--ph:var(--brass);margin-top:26px">
+    <div class="move-head"><span class="n">No predecessor</span><h3>The Clinical Governance Council</h3></div>
+    <div class="grid3">
+      <div class="cell">
+        <p class="k">Why it has to exist</p>
+        <p>A peer review committee produces <b>findings and a recommendation</b>, and is deliberately staffed without anyone holding authority over employment, so that it is answering a purely clinical question.</p>
+        <p><b>Somebody then has to approve that recommendation.</b> In a hospital that is the medical executive committee. There is no equivalent here, which is what the Council is.</p>
+      </div>
+      <div class="cell">
+        <p class="k">What else it does</p>
+        <p>It charters the two committees and ratifies the policy that governs when an audit finding may reach peer review.</p>
+        <p>It is the check that quality initiatives align with the organization's priorities rather than being chosen ad hoc by whoever is in the room.</p>
+        <p>And it is the body that reports clinical quality upward, in aggregate, board-packet style.</p>
+      </div>
+      <div class="cell adds">
+        <p class="k">What that adds</p>
+        <ul>
+          <li>The people who judge clinical care are <b>not the people who take the final action</b> — which is the separation the legal protections depend on.</li>
+          <li>A contested restriction gets an <b>independent hearing panel</b>, drawn from clinicians who took no part in the review.</li>
+          <li><b>The board delegates to it once, by resolution, and may revoke that delegation.</b> The board takes no case-level role and is not drawn into clinical decisions.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <h2>What does not change</h2>
+  <p class="sub">Worth stating plainly, because the question comes up.</p>
+
+  <div class="keeps">
+    <div class="keep">
+      <h4>Billing and coding stay exactly where they are</h4>
+      <p>Coding is compliance and operations — financial rather than clinical. The auditing and monitoring done there is untouched by any of this, and no committee in this framework has any role in it.</p>
+    </div>
+    <div class="keep">
+      <h4>All employment authority stays with management</h4>
+      <p>Hiring, termination, discipline, compensation, contracting, scheduling, assignment and medical director nomination are unaffected, and the charters say so expressly. Management receives notice of every final action and its operational effect.</p>
+    </div>
+    <div class="keep">
+      <h4>Facility QAPI participation is unaffected</h4>
+      <p>Clinicians take part in facility quality assurance and performance improvement individually, in the facilities they serve. That is separate from this framework and stays separate from it.</p>
+    </div>
+  </div>
+
+  <div class="callout">
+    <p><strong>The net count.</strong> Five standing activities today, spread across four forums and an informal review process. Afterwards: <strong>every one of the five still running</strong> — three of them consolidated into the Quality Committee, one chartered as the Peer Review Committee, and one continuing as a renamed forum with its clinical half rehoused.</p>
+    <p><strong>One body is added</strong>, the Council, for the reason set out above. That is the whole of what is new.</p>
+  </div>
+
+  <footer>
+    <p>Drawn from the Clinical Quality Committee, Peer Review Committee and Clinical Governance Council charter drafts, and from the clinical governance discussion of 2026-09-03. Sequencing and timing of each transition are not settled here. <b>Not adopted; prepared for counsel review.</b></p>
+  </footer>
+
+</div>
+</body>
+</html>

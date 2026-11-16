@@ -1,0 +1,83 @@
+filters:
+  and:
+    - file.inFolder("Quotes")
+    - type == "quote"
+formulas:
+  themes: tags.filter(value != "quote" && value != "term" && value != "turning-50")
+  theme: tags.filter(value != "quote" && value != "term" && value != "turning-50")[0]
+properties:
+  formula.themes:
+    displayName: Themes
+  formula.theme:
+    displayName: Theme
+views:
+  - type: table
+    name: All Quotes
+    order:
+      - file.name
+      - author
+      - source
+      - formula.themes
+      - captured
+    sort:
+      - property: author
+        direction: ASC
+    columnSize:
+      file.name: 300
+      note.author: 170
+      note.source: 280
+  - type: table
+    name: By Theme
+    groupBy:
+      property: formula.theme
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - formula.themes
+      - source
+    sort:
+      - property: author
+        direction: ASC
+    columnSize:
+      file.name: 300
+      note.author: 170
+  - type: table
+    name: Terms
+    filters:
+      and:
+        - file.hasTag("term")
+    order:
+      - file.name
+      - author
+      - source
+      - formula.themes
+  - type: table
+    name: Unverified
+    filters:
+      or:
+        - source.isEmpty()
+        - verified == false
+    order:
+      - file.name
+      - author
+      - source
+      - attribution
+    sort:
+      - property: author
+        direction: ASC
+    columnSize:
+      file.name: 280
+      note.attribution: 360
+  - type: table
+    name: Coming Due
+    filters:
+      and:
+        - "!revisit.isEmpty()"
+    order:
+      - file.name
+      - author
+      - revisit
+    sort:
+      - property: revisit
+        direction: ASC

@@ -110,4 +110,4 @@ This episode functions as a deliberate visual pattern-recognition exercise acros
 
 ## Related Notes
 
-[[Herpes Zoster - Classic and Hemorrhagic Presentations]] · [[Petechiae, Purpura, and Ecchymosis - Approach]] · [[Necrotizing Fasciitis - Typing and Gas Production]] · [[Epiglottitis in the Unvaccinated Patient]] · [[Synovial Fluid Interpretation Framework]] · [[Septic Arthritis - Empiric Management and Source Workup]]
+[[Clinical Reasoning MOC]] · [[Herpes Zoster - Classic and Hemorrhagic Presentations]] · [[Petechiae, Purpura, and Ecchymosis - Approach]] · [[Necrotizing Fasciitis - Typing and Gas Production]] · [[Epiglottitis in the Unvaccinated Patient]] · [[Synovial Fluid Interpretation Framework]] · [[Septic Arthritis - Empiric Management and Source Workup]]

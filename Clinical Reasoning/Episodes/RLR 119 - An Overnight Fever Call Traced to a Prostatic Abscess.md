@@ -122,4 +122,4 @@ The closing teaching point, articulated by both hosts, is an explicit embrace of
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Test Interpretation]] · [[Base Rate]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Base Rate]]

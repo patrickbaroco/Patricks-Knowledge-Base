@@ -117,4 +117,4 @@ A secondary, recurring teaching point across the episode is the value of simple,
 
 ## Related Notes
 
-[[Shock]] · [[Altered Mental Status]] · [[When to Worry]] · [[Base Rate]] · [[SVC Syndrome]]
+[[Clinical Reasoning MOC]] · [[Shock]] · [[Altered Mental Status]] · [[When to Worry]] · [[Base Rate]] · [[SVC Syndrome]]

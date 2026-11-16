@@ -128,4 +128,4 @@ Finally, the episode closes on a professional-development note distinct from the
 
 ## Related Notes
 
-[[Creatinine as a Marker of Muscle Mass - Limitations in Amputees and Sarcopenia]] · [[Cystatin C vs. Creatinine for Estimating GFR]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Approach to Acute Encephalopathy in the Hospitalized Patient]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Creatinine as a Marker of Muscle Mass - Limitations in Amputees and Sarcopenia]] · [[Cystatin C vs. Creatinine for Estimating GFR]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Approach to Acute Encephalopathy in the Hospitalized Patient]] · [[Diagnostic Humility]]

@@ -1,0 +1,83 @@
+filters:
+  and:
+    - file.folder == "Movies/TV Series"
+views:
+  - type: table
+    name: All Series
+    order:
+      - file.name
+      - my_rating
+      - seasons
+      - status
+      - network
+      - family_friendly
+      - genre
+      - rotten_tomatoes
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 224
+      note.my_rating: 83
+      note.seasons: 70
+      note.rotten_tomatoes: 81
+  - type: table
+    name: Watched
+    filters:
+      and:
+        - watched == true
+    order:
+      - file.name
+      - my_rating
+      - seasons
+      - status
+      - genre
+      - rotten_tomatoes
+    sort:
+      - property: my_rating
+        direction: DESC
+    columnSize:
+      file.name: 224
+      note.my_rating: 83
+      note.seasons: 70
+      note.rotten_tomatoes: 81
+  - type: table
+    name: Unwatched
+    filters:
+      and:
+        - watched == false
+    order:
+      - file.name
+      - seasons
+      - status
+      - network
+      - family_friendly
+      - genre
+      - rotten_tomatoes
+    sort:
+      - property: rotten_tomatoes
+        direction: DESC
+    columnSize:
+      file.name: 224
+      note.seasons: 70
+      note.rotten_tomatoes: 81
+  - type: table
+    name: Unwatched/Family
+    filters:
+      and:
+        - watched == false
+        - family_friendly == true
+    order:
+      - file.name
+      - seasons
+      - status
+      - network
+      - genre
+      - rotten_tomatoes
+    sort:
+      - property: rotten_tomatoes
+        direction: DESC
+    columnSize:
+      file.name: 224
+      note.seasons: 70
+      note.rotten_tomatoes: 81

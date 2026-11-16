@@ -117,4 +117,4 @@ Management of hardware-associated endovascular infection is highly individualize
 
 ## Related Notes
 
-[[Decompensated Heart Failure in Dialysis Patients]] · [[Troponin Kinetics]] · [[Congestive Hepatopathy]] · [[Blood Culture Gram Stain Interpretation]] · [[Streptococcus mitis]] · [[Cognitive Autopsy]] · [[Base Rate]] · [[Anatomical Approach]]
+[[Clinical Reasoning MOC]] · [[Decompensated Heart Failure in Dialysis Patients]] · [[Troponin Kinetics]] · [[Congestive Hepatopathy]] · [[Blood Culture Gram Stain Interpretation]] · [[Streptococcus mitis]] · [[Cognitive Autopsy]] · [[Base Rate]] · [[Anatomical Approach]]

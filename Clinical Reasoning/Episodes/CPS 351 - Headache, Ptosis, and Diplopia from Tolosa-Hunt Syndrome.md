@@ -29,7 +29,7 @@ A 65-year-old woman with hypertension, type 2 diabetes, and a 40-year smoking hi
 
 ## Case Narrative
 
-The case was presented by Dr. A. Thant, an aspiring neurologist from Myanmar, and discussed by Dr. Valeria Roldan, a recent medical graduate from Lima, Peru, also an aspiring neurologist, together with [[Aaron Berkowitz]].
+The case was presented by Dr. A. Thant, an aspiring neurologist from Myanmar, and discussed by Dr. Valeria Roldan, a recent medical graduate from Lima, Peru, also an aspiring neurologist, together with Aaron Berkowitz.
 
 The chief complaint: a 65-year-old woman with headache and double vision. Valeria's opening framework tackled the two chief complaints separately before merging them. For **headache**, she emphasized starting broad — remembering that not all headache causes are intracranial (the ear, skull, and extracranial arteries can all refer pain) — before applying a primary-versus-secondary framework and screening for red flags: systemic symptoms/fever, a new neurologic localizing finding (the diplopia itself counts), older age, pregnancy, seizures, and papilledema. For **diplopia**, she laid out a full [[Diplopia]] localization pathway: the extraocular muscles themselves (e.g., thyroid eye disease), the neuromuscular junction (myasthenia), the ocular motor nerves (CN III, IV, VI) as they pass through the [[Cavernous Sinus Syndrome|cavernous sinus]], and finally the brainstem — noting that a brainstem lesion severe enough to cause isolated diplopia would usually also produce other findings given how tightly packed the relevant structures are there, and that "time course is always queen in neurology."
 

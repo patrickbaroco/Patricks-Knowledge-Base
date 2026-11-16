@@ -127,4 +127,4 @@ The centerpiece teaching, though, is a genuinely novel physiologic mechanism for
 
 ## Related Notes
 
-[[Approach to Metabolic Alkalosis]] · [[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · ["Meta-skills of practice"] · [[Case-Based Recall as a Diagnostic Trigger]]
+[[Clinical Reasoning MOC]] · [[Approach to Metabolic Alkalosis]] · [[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · [[Meta-Skills of Practice]] · [[Case-Based Recall as a Diagnostic Trigger]]

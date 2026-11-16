@@ -116,4 +116,4 @@ The recording opens with the same standing introduction used across this early r
 
 ## Related Notes
 
-[[Neurophobia]] · [[Acute Vestibular Syndrome]] · [[Approach to Dizziness]] · [[Internuclear Ophthalmoplegia]] · [[Rule of Four (Brainstem Localization)]] · [[Medial Medullary Syndrome (Dejerine Syndrome)]] · [[Patent Foramen Ovale and Paradoxical Embolism]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Stroke]] · [[CPS 146 - Right-Sided Weakness and Numbness and Medial Medullary Syndrome from a Vertebral Artery Dissection]]
+[[Clinical Reasoning MOC]] · [[Neurophobia]] · [[Acute Vestibular Syndrome]] · [[Approach to Dizziness]] · [[Internuclear Ophthalmoplegia]] · [[Rule of Four (Brainstem Localization)]] · [[Medial Medullary Syndrome (Dejerine Syndrome)]] · [[Patent Foramen Ovale and Paradoxical Embolism]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Stroke]] · [[CPS 146 - Right-Sided Weakness and Numbness and Medial Medullary Syndrome from a Vertebral Artery Dissection]]

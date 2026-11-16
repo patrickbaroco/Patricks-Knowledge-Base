@@ -120,4 +120,4 @@ The back half of the case — reasoning about cryptogenic bacteremia by organism
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · ["Meta-skills of practice"] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Decision Validity Independent of Outcome]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Illness Scripts and Updating Them]] · [[Meta-Skills of Practice]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Decision Validity Independent of Outcome]]

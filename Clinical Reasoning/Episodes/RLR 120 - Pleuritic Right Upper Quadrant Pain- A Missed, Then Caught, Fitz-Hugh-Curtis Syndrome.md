@@ -110,4 +110,4 @@ The final and most emphasized teaching point is about diagnostic humility and pr
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Test Interpretation]] · [[Illness Tempo]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Illness Tempo]]

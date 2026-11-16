@@ -1,30 +1,46 @@
 ---
 type: dashboard
 about: >-
-  Command Center status/staleness dashboard. Two kinds of data live here, and they refresh differently:
-  the Dataview blocks below are LIVE — Obsidian recomputes them every time this note opens, from file
-  activity in this vault. The Todoist Snapshot section is NOT live — Dataview has no access to Todoist,
-  so Command Center writes that section by hand from a live Todoist query, and it's only as current as
-  its "Last refreshed" stamp. See Home MOC.md for the cadence rules this implements.
-last_touched: 2026-08-10
+  Command Center status/staleness dashboard. Everything on this page is live and recomputes each time
+  the note opens: the Todoist blocks through the Todoist Sync plugin, the rest through Dataview from
+  file activity in this vault. Nothing here is written by hand. See Home MOC.md for the cadence rules
+  this implements, and Today.md for the daily view.
+last_touched: 2026-09-23
 ---
 
 # Projects Dashboard
 
-## Todoist Snapshot (refreshed by Command Center, not live)
+## Initiatives in Todoist
 
-*Last refreshed: **2026-08-10** by Command Center. This section only updates when you ask Command Center to refresh it (or as part of the weekly rollup) — say "refresh the dashboard" any time. Dataview can't see Todoist directly, so nothing below auto-updates the way the file-activity sections do.*
+Every open task carrying a `prj-` label, grouped by label. Live through the Todoist Sync plugin (replaced the hand-written Todoist Snapshot on 2026-09-23). A `prj-` label with no row here has no open task; Home MOC → Open items → Label hygiene says which of those are expected.
 
-| Initiative | Todoist signal | Status |
-|---|---|---|
-| Declutter (`prj-declutter`) | "Week 1/37" task, due 2026-08-08 | 🔴 2 days overdue — first session not done yet, 2 days after the project launched |
-| Meadow Conversion (`prj-meadow`) | "Buy meadow seeds" task, due 2026-08-07 | 🔴 3 days overdue |
-| Role Transition (`prj-transition`) | "Schedule Surah intro meeting" task, due 2026-08-10 | 🟡 due today |
-| Clinical Quality Framework (`prj-quality`) | No open Todoist task | ⏸️ intentionally on hold — note says "revisit Monday 2026-08-10" (today) |
-| Acuity-Based SNF Scheduling (`prj-acuity`) | No open Todoist task | ⏸️ intentionally on hold — note says "revisit Monday 2026-08-10" (today) |
-| Meal Planning | "Plan meals for the week," recurring Sun 6pm | 🔴 missed — not completed as of Sun 8/9 (zero task completions logged across the whole account 8/3–8/9) |
+```todoist
+name: "Open tasks by initiative"
+filter: "@prj-*"
+autorefresh: 600
+groupBy: labels
+sorting:
+  - date
+  - priority
+show:
+  - due
+  - project
+view:
+  noTasksMessage: "No open prj- tasks."
+```
 
-**Worth a direct decision today:** both Clinical Quality Framework and Acuity-Based SNF Scheduling deferred their next step to "Monday 8/10" — that's today, and neither has a Todoist task queued yet.
+Undated `prj-` tasks created more than two weeks ago (Home MOC's "gone quiet" proxy):
+
+```todoist
+name: "Undated and older than two weeks"
+filter: "@prj-* & no date & created before: -14 days"
+autorefresh: 600
+groupBy: labels
+show:
+  - labels
+view:
+  noTasksMessage: "None."
+```
 
 ---
 
@@ -44,6 +60,10 @@ SORT file.mtime DESC
 This is the deeper check from Home MOC's Cadence Rules: for each active project, the *real* last-touched date is the newest file among the project note itself, everything in its `related` frontmatter, and — for Clinical Reasoning specifically — every file in the whole `Clinical Reasoning/` folder (MOC + Episodes), since episode work routinely never touches the tracking note at all.
 
 Flags a 🔴 if nothing in that set has moved in 7+ days, 🟡 at 4–6 days, and separately flags ⚠️ if the frontmatter `last_touched` date disagrees with the real computed date by a day or more (a sign work happened somewhere the tracking note doesn't know about).
+
+**Gates:** a project whose frontmatter carries `gated_until: YYYY-MM-DD` (with an optional `gate:` saying what it waits for) shows 🚦 and is not flagged until that date. After it, days-since counts from the gate date, so a gate that passes with nothing done turns 🟡 at four days and 🔴 at seven.
+
+**Exception:** a project carrying `cadence: untracked` in its frontmatter is listed but never flagged — it shows ⏸️ and no days-since figure. Some projects (Clinical Handbook) progress at their own pace by design, and measuring them against a rhythm they were never given produces false staleness.
 
 ```dataviewjs
 const pages = dv.pages('"Projects"').where(p => p.status === "active");
@@ -75,6 +95,16 @@ for (const p of pages) {
     }
   }
 
+  // gated_until: nothing is due before this date. While it is in the future, show 🚦 and no flag;
+  // once it passes, the quiet clock starts from the gate date rather than the last edit.
+  const gate = p.gated_until ? dv.date(p.gated_until) : null;
+  if (gate && gate.valueOf() >= dv.date("today").valueOf()) {
+    const lt = mtimes.reduce((a, b) => (a.valueOf() > b.valueOf() ? a : b));
+    rows.push([p.file.link, lt.toFormat("yyyy-MM-dd"), "—", "", `🚦 gated until ${gate.toFormat("yyyy-MM-dd")}${p.gate ? " — " + p.gate : ""}`]);
+    continue;
+  }
+  if (gate) mtimes.push(gate);
+
   const realLastTouched = mtimes.reduce((a, b) => (a.valueOf() > b.valueOf() ? a : b));
   const nowMs = dv.date("now").valueOf();
   const daysSince = Math.floor((nowMs - realLastTouched.valueOf()) / 86400000);
@@ -86,6 +116,12 @@ for (const p of pages) {
       const diffDays = Math.abs(Math.floor((fmDate.valueOf() - realLastTouched.valueOf()) / 86400000));
       if (diffDays >= 1) mismatch = "⚠️ frontmatter drift";
     }
+  }
+
+  // projects marked `cadence: untracked` progress at their own pace — never flag them
+  if (p.cadence === "untracked") {
+    rows.push([p.file.link, realLastTouched.toFormat("yyyy-MM-dd"), "—", "", "⏸️ untracked — no expected cadence"]);
+    continue;
   }
 
   let flag = "🟢";

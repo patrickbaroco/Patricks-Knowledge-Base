@@ -132,4 +132,4 @@ Vijay shares a teaching pearl from his attending: because the wasting doesn't fi
 
 ## Related Notes
 
-[[Hirayama Disease]] · [[Motor Neuron Disease]] · [[Hand of Benediction]] · [[Oculosympathetic Pathway]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Base Rate]]
+[[Clinical Reasoning MOC]] · [[Hirayama Disease]] · [[Motor Neuron Disease]] · [[Hand of Benediction]] · [[Oculosympathetic Pathway]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Base Rate]]

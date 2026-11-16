@@ -139,4 +139,4 @@ The teaching point of Case 2 is the diagnostic power of a single blood gas, inte
 
 ## Related Notes
 
-[[Endovascular Infection in Patients with Cardiac Hardware]] · [[Decompensated Heart Failure in Dialysis Patients]] · [[Shock]] · [[Diagnostic Humility]] · [[Test Interpretation]]
+[[Clinical Reasoning MOC]] · [[Endovascular Infection in Patients with Cardiac Hardware]] · [[Decompensated Heart Failure in Dialysis Patients]] · [[Shock]] · [[Diagnostic Humility]] · [[Test Interpretation]]

@@ -14,3 +14,8 @@ The cherry tree on the Fishersville property.
 - Rake and burn affected leaves (now)
 - End-of-season rake, once leaves are fully down (~mid-Nov 2026)
 - Preventive fungicide spray before bud break (~early Mar 2027)
+
+## Related
+- [[Meadow Conversion]] — the orchard floor plan (2026-08-30) deliberately keeps the ground
+  short and clear rather than planting a tall understory, partly so the leaf-spot
+  sanitation raking above stays practical. Same reasoning, two notes.

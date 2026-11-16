@@ -121,4 +121,4 @@ Pylephlebitis (septic thrombophlebitis of the portal vein) is sometimes termed a
 
 ## Related Notes
 
-[[Cholestatic Liver Injury from Distant Sources]] · [[Biliary Imaging Sensitivity Ladder]] · [[Hepatic Infarct]] · [[Portal Vein Thrombosis]] · [[Pylephlebitis]] · [[Myeloproliferative Neoplasms]] · [[Bow and Arrow versus Fishing Net]] · [[Diagnostic Humility]] · [[Schema-Based Reasoning]] · [[Base Rate]]
+[[Clinical Reasoning MOC]] · [[Cholestatic Liver Injury from Distant Sources]] · [[Biliary Imaging Sensitivity Ladder]] · [[Hepatic Infarct]] · [[Portal Vein Thrombosis]] · [[Pylephlebitis]] · [[Myeloproliferative Neoplasms]] · [[Bow and Arrow versus Fishing Net]] · [[Diagnostic Humility]] · [[Schema-Based Reasoning]] · [[Base Rate]]

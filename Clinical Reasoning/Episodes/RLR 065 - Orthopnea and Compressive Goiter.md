@@ -118,4 +118,4 @@ The reveal: a **massive [[Goiter|goiter]]**, growing substernally so that it was
 
 ## Related Notes
 
-[[Orthopnea]] · [[Dyspnea]] · [[Goiter]] · [[Mediastinal Mass]] · [[Mass Lesion Schema]] · [[Tracheal Compression]] · [[Platypnea-Orthodeoxia]] · [[Anemia]] · [[Schema-Based Reasoning]] · [[Base Rate]] · [[Anatomical Approach]] · [[Analogical Reasoning]] · [[Illness Tempo]] · [[Return to the Bedside]] · [[Center of Gravity]] · [[Cognitive Autopsy]] · [[RLR 031 - Headache and Gorham-Stout Disease]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]
+[[Clinical Reasoning MOC]] · [[Orthopnea]] · [[Dyspnea]] · [[Goiter]] · [[Mediastinal Mass]] · [[Mass Lesion Schema]] · [[Tracheal Compression]] · [[Platypnea-Orthodeoxia]] · [[Anemia]] · [[Schema-Based Reasoning]] · [[Base Rate]] · [[Anatomical Approach]] · [[Analogical Reasoning]] · [[Illness Tempo]] · [[Return to the Bedside]] · [[Center of Gravity]] · [[Cognitive Autopsy]] · [[RLR 031 - Headache and Gorham-Stout Disease]] · [[RLR 059 - Weakness and Numbness and Leptomeningeal Carcinomatosis]]

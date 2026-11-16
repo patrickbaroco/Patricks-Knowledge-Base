@@ -13,3 +13,5 @@ my_rating:
 ---
 
 To win the heart of the girl of his dreams, a slacker Toronto bassist must defeat her seven evil exes in a series of video-game-styled battles.
+
+Directed by [[Edgar Wright]].

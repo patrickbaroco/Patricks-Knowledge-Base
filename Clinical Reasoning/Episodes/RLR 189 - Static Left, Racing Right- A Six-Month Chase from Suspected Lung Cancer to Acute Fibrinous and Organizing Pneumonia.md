@@ -128,4 +128,4 @@ Finally, the episode's humanistic closing notes — Reza's reflection on extendi
 
 ## Related Notes
 
-[[Illness Tempo]] · [[Trend Over Snapshot]] · [[Treatment as a Diagnostic Test]] · [[Diagnostic Humility]] · [[Granulomatous Disease]] · [[Pulmonary Nodule Distribution]] · [[Base Rate]] · [[Silicosis]] · [[Unifying Diagnosis]]
+[[Clinical Reasoning MOC]] · [[Illness Tempo]] · [[Trend Over Snapshot]] · [[Treatment as a Diagnostic Test]] · [[Diagnostic Humility]] · [[Granulomatous Disease]] · [[Pulmonary Nodule Distribution]] · [[Base Rate]] · [[Silicosis]] · [[Unifying Diagnosis]]

@@ -97,4 +97,4 @@ A third teaching point is the discipline of not dismissing an EKG finding as sec
 
 ## Related Notes
 
-[[Blood Per Os]] · [[Colitis]] · [[Anemia and Thrombocytopenia]] · [[Diagnostic Humility]] · [[Base Rate]]
+[[Clinical Reasoning MOC]] · [[Blood Per Os]] · [[Colitis]] · [[Anemia and Thrombocytopenia]] · [[Diagnostic Humility]] · [[Base Rate]]

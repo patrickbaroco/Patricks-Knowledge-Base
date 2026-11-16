@@ -31,7 +31,7 @@ The clinical governance build creates a standing administrative function that do
 
 | Function | Detail |
 |---|---|
-| Council administration | Agendas, pre-reads, packet assembly and distribution, minutes, action-item tracking to closure for the Clinical Quality Council and Peer Review Council |
+| Committee administration | Agendas, pre-reads, packet assembly and distribution, minutes, action-item tracking to closure for the Clinical Quality Committee and Peer Review Committee |
 | Case logistics | Scheduling, panel logistics, recusal screening against the charter's trigger list, notice distribution |
 | Record custody | The peer review file, access log, segregation from HR and credentialing systems, confidentiality legends, legal hold when one attaches |
 | PSES boundary execution | Applying the policy's rule document by document, at the moment each document is created |
@@ -39,7 +39,7 @@ The clinical governance build creates a standing administrative function that do
 | PRC–credentialing interface | Transmission of final actions on a defined form, and the transmission log |
 | Research and content support | Literature retrieval and source library for pathway and education work |
 
-**Sizing (estimate).** At current volume: PRC meeting cycle 6–7 hours a month, case logistics 2–4, custody and interface log 2, calendar tracking under 1. Adding CQC administration brings council work to roughly 16–19 hours a month — about 10–12% of a full FTE. The remainder of the allocation covers research, content, and liaison support.
+**Sizing (estimate).** At current volume: PRC meeting cycle 6–7 hours a month, case logistics 2–4, custody and interface log 2, calendar tracking under 1. Adding CQC administration brings committee work to roughly 16–19 hours a month — about 10–12% of a full FTE. The remainder of the allocation covers research, content, and liaison support.
 
 The build period adds packet volume and version control during charter review cycles. It is an increment, not a step change, because the drafting itself is Chair work.
 
@@ -57,7 +57,7 @@ The build period adds packet volume and version control during charter review cy
 
 Each is a coordinator function with a legal consequence attached. A charter that satisfies the union of five states' requirements and is then administered by whoever has time that week does not survive its first discovery request. The program does not fail on legal theory. It fails on minutes.
 
-**The privileges construct was already made contingent on this.** The brief's resourcing decision: *"pursue it, contingent on resourcing and a board resolution. Do not win the principle and then implement alone."* This names the resource.
+**The privileges construct was already made contingent on this.** The brief's resourcing decision: *"pursue it, contingent on resourcing ... Do not win the principle and then implement alone."* This names the resource.
 
 ---
 
@@ -75,7 +75,7 @@ Two functions are frequently bundled into this role and should not be. Naming th
 
 **NPDB operations split three ways and none of them land here.**
 
-- **The reportability determination** stays with the CGC, made with counsel, recorded as a required field in the final action document. The obligation attaches to the final action, so it comes off the deciding body. It does not go to the CMO — that would put a decision flowing directly from the peer review record on the management side of the firewall, in the program's highest-consequence output.
+- **The reportability determination** stays with the Peer Review Committee, made with counsel, recorded as a required field in the final action document. The obligation attaches to the final action, so it comes off the deciding body. It does not go to the CMO — that would put a decision flowing directly from the peer review record on the management side of the firewall, in the program's highest-consequence output.
 - **The authorized agent and signature** is an entity function and belongs with compliance or general counsel. The agent attests on the entity's behalf, including the biennial attestation, which is a compliance instrument. The CMO role is interim, and an interim officeholder as the entity's NPDB agent is a continuity risk on a function with statutory deadlines.
 - **Querying** belongs with credentialing, where the queries actually occur and the workflow already exists.
 
@@ -115,7 +115,7 @@ At steady state the coordinator's allocation tracks the Chair's, because the sup
 
 The answer is structural. Screen her out of case handling for clinicians at the facilities she supports operationally; the schedule makes that a short, defined list. Write it as a staff-facing recusal provision in the PRC charter, which also closes a real gap — the charter's recusal provisions are written for members, not staff.
 
-**3. Two trackers, not one.** The spec currently reads "track outstanding action items across both councils to closure." A single tracker spanning CQC and PRC is exactly the artifact that defeats the PSES boundary: one discoverable document showing that patient-safety-track and peer-review-track work were administered as one workflow. Separate trackers, separate systems, separate access lists, and the same discipline for minutes, the source library, and calendar invites. Fix this in the spec before it becomes practice.
+**3. Two trackers, not one.** The spec currently calls for one tracker of outstanding action items across both committees. A single tracker spanning CQC and PRC is exactly the artifact that defeats the PSES boundary: one discoverable document showing that patient-safety-track and peer-review-track work were administered as one workflow. Separate trackers, separate systems, separate access lists, and the same discipline for minutes, the source library, and calendar invites. Fix this in the spec before it becomes practice.
 
 ---
 

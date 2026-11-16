@@ -112,4 +112,4 @@ The core teaching point is a reusable heuristic: when a hemorrhage is found afte
 
 ## Related Notes
 
-[[Approach to Falls in the Elderly]] · [[Intracranial Hemorrhage]] · [[Lacunar Stroke]] · [[MINOCA]] · [[Secondary Hypertension]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Falls in the Elderly]] · [[Intracranial Hemorrhage]] · [[Lacunar Stroke]] · [[MINOCA]] · [[Secondary Hypertension]] · [[Diagnostic Humility]]

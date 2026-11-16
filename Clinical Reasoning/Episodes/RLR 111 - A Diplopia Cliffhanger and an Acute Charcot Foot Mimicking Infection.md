@@ -127,4 +127,4 @@ A third, structural teaching point is the episode's deliberate cliffhanger forma
 
 ## Related Notes
 
-[[Neuroanatomical Localization]] · [[Localization × Time Course]] · [[Diagnostic Humility]] · [[Illness Tempo]]
+[[Clinical Reasoning MOC]] · [[Neuroanatomical Localization]] · [[Localization × Time Course]] · [[Diagnostic Humility]] · [[Illness Tempo]]

@@ -24,3 +24,8 @@ _Left open_
 
 **Outcome**
 
+
+**Tomorrow's top 3**
+1. 
+2. 
+3. 

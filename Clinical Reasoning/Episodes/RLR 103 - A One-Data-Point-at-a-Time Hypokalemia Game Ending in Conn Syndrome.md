@@ -108,4 +108,4 @@ The final and most broadly generalizable teaching point is the outsized diagnost
 
 ## Related Notes
 
-[[Hyponatremia]] · [[Base Rate]] · [[Anchoring Bias]] · [[Diagnostic Humility]] · [[Spurious Hyperkalemia]]
+[[Clinical Reasoning MOC]] · [[Hyponatremia]] · [[Base Rate]] · [[Anchoring Bias]] · [[Diagnostic Humility]] · [[Spurious Hyperkalemia]]

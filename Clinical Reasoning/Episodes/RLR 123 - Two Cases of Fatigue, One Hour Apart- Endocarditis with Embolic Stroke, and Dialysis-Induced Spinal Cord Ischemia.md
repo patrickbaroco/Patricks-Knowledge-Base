@@ -146,4 +146,4 @@ The overarching, connecting teaching point across both cases is procedural: the 
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Test Interpretation]] · [[Shock]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[Shock]]

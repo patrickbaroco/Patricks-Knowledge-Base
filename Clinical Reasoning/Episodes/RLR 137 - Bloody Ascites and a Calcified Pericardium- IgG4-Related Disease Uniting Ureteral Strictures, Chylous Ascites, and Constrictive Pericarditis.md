@@ -127,4 +127,4 @@ The episode's throughline is the discipline of seeking one unifying diagnosis be
 
 ## Related Notes
 
-[[Approach to Ascites]] · [[IgG4-Related Disease]] · [[Constrictive Pericarditis]] · [[Retroperitoneal Fibrosis]] · [[Approach to Eosinophilia]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Ascites]] · [[IgG4-Related Disease]] · [[Constrictive Pericarditis]] · [[Retroperitoneal Fibrosis]] · [[Approach to Eosinophilia]] · [[Diagnostic Humility]]

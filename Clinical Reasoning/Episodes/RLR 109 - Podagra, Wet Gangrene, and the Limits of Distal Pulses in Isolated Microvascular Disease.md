@@ -115,4 +115,4 @@ A third, more personal teaching point is the episode's unusually candid treatmen
 
 ## Related Notes
 
-[[Gout]] · [[Base Rate]] · [[Illness Tempo]] · [[Diagnostic Humility]] · [[Anchoring Bias]]
+[[Clinical Reasoning MOC]] · [[Gout]] · [[Base Rate]] · [[Illness Tempo]] · [[Diagnostic Humility]] · [[Anchoring Bias]]

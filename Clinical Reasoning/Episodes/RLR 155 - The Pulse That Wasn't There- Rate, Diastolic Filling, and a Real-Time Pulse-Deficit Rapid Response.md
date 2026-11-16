@@ -102,7 +102,7 @@ Finally, the case models goals-of-care-aware clinical reasoning in real time: ra
 
 - [ ] Build [[Pulse Deficit and Pulse-Telemetry Discordance - A Framework]]
 - [ ] Update [[Approach to New Tachyarrhythmia]] — "is there time?" hemodynamic-stability-first framing and reversible-sympathetic-tone search (RLR 155)
-- [ ] Consider grouping with [["Meta-skills of practice"]] — goals-of-care-calibrated diagnostic threshold; explicit trade-off between further workup and patient trajectory/comfort
+- [ ] Consider grouping with [[Meta-Skills of Practice]] — goals-of-care-calibrated diagnostic threshold; explicit trade-off between further workup and patient trajectory/comfort
 - [ ] Note under [[Case-Based Recall as a Diagnostic Trigger]] — new variant: recorded teaching content (not just a remembered colleague case) retrieved and applied mid-code (RLR 155)
 
 ## Handbook Opportunities
@@ -114,4 +114,4 @@ Finally, the case models goals-of-care-aware clinical reasoning in real time: ra
 
 ## Related Notes
 
-[[Pulse Deficit and Pulse-Telemetry Discordance - A Framework]] · [[Approach to New Tachyarrhythmia]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Pulse Deficit and Pulse-Telemetry Discordance - A Framework]] · [[Approach to New Tachyarrhythmia]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Diagnostic Humility]]

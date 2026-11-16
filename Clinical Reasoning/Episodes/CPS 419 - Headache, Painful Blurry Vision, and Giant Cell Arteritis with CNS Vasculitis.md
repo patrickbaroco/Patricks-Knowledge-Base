@@ -140,4 +140,4 @@ Jeffrey reveals the outcome: repeat workup (a second temporal artery biopsy, LP,
 
 ## Related Notes
 
-[[Giant Cell Arteritis]] · [[CNS Vasculitis]] · [[Diplopia]] · [[Papilledema vs Optic Disc Edema]] · [[Headache Red Flags]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Unifying Diagnosis]] · [[Base Rate]]
+[[Clinical Reasoning MOC]] · [[Giant Cell Arteritis]] · [[CNS Vasculitis]] · [[Diplopia]] · [[Papilledema vs Optic Disc Edema]] · [[Headache Red Flags]] · [[Anatomical Approach]] · [[Illness Tempo]] · [[Illness Script]] · [[Test Interpretation]] · [[Diagnostic Humility]] · [[Unifying Diagnosis]] · [[Base Rate]]

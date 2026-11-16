@@ -127,4 +127,4 @@ Case 2's central teaching point is a discriminating diagnostic habit: when a sin
 
 ## Related Notes
 
-[[Base Rate]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Test Interpretation]] · [[Hyponatremia]]
+[[Clinical Reasoning MOC]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Anchoring Bias]] · [[Test Interpretation]] · [[Hyponatremia]]

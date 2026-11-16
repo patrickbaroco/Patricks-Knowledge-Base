@@ -96,4 +96,4 @@ The resident who obtained the caffeine history is framed as having made the oppo
 
 ## Related Notes
 
-[[Meningitis]] · [[Caffeine Withdrawal Headache]] · [[Anchoring Bias]] · [[Premature Closure]] · [[30,000-Foot View of Headache]] · [[SNOOP Mnemonic]] · [[RLR 031 - Headache and Gorham-Stout Disease]]
+[[Clinical Reasoning MOC]] · [[Meningitis]] · [[Caffeine Withdrawal Headache]] · [[Anchoring Bias]] · [[Premature Closure]] · [[30,000-Foot View of Headache]] · [[SNOOP Mnemonic]] · [[RLR 031 - Headache and Gorham-Stout Disease]]

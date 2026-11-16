@@ -124,4 +124,4 @@ This episode's central lesson is about the diagnostic power of generalization: r
 
 ## Related Notes
 
-[[Dysphagia - Tempo and Location Framework]] · [[Esophageal and Mucosal Ulcers - Base Rate Approach]] · [[Pemphigus Vulgaris vs Bullous Pemphigoid]] · [[Isolated Esophageal Pemphigus Vulgaris]] · [[Oral Ulcers - Systemic Signature Approach]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Dysphagia - Tempo and Location Framework]] · [[Esophageal and Mucosal Ulcers - Base Rate Approach]] · [[Pemphigus Vulgaris vs Bullous Pemphigoid]] · [[Isolated Esophageal Pemphigus Vulgaris]] · [[Oral Ulcers - Systemic Signature Approach]] · [[Diagnostic Humility]]

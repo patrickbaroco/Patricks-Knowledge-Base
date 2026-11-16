@@ -124,4 +124,4 @@ Malakoplakia is diagnosed by pathognomonic Michaelis-Gutmann bodies on special s
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Analogical Reasoning]] · [[Diagnostic Humility]] · [[Treatment as a Diagnostic Test]] · [[Granulomatous Disease]] · [[SVC Syndrome]] · [[RLR 088 - Post-Infusion Hypotension, an Unmasked Massive Pleural Effusion, and Reactivated Tuberculosis]] · [[RLR 074 - Bilateral Facial Swelling and Pacemaker Lead-Induced SVC Syndrome]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Analogical Reasoning]] · [[Diagnostic Humility]] · [[Treatment as a Diagnostic Test]] · [[Granulomatous Disease]] · [[SVC Syndrome]] · [[RLR 088 - Post-Infusion Hypotension, an Unmasked Massive Pleural Effusion, and Reactivated Tuberculosis]] · [[RLR 074 - Bilateral Facial Swelling and Pacemaker Lead-Induced SVC Syndrome]]

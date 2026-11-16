@@ -118,4 +118,4 @@ The core teaching contribution is the "ultra-hypercoagulable" framework itself: 
 
 ## Related Notes
 
-[[Approach to Hypercoagulability]] · [[Pulmonary Embolism]] · [[Small Lymphocytic Lymphoma]] · [[Capacity and Decision-Making]] · [[Base Rate]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Hypercoagulability]] · [[Pulmonary Embolism]] · [[Small Lymphocytic Lymphoma]] · [[Capacity and Decision-Making]] · [[Base Rate]] · [[Diagnostic Humility]]

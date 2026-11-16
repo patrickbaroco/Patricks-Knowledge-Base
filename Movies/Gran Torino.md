@@ -2,11 +2,13 @@
 title: Gran Torino
 year: 2008
 director: Clint Eastwood
-genre: [drama, crime]
+genre:
+  - drama
+  - crime
 rating: R
 rotten_tomatoes: 81
 runtime_minutes: 130
-family_friendly: false
+family_friendly: true
 watched: false
 date_watched:
 my_rating:

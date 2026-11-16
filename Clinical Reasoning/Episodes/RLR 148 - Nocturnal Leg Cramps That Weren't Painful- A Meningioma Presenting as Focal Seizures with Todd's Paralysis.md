@@ -145,4 +145,4 @@ The central teaching arc traces a single symptom word — "spasm" — through se
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Base Rate Neglect]] · [[Approach to Seizures]] · [[Todd's Paralysis]] · [[Meningioma]] · [[Asymmetric CNS Localization- Brain versus Spinal Cord]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Base-Rate Neglect]] · [[Approach to Seizures]] · [[Todd's Paralysis]] · [[Meningioma]] · [[Asymmetric CNS Localization- Brain versus Spinal Cord]]

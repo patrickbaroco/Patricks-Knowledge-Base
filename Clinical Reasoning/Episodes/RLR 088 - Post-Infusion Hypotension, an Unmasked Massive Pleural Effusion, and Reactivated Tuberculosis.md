@@ -129,4 +129,4 @@ Reflexive trust in a prior subspecialist clearance ("ID already cleared this") s
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Shock]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[Anatomical Approach]] · [[Inflammatory Bowel Disease]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Shock]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[Anatomical Approach]] · [[Inflammatory Bowel Disease]]

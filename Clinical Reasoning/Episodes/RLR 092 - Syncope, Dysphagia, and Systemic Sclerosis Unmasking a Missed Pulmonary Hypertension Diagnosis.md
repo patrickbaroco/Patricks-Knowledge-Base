@@ -123,4 +123,4 @@ Clinicians should actively guard against unconscious bias toward patients with s
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Anchoring Bias]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[Transient Loss of Consciousness]] · [[RLR 090 - Intermittent Dyspnea, Puffy Hands, and Occult Pulmonary Arterial Hypertension]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Anchoring Bias]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[Transient Loss of Consciousness]] · [[RLR 090 - Intermittent Dyspnea, Puffy Hands, and Occult Pulmonary Arterial Hypertension]]

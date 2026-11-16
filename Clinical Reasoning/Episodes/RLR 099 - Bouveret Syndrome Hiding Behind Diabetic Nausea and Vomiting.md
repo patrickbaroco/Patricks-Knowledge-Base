@@ -100,4 +100,4 @@ The central diagnostic teaching point is the pairing of gastric outlet obstructi
 
 ## Related Notes
 
-[[Illness Tempo]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Adrenal Insufficiency]]
+[[Clinical Reasoning MOC]] · [[Illness Tempo]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Adrenal Insufficiency]]

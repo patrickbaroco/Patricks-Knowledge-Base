@@ -126,4 +126,4 @@ Reaching a difficult diagnosis without immediate access to the relevant speciali
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Illness Tempo]] · [[Localization × Time Course]] · [[Diagnostic Humility]] · [[Hyponatremia]] · [[Adrenal Insufficiency]] · [[Transient Loss of Consciousness]] · [[Altered Mental Status]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Illness Tempo]] · [[Localization × Time Course]] · [[Diagnostic Humility]] · [[Hyponatremia]] · [[Adrenal Insufficiency]] · [[Transient Loss of Consciousness]] · [[Altered Mental Status]]

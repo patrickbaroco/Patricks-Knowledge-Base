@@ -29,7 +29,7 @@ A 55-year-old woman with a history notable only for colonic polyps and two prior
 
 ## Case Narrative
 
-The case was presented by John and discussed by Valeria and Madalena, with [[Aaron Berkowitz]] guiding the discussion.
+The case was presented by John and discussed by Valeria and Madalena, with Aaron Berkowitz guiding the discussion.
 
 The chief concern — diplopia — was met with visible enthusiasm from both discussants, prompting Berkowitz to have Valeria walk through her framework first. She distinguished **monocular versus binocular diplopia**: binocular diplopia means the eyes are misaligned, and its localization runs the full length of the [[Diplopia]] pathway — the ocular motor cranial nerve nuclei in the brainstem, the nerves themselves (III, IV, VI), the neuromuscular junction (myasthenia gravis), and the extraocular muscles (thyroid eye disease, or a local orbital process like cellulitis or an abscess). Monocular diplopia, by contrast, persists even with one eye covered and is usually an ophthalmologic problem with the lens or refractive apparatus, outside the neurologic differential. Berkowitz demonstrated the bedside cover test: gently occluding one eye and moving the eyes into misalignment reproduces the double vision, because the brain is thrown off by images no longer landing on corresponding retinal points; if covering either eye in turn resolves the diplopia, both eyes are individually intact but misaligned — binocular diplopia.
 

@@ -105,4 +105,4 @@ The most memorable teaching point, explicitly named by both hosts, is the distin
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Illness Tempo]] · [[Base Rate]] · [[Altered Mental Status]] · [[Subacute Combined Degeneration]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Illness Tempo]] · [[Base Rate]] · [[Altered Mental Status]] · [[Subacute Combined Degeneration]]

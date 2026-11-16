@@ -1,0 +1,146 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - file.ext == "md"
+formulas:
+  year_read: 'if(date_finished, date_finished.year, "")'
+properties:
+  my_rating:
+    displayName: My rating
+  goodreads_rating:
+    displayName: Goodreads
+  date_started:
+    displayName: Started
+  date_finished:
+    displayName: Finished
+  date_added:
+    displayName: Added
+  series_number:
+    displayName: "#"
+  formula.year_read:
+    displayName: Year read
+  kindle_collections:
+    displayName: Kindle
+views:
+  - type: table
+    name: All Books
+    order:
+      - file.name
+      - author
+      - status
+      - my_rating
+      - category
+      - genre
+      - kindle_collections
+      - year
+      - pages
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 260
+      note.author: 170
+      note.my_rating: 90
+      note.year: 70
+      note.pages: 70
+  - type: table
+    name: Read
+    filters:
+      and:
+        - status == "read"
+    groupBy:
+      property: formula.year_read
+      direction: DESC
+    order:
+      - file.name
+      - author
+      - my_rating
+      - date_finished
+      - category
+      - genre
+      - pages
+    sort:
+      - property: date_finished
+        direction: DESC
+    columnSize:
+      file.name: 260
+      note.author: 170
+      note.my_rating: 90
+      note.pages: 70
+  - type: table
+    name: Currently Reading
+    filters:
+      and:
+        - status == "currently reading"
+    order:
+      - file.name
+      - author
+      - date_added
+      - category
+      - genre
+      - pages
+    sort:
+      - property: date_added
+        direction: DESC
+    columnSize:
+      file.name: 260
+      note.author: 170
+      note.pages: 70
+  - type: table
+    name: Want to Read
+    filters:
+      and:
+        - status == "want to read"
+    order:
+      - file.name
+      - author
+      - category
+      - genre
+      - pages
+      - goodreads_rating
+    sort:
+      - property: date_added
+        direction: DESC
+    columnSize:
+      file.name: 260
+      note.author: 170
+      note.pages: 70
+  - type: table
+    name: Series
+    filters:
+      and:
+        - '!series.isEmpty()'
+    groupBy:
+      property: series
+      direction: ASC
+    order:
+      - file.name
+      - series_number
+      - status
+      - my_rating
+      - date_finished
+    sort:
+      - property: series_number
+        direction: ASC
+  - type: kanban
+    name: Board
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - author
+      - my_rating
+  - type: cards
+    name: Shelf
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 160
+    order:
+      - file.name
+      - author
+      - status
+    sort:
+      - property: date_added
+        direction: DESC

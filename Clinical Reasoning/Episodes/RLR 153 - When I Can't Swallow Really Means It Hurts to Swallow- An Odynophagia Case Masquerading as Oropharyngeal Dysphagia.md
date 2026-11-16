@@ -117,7 +117,7 @@ Finally, the case models restrained, humility-driven disposition planning: once 
 - [ ] Build [[Approach to Acute Oropharyngeal Dysfunction - Structural versus Neurological]]
 - [ ] Build [[Problem Definition as a Diagnostic Decision]]
 - [ ] Update [[Colonization versus Infection in the Non-Sterile Airway]] — bronchiectasis flare-versus-colonization refinement (RLR 151 follow-up)
-- [ ] Consider grouping with [["Meta-skills of practice"]] / Diagnostic Humility — documenting uncertainty explicitly at discharge to avoid anchoring future providers
+- [ ] Consider grouping with [[Meta-Skills of Practice]] / Diagnostic Humility — documenting uncertainty explicitly at discharge to avoid anchoring future providers
 
 ## Handbook Opportunities
 
@@ -128,4 +128,4 @@ Finally, the case models restrained, humility-driven disposition planning: once 
 
 ## Related Notes
 
-[[Dysphagia versus Odynophagia - The Bowel Obstruction/Colitis Analogy]] · [[Approach to Acute Oropharyngeal Dysfunction - Structural versus Neurological]] · [[Colonization versus Infection in the Non-Sterile Airway]] · [[Approach to Bronchiectasis - Causes and Radiographic Clues]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Dysphagia versus Odynophagia - The Bowel Obstruction/Colitis Analogy]] · [[Approach to Acute Oropharyngeal Dysfunction - Structural versus Neurological]] · [[Colonization versus Infection in the Non-Sterile Airway]] · [[Approach to Bronchiectasis - Causes and Radiographic Clues]] · [[Diagnostic Humility]]

@@ -4,7 +4,7 @@
 
 *Working file — 2026-09-10. The standards workstream, kept separate from `audit-referral-policy-skeleton.md` on purpose.*
 
-**Why this is a separate document.** Standards are adopted, revised and retired by the Committee under Article IV on a cadence of their own. The Audit Referral Policy is adopted by the Committee and **ratified by the Council** under § 4.2(f) of the Council Charter. A Policy that named measures would put a Council ratification in the way of every standards revision. The Policy therefore states what a criterion requires of any measure; **this file is where measures are worked out, and the standards register is where the answers are recorded.**
+**Why this is a separate document.** Standards are adopted, revised and retired by the Committee under Article IV on a cadence of their own. The Audit Referral Policy is adopted by the Committee and **takes effect on the Peer Review Committee's concurrence** (CQC § 6.2; PRC § 11.5). A Policy that named measures would put a PRC concurrence in the way of every standards revision. The Policy therefore states what a criterion requires of any measure; **this file is where measures are worked out, and the standards register is where the answers are recorded.**
 
 ---
 

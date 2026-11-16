@@ -129,4 +129,4 @@ The episode's throughline is that "normal" is a relative term in ESRD, and nowhe
 
 ## Related Notes
 
-[[Anemia of Chronic Kidney Disease]] · [[Approach to Pruritus]] · [[GI Arteriovenous Malformations]] · [[Myelodysplastic Syndrome]] · [[Base Rate]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Anemia of Chronic Kidney Disease]] · [[Approach to Pruritus]] · [[GI Arteriovenous Malformations]] · [[Myelodysplastic Syndrome]] · [[Base Rate]] · [[Diagnostic Humility]]

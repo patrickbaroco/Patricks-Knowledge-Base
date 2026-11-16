@@ -6,13 +6,13 @@ This file documents the full operating system for Patrick's daily logbook, so a 
 
 ## Purpose & Context
 
-Patrick works in a state CMO role at Eventus, managing clinical operations across multiple facilities. He also holds a **part-time role as team physician for Legacy Hospice**. As of 2026-07-26, the logbook also covers his personal-domain productive work (gardening, fishing, home projects, etc.) — see "Domains & Project Logs" below. This logbook is his daily operational record, built and maintained through Obsidian with the Periodic Notes plugin.
+Patrick is **Chair of Clinical Excellence** at Eventus (the former Virginia regional CMO role was handed to **Dr. Surah Grumet** effective 2026-08-31). He is separately the **medical director at six facilities — ANR, King's Daughters (KD), Summit Square, Shenandoah, Bridgewater (BRC), and Virginia Mennonite Retirement Community (VMRC)** — a role he retains; it did **not** transfer with the CMO handoff, so facility-level asks from those six are his by role and should never be flagged as work to route to Surah. He also holds a **part-time role as team physician for Legacy Hospice**. As of 2026-07-26, the logbook also covers his personal-domain productive work (gardening, fishing, home projects, etc.) — see "Domains & Project Logs" below. This logbook is his daily operational record, built and maintained through Obsidian with the Periodic Notes plugin.
 
 **Key colleagues and entities** (for reference when they appear in daily narratives):
 - **Sandeep** — colleague
 - **Dr. Rucci** — physician staffing discussions
 - **Lindsey** — team member
-- **Cary** — marketing document recipient
+- **Cary Trainor** — **COO of Eventus.** She/her. Earlier entries in this file described her only as "marketing document recipient" — that was wrong and undersold the relationship; she is an executive counterpart, not a document destination.
 - **Wellness Concepts** — best pharmacy partner
 - **Southern Pharmacy** — pharmacy partner
 - **Universal Health** — competitor; marketing positioning is a recurring strategic concern
@@ -49,6 +49,7 @@ Entries follow this exact structure, in this order:
 6. **Personal** *(optional — omit if not applicable that day)* — same shape as Work, covering home/garden/fishing/family/etc.
 7. **Inbox** — open/unresolved items, either domain; long-range or aspirational items are tagged `#someday`
 8. **Outcome** — single cross-domain narrative synthesizing the whole day
+9. **Tomorrow's top 3** — the three tasks for the next day, set with Patrick at the end-of-day review *(added 2026-09-16)*. Numbered, one line each, with the reason it made the list. These are rescheduled in Todoist to that day at the same time, so the note and the board agree. The same three carry the Todoist label `@top3`, which `Today.md` shows as a checkable list; the label comes off the previous set when the new three get it *(2026-10-05)*.
 
 This template applies to **every day**, weekday or weekend — see "Domains & Project Logs" below for what that changed.
 
@@ -72,16 +73,53 @@ Rules:
 
 ---
 
+## Calendar & Mail Inputs (Outlook)
+
+Added 2026-08-30, when Patrick connected his Eventus Outlook account (`pbaroco@eventuswh.com`). Before this, the daily entry had only Patrick's narration and Todoist to work from, and the Week Ahead note depended on a photo of his calendar — which is why no Week Ahead note existed between 2026-08-10 and 2026-08-30.
+
+Outlook is now a **standing input to the logbook**, in four places:
+
+1. **Daily note scaffold.** Before asking Patrick to narrate, pull the day's calendar and sweep the day's mail — **inbox and Sent Items together** (see "Sweep Sent Items" below), and use them to pre-fill `Where`, `Today's focus`, and the skeleton of `Work`. Patrick then corrects a draft rather than writing from a blank note — which is the whole point, given the [[daily-note-floor]] finding that an empty template is what breaks the habit.
+2. **Inbox candidates.** Mail that needs a reply, or that represents an open thread, is surfaced as a *candidate* `Inbox` item on the daily. Candidate, not automatic — Patrick decides what actually lands there.
+3. **Week Ahead note.** `Projects/Week Ahead/YYYY-MM-DD.md` is built from the actual Outlook week. The calendar photo is retired as an input.
+4. **Backfill.** Calendar and mail join the evidence sources for reconstructing missed days, ranking near the top — above vault file mtimes, because they carry meeting *content* and counterparties that no other source has.
+
+**Sweep Sent Items, not just the inbox** *(added 2026-08-31)*. Read `folderName: "Sent Items"` in the same pass, over the same day window. On 8/31 an inbox-only sweep produced five Inbox items and four of them were already handled — Patrick had answered them himself — while missing two threads he *initiated*, which were the day's most substantive work. Sent Items is what tells you:
+
+- **whether an apparent ask is still open** (the CGSC cadence question was answered at 3:56pm the same afternoon);
+- **who started a thread** — "he asked Kristen Medlin" and "Kristen Medlin wrote to him" are different days;
+- **what he actually said** — he sent the DHP license lookup, not a license copy; he sent Gavin's credentials to Barbara Middleton to ask what access they grant, rather than forwarding them on;
+- **that something did *not* go out** — the only way to confirm an unsent item, like the counsel engagement memo;
+- **accepted/declined meeting responses**, the cheapest confirmation a proposed meeting landed.
+
+**Before writing any Inbox item, check Sent for a reply on that thread. An answered thread is a Work line, not an Inbox line.**
+
+Also: names abbreviated in the Week Ahead are not verified names. Take spellings from how Patrick addresses people in his own sent mail — "S. Huneycutt" is **Shanda**, not Sarah.
+
+**Rules:**
+
+- **Never assert what happened in a meeting from the calendar alone.** The calendar establishes that a block existed, not that it happened or what was said. Write it as scaffold and let Patrick confirm — the pre-existing backfill rule, extended.
+- **Sweep signal only.** Filter out Power BI subscriptions and other automated reports, all-hands training blasts (Weekly Clinical Seminar, Clinical Director Office Hours, SNF Leadership Essentials, Experienced Clinician Roundtable — these are calendar items, not mail worth surfacing), calendar accept/decline traffic, and vendor marketing. Surface real person-to-person mail and anything awaiting a response from Patrick.
+- **Times come back in UTC.** `outlook_calendar_search` returns `dateTime` values in UTC; Patrick is America/New_York. Subtract 4h during EDT, 5h during EST. A 13:00 event is 9am his time. Getting this wrong shifts a whole day's shape — the same trap already documented for Todoist in [[log-backfill-sources]].
+- **The recurring rounding blocks are scaffolding, not news.** Mon Summit Square + ANR admits, Tue ANR + BRC admits, Wed BRC — these repeat every week. Note them in `Where`, don't flag them as findings.
+- **Standing sweep exclusions** (Patrick's call, 2026-08-30 — do not surface these as action items):
+  - **VDH medical certification requests** (`VADeptOfHealth@vdh.virginia.gov`, "Medical Certification Requested for Case No. ..."). **Lindsey handles these.** They arrive marked high importance and look actionable; they are not his.
+  - **Monday.com board notifications** (`notifications@monday.com` — "[Team mention] ...", Upcoming New Hires and other boards). **Patrick's call, 2026-08-31: ignore Monday board emails in general.** Board activity is not his queue; don't surface it and don't log it in the daily.
+- **Work mailbox only.** Outlook covers the Eventus domain. Nothing in the Personal domain will appear there, and its absence from the sweep means nothing.
+
+---
+
 ## Core Workflow Rules
 
 1. **One calendar week per chat conversation.** Each new week starts a fresh chat/session.
-2. **Before finalizing any new day's entry**, check whether the prior day's Inbox items have been addressed. If they haven't been clearly resolved, prompt Patrick for discussion before finalizing the new entry — don't just carry them forward silently.
-3. **At the end of each week**, produce two things:
+2. **Every end-of-day review ends by setting Tomorrow's top 3** *(2026-09-16)* — review the day, what's left, complete the log, then agree the three for the next day and write them as the last section of the note. Propose them from the calendar and the open board; Patrick picks. In the same Todoist change, reschedule the three to that day, add `@top3` to them, and remove `@top3` from any task still carrying it from the previous set.
+3. **Before finalizing any new day's entry**, check whether the prior day's Inbox items have been addressed. If they haven't been clearly resolved, prompt Patrick for discussion before finalizing the new entry — don't just carry them forward silently.
+4. **At the end of each week**, produce two things:
    - A **weekly rollup summary** — draws from both daily entries *and* any project-log activity that week, across **both work and personal domains**, so the week's full picture is captured (not just clinical/strategic/facilities).
    - A separate **"Handoff" note** — containing unresolved Inbox items, still-open `#someday` items, and any ongoing threads (either domain) — formatted so Patrick can paste it directly into the next week's new chat/session to carry context forward.
-4. **Weekly**, surface all accumulated `#someday` items from the Inbox sections that week, so Patrick can mark them complete or explicitly carry them forward.
-5. **On request**, produce monthly, quarterly, or annual rollup summaries.
-6. **At the first weekly review after a calendar month has closed**, sweep that month's daily notes into the archive (see "Daily Archive" below) — this is what keeps `Daily/` from growing unbounded, since standalone monthly rollups are only produced on request and can't be relied on as the trigger.
+5. **Weekly**, surface all accumulated `#someday` items from the Inbox sections that week, so Patrick can mark them complete or explicitly carry them forward.
+6. **On request**, produce monthly, quarterly, or annual rollup summaries.
+7. **At the first weekly review after a calendar month has closed**, sweep that month's daily notes into the archive (see "Daily Archive" below) — this is what keeps `Daily/` from growing unbounded, since standalone monthly rollups are only produced on request and can't be relied on as the trigger.
 
 ---
 
@@ -91,6 +129,7 @@ Decided 2026-07-30, to keep the `Daily/` folder from growing unbounded:
 
 - **Location**: `Logbook/Daily/Archive/YYYY-MM/` — nested under `Daily/` so the Periodic Notes plugin (which only looks at the top-level `Daily/` folder when creating new notes) is unaffected.
 - **Trigger**: swept during the **weekly review** (not the monthly-rollup ritual — monthly rollups are on-request and weren't actually happening, so tying the sweep to them risked the folder growing indefinitely). At the first weekly review whose week falls after a calendar month has fully closed, check whether that month's daily files are still in `Daily/`.
+- **Which half of the weekly review** *(disambiguated 2026-09-21, when the weekly split in two — see `Home MOC.md` decisions log)*: the sweep hangs off writing the **`## Handoff Note`**, which is the required half. **It does not hang off `## Weekly Rollup`,** which is now optional and may sit pending indefinitely. This is the same trap as the original 2026-07-30 decision one level down — tying the sweep to the deferrable artifact is how `Daily/` grows unbounded. If you wrote the Handoff and a month has closed since the last one, sweep.
 - **Process**: if a closed month's files are still present, (1) generate `Logbook/Monthly/YYYY-MM.md` if it doesn't exist yet — a narrative rollup + highlights, modeled on the weekly note's Rollup/highlights shape, so the substance survives before the raw dailies are tucked away — then (2) move that month's daily files into `Daily/Archive/YYYY-MM/`.
 - **First run**: June 2026 (2026-06-27 through 2026-06-30 — the only entries, since the logbook system itself started mid-month) was archived to `Daily/Archive/2026-06/` with `Monthly/2026-06.md` generated, on 2026-07-30 (done ad hoc rather than at a weekly review, since June was already fully closed out).
 
@@ -103,12 +142,14 @@ Decided 2026-07-30, to keep the `Daily/` folder from growing unbounded:
 - **First person voice**: All entries written as if Patrick is writing them himself.
 - **HQ default**: Always the default "Where" entry unless Patrick explicitly describes physically rounding at a specific facility.
 - **Domains**: Every day gets an entry; Work and Personal are each optional per-day but the template always has room for both. See "Domains & Project Logs" above.
+- **Fishing forecast in the Week Ahead**: A scheduled Claude task writes `Fishing/Forecasts/YYYY-MM-DD.md` (Monday's date) from the Mossy Creek Fly Fishing weekly post, Monday evening with a Tuesday 6am retry, and adds a `## Fishing forecast` section to that week's Week Ahead note, placed just before `## Flagged`, embedding the forecast's `#Week summary` and `#Weekend` sections. When building or reconciling a Week Ahead note, keep that section intact; if the forecast note already exists when the Week Ahead is built, add the section yourself in the same form. The Today dashboard reads the same note live for today, tomorrow and the weekend.
 
 ---
 
 ## How Claude Should Operate in This Project
 
-- Patrick will narrate his day in raw, unstructured notes.
+- Claude opens the day by pulling Outlook — the day's calendar and a signal-only sweep of the day's mail — and drafts the scaffold from it. See "Calendar & Mail Inputs" above.
+- Patrick will narrate his day in raw, unstructured notes, correcting and filling in that scaffold.
 - Claude converts that narrative into a structured entry following the template above exactly, in order.
 - Claude should not add a date header — Obsidian/Periodic Notes handles that automatically.
 - Before finalizing a new day's entry, Claude checks the previous day's Inbox for unresolved items and raises them for discussion if still open.

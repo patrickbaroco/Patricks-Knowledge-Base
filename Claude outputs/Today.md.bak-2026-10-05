@@ -1,0 +1,335 @@
+---
+type: dashboard
+cssclasses:
+  - today-dash
+about: >-
+  Daily dashboard. Opens on startup (Homepage plugin). Everything here is live except the
+  morning brief, which Claude rewrites each morning (weekends without work) into Logbook/Today Brief.md;
+  its Forecasts section leads the page, followed by the fishing forecast (South River daily note, Mossy Creek folded in).
+  Todoist blocks are live through the Todoist Sync plugin. Do not hand-edit the query blocks.
+---
+
+```dataviewjs
+// ---------- Header + quick links ----------
+const today = dv.date("today");
+const iso = today.toFormat("yyyy-MM-dd");
+const dailyName = `${iso}-${today.toFormat("ccc").slice(0, 2)}`;
+const dailyPath = `Logbook/Daily/${dailyName}`;
+const monday = today.minus({ days: today.weekday - 1 }).toFormat("yyyy-MM-dd");
+const weekAhead = dv.page(`Projects/Week Ahead/${monday}`);
+const weeklies = dv.pages('"Logbook/Weekly"')
+  .where(p => /^\d{4}-W\d{2}$/.test(p.file.name))
+  .sort(p => p.file.name, "desc");
+const handoff = weeklies.length ? weeklies[0] : null;
+
+dv.header(1, today.toFormat("cccc, LLLL d"));
+
+const bar = dv.el("div", "", { cls: "today-links" });
+const btn = (label, fn) => {
+  const b = bar.createEl("button", { text: label });
+  b.addEventListener("click", fn);
+};
+const hasDaily = !!dv.page(dailyPath);
+btn(hasDaily ? "📓 Today's log" : "📓 Start today's log",
+    () => app.commands.executeCommandById("periodic-notes:open-daily-note"));
+btn("➕ Todoist task",
+    () => app.commands.executeCommandById("todoist-sync-plugin:add-task"));
+btn("🗺️ Home MOC", () => app.workspace.openLinkText("Home MOC", "", false));
+btn("📊 Projects", () => app.workspace.openLinkText("Projects/_Projects Dashboard", "", false));
+if (weekAhead) btn("🗓️ Week Ahead", () => app.workspace.openLinkText(weekAhead.file.path, "", false));
+if (handoff) btn(`🤝 ${handoff.file.name} Handoff`, () => app.workspace.openLinkText(handoff.file.path, "", false));
+btn("✍️ Note for Claude", () => app.workspace.openLinkText("Logbook/For Claude", "", false));
+```
+
+## Forecasts
+
+```dataviewjs
+// "## Forecasts" section of Logbook/Today Brief.md (local and Snowshoe), written each morning by Claude.
+const brief = dv.page("Logbook/Today Brief");
+const today = dv.date("today").toFormat("yyyy-MM-dd");
+if (!brief) {
+  dv.paragraph("> [!warning] No brief yet\n> Ask Claude in Command Center: *write today's brief*.");
+} else {
+  const d = brief.brief_date ? dv.date(brief.brief_date).toFormat("yyyy-MM-dd") : null;
+  if (d !== today) {
+    dv.paragraph(`> [!warning] This brief is from ${d ?? "an unknown date"}\n> The morning run didn't land today (Mac asleep or the Claude app closed). Ask Command Center to *refresh today's brief*.`);
+  }
+  const text = (await dv.io.load(brief.file.path)).replace(/^---\n[\s\S]*?\n---\n/, "");
+  const m = text.match(/^## Forecasts[ \t]*\n([\s\S]*?)(?=^## |(?![\s\S]))/m);
+  if (m && m[1].trim()) dv.el("div", m[1].trim(), { cls: "today-brief" });
+}
+```
+
+```dataviewjs
+// Fishing. South River first, Mossy Creek folded in.
+// Fishing/South River Forecast.md is rewritten each morning (~5:50am) by a scheduled Claude task from the NOAA gauges
+// (WAYV2 primary), AccuWeather Waynesboro and the current Mossy Creek note. It is the South River that runs
+// Greenville -> Waynesboro -> Port Republic, never the Vesuvius/Maury South River.
+// Fishing/Forecasts/<Monday>.md is written Monday evening (Tuesday 6am retry) from the Mossy Creek weekly post.
+// Day sections there are "## Monday" ... "## Sunday", plus "## Weekend".
+const today = dv.date("today");
+const iso = today.toFormat("yyyy-MM-dd");
+const monday = today.minus({ days: today.weekday - 1 }).toFormat("yyyy-MM-dd");
+const dayNames = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+const tomorrow = today.plus({ days: 1 });
+const sat = today.plus({ days: 6 - today.weekday }).toFormat("LLL d");
+const sun = today.plus({ days: 7 - today.weekday }).toFormat("LLL d");
+// On Saturday and Sunday, Today/Tomorrow already cover this weekend, so the South River note's Weekend is next weekend.
+const nOff = today.weekday >= 6 ? 7 : 0;
+const nSat = today.plus({ days: 6 - today.weekday + nOff }).toFormat("LLL d");
+const nSun = today.plus({ days: 7 - today.weekday + nOff }).toFormat("LLL d");
+
+const section = (text, heading) => {
+  const re = new RegExp(`^## ${heading}[ \\t]*\\n([\\s\\S]*?)(?=^## |(?![\\s\\S]))`, "m");
+  const m = text.match(re);
+  return m ? m[1].trim() : "";
+};
+// A kind ending in "-" renders as a folded callout, e.g. "quote-" -> "> [!quote]- Title".
+const callout = (kind, title, body, empty = "*Not covered.*") =>
+  `> [!${kind.replace(/-$/, "")}]${kind.endsWith("-") ? "-" : ""} ${title}\n` + (body || empty).split("\n").map(l => `> ${l}`).join("\n");
+
+// Mossy Creek weekly note
+const notes = dv.pages('"Fishing/Forecasts"')
+  .where(p => p.type === "fishing-forecast" && /^\d{4}-\d{2}-\d{2}$/.test(p.file.name) && p.file.name <= iso)
+  .sort(p => p.file.name, "desc");
+const mc = notes.length && notes[0].file.name === monday ? notes[0] : null;
+const mcText = mc ? await dv.io.load(mc.file.path) : "";
+
+// South River daily note
+const sr = dv.page("Fishing/South River Forecast");
+const srDate = sr && sr.forecast_date ? dv.date(sr.forecast_date).toFormat("yyyy-MM-dd") : null;
+const srText = sr ? (await dv.io.load(sr.file.path)).replace(/^---\n[\s\S]*?\n---\n/, "") : "";
+
+const flow = sr && srDate === iso && sr.flow_cfs != null ? ` · ${sr.flow_cfs} cfs at Waynesboro` : "";
+dv.paragraph(`**Fishing, South River**${flow}`);
+
+const out = [];
+if (sr && srDate === iso) {
+  out.push(callout("abstract", "Now", section(srText, "Now")));
+  out.push(callout("info", `Today · ${today.toFormat("ccc LLL d")}`, section(srText, "Today")));
+  out.push(callout("note", `Tomorrow · ${tomorrow.toFormat("ccc LLL d")}`, section(srText, "Tomorrow")));
+  out.push(callout("tip", `${nOff ? "Next weekend" : "Weekend"} · ${nSat} to ${nSun}`, section(srText, "Weekend")));
+  if (mc) {
+    out.push(callout("quote-", `Mossy Creek · spring creeks and region, ${today.toFormat("cccc")}`,
+      section(mcText, dayNames[today.weekday - 1]), "*Not covered in this week's post.*"));
+  }
+} else {
+  out.push(callout("warning", sr ? `South River forecast is from ${srDate ?? "an unknown date"}` : "No South River forecast yet",
+    "The 5:50am run didn't land (Mac asleep or the Claude app closed). Ask Command Center to *refresh the South River forecast*. Mossy Creek's day-by-day is below."));
+  if (mc) {
+    out.push(callout("info", `Mossy Creek · Today · ${today.toFormat("ccc LLL d")}`, section(mcText, dayNames[today.weekday - 1]), "*Not covered in this week's post.*"));
+    out.push(callout("note", `Mossy Creek · Tomorrow · ${tomorrow.toFormat("ccc LLL d")}`,
+      today.weekday === 7 ? "Next week's forecast posts Monday." : section(mcText, dayNames[tomorrow.weekday - 1]), "*Not covered in this week's post.*"));
+    out.push(callout("tip", `Mossy Creek · Weekend · ${sat} to ${sun}`, section(mcText, "Weekend"), "*Not covered in this week's post.*"));
+  }
+}
+if (!mc) {
+  const last = notes.length ? notes[0] : null;
+  out.push(callout("warning", "This week's Mossy Creek forecast isn't in yet",
+    `Mossy Creek usually posts Monday; the scheduled task checks Monday evening and again Tuesday at 6am.` +
+    (last ? `\nLast forecast: [[${last.file.path}|week of ${last.file.name}]].` : "")));
+}
+dv.paragraph(out.join("\n\n"));
+
+const links = [];
+if (sr) links.push(`[[Fishing/South River Forecast|South River note]]`);
+links.push(`[Gauge](https://water.noaa.gov/gauges/WAYV2)`);
+if (mc) links.push(`[[${mc.file.path}|Mossy Creek forecast]]`);
+if (mc && mc.source) links.push(`[Blog post](${mc.source})`);
+if (mc && mc.video) links.push(`[Video](${mc.video})`);
+dv.paragraph(`<small>${links.join(" · ")}</small>`);
+```
+
+## Morning brief
+
+```dataviewjs
+// Everything in Logbook/Today Brief.md after "## Today" (schedule, worth knowing, For Claude).
+const brief = dv.page("Logbook/Today Brief");
+if (brief) {
+  const text = (await dv.io.load(brief.file.path)).replace(/^---\n[\s\S]*?\n---\n/, "");
+  const m = text.match(/^## Today[ \t]*\n([\s\S]*)$/m);
+  const body = m ? m[1] : text.replace(/^## Forecasts[ \t]*\n[\s\S]*?(?=^## |(?![\s\S]))/m, "");
+  dv.el("div", body.trim(), { cls: "today-brief" });
+}
+```
+
+## Today's top 3
+
+```dataviewjs
+const today = dv.date("today");
+const iso = today.toFormat("yyyy-MM-dd");
+
+// Most recent daily note dated before today carries today's top 3.
+const prior = dv.pages('"Logbook/Daily"')
+  .where(p => /^\d{4}-\d{2}-\d{2}/.test(p.file.name) && p.file.name.slice(0, 10) < iso)
+  .sort(p => p.file.name, "desc");
+
+const section = (text, heading) => {
+  const re = new RegExp(`\\*\\*${heading}\\*\\*[ \\t]*\\n([\\s\\S]*?)(?=\\n\\*\\*[^*\\n]+\\*\\*[ \\t]*\\n|$)`);
+  const m = text.match(re);
+  return m ? m[1] : "";
+};
+
+if (!prior.length) {
+  dv.paragraph("*No earlier daily note found.*");
+} else {
+  const src = prior[0];
+  const text = await dv.io.load(src.file.path);
+  const top = section(text, "Tomorrow[’']s top 3")
+    .split("\n")
+    .map(l => l.match(/^\s*\d+\.\s+(.+)$/))
+    .filter(Boolean)
+    .map(m => m[1].trim());
+  const inbox = section(text, "Inbox")
+    .split("\n")
+    .map(l => l.match(/^\s*-\s+(.+)$/))
+    .filter(Boolean)
+    .map(m => m[1].trim());
+
+  if (top.length) {
+    dv.paragraph(top.map((t, i) => `${i + 1}. ${t}`).join("\n"));
+  } else {
+    dv.paragraph(`*${src.file.name} has no "Tomorrow's top 3".*`);
+  }
+  dv.paragraph(`<small>From [[${src.file.path}|${src.file.name}]]</small>`);
+
+  if (inbox.length) {
+    const body = inbox.map(t => `> - ${t}`).join("\n");
+    dv.paragraph(`> [!inbox]- Carried Inbox (${inbox.length})\n${body}`);
+  }
+}
+```
+
+## Tasks
+
+```todoist
+name: "Due today and overdue"
+filter: "today | overdue"
+autorefresh: 300
+sorting:
+  - priority
+  - date
+groupBy: project
+show:
+  - due
+  - labels
+view:
+  noTasksMessage: "Nothing due today."
+```
+
+```todoist
+name: "Next three days"
+filter: "next 4 days & !today & !overdue"
+autorefresh: 900
+sorting:
+  - date
+  - priority
+show:
+  - due
+  - project
+view:
+  noTasksMessage: "Nothing scheduled in the next three days."
+```
+
+## Next by project
+
+```dataviewjs
+// Live from the project notes' frontmatter: one line per active project, its next_action,
+// and gated projects shown with their gate date. Replaced "Open from the Handoff" 2026-09-24,
+// because the Handoff is a weekly snapshot and went stale midweek.
+const compact = (s) => {
+  s = String(s ?? "").trim();
+  const abbrev = /(?:\b(?:Dr|Mr|Mrs|Ms|St|vs|No|e\.g|i\.e|approx))$/;
+  const re = /[.!?](\*{0,2})(?=\s|$)/g;
+  let m, cut = s.length;
+  while ((m = re.exec(s)) !== null) {
+    if (m.index < 25 || abbrev.test(s.slice(0, m.index))) continue;
+    cut = m.index + 1 + m[1].length;
+    break;
+  }
+  if (cut > 200) cut = s.lastIndexOf(" ", 200);
+  let out = s.slice(0, cut).replace(/[\s,;:—·]+$/, "");
+  if (((out.match(/\*\*/g) || []).length) % 2) out += "**";
+  if (((out.match(/`/g) || []).length) % 2) out += "`";
+  return out + (cut < s.length ? " …" : "");
+};
+const todayD = dv.date("today");
+const projects = dv.pages('"Projects"')
+  .where(p => p.status === "active" && !p.file.name.startsWith("_") && p.cadence !== "untracked");
+const now = [], gated = [];
+for (const p of projects) {
+  const gate = p.gated_until ? dv.date(p.gated_until) : null;
+  if (gate && gate.valueOf() >= todayD.valueOf()) {
+    gated.push({ p, gate });
+  } else {
+    now.push(p);
+  }
+}
+if (now.length) {
+  dv.paragraph(now.sort(p => p.file.name)
+    .map(p => `- ${p.file.link} — ${compact(p.next_action) || "*no next action*"}`).join("\n"));
+} else {
+  dv.paragraph("*No active project is ungated.*");
+}
+if (gated.length) {
+  gated.sort((a, b) => a.gate.valueOf() - b.gate.valueOf());
+  dv.paragraph(gated.map(({ p, gate }) =>
+    `- 🚦 ${p.file.link} · until ${gate.toFormat("ccc MMM d")}${p.gate ? " — " + compact(p.gate) : ""}`).join("\n"));
+}
+```
+
+## Project pulse
+
+```dataviewjs
+const nowMs = dv.date("now").valueOf();
+const active = dv.pages('"Projects"')
+  .where(p => p.status === "active" && !p.file.name.startsWith("_"));
+const waiting = dv.pages('"Projects"')
+  .where(p => (p.status === "waiting" || p.status === "blocked") && !p.file.name.startsWith("_"));
+
+const rows = [];
+let green = 0, untracked = 0;
+const gated = [];
+const todayD = dv.date("today");
+for (const p of active) {
+  if (p.cadence === "untracked") { untracked++; continue; }
+  // gated_until: nothing to do before this date, so no flag. After it, the quiet clock starts at the gate date.
+  const gate = p.gated_until ? dv.date(p.gated_until) : null;
+  if (gate && gate.valueOf() >= todayD.valueOf()) {
+    gated.push(`${p.file.link} until ${gate.toFormat("MMM d")}${p.gate ? " · " + p.gate : ""}`);
+    continue;
+  }
+  let mt = [p.file.mtime];
+  if (gate) mt.push(gate);
+  if (p.related) {
+    for (const r of (Array.isArray(p.related) ? p.related : [p.related])) {
+      const name = (r && r.path) ? r.path : String(r).replace(/\[\[|\]\]/g, "").split("|")[0];
+      const rp = dv.page(name);
+      if (rp && rp.file) mt.push(rp.file.mtime);
+    }
+  }
+  const last = mt.reduce((a, b) => (a.valueOf() > b.valueOf() ? a : b));
+  const days = Math.floor((nowMs - last.valueOf()) / 86400000);
+  if (days >= 7) rows.push(["🔴", p.file.link, days, p.next_action ?? ""]);
+  else if (days >= 4) rows.push(["🟡", p.file.link, days, p.next_action ?? ""]);
+  else green++;
+}
+
+dv.paragraph(`🟢 ${green} moving · 🟡/🔴 ${rows.length} quiet · 🚦 ${gated.length} gated · ⏳ ${waiting.length} waiting · ⏸️ ${untracked} untracked`);
+if (gated.length) dv.paragraph(`<small>🚦 ${gated.join(" · ")}</small>`);
+if (rows.length) {
+  rows.sort((a, b) => b[2] - a[2]);
+  dv.table(["", "Project", "Days quiet", "Next action"], rows);
+}
+dv.paragraph("<small>File activity only. Home MOC's per-project exceptions (e.g. Insulin reviewed weekly with no task) still apply; the full check is in [[Projects/_Projects Dashboard|Projects Dashboard]].</small>");
+```
+
+## For Claude
+
+Anything added to [[Logbook/For Claude]] is picked up by the next morning brief.
+
+```dataview
+TASK
+FROM "Logbook/For Claude"
+WHERE !completed
+```

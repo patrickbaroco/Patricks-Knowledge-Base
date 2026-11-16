@@ -103,4 +103,4 @@ A third teaching point concerns using ancillary data (recent iron studies, a rec
 
 ## Related Notes
 
-[[Anatomical Approach]] · [[Urinary Retention]] · [[When to Worry]] · [[Diagnostic Humility]] · [[Post-Obstructive Uropathy]]
+[[Clinical Reasoning MOC]] · [[Anatomical Approach]] · [[Urinary Retention]] · [[When to Worry]] · [[Diagnostic Humility]] · [[Post-Obstructive Uropathy]]

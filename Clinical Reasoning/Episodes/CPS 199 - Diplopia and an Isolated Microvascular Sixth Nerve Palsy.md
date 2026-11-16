@@ -29,7 +29,7 @@ A 75-year-old woman with a 20-year history of diabetes, hypertension, heart fail
 
 ## Case Narrative
 
-This episode doubled as a birthday celebration: the case was presented by Gabriela (from Brazil, celebrating her birthday) and discussed by Gabrielle and Valeria ("Vale," also celebrating a birthday that day, jokingly dubbed Gabriela's "twin" for the occasion), with [[Aaron Berkowitz]] guiding the discussion and Maria providing closing teaching points.
+This episode doubled as a birthday celebration: the case was presented by Gabriela (from Brazil, celebrating her birthday) and discussed by Gabrielle and Valeria ("Vale," also celebrating a birthday that day, jokingly dubbed Gabriela's "twin" for the occasion), with Aaron Berkowitz guiding the discussion and Maria providing closing teaching points.
 
 Given the chief concern — diplopia — Gabrielle opened with the standard binocular-versus-monocular framework: binocular diplopia resolves when either eye is covered and points to a problem of ocular alignment (weakness of an extraocular muscle from a vascular lesion, myasthenia gravis, or thyroid eye disease), while monocular diplopia persists with one eye covered and points to a refractive/lens problem within that eye. Berkowitz elaborated on thyroid eye disease as a distinct mechanism worth remembering: rather than weakness misaligning the eyes, an inflamed and restricted muscle (classically the inferior rectus) mechanically prevents movement in the opposing direction.
 

@@ -122,4 +122,4 @@ Management of silicosis-triggered ANCA vasculitis follows standard vasculitis im
 
 ## Related Notes
 
-[[Pulmonary Nodule Distribution]] · [[Rapidly Progressive Glomerulonephritis]] · [[ANCA Serology Interpretation]] · [[Silicosis]] · [[Silica-Induced Autoimmunity]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Anatomical Approach]] · [[Anchoring Bias]] · [[Coccidioidomycosis]]
+[[Clinical Reasoning MOC]] · [[Pulmonary Nodule Distribution]] · [[Rapidly Progressive Glomerulonephritis]] · [[ANCA Serology Interpretation]] · [[Silicosis]] · [[Silica-Induced Autoimmunity]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Anatomical Approach]] · [[Anchoring Bias]] · [[Coccidioidomycosis]]

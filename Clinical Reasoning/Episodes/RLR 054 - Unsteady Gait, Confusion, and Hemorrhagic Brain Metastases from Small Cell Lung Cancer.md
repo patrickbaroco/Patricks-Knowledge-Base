@@ -103,7 +103,7 @@ This episode reframes **clinical reasoning as a three-legged stool — diagnosis
 
 - [ ] [[Gait and Confusion]] — create: encephalopathy + ataxia = CNS red flag; localize (cerebellar/cortical); image (CT then MRI)
 - [ ] [[Brain Mass Differential]] — reinforce (spaced repetition w/ 053): neoplasm/infection/demyelinating/infarct; DWI/ring/gray-white/hemorrhage descriptors
-- [ ] [[Hemorrhagic Brain Metastases]] / [[MRCT Mnemonic]] — melanoma/renal/chorio/thyroid; base rate → lung; skin exam + PET-CT
+- [ ] [[Hemorrhagic Brain Metastases]] / [[MIST Mnemonic]] — melanoma/renal/chorio/thyroid; base rate → lung; skin exam + PET-CT
 - [ ] [[Small Cell Lung Cancer]] — create: neuroendocrine; rapid growth/early mets; limited vs extensive; chemo/radiosensitive; paraneoplastic; PCI/WBRT
 - [ ] [[Raised Intracranial Pressure]] — create: upright → osmotic → steroids → EVD; herniation; steroid-vs-lymphoma-yield resolved by acuity
 - [ ] [[Neuroleptic Malignant Syndrome]] — create: rigidity/hyperthermia/autonomic/CK; vs serotonin syndrome vs MH; dantrolene/bromocriptine
@@ -129,5 +129,5 @@ This episode reframes **clinical reasoning as a three-legged stool — diagnosis
 
 ---
 
-**Related Notes:** [[RLR 053 - Multiple Small Hemorrhagic Brain Lesions and CNS Tuberculosis]] · [[RLR 049 - Hyperacute Epigastric Pain, Splenic Vein Thrombosis, and Gallstone Pancreatitis]] · [[RLR 041 - Unilateral Leg Edema and Metastatic Prostate Cancer]] · [[RLR 052 - Chronic Hip Pain and a Fragility Fracture Mimicking a Pathologic Lesion]] · [[RLR 184 - New-Onset Seizure and an Unresolved Multifocal Pelvic Process]] · [[RLR 039 - Nausea, Vomiting, Constipation, and a Metastatic Ampullary Mass]] · [[CPS 269 - Headache and Leptomeningeal Lymphomatosis]] · [[Brain Mass Differential]] · [[Hemorrhagic Brain Metastases]] · [[Small Cell Lung Cancer]] · [[Neuroleptic Malignant Syndrome]] · [[Breaking Bad News]] · [[Raised Intracranial Pressure]] · [[Tempo Triage]]
+**Related Notes:** [[Clinical Reasoning MOC]] · [[RLR 053 - Multiple Small Hemorrhagic Brain Lesions and CNS Tuberculosis]] · [[RLR 049 - Hyperacute Epigastric Pain, Splenic Vein Thrombosis, and Gallstone Pancreatitis]] · [[RLR 041 - Unilateral Leg Edema and Metastatic Prostate Cancer]] · [[RLR 052 - Chronic Hip Pain and a Fragility Fracture Mimicking a Pathologic Lesion]] · [[RLR 184 - New-Onset Seizure and an Unresolved Multifocal Pelvic Process]] · [[RLR 039 - Nausea, Vomiting, Constipation, and a Metastatic Ampullary Mass]] · [[CPS 269 - Headache and Leptomeningeal Lymphomatosis]] · [[Brain Mass Differential]] · [[Hemorrhagic Brain Metastases]] · [[Small Cell Lung Cancer]] · [[Neuroleptic Malignant Syndrome]] · [[Breaking Bad News]] · [[Raised Intracranial Pressure]] · [[Tempo Triage]]
  · [[RLR 055 - A Day with Reza — Venous Stasis Dermatitis, a Cavitary Lung Abscess, and Functional Syncope]] · [[RLR 056 - One Life, So Many Dreams — Post-Operative Rigidity and Propofol-Induced Neuroexcitatory Syndrome]]

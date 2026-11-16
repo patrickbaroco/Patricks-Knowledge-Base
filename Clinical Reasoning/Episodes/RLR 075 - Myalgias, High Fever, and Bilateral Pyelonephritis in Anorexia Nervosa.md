@@ -107,4 +107,4 @@ Interpreting a positive urinalysis in a patient without urinary symptoms require
 
 ## Related Notes
 
-[[Bad Luck, Bad Genetics, and Risky Behavior]] · [[Cognitive Autopsy]] · [[Trend Over Snapshot]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Bilateral Pyelonephritis]] · [[Illness Tempo]] · [[Representativeness Heuristic]]
+[[Clinical Reasoning MOC]] · [[Bad Luck, Bad Genetics, and Risky Behavior]] · [[Cognitive Autopsy]] · [[Trend Over Snapshot]] · [[Base Rate]] · [[Diagnostic Humility]] · [[Bilateral Pyelonephritis]] · [[Illness Tempo]] · [[Representativeness Heuristic]]

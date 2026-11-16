@@ -107,4 +107,4 @@ A palmar-plantar rash is a high-yield distributional clue that should prioritize
 
 ## Related Notes
 
-[[Approach to Headache and Photophobia]] · [[Immune Reconstitution Inflammatory Syndrome]] · [[Jarisch-Herxheimer Reaction]] · [[Palmar-Plantar Rash Differential]] · [[Base Rate]] · [[Anatomical Approach]]
+[[Clinical Reasoning MOC]] · [[Approach to Headache and Photophobia]] · [[Immune Reconstitution Inflammatory Syndrome]] · [[Jarisch-Herxheimer Reaction]] · [[Palmar-Plantar Rash Differential]] · [[Base Rate]] · [[Anatomical Approach]]

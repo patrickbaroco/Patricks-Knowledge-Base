@@ -134,4 +134,4 @@ This episode returns to the standard **Neurology VMR** format — introduced wit
 
 ## Related Notes
 
-[[Neurophobia]] · [[Localization × Time Course]] · [[Framing Bias]] · [[Approach to Headache]] · [[Neurocysticercosis]] · [[Communicating vs. Non-Communicating Hydrocephalus]] · [[Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)]] · [[Cavernous Sinus Syndrome]] · [[Test Interpretation]] · [[CPS 146 - Right-Sided Weakness and Numbness and Medial Medullary Syndrome from a Vertebral Artery Dissection]] · [[CPS 175 - Back Pain, Diplopia, and Polyradiculitis from an Atypical Neurosyphilis Presentation]]
+[[Clinical Reasoning MOC]] · [[Neurophobia]] · [[Localization × Time Course]] · [[Framing Bias]] · [[Approach to Headache]] · [[Neurocysticercosis]] · [[Communicating vs. Non-Communicating Hydrocephalus]] · [[Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)]] · [[Cavernous Sinus Syndrome]] · [[Test Interpretation]] · [[CPS 146 - Right-Sided Weakness and Numbness and Medial Medullary Syndrome from a Vertebral Artery Dissection]] · [[CPS 175 - Back Pain, Diplopia, and Polyradiculitis from an Atypical Neurosyphilis Presentation]]

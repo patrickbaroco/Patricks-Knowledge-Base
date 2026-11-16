@@ -134,4 +134,4 @@ The episode's most explicit metacognitive teaching comes in the closing exchange
 
 ## Related Notes
 
-[[Don't Relinquish Clinical Judgment to a Reassuring Consultant]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Fever in the Hospitalized Patient]] · [[Bayesian Reasoning in Clinical Practice]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Don't Relinquish Clinical Judgment to a Reassuring Consultant]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Fever in the Hospitalized Patient]] · [[Bayesian Reasoning in Clinical Practice]] · [[Diagnostic Humility]]

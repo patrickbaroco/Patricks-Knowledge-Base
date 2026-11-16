@@ -2,5 +2,9 @@
   "templater-obsidian",
   "periodic-notes",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "base-board",
+  "todoist-sync-plugin",
+  "homepage",
+  "obsidian-minimal-settings"
 ]

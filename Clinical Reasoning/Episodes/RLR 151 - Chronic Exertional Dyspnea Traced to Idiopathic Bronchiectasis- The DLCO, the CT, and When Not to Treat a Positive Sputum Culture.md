@@ -117,7 +117,7 @@ The second half shifts from diagnostic localization to a genuinely unresolved ma
 - [ ] Build [[Approach to Bronchiectasis - Causes and Radiographic Clues]]
 - [ ] Build [[Colonization versus Infection in the Non-Sterile Airway]]
 - [ ] Update [[Asymptomatic Bacteriuria - When Not to Treat]] — consider grouping with the bronchiectasis colonization framework as parallel "positive culture, don't treat" reasoning
-- [ ] Update [[Externalized/Documented Reasoning as a Diagnostic Tool]] or [["Meta-skills of practice"]] — Reza's explicit deference-to-subspecialty-experience-as-humility framing
+- [ ] Update [[Externalized/Documented Reasoning as a Diagnostic Tool]] or [[Meta-Skills of Practice]] — Reza's explicit deference-to-subspecialty-experience-as-humility framing
 
 ## Handbook Opportunities
 
@@ -128,4 +128,4 @@ The second half shifts from diagnostic localization to a genuinely unresolved ma
 
 ## Related Notes
 
-[[Approach to Chronic Dyspnea - Fibrosis and Atherosclerosis Framework]] · [[DLCO - Physiology, Technique, and Interpretation]] · [[Approach to Bronchiectasis - Causes and Radiographic Clues]] · [[Asymptomatic Bacteriuria - When Not to Treat]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Chronic Dyspnea - Fibrosis and Atherosclerosis Framework]] · [[DLCO - Physiology, Technique, and Interpretation]] · [[Approach to Bronchiectasis - Causes and Radiographic Clues]] · [[Asymptomatic Bacteriuria - When Not to Treat]] · [[Diagnostic Humility]]

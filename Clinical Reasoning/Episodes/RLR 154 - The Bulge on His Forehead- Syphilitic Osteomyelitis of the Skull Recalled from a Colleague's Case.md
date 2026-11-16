@@ -109,7 +109,7 @@ The final piece — Robbie's own elicitation of a previously unmentioned HIV/MSM
 - [ ] Update [[Lawrence Tierney Teaching Pearls]] — disc-space infection-versus-malignancy logic generalized beyond the spine to other bones (frontal skull, RLR 154)
 - [ ] Build [[Syphilitic Osteomyelitis and Skeletal Manifestations of Secondary Syphilis]]
 - [ ] Update [[Case-Based Recall as a Diagnostic Trigger]] — 7th flagged instance (Gabby's skull syphilis case recalled and applied in RLR 154)
-- [ ] Consider grouping with [["Meta-skills of practice"]] / Diagnostic Humility — Robbie's candid acknowledgment of an incomplete skin exam (missed rash search) despite a confirmed secondary syphilis diagnosis
+- [ ] Consider grouping with [[Meta-Skills of Practice]] / Diagnostic Humility — Robbie's candid acknowledgment of an incomplete skin exam (missed rash search) despite a confirmed secondary syphilis diagnosis
 
 ## Handbook Opportunities
 
@@ -120,4 +120,4 @@ The final piece — Robbie's own elicitation of a previously unmentioned HIV/MSM
 
 ## Related Notes
 
-[[Approach to an Isolated Skull/Bone Lesion - Infection versus Malignancy]] · [[Lawrence Tierney Teaching Pearls]] · [[Syphilitic Osteomyelitis and Skeletal Manifestations of Secondary Syphilis]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to an Isolated Skull/Bone Lesion - Infection versus Malignancy]] · [[Lawrence Tierney Teaching Pearls]] · [[Syphilitic Osteomyelitis and Skeletal Manifestations of Secondary Syphilis]] · [[Case-Based Recall as a Diagnostic Trigger]] · [[Diagnostic Humility]]

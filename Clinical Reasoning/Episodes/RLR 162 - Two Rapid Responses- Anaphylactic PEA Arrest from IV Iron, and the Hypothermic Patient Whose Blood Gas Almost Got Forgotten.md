@@ -142,4 +142,4 @@ The hypothermia case reinforces a well-established RLR principle (hypothermia is
 
 ## Related Notes
 
-[["Circle of Ventilation" - A Schema for Hypercapnia]] · [[Diagnostic Humility]] · ["Meta-skills of practice"] · [[Decision Validity Independent of Outcome]] · [[Case-Based Recall as a Diagnostic Trigger]]
+[[Clinical Reasoning MOC]] · [["Circle of Ventilation" - A Schema for Hypercapnia]] · [[Diagnostic Humility]] · [[Meta-Skills of Practice]] · [[Decision Validity Independent of Outcome]] · [[Case-Based Recall as a Diagnostic Trigger]]

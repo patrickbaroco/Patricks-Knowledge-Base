@@ -121,4 +121,4 @@ The recording opens with the same standing Clinical Problem Solvers introduction
 
 ## Related Notes
 
-[[Neurophobia]] · [[Localization × Time Course]] · [[Anatomical Approach]] · [[Multiple Sclerosis]] · [[Brown-Séquard Syndrome]] · [[Positive vs Negative Neurological Phenomena]] · [[Romberg Sign]] · [[Availability Heuristic]] · [[Neuromyelitis Optica]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[CPS 146 - Right-Sided Weakness and Numbness and Medial Medullary Syndrome from a Vertebral Artery Dissection]] · [[CPS 160 - Hiccups and Vertigo from a PICA-Territory Stroke via Patent Foramen Ovale]]
+[[Clinical Reasoning MOC]] · [[Neurophobia]] · [[Localization × Time Course]] · [[Anatomical Approach]] · [[Multiple Sclerosis]] · [[Brown-Séquard Syndrome]] · [[Positive vs Negative Neurological Phenomena]] · [[Romberg Sign]] · [[Availability Heuristic]] · [[Neuromyelitis Optica]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[CPS 146 - Right-Sided Weakness and Numbness and Medial Medullary Syndrome from a Vertebral Artery Dissection]] · [[CPS 160 - Hiccups and Vertigo from a PICA-Territory Stroke via Patent Foramen Ovale]]

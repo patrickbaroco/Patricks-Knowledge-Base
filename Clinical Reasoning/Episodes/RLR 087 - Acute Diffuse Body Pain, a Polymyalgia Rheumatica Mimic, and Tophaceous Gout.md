@@ -125,4 +125,4 @@ When a presumed infectious process fails to show the expected buildup or fever, 
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Base Rate]] · [[Illness Tempo]] · [[CPPD]] · [[Gout]] · [[Active vs Passive Range of Motion]] · [[Synovial Fluid Analysis]] · [[Crystals in Macrophages]] · [[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[When to Worry]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Base Rate]] · [[Illness Tempo]] · [[CPPD]] · [[Gout]] · [[Active vs Passive Range of Motion]] · [[Synovial Fluid Analysis]] · [[Crystals in Macrophages]] · [[Monoarticular Arthritis]] · [[Oligoarticular Arthritis]] · [[When to Worry]]

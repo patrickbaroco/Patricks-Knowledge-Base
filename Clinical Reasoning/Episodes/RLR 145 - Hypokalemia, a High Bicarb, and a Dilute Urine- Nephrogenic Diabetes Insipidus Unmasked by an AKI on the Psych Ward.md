@@ -129,4 +129,4 @@ The episode's central teaching arc is less about a single diagnosis and more abo
 
 ## Related Notes
 
-[[Diagnostic Humility]] · [[Approach to Metabolic Alkalosis]] · [[Apparent Mineralocorticoid Excess]] · [[Diabetes Insipidus- Central versus Nephrogenic]] · [[Arteriovenous Malformations]] · [[Approach to Hypokalemia]] · [[Base Rate Neglect]]
+[[Clinical Reasoning MOC]] · [[Diagnostic Humility]] · [[Approach to Metabolic Alkalosis]] · [[Apparent Mineralocorticoid Excess]] · [[Diabetes Insipidus- Central versus Nephrogenic]] · [[Arteriovenous Malformations]] · [[Approach to Hypokalemia]] · [[Base-Rate Neglect]]

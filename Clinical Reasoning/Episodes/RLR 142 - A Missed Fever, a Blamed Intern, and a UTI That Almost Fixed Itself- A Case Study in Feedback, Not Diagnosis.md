@@ -147,4 +147,4 @@ Unlike most RLR episodes, this one centers less on differential diagnosis and mo
 
 ## Related Notes
 
-[[Approach to Fever in the Hospitalized Patient]] · [[Asymptomatic Bacteriuria]] · [[Giving Feedback to Trainees]] · [[Cognitive Autopsy]] · [[Base Rate]] · [[Diagnostic Humility]]
+[[Clinical Reasoning MOC]] · [[Approach to Fever in the Hospitalized Patient]] · [[Asymptomatic Bacteriuria]] · [[Giving Feedback to Trainees]] · [[Cognitive Autopsy]] · [[Base Rate]] · [[Diagnostic Humility]]

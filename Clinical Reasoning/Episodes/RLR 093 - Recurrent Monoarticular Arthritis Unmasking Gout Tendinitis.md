@@ -126,4 +126,4 @@ Distinguishing gout from CPPD has real management consequences: gout has effecti
 
 ## Related Notes
 
-[[Schema-Based Reasoning]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[CPPD]] · [[Gout]] · [[Synovial Fluid Analysis]] · [[Monoarticular Arthritis]] · [[Septic Arthritis]] · [[Crystals in Macrophages]] · [[RLR 087 - Acute Diffuse Body Pain, a Polymyalgia Rheumatica Mimic, and Tophaceous Gout]]
+[[Clinical Reasoning MOC]] · [[Schema-Based Reasoning]] · [[Diagnostic Humility]] · [[Test Interpretation]] · [[CPPD]] · [[Gout]] · [[Synovial Fluid Analysis]] · [[Monoarticular Arthritis]] · [[Septic Arthritis]] · [[Crystals in Macrophages]] · [[RLR 087 - Acute Diffuse Body Pain, a Polymyalgia Rheumatica Mimic, and Tophaceous Gout]]
