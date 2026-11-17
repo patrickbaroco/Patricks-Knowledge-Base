@@ -621,3 +621,11 @@ Recorded as item 67 in the Charter's open items. Piloted on Article IX (`_archiv
 The full change table, OP-1, and the counsel classification: `prc-simplification-2026-11-16.md`. Member guide: new section *Why the Charter says what it says*; pre-revision copy `_archive/prc-member-guide-2026-11-16-before-reasons-section.md`.
 
 **Follow-up, 2026-11-17.** A sentence-by-sentence comparison of the operative text before and after found one rule lost: the record of the circumstances of a resignation (former §§ 9.6, 10.9), now restored in § 15.9. The change record's classification key was revised (L: binding when its conditions apply; P: condition of a protection or of a chosen safe harbor; E: policy choice, noting where it supports defensibility; S: statement of law), and OP-1's scope was stated. First version of the change record: `_archive/prc-simplification-2026-11-16-first-version.md`.
+
+**Follow-up, 2026-11-17 (second).** §§ 9.2, 9.3, 9.5 and 9.7 now say "a restriction under § 9.1" in place of "a restriction under this Article," so that ratification, the process rules and the forty-five-day stop do not reach the fourteen-day investigatory restriction. Open item 68. The external reviewer recommends ending the editorial cycle here; the next step is counsel's review of formation, state qualification, reporting and implementation.
+
+---
+
+# Revision of 2026-11-17: psychotherapists removed
+
+Recorded as item 69 in the Charter's open items (Patrick). Every reference to licensed psychotherapists, and to the § 6.5 addendum, is removed from the operative text; § 6.5 is reserved so that §§ 6.6 to 6.8 keep their numbers. A concern about a psychotherapist's care is outside the Committee. Conformed: CQC § 2.4, both member guides, the seat map (vault copy; the published page and its PDF wait on the next rebuild), the counsel questions (four questions removed or narrowed), the counsel memo on what the Charter requires, and the simplification record. Pre-revision copies dated 2026-11-17 in `_archive/`.

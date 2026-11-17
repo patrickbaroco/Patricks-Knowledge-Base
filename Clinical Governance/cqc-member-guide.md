@@ -28,7 +28,7 @@ Two related boundaries:
 | **Chair** | The Chair of Clinical Excellence, by virtue of the office (§ 2.1). |
 | **Members** | Appointed by the Chair, two-year terms, staggered and renewable. The chairs of the Primary Care Committee and the Psychiatry Committee sit as members (§ 2.2). |
 | **Clinician floor** | At least two-thirds of members must be licensed clinicians in active practice (§ 2.3). |
-| **Disciplines** | Physicians and APCs (nurse practitioners and physician assistants, who are peers). A licensed psychotherapist is consulted before any psychotherapy standard is adopted, and a seat for that discipline waits on the PRC's psychotherapist addendum (§ 2.4). |
+| **Disciplines** | Physicians and APCs (nurse practitioners and physician assistants, who are peers) (§ 2.4). |
 | **Not members, but present** | Analytics staff, who track performance and report whether interventions moved the numbers (§ 2.6); learning-and-development staff, who deliver the education (§ 2.8); whoever the organization designates to bring its enterprise clinical priorities, including the ACO's and clinical operations' (§ 2.6.1); and the Executive Coordinator, Clinical Excellence, who keeps the records and sends the notices (§ 2.7). |
 
 **One recusal rule.** At most one member may be someone who can hire, fire, discipline, set someone's pay, evaluate someone for pay, or direct their assignments. That member takes full part in standards, education and systems work — and takes no part in any decision about an identified clinician (§ 2.5). That member leaves before such a matter is discussed, and the minutes record when. The Peer Review Committee does not seat such a person at all.

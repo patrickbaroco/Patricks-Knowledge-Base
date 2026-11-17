@@ -246,8 +246,6 @@ Within five business days of the decision to open, the clinician gets written no
 
 **Where neither the members nor the Pool can supply a matched panel**, the Chair may engage an external reviewer of the same discipline under a written confidentiality undertaking (§ 6.6).
 
-**Psychotherapists are reviewed under a separate addendum** the Committee adopts in advance, counsel reviews, and the Chief Executive Officer approves as an amendment, and **no review of a psychotherapist opens until that addendum is in effect** (§ 6.5). Procedure written after the person and the matter are known is procedure written about them. What applies in the meantime regardless: the duty to refer, screening, the records rules, and the emergency authority — because imminent danger does not wait for a drafting cycle, and a matter that has been referred has to sit in a file governed by something.
-
 ### The panel proposes. The Committee decides. (§ 6.7)
 
 The panel gathers the facts, assesses the matter, and **proposes** findings and a disposition. **The Committee adopts, modifies, or rejects the proposal by vote.** Panelists who are not members do not vote. Where the Committee changes or rejects a proposal it records why, and the panel's proposal is kept in the record either way.
@@ -570,8 +568,6 @@ The agreed resolution exists because, between an offer of support that no one mu
 
 ### Panels and APC reviews (Articles VI and VII)
 
-The psychotherapist addendum is written in advance, because procedure written once the person and the matter are known is procedure written about them (§ 6.5).
-
 Federal immunity turns on a professional review body having acted in the reasonable belief that its action furthered quality care, after a reasonable effort to obtain the facts. There has to be one identifiable body that held that belief, and under the Charter it is the Committee. The Panel investigates and proposes, and the Committee decides (§ 6.7).
 
 The sample is taken in every review so that taking it signals nothing. A sample taken only in some reviews, or announced by a second notice, would add worry without adding information. Before concurring in an agreed resolution, the Panel examines the sample because that is how it knows the gap is confined to one clinical area (§ 6.8).
@@ -636,7 +632,6 @@ Counsel's question is about Eventus's legal position, and the Committee's is abo
 
 ## What is not settled yet
 
-- **The psychotherapist addendum**, which the Committee must adopt, and the Chief Executive Officer approve, before any review of a psychotherapist can open.
 - **Whether the Chief Executive Officer's authorization is enough for state privilege.** Indiana's statute protects committees "organized by the governing body," and whether a committee established by the Chief Executive Officer's authorization meets that is with counsel.
 - **Other questions with counsel**, kept in `counsel-questions.md`.
 - **The bracketed defaults throughout** — six members with three physicians among them, two-member panels, two-year terms, the ten/five/twenty/sixty/fifteen-day clocks, the six-month Tier One limit, the five-day lapse and forty-five-day stop, the four-member floor for votes on Professional Review Actions, the three-member hearing panel and the hearing periods, seven-year retention. All are drafting defaults and all are open to argument.

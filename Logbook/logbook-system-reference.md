@@ -73,39 +73,29 @@ Rules:
 
 ---
 
-## Calendar & Mail Inputs (Outlook)
+## Calendar Inputs
 
-Added 2026-08-30, when Patrick connected his Eventus Outlook account (`pbaroco@eventuswh.com`). Before this, the daily entry had only Patrick's narration and Todoist to work from, and the Week Ahead note depended on a photo of his calendar — which is why no Week Ahead note existed between 2026-08-10 and 2026-08-30.
+Outlook (`pbaroco@eventuswh.com`) was a standing input to the logbook from 2026-08-30 until 2026-11-17, when Patrick disconnected Microsoft 365 over HIPAA concerns. There is no Outlook calendar or mail connector now. Do not look for one, and do not report it as a missing source.
 
-Outlook is now a **standing input to the logbook**, in four places:
+The calendar comes from two places:
 
-1. **Daily note scaffold.** Before asking Patrick to narrate, pull the day's calendar and sweep the day's mail — **inbox and Sent Items together** (see "Sweep Sent Items" below), and use them to pre-fill `Where`, `Today's focus`, and the skeleton of `Work`. Patrick then corrects a draft rather than writing from a blank note — which is the whole point, given the [[daily-note-floor]] finding that an empty template is what breaks the habit.
-2. **Inbox candidates.** Mail that needs a reply, or that represents an open thread, is surfaced as a *candidate* `Inbox` item on the daily. Candidate, not automatic — Patrick decides what actually lands there.
-3. **Week Ahead note.** `Projects/Week Ahead/YYYY-MM-DD.md` is built from the actual Outlook week. The calendar photo is retired as an input.
-4. **Backfill.** Calendar and mail join the evidence sources for reconstructing missed days, ranking near the top — above vault file mtimes, because they carry meeting *content* and counterparties that no other source has.
+1. **Calendar screenshot.** Patrick pastes a screenshot of his Outlook week into `Projects/Week Ahead/Calendar.md`, normally by Sunday evening. The newest image embedded there is the work schedule. Obsidian saves pasted images at the vault root or in `Attachments/`, so find the file by name. Times on it are Eastern.
+2. **Google Calendar, primary (`patrick@baroco.me`).** Personal events, anything Lindsey adds from Outlook, and the copies left by the retired Outlook mirror (description "Mirrored from Outlook [olid:...]"), which are snapshots from before 2026-11-17. Where the screenshot and Google disagree on a work event, the screenshot wins. Never use the subscribed calendar ending `@import.calendar.google.com`; it is a stale relay that drops real events and keeps deleted ones.
 
-**Sweep Sent Items, not just the inbox** *(added 2026-08-31)*. Read `folderName: "Sent Items"` in the same pass, over the same day window. On 8/31 an inbox-only sweep produced five Inbox items and four of them were already handled — Patrick had answered them himself — while missing two threads he *initiated*, which were the day's most substantive work. Sent Items is what tells you:
+Where they feed the logbook:
 
-- **whether an apparent ask is still open** (the CGSC cadence question was answered at 3:56pm the same afternoon);
-- **who started a thread** — "he asked Kristen Medlin" and "Kristen Medlin wrote to him" are different days;
-- **what he actually said** — he sent the DHP license lookup, not a license copy; he sent Gavin's credentials to Barbara Middleton to ask what access they grant, rather than forwarding them on;
-- **that something did *not* go out** — the only way to confirm an unsent item, like the counsel engagement memo;
-- **accepted/declined meeting responses**, the cheapest confirmation a proposed meeting landed.
+1. **Daily note scaffold.** Before asking Patrick to narrate, read the day off the screenshot and Google Calendar and use it to pre-fill `Where`, `Today's focus`, and the skeleton of `Work`. Patrick then corrects a draft rather than writing from a blank note, which is the whole point, given the [[daily-note-floor]] finding that an empty template is what breaks the habit.
+2. **Week Ahead note.** `Projects/Week Ahead/YYYY-MM-DD.md` is built from the screenshot, with Google Calendar for personal events. Without a fresh screenshot it builds from Google alone and says so at the top of the note.
+3. **Backfill.** The calendar is one of the evidence sources for reconstructing missed days. It shows that a block was scheduled, nothing more.
 
-**Before writing any Inbox item, check Sent for a reply on that thread. An answered thread is a Work line, not an Inbox line.**
-
-Also: names abbreviated in the Week Ahead are not verified names. Take spellings from how Patrick addresses people in his own sent mail — "S. Huneycutt" is **Shanda**, not Sarah.
+**No mail sweep.** The inbox and Sent Items sweep that scaffolded `Work` and surfaced `Inbox` candidates ended with the Outlook connection. Work mail now reaches the logbook only through what Patrick narrates or what Lindsey raises with him, and `Inbox` items come from his narration.
 
 **Rules:**
 
-- **Never assert what happened in a meeting from the calendar alone.** The calendar establishes that a block existed, not that it happened or what was said. Write it as scaffold and let Patrick confirm — the pre-existing backfill rule, extended.
-- **Sweep signal only.** Filter out Power BI subscriptions and other automated reports, all-hands training blasts (Weekly Clinical Seminar, Clinical Director Office Hours, SNF Leadership Essentials, Experienced Clinician Roundtable — these are calendar items, not mail worth surfacing), calendar accept/decline traffic, and vendor marketing. Surface real person-to-person mail and anything awaiting a response from Patrick.
-- **Times come back in UTC.** `outlook_calendar_search` returns `dateTime` values in UTC; Patrick is America/New_York. Subtract 4h during EDT, 5h during EST. A 13:00 event is 9am his time. Getting this wrong shifts a whole day's shape — the same trap already documented for Todoist in [[log-backfill-sources]].
-- **The recurring rounding blocks are scaffolding, not news.** Mon Summit Square + ANR admits, Tue ANR + BRC admits, Wed BRC — these repeat every week. Note them in `Where`, don't flag them as findings.
-- **Standing sweep exclusions** (Patrick's call, 2026-08-30 — do not surface these as action items):
-  - **VDH medical certification requests** (`VADeptOfHealth@vdh.virginia.gov`, "Medical Certification Requested for Case No. ..."). **Lindsey handles these.** They arrive marked high importance and look actionable; they are not his.
-  - **Monday.com board notifications** (`notifications@monday.com` — "[Team mention] ...", Upcoming New Hires and other boards). **Patrick's call, 2026-08-31: ignore Monday board emails in general.** Board activity is not his queue; don't surface it and don't log it in the daily.
-- **Work mailbox only.** Outlook covers the Eventus domain. Nothing in the Personal domain will appear there, and its absence from the sweep means nothing.
+- **Never assert what happened in a meeting from the calendar alone.** The calendar establishes that a block existed, not that it happened or what was said. Write it as scaffold and let Patrick confirm.
+- **A screenshot is the week as of when it was taken.** Later changes appear only if Lindsey adds them to Google Calendar or Patrick mentions them. When the day he narrates differs from the screenshot, his account wins.
+- **The recurring rounding blocks are scaffolding, not news.** Mon Summit Square + ANR admits, Tue ANR + BRC admits, Wed BRC. These repeat every week. Note them in `Where`, don't flag them as findings.
+- **Abbreviated names on the calendar are not verified names.** Check the spelling in the vault or ask Patrick before writing a name into a note. "S. Huneycutt" is **Shanda**, not Sarah.
 
 ---
 
@@ -148,7 +138,7 @@ Decided 2026-07-30, to keep the `Daily/` folder from growing unbounded:
 
 ## How Claude Should Operate in This Project
 
-- Claude opens the day by pulling Outlook — the day's calendar and a signal-only sweep of the day's mail — and drafts the scaffold from it. See "Calendar & Mail Inputs" above.
+- Claude opens the day by reading the day's calendar from the screenshot in `Projects/Week Ahead/Calendar.md` and from Google Calendar, and drafts the scaffold from it. See "Calendar Inputs" above.
 - Patrick will narrate his day in raw, unstructured notes, correcting and filling in that scaffold.
 - Claude converts that narrative into a structured entry following the template above exactly, in order.
 - Claude should not add a date header — Obsidian/Periodic Notes handles that automatically.

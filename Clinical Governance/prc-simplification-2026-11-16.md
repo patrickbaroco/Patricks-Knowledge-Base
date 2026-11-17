@@ -11,6 +11,8 @@ updated: 2026-11-17
 
 **Method.** Each paragraph was sorted as a rule, a reason, a restatement, or an administrative instruction. Rules stay. Reasons go to the member guide, in its new section *Why the Charter says what it says*. Text is deleted where speculative, legally inaccurate, duplicative, or unnecessary to explain the rule. Restatements are cut where another section governs. Notices were kept wherever they serve committee oversight or patient safety, whether or not missing one would favor the Practitioner. Deadlines protecting Practitioners, automatic expiry, voting rules and conditions for extending a restriction stay in the Charter.
 
+**Since this record.** On 2026-11-17 psychotherapists were removed from the Charter and § 6.5 reserved (open item 69); the Part B rows on § 6.5 describe text that no longer exists.
+
 **Not changed by this pass.** The Open items section, the bracketed defaults, and every rule not listed below. Pre-simplification copy: `_archive/prc-charter-draft-2026-11-16-before-simplification.md`.
 
 ---
@@ -217,7 +219,6 @@ The HCQIA notice-and-hearing safe harbor in 42 U.S.C. § 11112(b) is one route t
 | 5.6 | Non-retaliation | E | State law may add protection (L where it applies) |
 | 5.7 | Agreed resolution | E | Reportability of events during it: L |
 | 6.1 to 6.4 | Panels; matching | E | North Carolina licensure of members: P where § 90-21.22A is relied on |
-| 6.5 | Psychotherapist addendum | E | Psychotherapy notes: L (HIPAA) |
 | 6.6 | External reviewers | E | |
 | 6.7 | Committee decides | E | Supports P: an identifiable, authorized professional review body. The split between Panel and Committee is Eventus's |
 | 6.8 | Sample | E | |

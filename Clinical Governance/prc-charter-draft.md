@@ -32,7 +32,7 @@ The authority is confined to the individual Practitioner. The Committee has no a
 
 **1.6 Definitions.** In this Charter, and in the Charter of the Clinical Quality Committee:
 
-- (a) **Practitioner.** A physician or APC furnishing care on behalf of the Entity, and a licensed psychotherapist to the extent § 6.5 provides.
+- (a) **Practitioner.** A physician or APC furnishing care on behalf of the Entity.
 - (b) **Clinical Authorization.** The terms and conditions under which a Practitioner is permitted to furnish care on behalf of the Entity, including the Autonomy Tier assigned under § 1.6.1. **Clinical Authorization constitutes clinical privileges within the meaning of 42 U.S.C. § 11151(3)**, which defines clinical privileges to include "other circumstances pertaining to the furnishing of medical care under which a physician or other licensed practitioner is permitted to furnish such care by a health care entity."
 - (c) **Professional Review Action.** An action of the Committee, based on a Practitioner's competence or professional conduct that affects or could affect adversely the health or welfare of a patient, which adversely affects or may adversely affect the Practitioner's Clinical Authorization.
 - (d) **Professional Review Activity.** Activity undertaken to determine whether a Practitioner may furnish care, or the conditions under which care may be furnished, or to change or modify those conditions.
@@ -41,7 +41,7 @@ The authority is confined to the individual Practitioner. The Committee has no a
 - (g) **Employment Authority.** Authority to hire, terminate, discipline, set compensation for, evaluate for compensation purposes, or direct the assignment of a Practitioner.
 - (h) **The Authorization.** The written authorization of the Chief Executive Officer referenced in § 1.1.
 - (i) **Advanced Practice Clinician (APC).** A nurse practitioner or physician assistant, including one practicing in psychiatry. **Nurse practitioners and physician assistants are peers for every purpose of this Charter.** Wherever this Charter matches a reviewer or panelist to a Practitioner's discipline, either profession is matched to the other.
-- (j) **Service line.** Primary care or psychiatry, according to the care the Practitioner principally furnishes. A licensed psychotherapist is in the psychiatry service line.
+- (j) **Service line.** Primary care or psychiatry, according to the care the Practitioner principally furnishes.
 - (k) **Department Chair.** The chair of the Primary Care Committee or of the Psychiatry Committee.
 - (l) **Assigned supervising physician.** The physician the Entity assigns as responsible for an APC's practice and outcomes, whether or not the law of the jurisdiction requires a collaborative or supervisory arrangement for that APC. An assigned supervising physician holds no Employment Authority by virtue of the assignment.
 
@@ -58,7 +58,7 @@ The authority is confined to the individual Practitioner. The Committee has no a
 
 **The ladder is confined to authority because every tier on it is a Professional Review Action**, and carries the notice and hearing rights of Article X. A measure the Committee may impose directly, without that process, therefore cannot sit on it.
 
-**1.7 Uniform procedure.** This Charter applies identically to physicians and APCs. Licensed psychotherapists are reviewed only under a panel constituted specially under § 6.5.
+**1.7 Uniform procedure.** This Charter applies identically to physicians and APCs.
 
 ---
 
@@ -135,9 +135,8 @@ Participation by electronic means is permitted where every participant can hear 
 - (f) impose precautionary restriction under Article IX, subject to automatic lapse absent ratification under § 9.2.1, and investigatory restriction under § 9.8;
 - (g) refer systems findings to the CQC under Article XI;
 - (h) refer matters outside its scope under Article XIV;
-- (i) determine reportability with counsel and cause reports to be filed under Article XV;
-- (j) concur, or decline to concur, in the Audit Referral Policy under § 11.5; and
-- (k) adopt the addendum required by § 6.5.
+- (i) determine reportability with counsel and cause reports to be filed under Article XV; and
+- (j) concur, or decline to concur, in the Audit Referral Policy under § 11.5.
 
 **3.2 The Committee may not:**
 
@@ -345,11 +344,7 @@ Where a quarter contains no care in the clinical area, that examination is taken
 
 **6.4 Specialty and setting.** Where the matter turns on care in a specific setting, not fewer than one panelist shall have current practice experience in that setting. Post-acute and assisted living are distinct settings for this purpose.
 
-**6.5 Psychotherapists.** A review of a licensed psychotherapist is conducted by a panel composed of clinicians of that discipline, constituted by the Chair, under a **standing discipline-specific addendum adopted by the Committee in advance, reviewed by counsel, and approved as an amendment under § 16.2.** **Except as this section provides, no provision of this Charter governing the conduct of an opened review applies to a psychotherapist unless the addendum incorporates it.**
-
-**No review of a psychotherapist opens until that addendum is in effect, and no restriction under Article IX is imposed on a psychotherapist before then.** Where a concern about a psychotherapist's care presents imminent danger in that period, the Chair refers it at once to Management and to counsel, who act under the Entity's other authority. The addendum shall address the heightened protection given psychotherapy notes under 45 C.F.R. § 164.501 and § 164.508.
-
-**What applies regardless of whether an addendum is in effect:** the duty to refer under § 4.3(a), screening under § 4.4, and the records and confidentiality provisions of Article XIII. Where a matter concerning a psychotherapist is screened and cannot open for want of an addendum, the Committee shall adopt the addendum or record why it will not, and the fact is included in the next quarterly report under § 15.10.
+**6.5** [Reserved.]
 
 **6.6 External reviewers.** Where neither the standing membership nor the Pool can supply a discipline-matched panel, the Chair may engage an external reviewer of the same discipline under a written confidentiality undertaking. An external reviewer is a person assisting a professional review body for purposes of 42 U.S.C. § 11111(a)(1).
 
@@ -466,19 +461,19 @@ A closure under this section is **not a Quality Intervention** under § 8.2. It 
 
 **9.1 Authority.** Where the Chair, with [two] members, concludes that the failure to restrict a Practitioner's authority immediately may result in imminent danger to the health of any individual, **the Chair with those members may impose an immediate restriction** on the Practitioner's Clinical Authorization, pending review, as contemplated by 42 U.S.C. § 11112(c)(2).
 
-**9.2 Automatic lapse.** A restriction under this Article **lapses automatically at [five] business days from its imposition unless the Committee ratifies it** under § 9.2.1. Lapse requires no action by anyone. The Coordinator notifies every member on the day of imposition.
+**9.2 Automatic lapse.** A restriction under § 9.1 **lapses automatically at [five] business days from its imposition unless the Committee ratifies it** under § 9.2.1. Lapse requires no action by anyone. The Coordinator notifies every member on the day of imposition.
 
 **9.2.1 Ratification.** **Ratification is decided by the members not recused, other than the members who joined in imposing the restriction, by majority of those present and voting, with not fewer than [three] such members present.** Whether ratification is itself a Professional Review Action is determined under applicable law, with counsel.
 
 On ratification the Committee states the restriction's terms and the date by which the review shall conclude. The Committee may modify or end a precautionary restriction at any time, on its own motion or on the Practitioner's request.
 
-**9.3 Process follows.** A restriction under this Article is imposed without prior hearing. Notice under § 5.1 issues within [twenty-four] hours, and the review proceeds on an expedited basis. The Practitioner may address the Committee at the ratification meeting.
+**9.3 Process follows.** A restriction under § 9.1 is imposed without prior hearing. Notice under § 5.1 issues within [twenty-four] hours, and the review proceeds on an expedited basis. The Practitioner may address the Committee at the ratification meeting.
 
-**The timelines in § 14.4 do not apply.** The Chair sets the schedule at the time of imposition, records it, and sets it so that the Committee can decide the matter, and give notice under § 10.2 of any action it proposes, before the [forty-five] days in § 9.5 expire. The Practitioner's response period under § 5.2 shall not be shortened below [ten] calendar days, and an extension under § 14.4 is available in a matter under this Article only where the Practitioner requests it.
+**The timelines in § 14.4 do not apply.** The Chair sets the schedule at the time of imposition, records it, and sets it so that the Committee can decide the matter, and give notice under § 10.2 of any action it proposes, before the [forty-five] days in § 9.5 expire. The Practitioner's response period under § 5.2 shall not be shortened below [ten] calendar days, and an extension under § 14.4 is available in a matter under § 9.1 only where the Practitioner requests it.
 
 **9.4 The thirty-day clock.** **A restriction that remains in effect longer than thirty days may become reportable**, whether or not the review has concluded. The period runs from imposition under § 9.1, not from ratification, and § 15.7 governs the determination.
 
-**9.5 Hard stop.** A restriction under this Article terminates at [forty-five] days from imposition unless, before that day, the Committee has taken a Professional Review Action with the process Article X requires. It continues beyond that day only as follows.
+**9.5 Hard stop.** A restriction under § 9.1 terminates at [forty-five] days from imposition unless, before that day, the Committee has taken a Professional Review Action with the process Article X requires. It continues beyond that day only as follows.
 
 - (a) **Where the Practitioner has requested a hearing under § 10.3**, the restriction continues through the conclusion of that process. Requesting a hearing is the Practitioner's right, and the time the process takes is not attributed to the Practitioner as delay. **The Committee reviews a restriction continued on this ground not less often than every [thirty] days**, on the record then available, ends or modifies it where it is no longer warranted, records each review, and **makes the offer of an expedited schedule under § 10.2.1 again at each one.**
 - (b) **Where notice of a Proposed Action restricting Clinical Authorization was given before the [forty-five] days expired**, the restriction continues while the period to request a hearing under § 10.2 runs. Where the period runs without a request, the Committee takes final action within [five] business days, and the restriction continues until it does. Where a hearing is requested, (a) governs.
@@ -487,7 +482,7 @@ The pendency of a hearing does not suspend the period under § 9.4.
 
 **9.6 Resignation during review.** Section 15.9 applies.
 
-**9.7 Where no review follows.** Where the matter underlying a restriction under this Article is dispositioned under § 4.4(e) and no question about care furnished remains, **no review under Articles V and VI follows**, and the restriction is governed by §§ 9.2, 9.4 and 9.5 alone. **The Committee decides whether to ratify, modify, or end the restriction on the two facts § 4.3(d)(2) permits it to establish, and not on any finding about care.** Notice under § 5.1 issues regardless, and states that no review is open.
+**9.7 Where no review follows.** Where the matter underlying a restriction under § 9.1 is dispositioned under § 4.4(e) and no question about care furnished remains, **no review under Articles V and VI follows**, and the restriction is governed by §§ 9.2, 9.4 and 9.5 alone. **The Committee decides whether to ratify, modify, or end the restriction on the two facts § 4.3(d)(2) permits it to establish, and not on any finding about care.** Notice under § 5.1 issues regardless, and states that no review is open.
 
 **The referral under § 4.3(d) states that a restriction stands and the date on which § 9.5 ends it.** It is made on the day of the disposition under § 4.4(e) or of the restriction, whichever is later.
 
@@ -549,7 +544,7 @@ The default expedited schedule is **[ten] days to request a hearing; the panel c
 - (c) holds no Employment Authority;
 - (d) is subject to no recusal trigger under § 12.1;
 - (e) is not in direct economic competition with the Practitioner; and
-- (f) together with the other panelists, provides discipline-matched representation: care furnished by an APC is heard with meaningful APC representation; by an APC practicing in psychiatry, with psychiatric-trained representation; and by a licensed psychotherapist, with representation from that discipline.
+- (f) together with the other panelists, provides discipline-matched representation: care furnished by an APC is heard with meaningful APC representation, and by an APC practicing in psychiatry, with psychiatric-trained representation.
 
 No person excluded by (b) may advise the panel or be present for its deliberations.
 
@@ -681,7 +676,7 @@ The Committee reviews its concurrence each year, when the CQC reviews the Policy
 
 **13.1 Custody and segregation.** The Coordinator is custodian of the Committee's records and of the record of each hearing panel. The following are maintained as separate records, in separate systems or separately secured locations, and documents are not moved between them:
 
-- (a) **the governance record**: this Charter, the Authorization, any designation under § 4.3(d), the addendum under § 6.5, procedures adopted under this Charter, the Committee's concurrence under § 11.5 with a copy of the Audit Referral Policy, and the reports under §§ 15.10 and 15.11;
+- (a) **the governance record**: this Charter, the Authorization, any designation under § 4.3(d), procedures adopted under this Charter, the Committee's concurrence under § 11.5 with a copy of the Audit Referral Policy, and the reports under §§ 15.10 and 15.11;
 - (b) **the Committee's case record**: the record of each matter screened, reviewed, or decided, including its minutes;
 - (c) **each hearing panel's record**, maintained separately from (b);
 - (d) the CQC's standards and education record, which is intended for circulation and is not confidential;
@@ -739,7 +734,7 @@ The Committee reviews its concurrence each year, when the CQC reviews the Policy
 
 **15.1 The Committee and its participants.** The Committee, each hearing panel, their members, panelists, external reviewers, any presiding officer, the Coordinator, and any person assisting are entitled to the protections of 42 U.S.C. § 11111(a)(1) where the standards of § 11112(a) are met, and to the protections of the state statutes cited in § 1.3.
 
-**15.2 Persons providing information.** **A person who provides information to the Committee regarding the competence or professional conduct of a physician is not liable in damages for it under 42 U.S.C. § 11111(a)(2), unless the information is false and the person knew it was false.** This protection does not depend on the outcome of the review and does not depend on the standards of § 11112(a) being met. **This federal protection does not reach information about an APC or a psychotherapist.** What protection such information has depends on the statutes cited in § 1.3 and on other applicable law. The Committee's operating procedure provides for the protection that applies to be stated in communications soliciting information.
+**15.2 Persons providing information.** **A person who provides information to the Committee regarding the competence or professional conduct of a physician is not liable in damages for it under 42 U.S.C. § 11111(a)(2), unless the information is false and the person knew it was false.** This protection does not depend on the outcome of the review and does not depend on the standards of § 11112(a) being met. **This federal protection does not reach information about an APC.** What protection such information has depends on the statutes cited in § 1.3 and on other applicable law. The Committee's operating procedure provides for the protection that applies to be stated in communications soliciting information.
 
 **15.3 Immunity is a presumption.** The protections of 42 U.S.C. § 11111(a)(1) are available where a professional review action meets the standards of § 11112(a), and the presumption that it does is rebuttable. This Charter's process is written to meet those standards and is mandatory as the Entity's policy. A departure from it does not by itself decide whether the standards were met, and following it does not guarantee that they were. They cover damages. They do not cover injunctive or declaratory relief and do not extend to civil rights claims. They do not attach to employment decisions.
 
@@ -785,7 +780,7 @@ This section does not limit counsel's part in determining reportability, in a he
 
 **16.1 Annual review.** The Committee reviews this Charter annually and reports the review in the next quarterly report under § 15.10.
 
-**16.2 Amendment.** By the Committee, with the written approval of the Chief Executive Officer. An amendment takes effect on approval. The addendum under § 6.5 is adopted and amended in the same way.
+**16.2 Amendment.** By the Committee, with the written approval of the Chief Executive Officer. An amendment takes effect on approval.
 
 **16.3 Effective date.** [DATE], and not before each of the following is in place:
 
@@ -981,6 +976,10 @@ Pre-revision copy for items 58 to 64: `_archive/prc-charter-draft-2026-11-16-bef
 66. **Fourth review pass (§§ 6.5, 15.3, 15.6, 15.10, 15.11), 2026-11-16.** Section 6.5 still listed the precautionary authority under Article IX among provisions applying without an addendum, contradicting the bar added in item 65; removed, and imminent danger goes to Management and counsel as § 6.5 now provides. Section 15.3 cites § 11111(a)(1), the protection the § 11112(a) standards govern, leaving § 11111(a)(2) to § 15.2. Section 15.6 distinguishes the copy the state licensing board must receive under federal law from further state reporting, for reports under §§ 15.6, 15.7 and 15.9 alike. Sections 15.10 and 15.11 refer to reports submitted under Article XV, so § 15.9 reports enter both. Pre-revision copy: `_archive/prc-charter-draft-2026-11-16-before-fourth-review.md`.
 
 67. **Simplification (Articles I to XVI), 2026-11-16.** Reasons, restatements and drafting notes removed from the operative text; rules kept. The reasons moved to the PRC member guide, section *Why the Charter says what it says*. The day-20 reportability reminder in § 9.4 moved to operating procedure OP-1, adopted and effective with this Charter; the Coordinator's same-day notice to members in § 9.2 stays. The § 9.5 heading is corrected to two lettered continuations. Cut rather than moved: the prediction in § 7.3, the count of autonomous-practice states in § 7.2, and the reporting-clock clause in § 9.8(g). No substantive decision authority, practitioner right, restriction limit, voting threshold, or external reporting duty changes. Verified sentence by sentence on 2026-11-17; the record of the circumstances of a resignation, dropped from §§ 9.6 and 10.9, was restored in § 15.9. Every change, OP-1's text, and a proposed classification of each rule for counsel (legally required, needed for a protection, or policy choice) are in `prc-simplification-2026-11-16.md`. Pre-revision copy: `_archive/prc-charter-draft-2026-11-16-before-simplification.md`.
+
+68. **Scope of §§ 9.2 to 9.7, 2026-11-17.** "A restriction under this Article" in §§ 9.2, 9.3, 9.5 and 9.7 read literally reached the investigatory restriction under § 9.8, which would have subjected it to five-day ratification and the forty-five-day stop. Each now says "a restriction under § 9.1." Section 9.8 is governed by its own terms; § 9.4 already ran from imposition under § 9.1, with § 9.8(f) counting the two together; § 9.9 covers both by name. The ambiguity predates the simplification. Pre-revision copy: `_archive/prc-charter-draft-2026-11-17-before-9-1-scope.md`.
+
+69. **Psychotherapists removed, 2026-11-17 (Patrick).** The Charter no longer reaches licensed psychotherapists. Removed: the definition's reference in § 1.6(a), the service-line sentence in § 1.6(j), the panel sentence in § 1.7, the addendum power at § 3.1(k), § 6.5 (now reserved, so that §§ 6.6 to 6.8 keep their numbers and cross-references), the discipline-matching clause in § 10.3(f), the addendum in the governance record at § 13.1(a), the reference in § 15.2, and the addendum's amendment sentence in § 16.2. A concern about a psychotherapist's care is outside this Committee and is handled by Management under its own authority. Conformed: CQC § 2.4, both member guides, the seat map, the counsel questions, the memo *What the Peer Review Committee Charter Requires*, and the simplification record. Pre-revision copy: `_archive/prc-charter-draft-2026-11-17-before-psychotherapy-removal.md`.
 
 **Bracketed defaults to confirm:** monthly meeting cadence; five-business-day lapse and forty-five-day stop on precautionary restrictions; the Coordinator's title, if "Executive Coordinator, Clinical Excellence" is not final; six standing members and the discipline mix, now three physicians; two-year terms; two-member panels; ten-day screening; five-day notice; twenty-day response; sixty-day panel findings; the ninety-day count in the quarterly report; six-month Tier One limit; the [five]-business-day notice, [ten]-business-day decision period and [two]-year repeat bar under § 5.7; the [ten]-chart sample and [four]-quarter limit for the examinations under § 5.7.6; seven-year retention; the mandatory referral list in § 4.3; the [four]-member floor for votes on Professional Review Actions and the [three]-member floor for precautionary ratification; the convening periods in § 2.10; the hearing periods in § 10.10, including the expedited schedule; hearing panel size of [three]; the [five] business days to final action after an unanswered notice under § 9.5; the [two] members joining the Chair under § 9.8; the circumstances requiring counsel's attention under § 15.11.1; the [five]-patient sample and the [ten]-business-day response under § 6.8.
 

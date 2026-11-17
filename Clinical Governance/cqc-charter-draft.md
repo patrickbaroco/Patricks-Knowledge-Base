@@ -36,7 +36,7 @@
 
 **2.3 Composition floor.** Not less than [two-thirds] of members shall be licensed clinicians in active clinical practice. This exceeds the fifty percent required by Ind. Code § 34-30-15 and shall not be reduced by amendment below fifty percent.
 
-**2.4 Disciplines.** Physicians and APCs. **Where a standard concerning psychotherapy is proposed, a licensed psychotherapist is consulted before adoption** and may attend for that purpose on the terms of § 2.6. A psychotherapist seat is not created until the addendum required by § 6.5 of the PRC Charter is in effect, since no standard concerning psychotherapy can produce a referral before then.
+**2.4 Disciplines.** Physicians and APCs.
 
 **2.5 Members holding Employment Authority.** Not more than [one] member may hold Employment Authority. Members holding Employment Authority participate fully in standards, education, and systems work. **They do not participate in any determination concerning an identified Practitioner** — including the disposition of an individually attributed observation under § 5.5 and any determination under Article VI — and withdraw before it is discussed. The PRC excludes such persons from its membership altogether under § 2.3 of its Charter. This Committee seats one because the enterprise view is useful in standards and systems work, and confines that member for the same reason the PRC excludes them.
 
@@ -786,3 +786,5 @@ Pre-revision copy: `_archive/cqc-charter-draft-2026-11-13-before-policies-triage
 **Bracketed defaults to confirm:** the [ten] business days a review report waits for a requested clinical comment under § 5.5(e)(2); the [thirty]-chart, [ten]-Practitioner and [forty]-percent suppression thresholds under § 7.4.1; the [forty-five]-day opening period and [ninety]-day window under § 5.11.2, and the [sixty]-day notice period under § 5.7; the ten-business-day correction window in § 5.5(a); two-year terms; two-thirds clinician floor; one member holding Employment Authority; three eligible members for a § 5.5 or Article VI determination; monthly cadence; three-year standards review cycle; quarterly aggregate from the PRC; seven-year retention; and, added 2026-11-13, the [ninety]-day extension and [the Chief Medical Officer] under §§ 7.8.2 and 7.8.7. Selection thresholds under § 5.6(a) are set in the audit register rather than the Charter and need no default here.
 
 **For counsel.** Questions for counsel are kept outside this draft, in `counsel-questions.md`.
+
+**Psychotherapists removed, 2026-11-17 (Patrick).** § 2.4 no longer provides for consultation with a licensed psychotherapist or a psychotherapist seat. The PRC Charter no longer reaches psychotherapists, and the definition of Practitioner both Charters share (PRC § 1.6(a)) is now physicians and APCs only. Pre-revision copy: `_archive/cqc-charter-draft-2026-11-17-before-psychotherapy-removal.md`.

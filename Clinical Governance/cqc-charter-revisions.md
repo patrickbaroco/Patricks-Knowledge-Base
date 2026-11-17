@@ -417,3 +417,9 @@ Patrick: take it out of the CQC and keep it simple. The triage lead wants to be 
 - **Still worth considering (PRC):** an explicit § 12.1 recusal ground for a person who gave an opinion on the care at issue before the referral, parallel to the existing ground for review at counsel's request. Matters when Patrick, who screens every referral, is the physician consulted.
 
 Pre-revision copy: `_archive/cqc-charter-draft-2026-11-13-before-triage-withdrawn.md`.
+
+---
+
+# Revision of 2026-11-17: psychotherapists removed
+
+§ 2.4 reduced to "Physicians and APCs." The consultation on psychotherapy standards and the deferred psychotherapist seat are gone, following the removal of psychotherapists from the PRC Charter (PRC open item 69).

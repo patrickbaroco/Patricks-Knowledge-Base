@@ -2,7 +2,7 @@
 type: reference
 about: Questions for counsel on the CQC and PRC Charters
 related: "[[prc-charter-draft]]", "[[cqc-charter-draft]]"
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # Questions for counsel
@@ -28,7 +28,6 @@ Kept outside the charter and policy drafts so that the drafts carry only their o
 - **§ 9.8 — the investigatory restriction.** (a) The statute permits "a suspension of clinical privileges of not longer than 14 days" during an investigation. Whether a narrower restriction, such as mandatory consultation for a defined set of decisions, falls within § 11112(c)(1)(B), or whether § 9.8 should be confined to suspension. (b) Whether a review opened under § 4.4(d) is "an investigation being conducted to determine the need for a professional review action" for this purpose. (c) Confirmation that a restriction ending within fourteen days is not reportable to the Data Bank, and that counting a following § 9.1 restriction from the first imposition under § 9.8(f) is right rather than over-inclusive. (d) Whether any of the five states treats a short investigatory restriction differently for licensing-board reporting. Added 2026-08-30 as a question whether to add the instrument; rewritten 2026-09-28 now that it is drafted.
 - § 2.3 — whether categorical exclusion of Employment Authority creates any argument that the deciding body lacked the knowledge to form a reasonable belief under § 11112(a)(1).
 - § 7.4 — whether opening a physician review on the basis of an oversight assessment made in another Practitioner's review creates any notice defect for the physician.
-- § 6.5 — psychotherapy notes: whether professional review of a psychotherapist is within the health care operations exception, and what a compliant procedure looks like.
 - § 13.3 — confirmation that the retrospective-posture language tracks the *Charles* and *Kitchen* line as counsel reads it.
 - Whether Ind. Code § 34-30-15-6(b), which confines statutory hearing and appeal rights to independent practitioners with privileges and excludes employees, creates any inconsistency with running full HCQIA process for everyone. The intent is to exceed the state floor deliberately.
 - § 4.3 — whether the mandatory referral list should include a malpractice claim at filing or only at settlement or judgment.
@@ -57,11 +56,10 @@ Kept outside the charter and policy drafts so that the drafts carry only their o
 ### Added 2026-11-16, from an external review of the draft
 
 - **§ 13.4.1 — Indiana access.** When Ind. Code § 34-30-15-4 applies to a review under this Charter (an Indiana Practitioner, care furnished in Indiana, or an Indiana forum); what redaction it permits; whether it reaches records of deliberation; and how *Savage v. Indiana University Health, Inc.*, No. 1:25-cv-01285 (S.D. Ind. Apr. 27, 2026) bears on it.
-- **North Carolina membership.** Whether "health care providers licensed under this Chapter" in N.C. Gen. Stat. § 90-21.22A(a)(1) requires every voting member and hearing panelist acting on a North Carolina matter to hold a North Carolina license, so that those matters need a North Carolina roster; and whether a clinical social worker licensed under Chapter 90B can sit on, or be reviewed by, such a committee.
+- **North Carolina membership.** Whether "health care providers licensed under this Chapter" in N.C. Gen. Stat. § 90-21.22A(a)(1) requires every voting member and hearing panelist acting on a North Carolina matter to hold a North Carolina license, so that those matters need a North Carolina roster.
 - **§ 5.7.6 — examinations after an agreed resolution.** Whether the two examinations make a resignation or surrender during them one made during an investigation for Data Bank purposes, and whether that exposure is acceptable or calls for a change to the examinations.
 - **§ 12.1 — Chair recusal.** Whether the triggers are adequate for a Chair who chairs both committees, screens, constitutes panels, and joins in imposing restrictions under Article IX, including whether the trigger for an opinion from which the referral arose is drawn at the right place.
-- **§ 15.2 — information about APCs.** What protection each of the five state statutes gives a person who provides information about an APC or a psychotherapist, and whether the statement in the operating procedure should vary by state.
-- **§ 6.5 and Article IX — psychotherapists.** Whether Article IX should be unavailable for psychotherapists until the § 6.5 addendum is in effect; and how the addendum should treat psychotherapy notes under 45 C.F.R. § 164.508(a)(2), which generally require authorization unless a specified exception applies.
+- **§ 15.2 — information about APCs.** What protection each of the five state statutes gives a person who provides information about an APC, and whether the statement in the operating procedure should vary by state.
 - **§ 9.7 — restriction on a health-only matter.** Whether the Practitioner Health pathway has the authority and clinical capacity to reach a fitness decision within the forty-five days § 9.5 allows. An item for HR and counsel; this Charter does not address the pathway's process.
 - **Kentucky and LTC ACO.** Whether participation in LTC ACO's quality program supports the attestation under KRS 311.377(2), and whether LTC ACO or an affiliate falls within a sponsor category in subsection (1). Ohio R.C. 2305.25(A) names ACOs among health care entities. *Saint Elizabeth Medical Center, Inc. v. Summe*, No. 2025-SC-0236-MR (Ky. June 25, 2026), cited on credentialing applications, has been seen only in reproduction and needs confirming.
 - **Classification of the PRC Charter's rules.** Whether each rule is legally required, needed for a protection Eventus claims, or an Eventus policy choice, as proposed section by section in Part D of `prc-simplification-2026-11-16.md`. Of particular interest: § 10.5(e), which places the burden on the Committee by a preponderance, and § 15.8's biennial attestation.
@@ -77,7 +75,6 @@ Kept outside the charter and policy drafts so that the drafts carry only their o
 - Whether a committee whose principal output is prospective standards and education qualifies as a protected committee under each of the five statutes, given the statutes contemplate retrospective review. This is a different question from the one asked about the PRC and it has not been analyzed.
 - Whether § 8.1(a) — an open, expressly non-confidential record held by a privileged committee — creates any argument that the Committee's protected record is also operational. The intent is the opposite: that a clean split protects the audit record.
 - Whether adoption of an internal standard under § 4.2 creates any exposure distinct from adopting a published guideline, and whether the required statement of evidence and reasoning is sufficient answer.
-- Whether psychotherapist membership affects the composition analysis under Ind. Code § 34-30-15 or N.C. Gen. Stat. § 90-21.22A, both written around a narrower set of disciplines.
 - § 1.6 — confirmation that the stated separation from facility QAPI is sufficient, given Entity clinicians participate in facility QAPI individually.
 - **The Authorization and state privilege.** The same question asked at the PRC Charter: whether a committee established by the Chief Executive Officer's authorization rather than by the governing body is protected in each of the five states, Indiana in particular. Added 2026-09-28.
 - **§ 5.5(d)(4) — whether a Practitioner's own disclosure of a commendation letter affects protection of the record it came from.** Added 2026-09-28.
