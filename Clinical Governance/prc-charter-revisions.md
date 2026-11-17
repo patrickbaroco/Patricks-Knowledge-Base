@@ -619,3 +619,5 @@ Recorded as item 67 in the Charter's open items. Piloted on Article IX (`_archiv
 **Lesson recorded for the remaining articles.** A notice is assessed for its role in oversight and safety, not only for whether missing it favors the Practitioner.
 
 The full change table, OP-1, and the counsel classification: `prc-simplification-2026-11-16.md`. Member guide: new section *Why the Charter says what it says*; pre-revision copy `_archive/prc-member-guide-2026-11-16-before-reasons-section.md`.
+
+**Follow-up, 2026-11-17.** A sentence-by-sentence comparison of the operative text before and after found one rule lost: the record of the circumstances of a resignation (former §§ 9.6, 10.9), now restored in § 15.9. The change record's classification key was revised (L: binding when its conditions apply; P: condition of a protection or of a chosen safe harbor; E: policy choice, noting where it supports defensibility; S: statement of law), and OP-1's scope was stated. First version of the change record: `_archive/prc-simplification-2026-11-16-first-version.md`.
