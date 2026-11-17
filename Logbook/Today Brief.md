@@ -1,7 +1,7 @@
 ---
 type: brief
-brief_date: 2026-11-16
-generated: 2026-11-16T06:10
+brief_date: 2026-11-17
+generated: 2026-11-17T06:09
 about: >-
   Rewritten every morning by Claude (Command Center scheduled task) and embedded in Today.md.
   Weekend briefs leave out work. Today.md shows "## Forecasts" at the top and "## Today" under Morning brief. Overwritten each run; the daily note is the record, not this file.
@@ -9,29 +9,28 @@ about: >-
 
 ## Forecasts
 
-**Fishersville.** Sunny and calm with a high of 54° and no chance of rain; clear tonight with a low of 28°.
+**Fishersville.** Sunny and calm with a high of 59° and no chance of rain; clear tonight with a low of 30°.
 
-**Snowshoe.** A chance of flurries before 9am gives way to sun, with a high near 42° and northwest gusts to 22 mph; tonight is mostly clear with a low around 28°. The rest of the week turns mild and dry, with sunny highs in the low to mid 50s through Friday, and the weekend looks mostly sunny with highs near 53° and Saturday night's low around 39°. No hazards, watches or advisories are posted.
+**Snowshoe.** Sunny today with a high near 51°, then clear tonight with a low around 33° and calm wind. Dry, sunny weather holds through Friday with highs in the mid to upper 50s. The weekend turns cloudier: Saturday mostly sunny near 52° with a low around 42°, Sunday partly sunny near 52°, and a 30% chance of rain Sunday night before Monday cools to 42°. NWS Charleston has a Special Weather Statement out for the area.
 
-**Freezing and snow, 7 days:** Tonight 28°, Tuesday night 32°. Chance of flurries this morning before 9am, no accumulation given; no other frozen precipitation in the forecast.
+**Freezing and snow, 7 days:** None. The coldest period is tonight at around 33°, and the forecast has no snow.
 
 ## Today
 
 **Schedule**
-- All day (through Wed) · Jennie Byrne OOO; Dr. Bob Williams covers clinical escalations
-- 9:00–11:45 · Round at ANR – Admissions
-- 11:45–1:00 · Round at Summit Square SNF & ALF
-- 1:30–2:30 · VA Operations Cadence Call (Teams) (tentative)
-- 2:30–3:00 · athena Weekly Clinician Council (Teams)
-- 3:00–3:45 · **Jen:Patrick** (Teams)
+- 9:00–10:30 · Legacy IDT
+- **9:00–11:30 · Round at ANR, regs and acutes**
+- 12:00–1:45 · Round at BRC, admissions and 30/60/90 regs
+- 1:45–4:30 · Notes
+- 2:00–2:30 · LTC ACO Office Hours: PY2026 year-end quality check-in (Zoom, tentative)
 
 **Worth knowing**
-- The day runs back to back from 9:00 to 3:45, with only a half hour after Summit Square; real desk time starts at 3:45.
-- Todoist shows 16 tasks, all overdue, seven of them work replies dating from late October; the Jen:Patrick one-on-one is a natural place to clear the Colvin open-notes and Kendal/BRC replacement items.
-- The p1 monthly sweep to Ally Savings, now $4,000 with the home-maintenance set-aside, was due yesterday and should go today.
-- Nothing arrived overnight that needs you; the only new mail is your own reply on Dr. Mitchell's retention.
+- Legacy IDT runs at the same time as the ANR rounds this morning. Your only desk time is the notes block from 1:45 to 4:30, and the ACO office hours take half an hour of it if you go.
+- Todoist shows 13 overdue tasks and none due today. There are no p1s. The five p2s are the IRA check before the solo 401(k) rollover (deadline December 15), the replacement facility for KD, Steve Schneider's PD recommendations, and the replies to Byrne on Creyos and to Colvin on open notes.
+- Overnight, Cary said Dr. Mitchell has confirmed his resignation, with a last day of 12/31. He has agreed not to solicit our buildings. Cary asked Dr. Grumet to share the physician coverage plan with the group, so nothing is being asked of you yet.
+- Cary also sent a confidential Athena preview to Leader Forum attendees. It is not to be distributed.
 
 **For Claude**
 No open requests.
 
-<small>Written 6:10am from Outlook, Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe.</small>
+<small>Written 6:09am from Outlook, Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe.</small>
