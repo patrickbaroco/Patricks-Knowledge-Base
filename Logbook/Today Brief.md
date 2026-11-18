@@ -1,7 +1,7 @@
 ---
 type: brief
-brief_date: 2026-11-17
-generated: 2026-11-17T06:09
+brief_date: 2026-11-18
+generated: 2026-11-18T06:09
 about: >-
   Rewritten every morning by Claude (Command Center scheduled task) and embedded in Today.md.
   Weekend briefs leave out work. Today.md shows "## Forecasts" at the top and "## Today" under Morning brief. Overwritten each run; the daily note is the record, not this file.
@@ -9,28 +9,27 @@ about: >-
 
 ## Forecasts
 
-**Fishersville.** Sunny and calm with a high of 59° and no chance of rain; clear tonight with a low of 30°.
+**Fishersville.** Sunny and calm with a high of 65° and no chance of rain; clear tonight with a low near 32°.
 
-**Snowshoe.** Sunny today with a high near 51°, then clear tonight with a low around 33° and calm wind. Dry, sunny weather holds through Friday with highs in the mid to upper 50s. The weekend turns cloudier: Saturday mostly sunny near 52° with a low around 42°, Sunday partly sunny near 52°, and a 30% chance of rain Sunday night before Monday cools to 42°. NWS Charleston has a Special Weather Statement out for the area.
+**Snowshoe.** The summit is sunny today with a high near 55° and clear tonight with a low around 36°. Thursday and Friday stay sunny in the mid-50s, Saturday is mostly sunny near 53°, and Sunday brings a 30% chance of rain after 1pm, high near 53°. A colder turn follows: Monday tops out near 42° and Tuesday near 38°. No NWS hazards are posted.
 
-**Freezing and snow, 7 days:** None. The coldest period is tonight at around 33°, and the forecast has no snow.
+**Freezing and snow, 7 days:** Monday night 27°. No snow or other frozen precipitation in the forecast.
 
 ## Today
 
 **Schedule**
-- 9:00–10:30 · Legacy IDT
-- **9:00–11:30 · Round at ANR, regs and acutes**
-- 12:00–1:45 · Round at BRC, admissions and 30/60/90 regs
-- 1:45–4:30 · Notes
-- 2:00–2:30 · LTC ACO Office Hours: PY2026 year-end quality check-in (Zoom, tentative)
+- 9:00–1:30 · **Rounds at BRC: SNF regs and ALF**
+- 12:30–3:00 · Notes
+- 2:00–2:30 · Weekly Athena Comms Check-In
+- 4:00–5:00 · **Weekly Clinical Seminar: PCP and Medical Specialties**
 
 **Worth knowing**
-- Legacy IDT runs at the same time as the ANR rounds this morning. Your only desk time is the notes block from 1:45 to 4:30, and the ACO office hours take half an hour of it if you go.
-- Todoist shows 13 overdue tasks and none due today. There are no p1s. The five p2s are the IRA check before the solo 401(k) rollover (deadline December 15), the replacement facility for KD, Steve Schneider's PD recommendations, and the replies to Byrne on Creyos and to Colvin on open notes.
-- Overnight, Cary said Dr. Mitchell has confirmed his resignation, with a last day of 12/31. He has agreed not to solicit our buildings. Cary asked Dr. Grumet to share the physician coverage plan with the group, so nothing is being asked of you yet.
-- Cary also sent a confidential Athena preview to Leader Forum attendees. It is not to be distributed.
+- Every event above is a pre-November 17 Outlook copy, so times may have shifted; confirm the afternoon against Outlook.
+- Notes overlaps the end of rounds and is split by the Athena check-in, so the real desk time is about 2:30 to 4:00.
+- Todoist shows 13 open tasks, all overdue and none due today; there are no p1s. The p2s include the Kendal and BRC email (top 3), the Schneider PD and agitation plan, the Byrne and Colvin replies, and the IRA check, whose rollover has to clear by December 31.
+- Dormant seeding the drainfield is overdue, but its window runs to early December and tonight's Fishersville low near 32° fits the cold-soil timing it needs.
 
 **For Claude**
 No open requests.
 
-<small>Written 6:09am from Outlook, Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe.</small>
+<small>Written 6:09am from Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe; no current calendar screenshot; work schedule may be incomplete.</small>
