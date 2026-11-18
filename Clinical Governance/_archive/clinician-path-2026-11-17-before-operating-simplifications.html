@@ -1,0 +1,544 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How a Review Unfolds</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<style>
+:root{
+  --paper:#F2F5F4; --surface:#FFFFFF; --sunk:#EAEFEE;
+  --ink:#131F1E; --muted:#5B6E6C; --line:#D3DDDB; --line2:#BCC9C7; --conn:#5B6E6C;
+  --teal:#0E6F6B; --wine:#8A4257; --brass:#8C6416; --slate:#4F6469;
+  --teal-w:#E3EFEE; --wine-w:#F3E7EA; --brass-w:#F4EDDD; --slate-w:#E8EDEE;
+  --stop:#A63A2E; --stop-w:#F6E7E4;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0D1413; --surface:#151F1E; --sunk:#1B2625;
+    --ink:#E3EBE9; --muted:#93A6A3; --line:#26332F; --line2:#35443F; --conn:#8AA09C;
+    --teal:#59C4B8; --wine:#DE94A8; --brass:#D8AC58; --slate:#9BB2B7;
+    --teal-w:#122927; --wine-w:#2A1A1F; --brass-w:#26200F; --slate-w:#182224;
+    --stop:#E8705E; --stop-w:#2B1714;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0D1413; --surface:#151F1E; --sunk:#1B2625;
+  --ink:#E3EBE9; --muted:#93A6A3; --line:#26332F; --line2:#35443F; --conn:#8AA09C;
+  --teal:#59C4B8; --wine:#DE94A8; --brass:#D8AC58; --slate:#9BB2B7;
+  --teal-w:#122927; --wine-w:#2A1A1F; --brass-w:#26200F; --slate-w:#182224;
+  --stop:#E8705E; --stop-w:#2B1714;
+}
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:"Public Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  font-size:15.5px;line-height:1.6;-webkit-font-smoothing:antialiased;}
+.wrap{max-width:1120px;margin:0 auto;padding:44px 28px 96px}
+p{margin:0 0 1em}
+
+.eyebrow{font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace;font-size:11px;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 14px}
+h1{font-family:Spectral,Georgia,"Times New Roman",serif;font-weight:600;
+  font-size:clamp(34px,5.2vw,50px);line-height:1.08;letter-spacing:-.015em;
+  margin:0 0 18px;text-wrap:balance;max-width:15ch}
+.lede{font-size:18px;line-height:1.55;max-width:64ch}
+.lede + .lede{color:var(--muted);font-size:16px}
+.stamp{display:inline-flex;gap:10px;align-items:center;margin-top:26px;
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.06em;
+  color:var(--muted);border:1px solid var(--line2);border-radius:2px;padding:7px 12px}
+.stamp b{color:var(--ink);font-weight:500}
+
+hr.rule{border:0;border-top:1px solid var(--line);margin:56px 0 0}
+h2{font-family:Spectral,Georgia,serif;font-weight:600;font-size:27px;line-height:1.2;
+  letter-spacing:-.01em;margin:52px 0 6px;text-wrap:balance}
+h2 + .sub{color:var(--muted);font-size:15px;margin:0 0 26px;max-width:66ch}
+.blocklabel{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--muted);margin:0 0 12px}
+
+/* ---------- the four facts strip ---------- */
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+  gap:1px;background:var(--line);border:1px solid var(--line);border-radius:3px;
+  overflow:hidden;margin-top:30px}
+.fact{background:var(--surface);padding:18px 18px 20px}
+.fact h3{font-family:Spectral,Georgia,serif;font-weight:600;font-size:17px;
+  line-height:1.25;margin:0 0 7px;letter-spacing:-.005em}
+.fact p{margin:0;font-size:13.5px;line-height:1.5;color:var(--muted)}
+
+/* ---------- the path ---------- */
+.phase{margin-top:44px}
+.phase-head{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;
+  border-top:2px solid var(--ph);padding-top:14px;margin-bottom:6px}
+.phase-head h3{font-family:Spectral,Georgia,serif;font-weight:600;font-size:22px;
+  margin:0;letter-spacing:-.01em}
+.phase-head .who{font-family:"IBM Plex Mono",monospace;font-size:10.5px;
+  letter-spacing:.12em;text-transform:uppercase;color:var(--ph)}
+
+.stage{display:grid;grid-template-columns:22px minmax(0,1fr) minmax(0,300px);
+  gap:0 24px;align-items:start}
+@media (max-width:800px){
+  .stage{grid-template-columns:22px minmax(0,1fr)}
+  .stage .exits{grid-column:2;margin:2px 0 0}
+}
+.rail{position:relative;align-self:stretch;min-height:100%}
+.rail::before{content:"";position:absolute;left:9px;top:0;bottom:0;width:2px;
+  background:var(--line2)}
+.rail::after{content:"";position:absolute;left:5px;top:20px;width:10px;height:10px;
+  border-radius:50%;background:var(--paper);border:2px solid var(--ph);z-index:1}
+.stage:last-child .rail::before{bottom:auto;height:25px}
+.stage.report .rail::before{background:var(--stop)}
+.stage.report .rail::after{border-color:var(--stop)}
+
+.stage .body{padding:14px 0 18px}
+.stage h4{font-size:16px;font-weight:600;margin:0 0 6px;line-height:1.3}
+.stage .body p{margin:0;font-size:14px;line-height:1.55;color:var(--muted)}
+.stage .body p + p{margin-top:7px}
+.stage .body b{color:var(--ink);font-weight:600}
+.cite{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--muted);
+  letter-spacing:.03em;white-space:nowrap}
+
+.exits{padding:14px 0 18px;display:flex;flex-direction:column;gap:8px}
+.exit{background:var(--sunk);border:1px solid var(--line);border-left:3px solid var(--ph);
+  border-radius:2px;padding:9px 12px;font-size:13px;line-height:1.45;color:var(--muted)}
+.exit b{color:var(--ink);font-weight:600}
+.exit > b:first-child{display:block;margin-bottom:3px;font-size:13px}
+.exit.out{border-left-color:var(--slate)}
+.exits .lab{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);margin:0 0 -2px}
+
+.railnote{display:grid;grid-template-columns:22px minmax(0,1fr);gap:0 24px;
+  align-items:center;margin:0}
+.railnote .rail::after{display:none}
+.railnote p{margin:0;padding:10px 0;font-family:"IBM Plex Mono",monospace;
+  font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.railnote.stopnote .rail::before{background:var(--stop)}
+.railnote.stopnote p{color:var(--stop)}
+
+/* ---------- loop figure ---------- */
+figure{margin:0}
+.fig{background:var(--surface);border:1px solid var(--line);border-radius:3px;
+  padding:22px 18px;overflow-x:auto}
+.fig svg{display:block;min-width:760px;width:100%;height:auto}
+figcaption{color:var(--muted);font-size:13.5px;margin-top:14px;max-width:72ch}
+
+/* ---------- guardrails ---------- */
+.guards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:22px 34px;margin-top:26px}
+.guard{border-left:2px solid var(--stop);padding:2px 0 2px 16px}
+.guard h4{margin:0 0 5px;font-size:15px;font-weight:600}
+.guard p{margin:0;font-size:14px;line-height:1.55;color:var(--muted)}
+
+.callout{margin-top:30px;background:var(--sunk);border:1px solid var(--line);
+  border-radius:3px;padding:18px 20px}
+.callout p{margin:0;font-size:14.5px;line-height:1.6}
+.callout p + p{margin-top:10px}
+.callout strong{font-weight:600}
+
+.prov{border-bottom:1.5px dotted var(--muted);cursor:help}
+footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);
+  color:var(--muted);font-size:13px;line-height:1.6}
+</style>
+<style>html{color-scheme:light dark}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<div class="wrap">
+
+<p class="eyebrow">Clinical governance framework · draft for discussion</p>
+<h1>How a review unfolds</h1>
+<p class="lede">Two questions get asked about this program, usually in the same breath. What happens to me if my chart gets picked? And why would this move a number that hasn't moved in nine months?</p>
+<p class="lede">They have the same answer. The steps that make this safe to be on the receiving end of — define the standard, teach it, give notice, report back with an offer of help, look again, and check with the clinician before anything counts — are the same steps that close a quality loop. Nothing today does either.</p>
+<p class="stamp"><b>Not adopted.</b> Charters drafted, under revision, prepared for counsel review.</p>
+
+<hr class="rule">
+
+<h2>Four things true of every matter</h2>
+<p class="sub">Before the detail, the shape of it.</p>
+
+<div class="facts">
+<div class="fact">
+<h3>The clinician hears about it first</h3>
+<p>An audit result is an <b>observation</b>, not a finding. Every clinician whose charts were read gets a report, and on most standards that is the end. An observation becomes a finding only where a referral could follow, and only after the clinician has had a formal chance to answer.</p>
+</div>
+<div class="fact">
+<h3>Most matters end early</h3>
+<p>Sixteen places a matter can end before it reaches peer review at all. None of them restricts what the clinician is authorized to do, and none is reportable anywhere.</p>
+</div>
+<div class="fact">
+<h3>Almost nothing is reportable</h3>
+<p>One outcome in the whole framework reaches the National Practitioner Data Bank: a restriction on what a clinician is authorized to do, lasting more than 30 days, taken as a final action by the Peer Review Committee after notice and the opportunity for a hearing.</p>
+</div>
+<div class="fact">
+<h3>The clinician's job is not in the room</h3>
+<p>Nobody with authority over the clinician's employment sits on the Peer Review Committee or reviews the case, and no committee may see the clinician's productivity, revenue, or cost.</p>
+</div>
+</div>
+
+<h2>The path, end to end</h2>
+<p class="sub">Every stage, and every place a matter can leave it. The line on the left is the reportability of what has happened so far — it stays neutral for the whole length of the process and changes once, at the very end.</p>
+
+<!-- ============ PHASE 1 ============ -->
+<section class="phase" style="--ph:var(--teal)">
+<div class="phase-head">
+<h3>Before anything is measured</h3>
+<span class="who">Clinical Quality Committee</span>
+</div>
+
+<div class="railnote"><div class="rail"></div><p>nothing here is reportable ↓</p></div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>A standard is adopted <span class="cite">CQC § 4.4</span></h4>
+<p>Each standard is designated at adoption as a <b>minimum expectation</b> or an <b>improvement target</b>. The vote is express and there is no default.</p>
+<p>Where guidance from a professional body exists it is the preferred basis, and any adaptation made for this population or setting is identified in the standard itself.</p>
+</div>
+<div class="exits">
+<p class="lab">Ends here</p>
+<div class="exit out"><b>It's an improvement target</b>Then no departure from it can ever support a finding about an individual, or a referral. It measures the organization.</div>
+</div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>It is taught before it is measured <span class="cite">CQC §§ 3.1(b), 4.3</span></h4>
+<p>The education that supports a standard is built with it — what the standard asks for, and <b>what a conforming note actually looks like.</b> Both live in the open record, not in committee files.</p>
+</div>
+<div class="exits"></div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>The clinician gets notice, and time <span class="cite">CQC § 5.7</span></h4>
+<p>Only care furnished <b><span class="prov" title="Bracketed drafting default">60</span> days or more after the standard was disseminated</b> can support a finding that counts toward a referral. The clock runs against the care, not against the audit.</p>
+<p>Longer where the standard asks for a change in practice rather than a change in documentation. The period is chosen for each standard and recorded at adoption.</p>
+</div>
+<div class="exits">
+<p class="lab">Ends here</p>
+<div class="exit out"><b>The care predates the notice period</b>Withdrawn under § 5.5(a)(1)(v). A standard disseminated on 1 January does not reach care furnished on 10 January.</div>
+</div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>Help is there without an audit <span class="cite">CQC § 7.7</span></h4>
+<p>A clinician can ask the Quality Committee for help in a clinical area at any time, without having been audited and without giving a reason. The education function decides how to answer it.</p>
+<p><b>A request opens nothing.</b> It selects no charts, starts no follow-up and counts toward nothing, and it is never recorded against the clinician who asked. It also shields nothing: the audit and every route to peer review run as they would have.</p>
+</div>
+<div class="exits"></div>
+</div>
+</section>
+
+<!-- ============ PHASE 2 ============ -->
+<section class="phase" style="--ph:var(--teal)">
+<div class="phase-head">
+<h3>The audit, and the report</h3>
+<span class="who">Clinical Quality Committee</span>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>The audit runs <span class="cite">CQC §§ 5.3, 5.4, 5.6, 4.7(f)</span></h4>
+<p>Every audit question maps to a standard in effect. The instrument is validated against clinician review before it can produce anything about an individual.</p>
+<p><b>Being selected is not a finding.</b> A rate identifies charts to look at. It is never itself a conclusion about anyone, and the charter says so in terms.</p>
+<p>Where the physician's periodic note is in the chart (the regulatory visit in skilled nursing, the periodic visit in assisted living, or a supervising psychiatrist's visit or review), <b>it is read too, as the physician's own entry</b>, and the physician gets a report of their own. Nothing about the APC's results passes to the physician this way.</p>
+<p>What comes out of a chart that misses the standard is an <b>observation</b>.</p>
+</div>
+<div class="exits"></div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>The Committee sees the cycle whole <span class="cite">CQC §§ 5.4.1(e), 5.5(b)(1)</span></h4>
+<p>Before any report goes out, the Committee receives a summary of the cycle. The Chair asks aloud whether any member thinks what they see departs from the <em>standard of care</em>: in the charts carrying observations, and in any chart the reviewer flagged because it met the standard while the care it records raised a concern. The minutes record that the question was put and answered. It is asked every time, so that raising a concern is an ordinary item of business rather than an act of individual initiative.</p>
+<p>The Committee may record an observation as a systems condition. Otherwise it decides nothing about anyone.</p>
+</div>
+<div class="exits">
+<p class="lab">Ends here</p>
+<div class="exit out"><b>Systems</b>Attributable to process, staffing, tooling, workflow, or the standard itself. It goes to whoever can fix it and <b>individual attribution is not carried forward.</b></div>
+<div class="exit out"><b>Widespread across the group</b>Where more than a <span class="prov" title="Bracketed drafting default">quarter</span> of the clinicians reviewed, and more than <span class="prov" title="Bracketed drafting default">three</span>, miss a standard, nobody gets an individual follow-up. The standard, the audit question or the teaching is wrong, and it routes to revision or education. <span class="cite">§ 5.9</span></div>
+</div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>Every clinician gets a report <span class="cite">CQC §§ 5.4.1, 5.5(c)(5)–(e)</span></h4>
+<p>Everyone whose charts were read receives a <b>review report</b>, including those whose charts all met the standard. For each chart: the resident and date, whether it met the standard, and for each observation what the standard required, what was found, and <b>whether the apparent problem is in the decision, in the documentation, or in both.</b></p>
+<p>It carries any commendation, and may carry a <b>clinical comment</b>: a colleague's advice on management the standard does not reach, such as an indication that may not warrant the drug or a dose reduction given up early. A physician writes it where it concerns a physician's note. It counts toward nothing.</p>
+<p>It carries an offer of help, sent to <b>everyone</b> who receives a report, so its presence says nothing about the clinician. Taking it up is by request only, and <b>whether the clinician does is never recorded, counted, transmitted, or tracked in an LMS.</b> An APC may share the report with their supervising physician, or ask for help without sharing it, using a separate page that names only the clinical area. <b>The APC decides, and the committee never knows which was chosen.</b></p>
+<p>The report invites the clinician to say where the review got something wrong, <b>with no deadline.</b> <b>Nothing in it is a finding, and the Committee decides nothing about the clinician.</b></p>
+</div>
+<div class="exits">
+<p class="lab">Ends here</p>
+<div class="exit out"><b>Every chart met the standard</b>The report says so, and nothing follows.</div>
+<div class="exit out"><b>Most standards</b>On a standard that carries no referral criterion, the report is the whole of the individual process. The totals go to the teaching, the tools and the standard.</div>
+<div class="exit out"><b>Corrected</b>Anything the clinician corrects comes off the report. Correct every item before a follow-up look, and the look does not run.</div>
+</div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>One look back, where a repeat could be referred <span class="cite">CQC § 5.11</span></h4>
+<p>On a standard where a gap repeated after a review can be referred, the Committee samples the clinician's charts against <b>the same standard</b>, once, for care in a window opening <span class="prov" title="Bracketed drafting default">45</span> days after the report and running <span class="prov" title="Bracketed drafting default">90</span> days. The first 45 days are the clinician's time to use the offer and make the change.</p>
+<p>The report tells the clinician it will happen, on which standard, and roughly when.</p>
+</div>
+<div class="exits">
+<p class="lab">Ends here</p>
+<div class="exit out"><b>Clear on the second look</b>The matter closes. This is also the step that lets the program say whether anything it did actually worked.</div>
+<div class="exit out"><b>Nothing to examine</b>The clinician had no resident the standard applies to in the window, and the follow-up closes.</div>
+</div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>The formal check, only where a referral could follow <span class="cite">CQC §§ 5.4.2, 5.5(a)</span></h4>
+<p>If the same gap appears at the look back, the clinician gets a <b>formal notice</b> and <span class="prov" title="Bracketed drafting default">ten</span> business days to show where the review is wrong, <b>covering the first report's items as well.</b> The same check runs at once, with the report, on the rare standard where a single gap can be referred, and where the clinician's figures on a measure stand well above those of comparable clinicians.</p>
+<p>The notice lists <b>every ground that will withdraw an observation</b>, in the order they arise in practice, and <b>every ground that will not.</b> The Committee is barred from inviting a response on grounds it will not accept, so the window isn't spent assembling material that cannot help.</p>
+</div>
+<div class="exits">
+<p class="lab">Withdrawn on any of these</p>
+<div class="exit"><b>Attribution</b>Not the clinician's patient, not the clinician's panel, the clinician was covering, or another clinician managed the condition under a documented arrangement.</div>
+<div class="exit"><b>Population</b>The resident isn't in the group the standard applies to — diagnosis absent, miscoded, or superseded. They come out of the numerator <em>and</em> the denominator.</div>
+<div class="exit"><b>It didn't happen</b>The medication was ordered, the assessment done, the communication made — and the MAR, order, or transmitted document shows it.</div>
+<div class="exit"><b>Retrieval</b>The clinician's entry exists and the search didn't reach it: a different encounter, a scanned document, a part of the note the instrument doesn't parse. <b>Available whatever the standard requires</b>, because what it produces is exactly what was asked for.</div>
+<div class="exit"><b>Timing</b>The care predates the date the standard could count, or the record was examined before the entry was due.</div>
+</div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>Disposition and close-out <span class="cite">CQC § 5.5(b), (c)</span></h4>
+<p>Each checked observation gets one of three dispositions, <b>systems</b>, <b>individual</b>, or <b>no action</b>, after the Chair has put the standard-of-care question again. Where nothing from the first report survives, the new items are treated as a first report of their own.</p>
+<p>The clinician is told what became of <b>every</b> observation and which grounds were sustained. <b>A close-out imposes nothing.</b> It states no obligation, requires no response, sets no date, names no monitor, and creates no record of remediation. It repeats the offer of help.</p>
+</div>
+<div class="exits">
+<p class="lab">Ends here</p>
+<div class="exit out"><b>Withdrawn or systems</b>Every observation withdrawn, or put down to process: the clinician is told so, and nothing further follows.</div>
+<div class="exit out"><b>Most findings</b>A validated finding that meets no referral criterion closes here.</div>
+</div>
+</div>
+</section>
+
+<!-- ============ PHASE 3 ============ -->
+<section class="phase" style="--ph:var(--wine)">
+<div class="phase-head">
+<h3>If it goes further</h3>
+<span class="who">Peer Review Committee</span>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>Referral <span class="cite">CQC §§ 6.1–6.5</span></h4>
+<p>An individual finding is referred only where it meets a criterion in the <b>Audit Referral Policy</b>: the same gap repeated after a review, a single gap on one of the few standards designated for it, or a pattern well above comparable clinicians. The Policy is a written schedule adopted by the Quality Committee, in effect only with the Peer Review Committee's concurrence, and reviewed annually.</p>
+<p>What travels: the finding, the underlying data, <b>what the clinician submitted and which grounds were sustained</b>, and the disposition history. <b>Not the Committee's deliberations.</b> The Quality Committee's involvement then ends completely — it gets no report of the outcome and imposes nothing at any point.</p>
+<p>The audit is one route in and not the principal one. A patient-safety or standard-of-care concern can be referred directly by anyone, with no threshold and no written standard required.</p>
+</div>
+<div class="exits"></div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>Screening <span class="cite">PRC § 4.4</span></h4>
+<p>The Chair and the department chair for the clinician's service line, primary care or psychiatry, screen every referral within <span class="prov" title="Bracketed drafting default">ten</span> business days. <b>Screening decides the route, not the merits.</b> Nothing about the clinician's care is determined here. The department chair screens for the Peer Review Committee without a vote, so every member comes to a review without having seen the referral; where the department chair took part in the Quality Committee's decision on an audit referral, a Peer Review Committee member of the clinician's discipline screens instead.</p>
+</div>
+<div class="exits">
+<p class="lab">Ends or leaves here</p>
+<div class="exit out"><b>No action</b>Outside scope, or not supported by information capable of review.</div>
+<div class="exit out"><b>Systems</b>Back to the Quality Committee, attribution stripped.</div>
+<div class="exit out"><b>Administrative</b>A performance or conduct matter, handled on its own track.</div>
+<div class="exit out"><b>Health, impairment or fitness</b>Referred to the <b>practitioner health pathway the CEO designates</b>, which handles it under its own policies. Peer review does not investigate it, adjudicate it, or receive any information about the clinician's health, evaluation, treatment or accommodation.</div>
+</div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>A review is opened <span class="cite">PRC §§ 5.1, 6.3, 2.3</span></h4>
+<p>The notice states <b>the whole range of outcomes, not just the serious end</b> — including that a review may close with no adverse finding at all.</p>
+<p>Two members of the Committee, <b>matched to the clinician's discipline</b>, are assigned to review it. They investigate and propose; the Committee decides. <b>No one holding authority over the clinician's employment sits on the Committee or reviews the case</b> — supervisors may refer a matter and be interviewed, but they do not review, deliberate, or vote.</p>
+</div>
+<div class="exits"></div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>What the review can conclude <span class="cite">PRC §§ 5.7, 8.2, 8.5</span></h4>
+<p>Four of the five available outcomes end the matter without restricting anything the clinician is authorized to do, and none of the four is reportable.</p>
+</div>
+<div class="exits">
+<p class="lab">Ends here — none reportable</p>
+<div class="exit"><b>Closed, no finding</b>The care met standard. The clinician is notified in writing that the review closed without adverse finding.</div>
+<div class="exit"><b>Finding, no intervention</b>A finding is recorded and the matter closes. The clinician is notified in terms distinguishable from the notice above.</div>
+<div class="exit"><b>Agreed resolution</b>For a bounded gap in a defined clinical area: a plan the clinician agrees to, <b>no finding, nothing reportable.</b> The clinician may decline without giving a reason, and the review then proceeds with every right unaffected. Completion is confirmed as a fact — <b>what the clinician learned is never graded.</b> The matter closes when the plan is completed. <b>The care that follows is then looked at twice</b>, once in each of the next two quarters, and a problem found there is a new matter. The clinician is told this before deciding.</div>
+<div class="exit"><b>Tier One</b>Written feedback, education, mentoring, or retrospective focused review. <b>None restricts the clinician's authority to practise and none is reportable.</b> Each states its duration, its exit criteria, and who monitors it in writing on the day it is imposed — and may be extended once, never rolled forward indefinitely.</div>
+</div>
+</div>
+</section>
+
+<!-- ============ PHASE 4 ============ -->
+<section class="phase" style="--ph:var(--wine)">
+<div class="phase-head">
+<h3>The far end</h3>
+<span class="who">Peer Review Committee</span>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>A proposed action <span class="cite">PRC §§ 8.4, 10.1, 2.8</span></h4>
+<p>Only where the Committee concludes a <b>restriction on what the clinician is authorized to do</b> is warranted does it propose one — mandatory consultation, proctoring, a scope restriction, non-renewal, or termination of clinical authorization.</p>
+<p>A proposal needs a majority of all members not recused, and is not taken with fewer than <span class="prov" title="Bracketed drafting default">four</span>. <b>Nothing proposed becomes final until the clinician has had notice and the opportunity for a hearing.</b></p>
+</div>
+<div class="exits"></div>
+</div>
+
+<div class="stage">
+<div class="rail"></div>
+<div class="body">
+<h4>Notice, and a hearing <span class="cite">PRC Art. X</span></h4>
+<p>The notice states the reasons, the action proposed and how long it would last, and comes with <b>the material the Committee relied on</b>. The clinician has <span class="prov" title="Bracketed drafting default">30</span> days to ask for a hearing. Every notice also offers an <b>expedited schedule</b>, about <span class="prov" title="Bracketed drafting default">45</span> days instead of about 120, and declining it carries no inference.</p>
+<p>The hearing is held before a panel of at least <span class="prov" title="Bracketed drafting default">three</span> clinicians <b>who are not members of the Peer Review Committee and took no part in the review, the audit, or the decision to propose</b>, none holding employment authority, matched to the clinician's discipline. The Committee's representative carries the burden of proof. The panel recommends, and the Committee accepts its recommendation unless it is unsupported by the hearing record, the hearing had a material procedural defect, or it rests on an error about the Committee's authority or the standard.</p>
+</div>
+<div class="exits">
+<p class="lab">Ends here</p>
+<div class="exit out"><b>Not taken, or modified</b>The panel may recommend that the proposed action not be taken, or be modified, and the Committee is bound by that recommendation except on those three grounds, stated in writing.</div>
+</div>
+</div>
+
+<div class="stage report">
+<div class="rail"></div>
+<div class="body">
+<h4>Final action, and the one reportable outcome <span class="cite">PRC §§ 10.7, 15.6</span></h4>
+<p>The Committee takes final action, and the Chair confirms in writing that the process was followed and signs the decision. <b>The decision is final.</b> No officer of the company, including the CEO, can review it.</p>
+<p>A restriction on clinical authorization <b>lasting more than 30 days</b>, taken as a final action by the Peer Review Committee, is reportable to the National Practitioner Data Bank and to state licensing boards.</p>
+<p>This is the whole of it. Everything above this line — every close-out, every agreed resolution, every Tier One intervention, every review that closed with or without a finding — is not reportable and does not appear anywhere outside the process.</p>
+</div>
+<div class="exits">
+<p class="lab">The obligation</p>
+<div class="exit" style="border-left-color:var(--stop);background:var(--stop-w)"><b>NPDB and state licensing boards</b>Defining clinical authorization is what creates this duty. The organization does not have it today — and does not have the legal protections that arise from the same status either.</div>
+</div>
+</div>
+
+<div class="railnote stopnote"><div class="rail"></div><p>↑ reportable begins and ends here</p></div>
+</section>
+
+<hr class="rule">
+
+<h2>Why this moves a number</h2>
+<p class="sub">The same machinery, read from the organization's side rather than the clinician's.</p>
+
+<figure>
+<div class="fig">
+<svg viewBox="0 0 940 250" role="img" aria-label="Diagram: a six-step loop — define the measure, teach it, audit against it, report to the clinician, offer help, look again — with a return arrow labelled re-measure running back to the start.">
+<defs>
+<marker id="lp" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L8,4 L0,8 z" fill="var(--conn)"></path>
+</marker>
+</defs>
+<style>
+.ln2{fill:none;stroke:var(--conn);stroke-width:1.4}
+.bx{fill:var(--teal-w);stroke:var(--teal);stroke-width:1.4}
+.tt{font-family:Spectral,Georgia,serif;font-weight:600;font-size:13.5px;fill:var(--ink);text-anchor:middle}
+.ss{font-family:"Public Sans",sans-serif;font-size:10px;fill:var(--muted);text-anchor:middle}
+.kk{font-family:"IBM Plex Mono",monospace;font-size:9.5px;fill:var(--muted);text-anchor:middle;letter-spacing:.04em}
+</style>
+
+<rect class="bx" x="14"  y="40" width="136" height="72" rx="2"></rect>
+<text class="tt" x="82"  y="70">Define the</text><text class="tt" x="82" y="87">measure</text>
+<text class="ss" x="82"  y="104">not &#8220;better care&#8221;</text>
+
+<rect class="bx" x="170" y="40" width="120" height="72" rx="2"></rect>
+<text class="tt" x="230" y="70">Teach it</text>
+<text class="ss" x="230" y="88">and what a conforming</text><text class="ss" x="230" y="101">note looks like</text>
+
+<rect class="bx" x="310" y="40" width="120" height="72" rx="2"></rect>
+<text class="tt" x="370" y="70">Audit</text>
+<text class="ss" x="370" y="88">against that standard,</text><text class="ss" x="370" y="101">not against a feeling</text>
+
+<rect class="bx" x="450" y="40" width="136" height="72" rx="2"></rect>
+<text class="tt" x="518" y="70">Report to</text><text class="tt" x="518" y="87">the clinician</text>
+<text class="ss" x="518" y="104">every chart read</text>
+
+<rect class="bx" x="606" y="40" width="120" height="72" rx="2"></rect>
+<text class="tt" x="666" y="70">Offer help</text>
+<text class="ss" x="666" y="88">and invite them</text><text class="ss" x="666" y="101">to correct it</text>
+
+<rect x="746" y="40" width="180" height="72" rx="2" fill="var(--brass-w)" stroke="var(--brass)" stroke-width="1.8"></rect>
+<text class="tt" x="836" y="70">Look again</text>
+<text class="ss" x="836" y="88">on the same measure,</text><text class="ss" x="836" y="101">on a date set in advance</text>
+
+<path class="ln2" d="M150,76 H166" marker-end="url(#lp)"></path>
+<path class="ln2" d="M290,76 H306" marker-end="url(#lp)"></path>
+<path class="ln2" d="M430,76 H446" marker-end="url(#lp)"></path>
+<path class="ln2" d="M586,76 H602" marker-end="url(#lp)"></path>
+<path class="ln2" d="M726,76 H742" marker-end="url(#lp)"></path>
+
+<path class="ln2" d="M836,112 V172 H82 V116" marker-end="url(#lp)"></path>
+<rect x="336" y="160" width="268" height="22" fill="var(--surface)"></rect>
+<text class="kk" x="470" y="175">re-measure, and report whether it moved</text>
+
+<text class="kk" x="836" y="205" fill="var(--brass)">the step that did not exist</text>
+<text class="kk" x="836" y="222" fill="var(--brass)">is the reason September = January</text>
+</svg>
+</div>
+<figcaption>The audit program measures by campaign — a measure is swept across the group, and the next sweep addresses something else. Without the last box, a gap reported in March is never examined again, because the interval before that standard is next swept may be years. Systems dispositions are re-measured on the same principle: where a standards revision, an education intervention or a tooling change followed, the audit plan has to provide for measuring that thing again.</figcaption>
+</figure>
+
+<div class="callout">
+<p><strong>What the CGSC has, and what it doesn't.</strong> It has an agenda for each meeting. What it does not have is a measure defined precisely enough to be audited, education built to teach that measure, an audit that tests it, or a date on which someone looks again and reports whether it moved. Antipsychotic and anxiolytic reduction have been on its agenda all year, and <strong>the September number is the same as the January number</strong> — unchanged, not merely unimproved.</p>
+<p>That is the case for this framework, and it is stronger than any argument from structure. Every measure this program adopts carries the date its measurement period begins and the date the Committee looks again, both recorded at adoption. A program that intervenes and never measures again has no basis for claiming it improves care — which is exactly what the Charter requires this one to report on, quarterly, to the Chief Medical Officer and the Chief Operating Officer, with the same report to the CEO.</p>
+</div>
+
+<hr class="rule">
+
+<h2>What it cannot do to a clinician</h2>
+<p class="sub">Written into both charters, not left to practice.</p>
+
+<div class="guards">
+<div class="guard">
+<h4>It cannot touch the clinician's job</h4>
+<p>Neither committee has authority over employment, compensation, contracting, scheduling, facility assignment, or medical director designation — or may direct management as to any of them. Employment consequences run on a separate track, on a separate record.</p>
+</div>
+<div class="guard">
+<h4>It cannot see the clinician's economics</h4>
+<p>No body in this framework may receive or consider a clinician's productivity, revenue, or cost in connection with any review. This is the provision that answers a later claim that a clinical decision was financially motivated.</p>
+</div>
+<div class="guard">
+<h4>A supervisor cannot judge the clinician here</h4>
+<p>Nobody holding employment authority serves on the Peer Review Committee, reviews the case, or sits on a hearing panel. The Chair of both committees presides at the Peer Review Committee without a vote.</p>
+</div>
+<div class="guard">
+<h4>The Quality Committee cannot discipline a clinician</h4>
+<p>It is not a professional review body. It makes no finding about competence, does not decide whether care met the standard of care, and imposes no consequence of any kind on any individual, at any point. It refers and stops.</p>
+</div>
+<div class="guard">
+<h4>An audit finding is not a verdict</h4>
+<p>Failing an internal standard does not establish substandard care. A referral establishes only that a finding was made and a criterion met. Peer review starts fresh, on its own record, and is not bound by the Quality Committee's view.</p>
+</div>
+<div class="guard">
+<h4>The clinician cannot be retaliated against</h4>
+<p>No adverse action may be taken against anyone because they took part in, gave information in good faith to, or became the subject of a review.</p>
+</div>
+</div>
+
+<footer>
+<p>Drawn from the Clinical Quality Committee and Peer Review Committee charter drafts (revised 2026-10-05). Figures marked with a <span class="prov">dotted underline</span> are drafting defaults in the charters, not settled numbers. The Audit Referral Policy — the schedule of criteria by which a finding reaches peer review — is in draft and takes effect only on the Peer Review Committee's concurrence, and the description of referral above depends on it. <b>Not adopted; prepared for counsel review.</b></p>
+</footer>
+
+</div>
+</body>
+</html>

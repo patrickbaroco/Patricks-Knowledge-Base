@@ -1,7 +1,7 @@
 ---
 type: reference
 about: Change record and counsel classification for the 2026-11-16 simplification of the PRC Charter
-related: "[[prc-charter-draft]]", "[[prc-member-guide]]", "[[counsel-questions]]"
+related: "[[prc-charter-draft]]", "[[prc-member-guide]]", "[[privilege-case-for-counsel]]"
 updated: 2026-11-17
 ---
 
@@ -11,7 +11,7 @@ updated: 2026-11-17
 
 **Method.** Each paragraph was sorted as a rule, a reason, a restatement, or an administrative instruction. Rules stay. Reasons go to the member guide, in its new section *Why the Charter says what it says*. Text is deleted where speculative, legally inaccurate, duplicative, or unnecessary to explain the rule. Restatements are cut where another section governs. Notices were kept wherever they serve committee oversight or patient safety, whether or not missing one would favor the Practitioner. Deadlines protecting Practitioners, automatic expiry, voting rules and conditions for extending a restriction stay in the Charter.
 
-**Since this record.** On 2026-11-17 psychotherapists were removed from the Charter and § 6.5 reserved (open item 69); the Part B rows on § 6.5 describe text that no longer exists.
+**Since this record.** On 2026-11-17 the expedited column of § 10.10 was replaced by an accelerated calendar (OP-2), and other operating simplifications were made (open item 70). Also on 2026-11-17, psychotherapists were removed from the Charter and § 6.5 reserved (open item 69); the Part B rows on § 6.5 describe text that no longer exists.
 
 **Not changed by this pass.** The Open items section, the bracketed defaults, and every rule not listed below. Pre-simplification copy: `_archive/prc-charter-draft-2026-11-16-before-simplification.md`.
 
@@ -169,6 +169,8 @@ updated: 2026-11-17
 Adopted with the shortened Charter, under the approval in § 16.2, and effective on the same date. The shortened Charter is not adopted without it; otherwise the reminder would have been removed rather than moved.
 
 **OP-1. Thirty-day reportability prompt.** For each restriction under § 9.1 of the Charter that remains in force on the [twentieth] day after imposition, the Coordinator gives the Chair and the members written notice on that day, stating the date on which the restriction will have been in effect for thirty days under § 9.4, so that the Committee can determine reportability with counsel under § 15.7 before that date. Where a restriction under § 9.1 follows one under § 9.8 in the same matter, the day is counted from the first imposition, as § 9.8(f) provides; where that day has already passed when the § 9.1 restriction is imposed, the notice is given on the day of imposition. A restriction under § 9.8 alone ends at fourteen days and needs no notice under this procedure. Each notice is recorded in the case register under § 13.2.
+
+**OP-2. Accelerated calendar template** (added 2026-11-17 with Charter § 10.2.1). The calendar the Coordinator proposes under § 10.2.1 starts from these periods, adjusted to the matter: [ten] days to request a hearing; the panel constituted within [five] business days of the request; notice of hearing not less than [ten] days before it; the exchange under § 10.4 not later than [five] business days before the hearing; a written closing statement within [five] business days after the hearing; [ten] days for the panel's recommendation; and [ten] days for the Committee's decision. On these periods a contested matter concludes in roughly [fifty] days. The calendar binds only on the Practitioner's written acceptance, which waives the periods it names and no others.
 
 The operating procedure already carries, by reference from Charter § 15.2, the statement of the protection that applies to a person providing information. No other instruction moves in this pass.
 

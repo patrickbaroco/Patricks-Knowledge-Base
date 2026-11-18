@@ -296,4 +296,4 @@ Its elements:
 
 **A consistency pass on 2026-09-10 revised nine further provisions of the Charter**, recorded as § 18 of that file — among them § 1.3, which had asserted the automatic referral that § 5.5(b) now leaves to these criteria, and two citations to a § 4.2(b) of the Charter that does not exist.
 
-**For counsel.** Questions for counsel are kept outside this draft, in `counsel-questions.md`.
+**For counsel.** Questions for counsel on this Policy were kept in `counsel-questions.md`, now in `_archive/`, for a memo to counsel when the CQC Charter and this Policy go for review.

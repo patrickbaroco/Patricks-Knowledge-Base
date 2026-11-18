@@ -12,7 +12,7 @@
 
 **1.1 Establishment.** The Chief Executive Officer of the Entity, by written authorization dated [DATE] ("the Authorization"), establishes the Peer Review Committee ("the Committee") as a committee of the Entity and approves this Charter.
 
-**1.1.1 Authority.** **The Committee decides, on behalf of the Entity, matters concerning the professional competence or professional conduct of an individual Practitioner.** That includes any action affecting a Practitioner's Clinical Authorization, and the determination of what is reported to the National Practitioner Data Bank and to state licensing boards under Article XV. **A decision of the Committee in such a matter, signed under § 2.1.1, is the action of the Entity.**
+**1.1.1 Authority.** **The Committee decides, on behalf of the Entity, matters concerning the professional competence or professional conduct of an individual Practitioner.** That includes any action affecting a Practitioner's Clinical Authorization, and the determination of what is reported to the National Practitioner Data Bank and to state licensing boards under Article XV, on counsel's advice under § 2.12 as to what the law requires. **A decision of the Committee in such a matter, signed under § 2.1.1, is the action of the Entity.**
 
 The authority is confined to the individual Practitioner. The Committee has no authority over staffing, employment, operations, or the Entity's policies, and § 3.2 states what it may not do.
 
@@ -70,7 +70,7 @@ The authority is confined to the individual Practitioner. The Committee has no a
 
 **2.1.1 The Chair signs the Committee's decisions.** **After each decision that closes a review, imposes a Quality Intervention, proposes or takes a Professional Review Action, or ratifies, modifies, or ends a restriction, the Chair confirms in writing that the process this Charter requires was followed, and signs the decision.** The signature certifies process. It is not a vote, and it confers no authority over the merits.
 
-**Where the Chair cannot give that confirmation, the Chair states the defect in writing and returns the matter to the Committee**, which cures the defect and decides again. The Chair does not sign a decision the process did not support, and does not substitute a different one. Where the Chair is recused, the Vice-Chair confirms and signs under § 12.3.
+**A clerical defect that could not affect fairness, the findings, or the disposition, such as a wrong date or a missing citation, is corrected by the Chair, who records the correction and signs.** **Where the Chair cannot give that confirmation for any other defect, the Chair states the defect in writing and returns the matter to the Committee**, which cures the defect and decides again. The Chair does not sign a decision the process did not support, and does not substitute a different one. Where the Chair is recused, the Vice-Chair confirms and signs under § 12.3.
 
 **2.2 Members.** [Six] members appointed by the Chair. All members shall be licensed clinicians in active clinical practice. Terms are [two] years, staggered, renewable.
 
@@ -113,13 +113,21 @@ A Department Chair screening under this Charter is a person assisting a professi
 - (c) where the Chair determines that the Coordinator's working relationship with a Practitioner is close enough that custody of the file by the Coordinator could reasonably be questioned, the Chair designates the alternate under § 2.7.5 for that matter, and the Coordinator receives no materials in it;
 - (d) a determination under (c) is recorded, applies to that matter only, and is not a finding about the Coordinator.
 
-**2.10 Meetings.** The Committee meets [monthly]. Screening under § 4.4 runs continuously between meetings and does not wait for one. The Chair may call a special meeting on [two] business days' notice, or on shorter notice where a precautionary restriction under Article IX is contemplated or in effect.
+**2.10 Meetings.** The Committee holds a [monthly] meeting, which the Chair may cancel where no case or governance business is before it. Screening under § 4.4 runs continuously between meetings and does not wait for one. The Chair may call a special meeting on [two] business days' notice, or on shorter notice where a precautionary restriction under Article IX is contemplated or in effect.
 
 **Case business does not wait for the monthly cycle.** The Committee convenes within [five] business days of a precautionary restriction to act under § 9.2.1, and within [fifteen] calendar days of receiving a hearing panel's recommendation to act under § 10.7, whether or not a regular meeting falls within either period.
 
 **2.11 Minutes, executive session, and attendance.** Professional Review Activity is conducted in executive session. Minutes state, for each matter: the matter considered and its identifier; the documents reviewed, identified individually; the members present, the members recused, and the times of departure and return; the action taken; and the vote. Deliberative content is summarized in substance and is not transcribed.
 
-Participation by electronic means is permitted where every participant can hear and be heard simultaneously and the confidentiality of the session can be maintained. **The Committee's meetings are not recorded.** The record of a hearing under § 10.5(c) is the one exception. Counsel may attend any meeting. Any other person attends only for a stated purpose, by invitation of the Chair.
+Participation by electronic means is permitted where every participant can hear and be heard simultaneously and the confidentiality of the session can be maintained. **The Committee's meetings are not recorded.** The record of a hearing under § 10.5(c) is the one exception. Counsel attends as § 2.12 provides. Any other person attends only for a stated purpose, by invitation of the Chair.
+
+**2.12 Counsel to the Committee.** **Counsel represents the Entity and advises the Committee on its authority, applicable law, procedural fairness, confidentiality, disclosure, and reporting obligations.** Counsel is not a member of the Committee, does not vote, and does not determine clinical findings or dispositions.
+
+The Chair may consult counsel at any time, and may invite counsel to attend a meeting for a stated legal purpose. Counsel may identify a legal requirement or a procedural defect and recommend how to address it. **Whether a legal duty applies, including a duty to report, to disclose, or to give access, is decided on counsel's advice; the Committee determines the clinical facts on which the duty turns.** The Committee retains responsibility for its clinical decisions. Screening, review, education, and follow-up do not require counsel's attendance or approval.
+
+Counsel's participation does not by itself make the Committee's proceedings or records privileged as attorney-client communications. Confidential communications seeking or giving legal advice are kept apart from the Committee's case record, as counsel directs.
+
+Counsel's own assessment of the care, for the Entity's legal purposes, is governed by § 15.11.1.
 
 ---
 
@@ -451,7 +459,7 @@ A closure under this section is **not a Quality Intervention** under § 8.2. It 
 
 **(e) Ordinary clinical supervision is unaffected.** A Quality Intervention neither supplements, suspends, nor discharges the supervisory or collaborative arrangement applicable to the Practitioner. **That arrangement continues independently and is performed exactly as it would be were no intervention in place.**
 
-**(f) The monitor reports facts.** The monitor reports to the Committee what was required, what was done, and what was observed. **The monitor does not determine whether the exit criteria have been met and makes no recommendation as to disposition** — that is a determination of the Committee under § 6.7. The monitor reports to the Committee and to no one else, and § 3.2(b) governs anything the monitor learns.
+**(f) The monitor reports facts, and may recommend.** The monitor reports to the Committee what was required, what was done, and what was observed, and may give a reasoned recommendation on whether the exit criteria have been met. **The Committee considers the recommendation and is not bound by it; whether the exit criteria have been met is the Committee's determination under § 6.7.** The monitor reports to the Committee and to no one else, and § 3.2(b) governs anything the monitor learns.
 
 **(g) The exit determination.** **On the exit date the Committee determines whether the exit criteria were met, were not met, or were met in part, and records the determination with its basis.** Met closes the matter, and the Practitioner is notified in writing. **Not met is a ground to reconsider the disposition under § 8.4. It is not a ground to extend as of course.** An intervention may be extended once where the Committee records why a further period is likely to achieve what the first did not; § 8.3 governs thereafter.
 
@@ -475,7 +483,7 @@ On ratification the Committee states the restriction's terms and the date by whi
 
 **9.5 Hard stop.** A restriction under § 9.1 terminates at [forty-five] days from imposition unless, before that day, the Committee has taken a Professional Review Action with the process Article X requires. It continues beyond that day only as follows.
 
-- (a) **Where the Practitioner has requested a hearing under § 10.3**, the restriction continues through the conclusion of that process. Requesting a hearing is the Practitioner's right, and the time the process takes is not attributed to the Practitioner as delay. **The Committee reviews a restriction continued on this ground not less often than every [thirty] days**, on the record then available, ends or modifies it where it is no longer warranted, records each review, and **makes the offer of an expedited schedule under § 10.2.1 again at each one.**
+- (a) **Where the Practitioner has requested a hearing under § 10.3**, the restriction continues through the conclusion of that process. Requesting a hearing is the Practitioner's right, and the time the process takes is not attributed to the Practitioner as delay. **The Committee reviews a restriction continued on this ground not less often than every [thirty] days**, on the record then available, ends or modifies it where it is no longer warranted, records each review, and **makes the offer of an accelerated calendar under § 10.2.1 again at each one.**
 - (b) **Where notice of a Proposed Action restricting Clinical Authorization was given before the [forty-five] days expired**, the restriction continues while the period to request a hearing under § 10.2 runs. Where the period runs without a request, the Committee takes final action within [five] business days, and the restriction continues until it does. Where a hearing is requested, (a) governs.
 
 The pendency of a hearing does not suspend the period under § 9.4.
@@ -527,13 +535,11 @@ The restriction binds the Practitioner from imposition and operates on Clinical 
 
 The notice is delivered by a method producing proof of receipt, and the period in (d) runs from receipt. **With the notice, or within [five] business days of it, the Practitioner receives the material the Committee relied on:** the findings, the evidence considered, and the record of any response the Practitioner has already given. The Practitioner does not receive the Committee's deliberations, except as § 13.4.1 provides.
 
-**10.2.1 Offer of an expedited schedule.** **Every notice of Proposed Action is accompanied by an offer of an expedited schedule**, stating the shortened periods and the effect of accepting them.
+**10.2.1 Accelerated calendar.** **Every notice of Proposed Action is accompanied by an offer of an accelerated calendar for the matter**, in place of the periods in § 10.10. The Coordinator proposes it from the template in the operating procedure, adjusted to the matter, and it states each period it shortens, the dates it sets, and the effect of accepting it.
 
-- (a) **Acceptance is in writing** and operates as a waiver of the periods it names. A Practitioner who accepts may still obtain a continuance for good cause under § 10.4.
-- (b) **Declining carries no inference.** A Practitioner who declines, or who does not respond, proceeds on the ordinary schedule. **The choice is not recorded as delay, characterized adversely, or considered by the panel or the Committee on any question before them.**
+- (a) **Acceptance is in writing** and operates as a waiver of the periods the calendar names, and of no others. A Practitioner who accepts may still obtain a continuance for good cause under § 10.4.
+- (b) **Declining carries no inference.** A Practitioner who declines, or who does not respond, proceeds on the periods in § 10.10. **The choice is not recorded as delay, characterized adversely, or considered by the panel or the Committee on any question before them.**
 - (c) The offer and the response are recorded by the Coordinator.
-
-The default expedited schedule is **[ten] days to request a hearing; the panel constituted within [five] business days of the request; notice of hearing not less than [ten] days before it, with the exchange under § 10.4 not later than [five] business days before the hearing; [ten] days for the panel's recommendation; and [ten] days for the Committee's decision.** The periods run in that order, and a matter on that schedule concludes in roughly [fifty] days.
 
 **10.2.2 Waiver.** A Practitioner who does not request a hearing within the time allowed waives it, and the Committee may then take final action on the existing record under § 10.7. **Waiver does not affect reportability**, which turns on the action taken and not on whether it was contested.
 
@@ -558,7 +564,7 @@ No person excluded by (b) may advise the panel or be present for its deliberatio
 
 **10.4 Notice of hearing, and exchange.** Written notice states the place, time, and date of the hearing, which is **not less than [thirty] days** after the date of the notice, and the witnesses expected to testify in support of the proposed action.
 
-Not later than [ten] business days before the hearing, or [five] business days on the expedited schedule under § 10.2.1, each side gives the other the documents it intends to present and the witnesses it intends to call. Material not exchanged may be excluded by the presiding officer, who may instead grant a continuance. The presiding officer may continue the hearing for good cause, on request or on the panel's own motion; a continuance granted at the Practitioner's request extends every later period accordingly, and the reason is recorded.
+Not later than [ten] business days before the hearing, or as an accelerated calendar under § 10.2.1 provides, each side gives the other the documents it intends to present and the witnesses it intends to call. Material not exchanged may be excluded by the presiding officer, who may instead grant a continuance. The presiding officer may continue the hearing for good cause, on request or on the panel's own motion; a continuance granted at the Practitioner's request extends every later period accordingly, and the reason is recorded.
 
 **The Entity makes its employees and contracted personnel available to testify, whichever side calls them.**
 
@@ -604,7 +610,7 @@ Not later than [ten] business days before the hearing, or [five] business days o
 
 - (i) The person is a licensed clinician competent in the matter to which the restriction relates, discipline-appropriate on the terms of § 10.3(f).
 - (ii) **A clinician holding no Employment Authority is named where one competent to act is available.** Where none is, the Committee may name a clinician who holds Employment Authority, and records that no qualified alternative was available.
-- (iii) **A person named under this subsection reports facts and nothing else**: that a required consultation or approval was sought, and whether it was given or refused. They make no assessment of the exit criteria and no recommendation as to disposition.
+- (iii) **A person named under this subsection reports facts**: that a required consultation or approval was sought, and whether it was given or refused. **A person who holds no Employment Authority may also give a reasoned recommendation on whether the exit criteria have been met**, which the Committee considers and is not bound by. A person named under (ii) who holds Employment Authority reports facts only.
 - (iv) **They are recused under § 12.1 from every determination of the Committee in the matter**, including the determination under (d).
 
 **(c) Administration.** The Coordinator records the terms, receives the reports required by (b)(iii), tracks the duration and any review date, and brings the matter to the Committee on the date the action ends. This is administration from the record and requires no contact with the Practitioner.
@@ -621,22 +627,22 @@ Where the exit criteria have not been met on the stated date, the action nonethe
 
 **10.10 Periods.**
 
-| Step | Runs from | Ordinary | Expedited under § 10.2.1 |
-|---|---|---|---|
-| Request a hearing | Receipt of notice of Proposed Action | [30] days | [10] days |
-| Material relied on provided | Notice of Proposed Action | [5] business days | [5] business days |
-| Panel constituted | Request | [15] days | [5] business days |
-| Objection to a panelist | Notice of composition | [5] business days | [5] business days |
-| Notice of hearing to hearing date | Notice of hearing | not less than [30] days | not less than [10] days |
-| Pre-hearing exchange | Before the hearing | [10] business days | [5] business days |
-| Written closing statement | Close of hearing | [5] business days | [5] business days |
-| Panel recommendation | Close of hearing | [30] days | [10] days |
-| Committee decision | Receipt of recommendation | [15] days | [10] days |
-| Data Bank report | The reportable event under Article XV | 30 days | 30 days |
-| Review of a continued precautionary restriction | Each review | every [30] days | every [30] days |
-| **Approximate total** | | **~120 days** | **~50 days** |
+| Step | Runs from | Period |
+|---|---|---|
+| Request a hearing | Receipt of notice of Proposed Action | [30] days |
+| Material relied on provided | Notice of Proposed Action | [5] business days |
+| Panel constituted | Request | [15] days |
+| Objection to a panelist | Notice of composition | [5] business days |
+| Notice of hearing to hearing date | Notice of hearing | not less than [30] days |
+| Pre-hearing exchange | Before the hearing | [10] business days |
+| Written closing statement | Close of hearing | [5] business days |
+| Panel recommendation | Close of hearing | [30] days |
+| Committee decision | Receipt of recommendation | [15] days |
+| Data Bank report | The reportable event under Article XV | 30 days |
+| Review of a continued precautionary restriction | Each review | every [30] days |
+| **Approximate total** | | **~120 days** |
 
-**On the ordinary schedule, the periods add to roughly one hundred and twenty days from notice of Proposed Action to final decision.** The panel and the Committee may act sooner than their periods allow, and scheduling a hearing or granting a continuance may take longer. Two of those periods are statutory minimums and cannot be shortened except by the Practitioner's waiver under § 10.2.1. The expedited schedule shortens waiting; it removes no right.
+**On the ordinary schedule, the periods add to roughly one hundred and twenty days from notice of Proposed Action to final decision.** The panel and the Committee may act sooner than their periods allow, and scheduling a hearing or granting a continuance may take longer. Two of those periods are statutory minimums and cannot be shortened except by the Practitioner's waiver under § 10.2.1. An accelerated calendar shortens waiting; it removes no right.
 
 ---
 
@@ -766,11 +772,11 @@ The Committee reviews its concurrence each year, when the CQC reviews the Policy
 
 The circumstances are: [death or serious harm to a patient in which a question of a Practitioner's care has been raised]; [a departure from the standard of care that those who screened the matter, or the Review Panel, regard as capable of having caused or contributed to harm to a patient]; [a letter from an attorney, an express statement that a claim will be made, or a complaint to a licensing board or regulatory agency concerning the care]; [a circumstance in which the Entity may owe the patient or the patient's representative disclosure of an error in care].
 
-**The answer is a statement of the fact and not of the substance.** It states no finding, conveys no view of the care, and conveys nothing of any deliberation. Where counsel requires more, counsel asks the Chair in writing and states the purpose, and the request and what was provided are recorded in the case register under § 13.2.
+**The answer is a statement of the fact and not of the substance.** It states no finding, conveys no view of the care, and conveys nothing of any deliberation. Where counsel requires more, counsel asks the Chair in writing and states the purpose, and the request and what was provided are recorded in the case register under § 13.2. **Where preservation of evidence or a reporting deadline is at stake, the Chair answers the request without delay.** A request by email is a request in writing.
 
 **Counsel's own assessment is separate.** Where counsel requires an assessment of the care for the Entity's legal purposes, counsel obtains it from a reviewer who takes no part in the matter here, under counsel's direction and in counsel's file. The Committee does not receive that assessment and builds its own record under Article VIII. A person who reviewed the care at counsel's request is recused under § 12.1.
 
-This section does not limit counsel's part in determining reportability, in a hearing under Article X, or in advising the Committee on its own process.
+This section does not limit counsel's role under § 2.12 or in a hearing under Article X.
 
 **15.12 Query.** The Entity may query the Data Bank on entering an employment or affiliation relationship with a Practitioner and at each renewal. [Recommended as standing practice.]
 
@@ -784,11 +790,10 @@ This section does not limit counsel's part in determining reportability, in a he
 
 **16.3 Effective date.** [DATE], and not before each of the following is in place:
 
-- (a) counsel's written confirmation of the Committee's legal formation, the privilege bases on which it relies in each state in which the Entity operates and the limits of each, and the safeguards they require;
-- (b) the Entity's registration under § 15.5; and
-- (c) the designation of the Practitioner Health pathway under § 4.3(d).
+- (a) counsel's written confirmation of the Committee's legal formation and of the safeguards it requires; and
+- (b) the Entity's registration under § 15.5.
 
-**Counsel's confirmation is of formation and its limits.** It is not an assurance that every record will be privileged in every proceeding, and the Committee does not represent that it is.
+**The privilege available in each state is not a condition of effect.** Counsel advises on it under § 2.12, for each state in which the Entity operates now and for any state it enters later, and the Committee's work does not wait for that advice. The Committee does not represent that any record is privileged.
 
 **16.4 Transition.** **Implementation of the Autonomy Tiers under § 1.6.1 does not by itself reduce, enlarge, or otherwise alter any Practitioner's existing authority to furnish care.** Every Practitioner then in service is brought within § 1.6.1 without individual review, at the Autonomy Tier corresponding to the terms on which that Practitioner is then authorized to furnish care.
 
@@ -981,6 +986,14 @@ Pre-revision copy for items 58 to 64: `_archive/prc-charter-draft-2026-11-16-bef
 
 69. **Psychotherapists removed, 2026-11-17 (Patrick).** The Charter no longer reaches licensed psychotherapists. Removed: the definition's reference in § 1.6(a), the service-line sentence in § 1.6(j), the panel sentence in § 1.7, the addendum power at § 3.1(k), § 6.5 (now reserved, so that §§ 6.6 to 6.8 keep their numbers and cross-references), the discipline-matching clause in § 10.3(f), the addendum in the governance record at § 13.1(a), the reference in § 15.2, and the addendum's amendment sentence in § 16.2. A concern about a psychotherapist's care is outside this Committee and is handled by Management under its own authority. Conformed: CQC § 2.4, both member guides, the seat map, the counsel questions, the memo *What the Peer Review Committee Charter Requires*, and the simplification record. Pre-revision copy: `_archive/prc-charter-draft-2026-11-17-before-psychotherapy-removal.md`.
 
-**Bracketed defaults to confirm:** monthly meeting cadence; five-business-day lapse and forty-five-day stop on precautionary restrictions; the Coordinator's title, if "Executive Coordinator, Clinical Excellence" is not final; six standing members and the discipline mix, now three physicians; two-year terms; two-member panels; ten-day screening; five-day notice; twenty-day response; sixty-day panel findings; the ninety-day count in the quarterly report; six-month Tier One limit; the [five]-business-day notice, [ten]-business-day decision period and [two]-year repeat bar under § 5.7; the [ten]-chart sample and [four]-quarter limit for the examinations under § 5.7.6; seven-year retention; the mandatory referral list in § 4.3; the [four]-member floor for votes on Professional Review Actions and the [three]-member floor for precautionary ratification; the convening periods in § 2.10; the hearing periods in § 10.10, including the expedited schedule; hearing panel size of [three]; the [five] business days to final action after an unanswered notice under § 9.5; the [two] members joining the Chair under § 9.8; the circumstances requiring counsel's attention under § 15.11.1; the [five]-patient sample and the [ten]-business-day response under § 6.8.
+70. **Operating simplifications, 2026-11-17 (Patrick).** From an external review of where the Charter creates work with little benefit. **§ 2.1.1:** a clerical defect that could not affect fairness, the findings or the disposition is corrected by the Chair without a further vote. **§ 2.10:** the monthly meeting may be cancelled where there is no business; every case-driven convening deadline stays. **§§ 8.6(f), 10.8(b)(iii):** a monitor, or a proctor or consultant who holds no Employment Authority, may give a reasoned, non-binding recommendation on the exit criteria; the Committee decides; a person holding Employment Authority reports facts only. This revisits the monitor split settled earlier, at Patrick's direction. **§ 10.2.1:** the second, expedited column of periods is replaced by an accelerated calendar for the matter, proposed from a template in the operating procedure (OP-2) and binding only on the Practitioner's written acceptance; the periods in § 10.10 are the Charter's only schedule; §§ 9.5(a) and 10.4 conformed. **§ 15.11.1:** the two-statement answer and written request stay; where preservation or a reporting deadline is at stake the Chair answers without delay, and email counts as writing. **Not changed:** the renewed offer at each thirty-day review under § 9.5 (Patrick). Pre-revision copy: `_archive/prc-charter-draft-2026-11-17-before-operating-simplifications.md`.
 
-**For counsel.** Questions for counsel are kept outside this draft, in `counsel-questions.md`.
+71. **Counsel to the Committee (§ 2.12), added 2026-11-17.** One section states counsel's role: counsel represents the Entity, advises on authority, law, fairness, confidentiality, disclosure and reporting, does not vote, and does not determine findings or dispositions. Counsel attends at the Chair's invitation for a stated legal purpose, replacing § 2.11's "Counsel may attend any meeting," which sat uneasily with the separation of counsel's liability assessment in § 15.11.1. Whether a legal duty applies is decided on counsel's advice, and the Committee determines the clinical facts; § 1.1.1 conformed. Counsel's presence does not by itself create attorney-client privilege. § 15.11.1's closing sentence reduced to a cross-reference; § 10.3.3 (counsel to a hearing panel) unchanged. The working boundaries (routine cases stay clinician-led; consultation follows a legal question; hearings stay a separate stage) are in the member guide. Pre-revision copy: `_archive/prc-charter-draft-2026-11-17-before-counsel-section.md`.
+
+72. **§ 16.3(a) narrowed, 2026-11-17 (Patrick).** The Charter takes effect on counsel's written confirmation of the Committee's formation and the safeguards it requires; the privilege available in each state is no longer a condition. Reasons: peer review runs now without statutory privilege, Indiana and Kentucky may take time to answer, and a condition tied to each state's privilege would have to be met again whenever the Entity enters a new state. Counsel advises on privilege under § 2.12, state by state, and the Committee's work does not wait for it. Pre-revision copy: `_archive/prc-charter-draft-2026-11-17-before-16-3-privilege.md`.
+
+73. **§ 16.3(c) removed, 2026-11-17 (Patrick).** The designation of the Practitioner Health pathway is no longer a condition of effect. Health, impairment and fitness matters are referred to HR, which handles them under its own policy as that policy changes; the destination is designated in the Authorization or later by the Chief Executive Officer under § 4.3(d), and § 9.7 still carries the restriction's end date with the referral. The counsel questions on the pathway's capacity are withdrawn. Pre-revision copy: `_archive/prc-charter-draft-2026-11-17-before-16-3c.md`.
+
+**Bracketed defaults to confirm:** monthly meeting cadence; five-business-day lapse and forty-five-day stop on precautionary restrictions; the Coordinator's title, if "Executive Coordinator, Clinical Excellence" is not final; six standing members and the discipline mix, now three physicians; two-year terms; two-member panels; ten-day screening; five-day notice; twenty-day response; sixty-day panel findings; the ninety-day count in the quarterly report; six-month Tier One limit; the [five]-business-day notice, [ten]-business-day decision period and [two]-year repeat bar under § 5.7; the [ten]-chart sample and [four]-quarter limit for the examinations under § 5.7.6; seven-year retention; the mandatory referral list in § 4.3; the [four]-member floor for votes on Professional Review Actions and the [three]-member floor for precautionary ratification; the convening periods in § 2.10; the hearing periods in § 10.10 and the accelerated calendar template (OP-2); hearing panel size of [three]; the [five] business days to final action after an unanswered notice under § 9.5; the [two] members joining the Chair under § 9.8; the circumstances requiring counsel's attention under § 15.11.1; the [five]-patient sample and the [ten]-business-day response under § 6.8.
+
+**For counsel.** Questions for counsel are kept outside this draft, in the memo to counsel (`privilege-case-for-counsel.md`).

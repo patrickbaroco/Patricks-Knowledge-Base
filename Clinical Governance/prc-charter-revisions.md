@@ -629,3 +629,19 @@ The full change table, OP-1, and the counsel classification: `prc-simplification
 # Revision of 2026-11-17: psychotherapists removed
 
 Recorded as item 69 in the Charter's open items (Patrick). Every reference to licensed psychotherapists, and to the § 6.5 addendum, is removed from the operative text; § 6.5 is reserved so that §§ 6.6 to 6.8 keep their numbers. A concern about a psychotherapist's care is outside the Committee. Conformed: CQC § 2.4, both member guides, the seat map (vault copy; the published page and its PDF wait on the next rebuild), the counsel questions (four questions removed or narrowed), the counsel memo on what the Charter requires, and the simplification record. Pre-revision copies dated 2026-11-17 in `_archive/`.
+
+---
+
+# Revision of 2026-11-17 (second): operating simplifications
+
+Recorded as item 70 in the Charter's open items. Clerical cures without a revote (§ 2.1.1); cancellable monthly meeting (§ 2.10); non-binding exit recommendations from monitors and from proctors or consultants without Employment Authority (§§ 8.6(f), 10.8(b)(iii)); one schedule of periods, with an accelerated calendar from an operating-procedure template on the Practitioner's written acceptance (§ 10.2.1, OP-2; §§ 9.5(a), 10.4, 10.10 conformed); an urgency rule for counsel's written requests (§ 15.11.1). Kept: the renewed offer at each thirty-day review under § 9.5. Member guide and How a Review Unfolds conformed (vault copy). Pre-revision copies in `_archive/`.
+
+---
+
+# Revision of 2026-11-17 (third): counsel to the Committee
+
+Recorded as item 71. New § 2.12 states counsel's role in one place; § 2.11 now admits counsel at the Chair's invitation for a stated legal purpose; legal duties are decided on counsel's advice, clinical facts by the Committee (§ 1.1.1 conformed); § 15.11.1's closing sentence becomes a cross-reference. Member guide carries the three working boundaries. Pre-revision copies in `_archive/`.
+
+**Follow-up, 2026-11-17 (§ 16.3).** Item 72: the effective-date condition in § 16.3(a) is now counsel's written confirmation of formation and safeguards; privilege by state is advice under § 2.12, not a condition, so that peer review is not held up and new states do not reopen the condition.
+
+**Follow-up, 2026-11-17 (§ 16.3(c)).** Item 73: the health pathway designation removed as a condition of effect; health matters go to HR under its own policy. The § 9.7 counsel question withdrawn from the memo and the counsel questions.

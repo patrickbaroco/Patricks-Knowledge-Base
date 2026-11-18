@@ -1,147 +1,166 @@
 ---
 type: reference
-about: Single memo to counsel on the Peer Review Committee: privilege state by state, what the Charter requires, and the questions for counsel
+about: Single memo to counsel on the Peer Review Committee: what I'm asking, the state-by-state questions with research notes, how I've sorted the Charter, and a checklist
 related: "[[prc-charter-draft]]"
 updated: 2026-11-17
 ---
 
-# The Peer Review Committee: Privilege, and What the Charter Requires
+# The Peer Review Committee: Questions for Counsel
 
 **Memo to Jeff Wells, from Patrick Baroco · 2026-11-17**
-*Prepared for counsel. This is a physician's reading of the statutes and of our own Charter, written so that you can test it. It is not legal advice. Section numbers refer to the Peer Review Committee Charter draft of 2026-11-17, which accompanies this memo.*
+*Questions and background for your review. Section numbers refer to the Peer Review Committee Charter draft of 2026-11-17, which accompanies this memo.*
 
 ---
 
-## The answer
+## What I'm asking
 
-Eventus has a strong claim to statutory peer review protection in Virginia and Ohio, a good claim in North Carolina with one gap, and a weak claim on the text in Indiana and Kentucky. The weakness in those two states has one source: each statute protects review bodies set up by a listed kind of organization, and an employed multi-state physician group is not plainly on either list. Each gap can be closed or narrowed by a step Eventus controls. No state privilege holds in a federal discrimination or antitrust suit.
+Jeff,
 
-Most of the Charter is Eventus's own design. The law requires a small part of it, and another part is there only because we rely on a particular protection. Part 2 sorts the Charter into those groups, so that we know which rules we can change freely and which we cannot.
+The attached Charter gives Eventus a consistent, clinician-led process for reviewing individual care, supporting improvement, and making fair decisions about a clinician's authorization to practice. It keeps that work separate from employment and practitioner-health decisions, and it sets out the reporting and procedural safeguards we intend to follow.
 
-The Charter does not take effect until you have confirmed in writing the Committee's formation, the privilege bases it relies on in each state and their limits, and the safeguards they require (§ 16.3). No case is reviewed before then.
+I'd like your help finding the simplest legally sound way to establish and run it across our five states. I've tried to identify how the protections might apply in each state. Virginia and Ohio look straightforward; North Carolina raises questions about membership and about suits against Eventus; Indiana and Kentucky raise questions about whether Eventus is the kind of organization their statutes protect. Those are questions for you, and the Charter can't answer them on its own.
 
----
+Much of the procedure is a deliberate Eventus choice. Please tell me about any legal requirement we've missed, anything that promises more protection than the law gives, and anything we could simplify without losing the clinical independence and practitioner protections I want to keep.
 
-## Part 1. Privilege, state by state
+Under § 16.3, the Charter takes effect once you have confirmed in writing how the Committee is formed and the safeguards it needs. The privilege available in each state is not a condition, because peer review already runs without it and because we will keep adding states; I'd like your advice on it state by state as the answers come. Please let me know whether that condition is framed appropriately.
 
-### Virginia: strong
+**I'm asking for your guidance on three decisions:**
 
-Va. Code § 8.01-581.17(B)(iii) protects a committee established under guidelines adopted by a statewide association of Virginia-licensed providers. The Medical Society of Virginia's guidelines apply to committees of an entity "that employs or contracts with physicians," which describes Eventus. Organization by the governing body is not part of the test. The Charter adopts the guidelines by reference (§ 1.4).
+1. **Getting started.** What do we need to put in place before starting?
+2. **Reporting and process.** What needs correcting before the Committee handles cases under this Charter?
+3. **Keeping the process practical.** Which procedures are needed, and which could be simplified?
 
-**To strengthen it,** Eventus can execute the Medical Society's adoption form, and the Committee's scope can be checked against the guidelines' own description of what a committee reviews. **Limits that stay:** facts and medical records are not privileged; a court may order disclosure on good cause in extraordinary circumstances; and an oral comment about an incident is privileged only if made more than 24 hours after it.
-
-### Ohio: strong on the definition; the risk is proof
-
-R.C. 2305.25 defines a health care entity and a peer review committee by function, and includes for-profit corporations and their committees and hearing processes. Nothing requires a governing body to create the committee. The party claiming the privilege must prove that a qualifying committee exists and that each withheld record falls within it (*Smith v. Cleveland Clinic*, 2011-Ohio-6648). A weak affidavit does not by itself defeat the claim, and a court may review records in camera (*Stull v. Summa Health Sys.*, 2024-Ohio-5718).
-
-**To strengthen it:** an affidavit template drafted now, and a document register kept from the first case (§ 13.2).
-
-### North Carolina: good, with one gap
-
-N.C. Gen. Stat. § 90-21.22A defines a medical review committee by composition and purpose: providers licensed under Chapter 90, evaluating the quality, cost or necessity of care. There is no organizer requirement, and nurse practitioners and physician assistants are Chapter 90 licensees.
-
-**The gap.** The discovery bar in subsection (c) applies in actions against listed defendants: a Chapter 90 provider, a hospital, an ambulatory surgical facility, or a provider-sponsored organization. Where the reviewed clinician is a defendant, the better reading is that the records are protected in that action. An action naming Eventus alone is open. **A second point:** a member licensed only in another state may not count as a Chapter 90 licensee on a North Carolina matter.
-
-### Indiana: weak on the text; two steps would fix most of it
-
-Ind. Code § 34-30-15 protects a committee organized in one of the listed ways, at least half of whose members are professional health care providers (§ 34-6-2.1-145). The routes plausibly open to Eventus are organization by a "professional health care organization" (§ 34-6-2.1-164, -165(14) or (25)), or by its governing board.
-
-- **Is Eventus a professional health care organization?** That turns on its subsidiaries and affiliates, and on whether any Eventus entity owns or controls a licensed facility or provider organization. It is a question of corporate fact.
-- **Was the committee organized by the governing board?** The Chief Executive Officer's authorization is not board action on its face. A single written board consent organizing the committees for purposes of § 34-30-15, or ratifying the authorization, would close the question without putting the board in the committees' work.
-- **Physician assistants.** The definition of professional health care provider reaches registered nurses, and so nurse practitioners, but not physician assistants. A PA's review in Indiana may sit outside the statute, and PAs may not count toward the composition floor.
-- **Access.** A provider under investigation may see the records accumulated about their own practice and may appear and rebut (§ 34-30-15-4). The Charter yields to that right (§ 13.4.1). *Savage v. Indiana University Health* (S.D. Ind. Apr. 27, 2026, magistrate judge's order) read the access broadly and without a time limit.
-
-### Kentucky: the statute's reach has grown; its list of organizations has not
-
-KRS 311.377 now applies in any civil action, and *Jewish Hospital v. Perry* (Ky. 2021) protected a root cause analysis under it. But subsection (1) still protects review bodies constituted by listed organizations: hospitals, hospices and home health agencies, insurers and HMOs, organized medical staffs, medical societies, and governmental agencies. A physician group is not on the list.
-
-Subsection (2) also requires an attestation of participation in a patient safety and quality improvement initiative. The CQC's program is one, and Eventus's participation in LTC ACO's quality program may support it. Neither cures the organizer gap.
-
-The protection that does not depend on the list is federal. In *Baptist Healthcare System v. Kitchen* (Ky. 2025), a root cause analysis reported to a patient safety organization was fully protected as patient safety work product, while an incident report made to meet a regulatory duty was not.
-
-### The federal layer
-
-- **HCQIA gives immunity from damages, not privilege.** It does not keep the record out of discovery.
-- **There is no federal peer review privilege** in our circuits (*Virmani v. Novant Health*, 4th Cir. 2001; *Memorial Hospital v. Shadur*, 7th Cir. 1981). A clinician who brings a discrimination claim after a review will see the file, which is why Committee records are written on the assumption that the clinician will read them (§ 13.4).
-- **PSQIA is the only protection that does not vary by state.** It requires work assembled for and reported to a listed patient safety organization, and never covers records made to meet an independent obligation. The Charter keeps the Committee outside any patient safety evaluation system (§ 1.5). Kentucky and Indiana are where a PSO would add most, and the CQC's audit work is the part best suited to it.
+The rest of this memo is background. Part 1 takes the states one at a time, Part 2 sorts the Charter's rules, and Part 3 is a checklist of the specific questions.
 
 ---
 
-## Part 2. What the Charter requires
+# Background and checklist
 
-### How the rules are sorted
+## Part 1. The states
 
-- **Legal duty.** Binding whenever its conditions are met, whatever the Charter says.
-- **Condition of a protection.** Required only because Eventus relies on a specific protection, or has chosen a specific safe harbor.
-- **Eventus choice.** Our design. Many of these support a protection without being required for it.
-- **Statement of law.** A sentence describing the law. It needs your check, and it is not itself a rule.
+### Virginia
+
+**Question:** Does our adoption of the Medical Society of Virginia guidelines give us the right foundation, and what else should we do?
+
+*Research notes.* Va. Code § 8.01-581.17(B)(iii) protects a committee established under guidelines adopted by a statewide association of Virginia-licensed providers. The Medical Society's guidelines apply to committees of an entity "that employs or contracts with physicians." The Charter adopts them by reference (§ 1.4). The Medical Society publishes an adoption form we could sign, and the Committee's scope could be checked against the guidelines' description of what a committee reviews. Facts and medical records are not privileged; a court may order disclosure for good cause in extraordinary circumstances; and an oral communication about a specific incident, made to a committee formed under the guidelines route, is privileged only if made more than 24 hours after the incident.
+
+### Ohio
+
+**Question:** What records should we keep to support a privilege claim?
+
+*Research notes.* R.C. 2305.25 defines a health care entity and a peer review committee by what they do, and includes for-profit corporations. The party claiming privilege must show that a qualifying committee exists and that each withheld record belongs to it (*Smith v. Cleveland Clinic*, 2011-Ohio-6648). A weak affidavit does not by itself lose the claim, and a court may look at the records in camera (*Stull v. Summa Health Sys.*, 2024-Ohio-5718). An affidavit template prepared now, and a document register kept from the first case under the Charter (§ 13.2), seem the practical answer.
+
+### North Carolina
+
+**Question:** Who must hold a North Carolina license, and does protection extend to a claim against Eventus alone?
+
+*Research notes.* N.C. Gen. Stat. § 90-21.22A protects a committee of providers licensed under Chapter 90 that evaluates the quality, cost or necessity of care, with no requirement about who organizes it. Nurse practitioners and physician assistants are Chapter 90 licensees. A member licensed only in another state may not count on a North Carolina matter. The discovery bar in subsection (c) applies in suits against listed defendants, including a Chapter 90 provider, so a case against the reviewed clinician seems covered. I'm unsure how it applies if Eventus is sued without the clinician.
+
+### Indiana
+
+**Question:** Can Eventus establish its own qualifying committee under our existing structure?
+
+*Research notes.* Ind. Code § 34-30-15 protects a committee organized in one of the ways listed in § 34-6-2.1-145(a), at least half of whose members are professional health care providers. Two routes seem possible for Eventus's own committee:
+
+- **Eventus as a "professional health care organization"** (§§ 34-6-2.1-164, -165(14), -165(25)). That would be true if Eventus's members, shareholders, subsidiaries, affiliates or partners are listed providers or professional corporations, or if Eventus owns or controls a listed entity in whole or in part.
+- **Eventus as a regional or local organization of professional health care providers** (§ 34-6-2.1-145(a)). That phrase sounds like an association, so I don't know whether it reaches us.
+
+Eventus supplies attending clinicians and medical directors to Indiana nursing facilities, and licensed facilities are among the listed providers. Could those relationships help Eventus qualify under the statute's reference to "affiliates"? I'm not sure whether that term requires an ownership or control relationship. Our facility contracts and LTC ACO agreement may help you assess this.
+
+If a route works, we would then need to decide how to establish the committee formally. I understand a board resolution can document that, but it can't make Eventus eligible if it isn't. If no route works, an outside organization with its own authority could form a committee, though that committee wouldn't be our PRC and its protection wouldn't automatically reach our decisions. Eventus could also create a qualifying relationship, such as an affiliated professional corporation, though that would only make sense for other reasons. Otherwise we would need to decide whether to go ahead without relying on Indiana's privilege. HCQIA may still protect qualifying physician-review actions from damages.
+
+Two points stand apart from the route. Physician assistants are not among the listed providers, so a PA's review may fall outside the statute. And a provider under investigation may see the records about their own practice and may appear and respond (§ 34-30-15-4). The Charter gives way to that right (§ 13.4.1), and a federal magistrate judge recently read it broadly (*Savage v. Indiana University Health*, S.D. Ind. Apr. 27, 2026).
+
+### Kentucky
+
+**Question:** Can Eventus establish its own qualifying committee under our existing structure?
+
+*Research notes.* KRS 311.377 now applies in any civil action, and *Jewish Hospital v. Perry* (Ky. 2021) protected a root cause analysis under it. Subsection (1) protects review bodies set up by listed organizations: hospitals, hospices and home health agencies, insurers and HMOs, organized medical staffs, medical societies, and government agencies. A physician group isn't obviously on that list. One entry, "organized medical staff," is not defined and does not say of what; it stands alone, without naming a hospital. Eventus could form a medical staff of its own, with bylaws its clinicians adopt, officers they choose, and a clinician-led credentialing function, with the PRC as its peer review committee. Much of that already exists in the charters, since Eventus grants Clinical Authorization under defined tiers, and the statute's waiver language refers to practitioners who apply for "staff privileges." The neighboring entries are hospitals and similar bodies, so a court might read the term narrowly. It would add some governance, and it would not help in Indiana. Subsection (2) also requires an attestation that we take part in a patient safety and quality improvement initiative; the CQC's program is one, and our participation in LTC ACO's quality program may support it. The attestation doesn't settle the first question.
+
+### Federal law
+
+*Research notes.*
+
+- **HCQIA** protects participants from damages when its conditions are met. It doesn't keep records out of discovery.
+- **There is no federal peer review privilege** in our circuits (*Virmani v. Novant Health*, 4th Cir. 2001; *Memorial Hospital v. Shadur*, 7th Cir. 1981). We can't rely on state privilege alone in federal employment litigation, which is one reason Committee records are written on the assumption that the clinician will read them (§ 13.4).
+- **PSQIA** separately protects qualifying patient safety work product, including information assembled or developed for reporting and actually reported to a listed PSO, and qualifying deliberations or analysis within a patient safety evaluation system. It never covers records made to meet another obligation (*Baptist Healthcare System v. Kitchen*, Ky. 2025). The Charter keeps the PRC outside any such system (§ 1.5). A PSO is an option for the CQC's audit work, especially in Indiana and Kentucky. We don't need one to start the PRC.
+
+---
+
+## Part 2. How I've sorted the Charter
+
+I've sorted the rules into four groups, and I'd like you to correct the sorting.
+
+- **Legal duties:** apply whenever their conditions are met, whatever the Charter says.
+- **Conditions of a protection:** there only because we rely on a particular protection or have chosen a particular safe harbor.
+- **Our choices:** our design. Many of them support a protection without being required for it.
+- **Statements of law:** sentences describing the law, which need your check.
 
 ### Legal duties
 
-- Data Bank reporting for physicians: an adverse action on Clinical Authorization lasting more than thirty days, a restriction in force more than thirty days while a review runs, and a resignation or surrender during an investigation. With these come the copy to the state licensing board, registration, and the attestation (§§ 9.4, 15.5 to 15.9).
-- Any state duty to report an impaired practitioner. The Charter leaves it with whoever owns it (§ 4.3(d)).
+- Data Bank reporting for physicians: an adverse action on Clinical Authorization lasting more than thirty days, a restriction in force more than thirty days while a review runs, and a resignation or surrender during an investigation, with the copy to the state licensing board, registration, and the attestation (§§ 9.4, 15.5 to 15.9).
+- Any state duty to report an impaired practitioner, which the Charter leaves with whoever owns it (§ 4.3(d)).
 - Indiana's access right (§ 13.4.1).
 - Preserving records once litigation is reasonably foreseeable (§ 13.8).
 
 ### Conditions of a protection
 
-**Federal immunity under HCQIA.**
-
-- An immediate restriction for imminent danger, followed by notice and a hearing or other adequate procedure (§§ 9.1, 9.3).
-- The fourteen-day investigatory restriction (§ 9.8).
-- The notice-and-hearing safe harbor: no restriction without Article X; what the notice must say; thirty days to request a hearing and thirty days' notice of it; a panel not in direct economic competition with the clinician; the rights at the hearing; a written recommendation and decision (§§ 3.2(a), 5.5, 8.4, 10.1 to 10.7, 10.10). This is the route we chose to meet the statute's fairness standard. It is one route, and missing a single condition does not by itself lose the immunity.
-
-**State privilege.** A lawfully formed committee of an eligible organizer (§ 1.1); in Virginia, adoption of the guidelines (§ 1.4); in North Carolina, Chapter 90 licensees; in Indiana, at least half the members licensed providers (§ 2.2).
+- **HCQIA's emergency and investigatory restrictions:** an immediate restriction for imminent danger, followed by notice and a hearing or other adequate procedure (§§ 9.1, 9.3), and the fourteen-day investigatory restriction (§ 9.8).
+- **HCQIA's hearing safe harbor:** no restriction without Article X, the content of the notice, thirty days to request a hearing and thirty days' notice of it, a panel not in direct economic competition with the clinician, the rights at the hearing, and a written recommendation and decision (§§ 3.2(a), 5.5, 8.4, 10.1 to 10.7, 10.10). We chose this route to meet the statute's fairness standard. I understand it is one route among others, and that missing a single condition doesn't by itself lose the immunity.
+- **State privilege:** a lawfully formed committee of an eligible organizer (§ 1.1); in Virginia, adoption of the guidelines (§ 1.4); in North Carolina, Chapter 90 licensees; in Indiana, at least half the members licensed providers (§ 2.2).
 
 ### Statements of law to check
 
 - What the Committee is established to serve as in each state (§ 1.3).
 - Clinical Authorization as clinical privileges under 42 U.S.C. § 11151(3) (§ 1.6(b)).
 - The description of the federal protections and their limits (§§ 15.1 to 15.4).
-- That underlying facts and medical records are not protected (§ 13.7). This describes a limit of the privilege. It does not create a duty to disclose.
+- That underlying facts and medical records are not protected (§ 13.7). This describes a limit of the privilege, and does not create a duty to disclose.
 
-### Eventus choices you should know about
+### Our main design choices
 
-Everything not listed above is our design. These are the choices most likely to matter to you:
+These are the principal choices I'd like you to look at:
 
-- **The Committee carries the burden of proof at a hearing, by a preponderance** (§ 10.5(e)). The safe harbor does not require this; it gives the clinician more than the statute does.
-- **The Chief Executive Officer establishes the Committee** (§ 1.1). Lawful formation is the condition, and the CEO is our chosen way of meeting it.
-- **Deliberations are passed to no one** (§ 3.3). This supports privilege without being required for it, and it gives way to access the law grants.
-- **The Panel investigates and the Committee decides** (§ 6.7). The law needs one identifiable, authorized review body. How the work is divided inside it is ours.
-- **Minutes, separated records and a case register** (§§ 2.11, 13.1, 13.2). Built to give an Ohio court document-level proof. No statute prescribes this system.
+- **The Committee carries the burden of proof at a hearing, by a preponderance** (§ 10.5(e)). The safe harbor doesn't require this, and it gives the clinician more than the statute does.
+- **The Chief Executive Officer establishes the Committee** (§ 1.1). That is our chosen way of forming it.
+- **Deliberations are passed to no one** (§ 3.3), subject to any access the law grants.
+- **Your role** (§ 2.12). Counsel advises the Committee on its authority, the law, fair process, confidentiality, disclosure and reporting, and attends at the Chair's invitation for a stated legal purpose. Whether a legal duty applies is decided on your advice; the Committee finds the clinical facts and makes the clinical decisions. Routine review doesn't need your attendance or approval.
+- **The Panel investigates and the Committee decides** (§ 6.7). Our design gives the Committee responsibility for the final clinical decision.
+- **Minutes, separated records and a case register** (§§ 2.11, 13.1, 13.2), built with Ohio's proof requirement in mind.
 - **The Committee works outside any patient safety evaluation system** (§ 1.5).
-- **The agreed resolution** (§ 5.7). A clinician with a bounded knowledge gap may accept an education plan with no finding; the Committee then examines a sample of the clinician's charts in two later quarters.
-- **Reporting APCs.** Federal reporting for APCs is permissive. The Charter applies one consistent rule, to be set with you (§ 15.9).
+- **The agreed resolution** (§ 5.7). A clinician with a bounded knowledge gap may accept an education plan with no finding, and the Committee then looks at a sample of the clinician's charts in two later quarters.
+- **Reporting APCs.** Federal reporting for APCs is optional. I propose reporting APCs on the same terms as physicians, and the Charter applies one consistent rule (§ 15.9).
 
 ---
 
-## Part 3. What I need from you
+## Part 3. Checklist
 
-**Formation and state privilege**
+**1. Getting started**
 
-1. **Indiana, corporate facts.** Does Eventus, or an affiliate, meet § 34-6-2.1-165(14) or (25)?
-2. **Indiana, the board.** If not, will a single board consent organizing the committees, or ratifying the authorization, close the gap, and can it be limited to that?
-3. **Indiana, physician assistants.** How should a PA's review be handled, and do PAs count toward the composition floor?
-4. **Indiana, access.** When does § 34-30-15-4 apply to our reviews, what redaction does it permit, and does it reach records of deliberation?
-5. **Kentucky.** Do you read KRS 311.377(1) as excluding a physician group? What attestation language satisfies subsection (2), and does LTC ACO participation support it?
-6. **A patient safety organization.** Should the CQC's audit work, at least in Kentucky and Indiana, run inside a patient safety evaluation system?
-7. **North Carolina.** Does the § 90-21.22A(c) bar protect Eventus in an action naming Eventus alone? Must every member acting on a North Carolina matter hold a North Carolina license?
-8. **Virginia.** Should Eventus execute the Medical Society's adoption form?
-9. **Ohio.** Will you draft the affidavit template and approve the document register?
+- **Indemnification and insurance.** The Authorization commits Eventus to defend and indemnify members, panelists and those assisting them for good-faith service, and to carry insurance that covers it (§ 15.3.1). Does that commitment, with our D&O and malpractice coverage, actually reach each of them, including Reviewer Pool members, external reviewers, any presiding officer, the Coordinator, and anyone who is not an employee? I'll need the answer to recruit members.
+- **Indiana.** Do Eventus's ownership, membership, professional-corporation, affiliate or control relationships make it a professional health care organization? In particular, could our relationships with the Indiana nursing facilities we staff and medically direct count as affiliations?
+- **Indiana.** Could Eventus's clinician organization count as a regional or local organization of professional health care providers?
+- **Indiana.** If a route works, how should we establish the committee formally?
+- **Indiana.** How should a PA's review be handled, and do PAs count toward the half-licensed-provider floor?
+- **Indiana.** When does the access right in § 34-30-15-4 apply to our reviews, what may be redacted, and does it reach records of deliberation?
+- **Kentucky.** Does Eventus or a related organization fit a category in KRS 311.377(1)? In particular, would an Eventus medical staff, with bylaws its clinicians adopt and a clinician-led credentialing function, count as an "organized medical staff," and what is the least structure that would make it credible? What attestation language satisfies subsection (2), and does our LTC ACO participation support it?
+- **North Carolina.** Does protection reach a suit against Eventus alone? Must every member acting on a North Carolina matter hold a North Carolina license?
+- **Virginia.** Should we sign the Medical Society's adoption form?
+- **Ohio.** Would you draft the affidavit template and look over the document register?
+- **Optional: a patient safety organization.** Is it worth running the CQC's audit work, at least in Indiana and Kentucky, through a patient safety evaluation system? We don't need this to start the PRC.
 
-**Reporting and process**
+**2. Reporting and process**
 
-10. **After an agreed resolution.** If a clinician resigns during the two later chart examinations, is that a resignation during an investigation for Data Bank purposes, and is that exposure acceptable (§§ 5.7.6, 15.9)?
-11. **APC reporting.** What consistent rule should govern reporting events concerning APCs (§ 15.9)?
-12. **Information about APCs.** Federal protection for a person who provides information covers only information about physicians. What do the state statutes give someone reporting on an APC (§ 15.2)?
-13. **Chair recusal.** The Chair chairs both committees, screens, and joins in imposing restrictions. Are the recusal triggers in § 12.1 adequate?
-14. **Health-only restrictions.** Where a restriction stands on a matter referred to the practitioner health pathway, can that pathway reach a decision within the forty-five days § 9.5 allows (§ 9.7)?
-15. **Employment consequences.** Where a restriction leaves a clinician unable to do the job, how is the employment decision kept separate from the Committee's (§§ 3.5, 15.3)?
+- **After an agreed resolution.** My position is that a resignation during the two later chart examinations should not be reportable. The matter has closed with no finding, and the examinations are follow-up of a closed matter, disclosed in advance. Does that position hold for Data Bank purposes, and is there anything in how the examinations are run that would weaken it (§§ 5.7.6, 15.9)?
+- **APC reporting.** I want to hold APCs to the same standard as physicians: an event involving an APC is reported whenever the same event would be reportable for a physician. Does that work, and do any of our states require something different (§ 15.9)?
+- **People who report concerns about APCs.** The federal protection for people who provide information covers information about physicians. What do the state statutes give someone reporting on an APC (§ 15.2)?
+- **Chair recusal.** I chair both committees, screen referrals, and join in imposing restrictions. Are the recusal triggers in § 12.1 enough?
+- **Employment consequences.** Where a restriction leaves a clinician unable to do the job, how do we keep the employment decision separate from the Committee's (§§ 3.5, 15.3)?
 
-**The Charter itself**
+**3. Keeping the process practical**
 
-16. Confirm or correct the sorting in Part 2, above all anything I have called a choice that the law in fact requires.
-17. Check the statements of law listed in Part 2.
+- Correct the sorting in Part 2, especially anything I've called a choice that the law actually requires.
+- Check the statements of law listed in Part 2.
+- Tell me which procedures you would simplify.
 
 ---
 

@@ -344,7 +344,7 @@ Three consequences:
 
 **Ordinary clinical supervision carries on regardless** (§ 8.6(e)). An intervention does not supplement, suspend, or discharge the supervisory or collaborative arrangement that already applies. That arrangement continues and is performed exactly as it would be if no intervention existed. This is said out loud because the rule above will otherwise be read as moving an oversight duty onto this Committee, and the predictable result is that both sides step back.
 
-**The monitor reports facts and nothing else** (§ 8.6(f)). What was required, what was done, what was observed. **The monitor does not decide whether the exit criteria were met and makes no recommendation about disposition** — that is the Committee's determination. The monitor reports to the Committee and to no one else.
+**The monitor reports facts, and may recommend** (§ 8.6(f)). What was required, what was done, what was observed, and, if the monitor chooses, a reasoned view on whether the exit criteria were met. **The Committee is not bound by that view; whether the criteria were met is the Committee's determination.** The monitor reports to the Committee and to no one else.
 
 **The exit determination** (§ 8.6(g)). On the exit date the Committee determines whether the criteria were met, not met, or met in part, and records the basis. Met closes the matter and the clinician is told. **Not met is a ground to reconsider the disposition — it is not a ground to extend as a matter of course.** An intervention may be extended once, and only where the Committee records why a further period is likely to achieve what the first did not.
 
@@ -358,7 +358,7 @@ Three consequences:
 
 **The notice** (§ 10.2) states that an action has been proposed, the reasons in enough detail to answer, the action and how long it would last or what would end it, and that the clinician has thirty days from receipt to request a hearing. With it, or within five business days, the clinician receives the material the Committee relied on: the findings, the evidence, and any response they have already given. They do not receive the Committee's deliberations.
 
-**An expedited schedule is offered with every notice** (§ 10.2.1). It shortens the periods so that a contested matter concludes in roughly forty-five days instead of roughly one hundred and twenty. **Declining carries no inference.** The choice is not recorded as delay and is not considered by the panel or the Committee on any question before them. Someone who believes a proposed action is unwarranted usually wants it resolved rather than extended, and the ordinary periods exist for the clinician's protection.
+**An accelerated calendar is offered with every notice** (§ 10.2.1). It shortens the periods for that matter, so that a contested matter can conclude in roughly fifty days instead of roughly one hundred and twenty, and it applies only if the clinician accepts it in writing. **Declining carries no inference.** The choice is not recorded as delay and is not considered by the panel or the Committee on any question before them. Someone who believes a proposed action is unwarranted usually wants it resolved rather than extended, and the ordinary periods exist for the clinician's protection.
 
 **A clinician who does not request a hearing in time waives it**, and the Committee may take final action on the existing record (§ 10.2.2). Waiver does not affect reportability.
 
@@ -400,7 +400,7 @@ Three consequences:
 
 **Expedited means the ordinary timelines do not apply** (§ 9.3). The normal schedule — sixty days to the panel's proposal, fifteen more to the Committee's decision — runs past the forty-five-day stop, so the Chair sets a schedule at the time of imposition that lets the Committee decide the matter, and give notice of any action it proposes, before the forty-five days expire. **The clinician's response period is never cut below ten calendar days**, and an extension is available only where the clinician asks for one. The clinician may address the Committee at the ratification meeting.
 
-**Two exceptions to the forty-five-day stop, both tied to the hearing** (§ 9.5). First, where the clinician has requested a hearing, the restriction continues through that process — because the statutory minimum periods (thirty days to request a hearing, thirty days' notice before it) already exceed forty-five days, so without this a precautionary restriction could not survive any contested matter. **The Committee then reviews the restriction at least every thirty days**, terminates or modifies it where it is no longer warranted, and offers the expedited schedule again at each review. **The reportability clock at thirty days runs regardless; a pending hearing does not suspend it.**
+**Two exceptions to the forty-five-day stop, both tied to the hearing** (§ 9.5). First, where the clinician has requested a hearing, the restriction continues through that process — because the notice and hearing process may run past forty-five days, and without this a precautionary restriction could end before a contested matter is decided. **The Committee then reviews the restriction at least every thirty days**, terminates or modifies it where it is no longer warranted, and offers the accelerated calendar again at each review. **The reportability clock at thirty days runs regardless; a pending hearing does not suspend it.**
 
 Second, where notice of a proposed action restricting Clinical Authorization went out before day forty-five, the restriction continues while the clinician's thirty days to request a hearing run. If no hearing is requested, the Committee takes final action within five business days, and the restriction continues until it does. Without this, a restriction noticed late would end while the clinician was still deciding whether to contest.
 
@@ -540,6 +540,8 @@ Department Chairs screen so that the Committee's members stay clear of a matter 
 
 Minutes identify each document reviewed because Ohio courts require document-level proof that a record falls within a committee's work, and do not accept general descriptions (§ 2.11).
 
+Counsel advises the Committee on the law and its process, and the clinicians decide the care (§ 2.12). Three working boundaries follow. Routine cases stay routine: clinicians read the charts, speak with the clinician, assess the care and recommend education, and counsel need not attend, interview anyone, or approve the clinical wording. Consultation follows a legal question, such as an access request, a proposed restriction, a reporting trigger, a disputed procedure, or an outside demand for records; counsel explains what the law requires without deciding whether the care was adequate. Hearings remain a separate stage, and counsel's ordinary advisory role does not bring hearing procedure into screening or educational review. The Committee asks what happened clinically and what response is warranted; counsel helps it answer whether it has the authority, what process it must follow, and what legal obligations follow.
+
 The rule on medical director designation is narrow because a Committee record available for a designation decision would be a record moved between the clinical and employment tracks that § 3.5 keeps apart (§ 3.6).
 
 ### Referrals and screening (Article IV)
@@ -592,7 +594,7 @@ A precautionary restriction can be imposed at once by the Chair and two members,
 
 The ordinary review timelines would run past the forty-five-day stop, so they are switched off for a matter under this Article. The Chair sets a schedule at the outset that lets the Committee decide, and give notice of any proposed action, before the forty-five days run out (§ 9.3).
 
-A restriction may continue beyond forty-five days while a timely noticed Proposed Action is within its hearing-request period, and through the hearing process if a hearing is requested. Exercising these rights is not treated as delay attributable to the Practitioner. While a restriction continues for a hearing, the Committee looks at it again at least every thirty days, and offers the expedited schedule again each time, because a clinician's view of the ordinary schedule tends to change once a restriction is running (§ 9.5).
+A restriction may continue beyond forty-five days while a timely noticed Proposed Action is within its hearing-request period, and through the hearing process if a hearing is requested. Exercising these rights is not treated as delay attributable to the Practitioner. While a restriction continues for a hearing, the Committee looks at it again at least every thirty days, and offers the accelerated calendar again each time, because a clinician's view of the ordinary schedule tends to change once a restriction is running (§ 9.5).
 
 Tier One restricts nothing, and a precautionary restriction requires imminent danger. The investigatory restriction fills the gap between them: a short, bounded period to investigate the clinical concern, which ends on its own at fourteen days and cannot be repeated on the same facts (§ 9.8).
 
@@ -602,7 +604,7 @@ Management is told on the day a restriction takes effect, and told only its term
 
 Article X is written to meet the notice and hearing standards of federal law, so that a clinician whose authorization is at risk can answer before clinicians who took no part in the review (§ 10.1).
 
-The ordinary periods run for the clinician's benefit, and many clinicians will not want them. A clinician who believes a proposed action is unwarranted usually wants it resolved, and a process that made them wait four months for a vindication they expect would punish by delay. The expedited schedule lets them choose otherwise (§ 10.2.1).
+The ordinary periods run for the clinician's benefit, and many clinicians will not want them. A clinician who believes a proposed action is unwarranted usually wants it resolved, and a process that made them wait four months for a vindication they expect would punish by delay. The accelerated calendar lets them choose otherwise (§ 10.2.1).
 
 A CQC member who had no part in the audit comes to a hearing as fresh as any other clinician. PRC members cannot sit, because the PRC takes the final action and the hearing panel is the independent step between its proposal and its decision. The same reason limits the Committee's review of the panel's recommendation (§§ 10.3, 10.7(b)).
 
@@ -633,7 +635,7 @@ Counsel's question is about Eventus's legal position, and the Committee's is abo
 ## What is not settled yet
 
 - **Whether the Chief Executive Officer's authorization is enough for state privilege.** Indiana's statute protects committees "organized by the governing body," and whether a committee established by the Chief Executive Officer's authorization meets that is with counsel.
-- **Other questions with counsel**, kept in `counsel-questions.md`.
+- **Other questions with counsel**, set out in the memo to counsel.
 - **The bracketed defaults throughout** — six members with three physicians among them, two-member panels, two-year terms, the ten/five/twenty/sixty/fifteen-day clocks, the six-month Tier One limit, the five-day lapse and forty-five-day stop, the four-member floor for votes on Professional Review Actions, the three-member hearing panel and the hearing periods, seven-year retention. All are drafting defaults and all are open to argument.
 
 ---
