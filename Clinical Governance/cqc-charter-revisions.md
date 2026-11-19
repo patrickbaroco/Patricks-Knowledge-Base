@@ -423,3 +423,25 @@ Pre-revision copy: `_archive/cqc-charter-draft-2026-11-13-before-triage-withdraw
 # Revision of 2026-11-17: psychotherapists removed
 
 § 2.4 reduced to "Physicians and APCs." The consultation on psychotherapy standards and the deferred psychotherapist seat are gone, following the removal of psychotherapists from the PRC Charter (PRC open item 69).
+
+---
+
+# Revision of 2026-11-19: stewardship additions
+
+Out of the Dr. Mitchell exchange with Ben, Patrick drafted a statement of how Eventus should be as an employer ("Stewardship"), and the Charter was tested against it in Command Center. The Charter already holds the standard fixed and builds fairness into the process around it (§ 5.5(a)(4)(i)). The test found four gaps. Three needed Charter text; the fourth is a cover note.
+
+- **§ 4.6.1, objection to a standard (new).** Any Practitioner to whom a standard applies may object to it in writing and receives a recorded response within [two] meetings: a revision, the reason the standard stands, or a review date. The standard stays in effect meanwhile, and the objection touches no observation, disposition or criterion. **§ 10.2** now lists objecting among the protected acts, so the protection does not depend on reading an objection as "information."
+- **§ 5.6.1, routine examination of clinical leadership (new).** Covers the Chair, the Department Chairs and the RCMOs. Committee members are not covered: most carry full panels and rate-based selection already reaches them. Leaders are read in the same cycle as everyone else, with no "leaders first" step.
+  - **Rotation, not a fixed sample on every measure.** The Command Center draft read five charts from every Leader on every measure, about 2 to 3½ review hours a month. Patrick replaced it: at least one Leader in every measure swept, at least [five] charts of each Leader a year, the order fixed in the annual audit plan before the year begins, with carry-forward where a Leader has too few residents in a measure's population. About 40 charts a year, or 30 to 55 minutes of review a month. Fixing the order in advance keeps the Chair from choosing whose charts are read and when.
+  - **Independence.** The draft barred any examiner whose assignment the Leader influences. The Chair appoints every member under § 2.2, so read literally no one could examine the Chair's charts. Appointment is now excepted. Where no member qualifies, a non-member in active clinical practice examines as a person assisting under § 10.1. The members other than the Chair designate who examines the Chair's charts.
+  - **The same test governs determinations (§ 9.6(g)).** Otherwise a member barred from reading a Leader's chart could still vote on its disposition under § 9.6(c).
+  - **§ 9.6.1.** The Chair no longer designates who presides over a matter concerning the Chair's own charts; the other members do.
+  - **Psychiatry.** The Psychiatry Chair is the only psychiatry Leader and so is read on every psychiatry measure. Where a measure's population spans both service lines (antipsychotic use, for example), any Leader within it may be included instead.
+  - **§ 2.2.1** checked: the Reviewer's own charts are examined by another member under that section, and a Reviewer is a Leader only if the Reviewer holds a listed role. The two read consistently.
+  - **Reporting.** § 7.4 states that the examination ran, its coverage, and any measure on which no Leader was in the population, so a gap is reported rather than read as an exemption. No results are reported for the group. A Leader may circulate their own review report.
+- **§ 7.5.1, a stated response (new).** The recipient of a systems transmittal answers in writing within [thirty] days: will act and how, will not and why, or when it will decide. A declining response satisfies the section; silence is reported as unanswered. Two changes from the Command Center draft. **The duty rests on the Authorization**, because § 7.5 says the Charter confers on the Committee no authority over Management and B2 ¶ 2 gives the Committee none over operations; the Chief Executive Officer approves the Charter under B2 ¶ 1. **A contracted facility cannot be bound by the Charter**, so where the condition lies with a facility, the person or function within the Entity responsible for that facility relationship responds. § 7.4 conformed.
+- **Deferred.** When the Charter goes for approval, a cover note framing the Employment Authority firewalls as leadership's commitments made structural, so they are not read as distrust of Management. Todoist task in Work, `prj-peer`.
+- **Not yet conformed:** the CQC member guide, B1, and the Packet pages and PDFs. B2 unchanged.
+- **Open:** the RCMO count (four or five assumed, from the Leader Forum deck); whether the Chair's charts should go to a reader outside the Committee, such as a PRC member, once a year.
+
+Pre-revision copy: `_archive/cqc-charter-draft-2026-11-19-before-stewardship.md`.
