@@ -55,6 +55,8 @@ Entries follow this exact structure, in this order:
 
 **Evening check-in (2026-11-19).** Where, Work, Journal, Training, and Tomorrow's top 3, one line each, is a complete note. It folds the logbook, the personal journal, and the training log into one five-minute sitting at the end of the day. Every other section stays optional.
 
+**Voice inbox (2026-11-20).** During the day Patrick adds spoken notes through Claude voice mode (including from the car) to the Google Doc "Logbook voice inbox" (https://docs.google.com/document/d/1nqBHptMoQf8SyHN_8jcUFi4u2B0-l2MdqLFJb9VT2XU/edit), one dated line each under Entries. At the 7pm check-in, Claude moves the day's entries into that day's daily note, in the section each belongs to, then clears them from the doc. The check-in runs as a Todoist recurring task, "Evening check-in", every day at 7pm. Tonal is blocked on Google Calendar Monday, Wednesday and Friday, 7:00–7:50.
+
 This template applies to **every day**, weekday or weekend — see "Domains & Project Logs" below for what that changed.
 
 ---
