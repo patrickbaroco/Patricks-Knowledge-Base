@@ -19,6 +19,12 @@ _Left open_
 **Personal**
 
 
+**Journal**
+
+
+**Training**
+
+
 **Inbox**
 - 
 

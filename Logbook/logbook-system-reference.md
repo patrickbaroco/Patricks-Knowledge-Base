@@ -47,9 +47,13 @@ Entries follow this exact structure, in this order:
 4. **Tasks** — frozen end-of-day Todoist snapshot (Completed / Left open); unchanged, spans both domains since Todoist already does
 5. **Work** *(optional — omit if not applicable that day)* — single merged block covering everything work-related: clinical work, administrative work, and significant interactions. Do not further subdivide this section (Patrick's explicit call, 2026-07-26) — it replaced the old separate "Clinical work" / "Administrative work" / "Significant interactions" headers.
 6. **Personal** *(optional — omit if not applicable that day)* — same shape as Work, covering home/garden/fishing/family/etc.
-7. **Inbox** — open/unresolved items, either domain; long-range or aspirational items are tagged `#someday`
-8. **Outcome** — single cross-domain narrative synthesizing the whole day
-9. **Tomorrow's top 3** — the three tasks for the next day, set with Patrick at the end-of-day review *(added 2026-09-16)*. Numbered, one line each, with the reason it made the list. These are rescheduled in Todoist to that day at the same time, so the note and the board agree. The same three carry the Todoist label `@top3`, which `Today.md` shows as a checkable list; the label comes off the previous set when the new three get it *(2026-10-05)*.
+7. **Journal** — one line, more if it comes: what stayed with you from the day. Reflection, kept separate from Outcome *(added 2026-11-19)*
+8. **Training** — one line: what was done (Tonal, run, ruck, walk) or "rest". Strava holds the detail *(added 2026-11-19)*
+9. **Inbox** — open/unresolved items, either domain; long-range or aspirational items are tagged `#someday`
+10. **Outcome** — single cross-domain narrative synthesizing the whole day
+11. **Tomorrow's top 3** — the three tasks for the next day, set with Patrick at the end-of-day review *(added 2026-09-16)*. Numbered, one line each, with the reason it made the list. These are rescheduled in Todoist to that day at the same time, so the note and the board agree. The same three carry the Todoist label `@top3`, which `Today.md` shows as a checkable list; the label comes off the previous set when the new three get it *(2026-10-05)*.
+
+**Evening check-in (2026-11-19).** Where, Work, Journal, Training, and Tomorrow's top 3, one line each, is a complete note. It folds the logbook, the personal journal, and the training log into one five-minute sitting at the end of the day. Every other section stays optional.
 
 This template applies to **every day**, weekday or weekend — see "Domains & Project Logs" below for what that changed.
 
