@@ -2,11 +2,11 @@
 type: river-forecast
 topic: fishing
 river: South River (Shenandoah basin; Greenville to Waynesboro to Port Republic)
-forecast_date: 2026-11-21
-generated: 2026-11-21T05:49
+forecast_date: 2026-11-22
+generated: 2026-11-22T05:49
 primary_gauge: WAYV2 (USGS 01626000, South River near Waynesboro)
-flow_cfs: 22
-stage_ft: 2.32
+flow_cfs: 24
+stage_ft: 2.34
 mossy_creek_note: "[[Fishing/Forecasts/2026-11-16]]"
 about: >-
   Rewritten every morning by a Claude scheduled task and read by Today.md. Combines the NOAA river gauges,
@@ -24,40 +24,40 @@ Rewritten each morning. The Now, Today, Tomorrow and Weekend headings are read b
 
 ## Now
 
-The Waynesboro gauge (WAYV2) read 22 cfs and 2.32 ft at 4:15am, unchanged for six days and a little below the 25 cfs logged a week ago, so the river is holding at a steady, very low base flow and should be very clear. The NWS forecast keeps it flat at about 2.3 ft and 20 cfs until Sunday afternoon, then shows a small bump to 2.4 ft and about 31 cfs with Sunday's rain. After a clear night near 30° the water is cold this morning and should warm to a cool, workable range for trout by early afternoon.
+The Waynesboro gauge (WAYV2) read 24 cfs and 2.34 ft at 4:15am, a small uptick from the 22 cfs it held for the past six days and about level with the 25 cfs logged a week ago, so the river remains at a very low base flow and should be clear. The NWS forecast shows a modest bump to a peak of 2.5 ft and about 45 cfs around 7pm tonight with today's showers, then a fall back to 2.3 ft and 20 cfs by Tuesday morning. A mild, cloudy night in the upper 40s means the water starts the day cool and comfortable for trout rather than cold.
 
 ## Today
 
-Saturday is sunny through midday and partly sunny later, with a high of 62° around 2pm, a light east breeze and no rain; clouds thicken after 3pm. Fish from late morning to about 3pm in the deeper pools and seams at Ridgeview Park and in the catch-and-release water from Wayne Avenue to North Park, using small nymphs on a long, light leader and keeping low and back from the bank in the clear, shallow water. Mossy Creek's advice holds: the warmest two or three hours of the afternoon fish best, so carry a thermometer and favor spots near springs and seeps.
+Sunday is cloudy all day with on-and-off light showers, about 0.06 in in total, a high of 61° around 2 to 3pm and only a light north breeze. Under full cloud and soft rain the fish in the clear, low water should be less wary, so work small nymphs or a lightly weighted streamer through the deeper runs and pools at Ridgeview Park and in the catch-and-release water from Wayne Avenue to North Park, favoring the warmest hours from late morning to mid-afternoon. Any tint from tonight's small rise should come after dark.
 
 ## Tomorrow
 
-Sunday is cloudy and cooler with a high of 58° and a 62% chance of light rain, about 0.22 in over roughly three hours. The NWS shows only a small rise from midday, so the river should stay low with at most a slight tint, and the full cloud cover and soft rain should make fish in the clear pools less wary; a small nymph or a lightly weighted streamer through the deeper runs in the afternoon is a reasonable plan.
+Monday is partly sunny and warm with a high of 68°, no rain and a west-northwest breeze gusting to about 14 mph. The river should be at or just past tonight's small peak in the morning and dropping back toward base flow, possibly with a slight tint that helps in this very clear water; fish the afternoon, which Mossy Creek names as the best window, and keep low and back from the bank in the slower pools as the light brightens.
 
 ## Weekend
 
-Next Saturday, November 28, is cloudy with a high of 52° and afternoon showers of about 0.30 in, turning to a rain and snow mix in the evening, and Sunday, November 29, brings occasional rain of about 0.23 in with a high of 57°. Coming after Wednesday's rain, the river could be somewhat up and tinted by then, though the size of any rise is uncertain; Saturday morning before the showers looks like the better window.
+Next Saturday, November 28, is cloudy and dry with a high of 52°, and Sunday, November 29, brings occasional rain of about 0.17 in with a high of 57°. Coming two days after the Thanksgiving rain, Saturday should find the river falling and clearing and is the better of the two days; a cold night with a slight chance of snow flurries Saturday evening points to fishing the afternoon.
 
 ## Next rain
 
-Sunday, November 22, brings about 0.24 in (0.22 in by day, 62% chance), and the NWS forecast shows WAYV2 rising only to about 2.4 ft and 31 cfs from Sunday afternoon. A larger rain follows from Wednesday afternoon, November 25, into Wednesday night, about 0.40 in in all with a 94% chance overnight and a high of only 43°; after the long dry spell much of it will likely soak in, so any rise is uncertain and probably modest, and the cold rain will chill the water. Monday, November 23 (partly sunny, 67°), is the best day after Sunday's rain, and Friday, November 27 (sunny, 53°), looks like the best day after Wednesday's, before more rain next weekend.
+The next meaningful rain arrives Wednesday night, November 25, about 0.27 in (77% chance), and continues as steady rain on Thanksgiving Day, Thursday, November 26, about 0.42 in more (91% chance), with a breezy north wind gusting near 31 mph and a high of only 48°; that is roughly 0.7 in in all. The NWS forecast for WAYV2 does not yet reach those dates, and after the long dry spell much of the rain will likely soak in, so the size of the rise is uncertain, though the river should come up and color for a day or so, and the cold rain will chill the water. Friday, November 27 (sun through high clouds, 54°, breezy), and Saturday, November 28 (cloudy, 52°, dry), look like the best days as the water falls and clears.
 
 ## Gauges
 
 | Gauge | Location | Stage | Flow | Reading (ET) |
 |---|---|---|---|---|
-| BCSV2 | Back Creek at Sherando (tributary) | 3.19 ft | n/a | Nov 21, 5:30am |
-| WAYV2 | South River near Waynesboro, Lyndhurst Rd (USGS 01626000) | 2.32 ft | 22 cfs | Nov 21, 4:15am |
-| SRLV2 | South River at Lyndhurst Rd, Waynesboro | 2.13 ft | n/a | Nov 21, 5:15am |
-| DOOV2 | South River near Dooms (USGS 01626850) | 1.93 ft | 41 cfs | Nov 21, 4:45am |
-| HARV2 | South River at Harriston (USGS 01627500) | 2.06 ft | 57 cfs | Nov 21, 4:45am |
+| BCSV2 | Back Creek at Sherando (tributary) | 3.17 ft | n/a | Nov 22, 5:30am |
+| WAYV2 | South River near Waynesboro, Lyndhurst Rd (USGS 01626000) | 2.34 ft | 24 cfs | Nov 22, 4:15am |
+| SRLV2 | South River at Lyndhurst Rd, Waynesboro | 2.09 ft | n/a | Nov 22, 5:15am |
+| DOOV2 | South River near Dooms (USGS 01626850) | 1.95 ft | 44 cfs | Nov 22, 4:45am |
+| HARV2 | South River at Harriston (USGS 01627500) | 2.06 ft | 57 cfs | Nov 22, 4:45am |
 
-NWS forecast for WAYV2: issued Nov 20 at 9:03am, running from 1pm Nov 20 to 7am Nov 23, flat at 2.3 ft and 20 cfs until a small step to a peak of 2.4 ft and 31 cfs at 1pm Sunday, Nov 22, held through the end of the run.
+NWS forecast for WAYV2: issued Nov 21 at 9:04am, running from 1pm Nov 21 to 7am Nov 24, rising to a peak of 2.5 ft and 45 cfs at 7pm Sunday, Nov 22, then easing back to 2.3 ft and 20 cfs by the end of the run.
 
 ## Regional (Mossy Creek)
 
-- From the week of Nov 16 note (blog post and video); the next post is due Monday, November 23. It called for a dry week with cold nights and mild afternoons, which has held.
-- Stocking: no South River stocking listed in the last two weeks. DWR's daily list covers November 12 to 19 with nothing for Augusta County or Waynesboro, and it notes several streams elsewhere left unstocked or cancelled for low water. Mossy Creek reports thin stocking this year after cutbacks and a major loss of mostly rainbow trout at Coursey Springs Hatchery, so managed water holds fewer fish and more browns.
+- From the week of Nov 16 note (blog post and video); the next post is due Monday, November 23. It called for a dry week with cold nights and mild afternoons, which held until today's light showers.
+- Stocking: no South River stocking listed in the last two weeks. DWR's daily list covers November 13 to 20 with nothing for Augusta County or Waynesboro; the only South River entry (November 20) is the Rockbridge County water, not this river. Nearby valley stockings were Tomahawk Pond in Shenandoah County (Nov 17), Hogue Creek in Frederick County (Nov 18) and Happy Creek in Warren County (Nov 19). Mossy Creek reports thin stocking this year after cutbacks and a major loss of mostly rainbow trout at Coursey Springs Hatchery, so managed water holds fewer fish and more browns.
 - Valley water: rivers are low and very clear; stocked and delayed harvest water are among the best bets, warm-water fishing has grown steadily harder, and musky are packed into deep winter pools with forage.
 - For stocked trout: fish the warmest two or three hours of the afternoon, take water temperatures in a couple of spots and depths, and concentrate where the most fish were put in. Neither source names fly patterns this week.
 - Spring creeks: around 55° groundwater makes them the warmest water as it cools; Mossy Creek's big browns had not been reported feeding after the spawn but were expected any day.
@@ -75,7 +75,6 @@ NWS forecast for WAYV2: issued Nov 20 at 9:03am, running from 1pm Nov 20 to 7am 
 
 | Date | WAYV2 cfs | WAYV2 ft | DOOV2 cfs | HARV2 cfs | Rain (Waynesboro, forecast) |
 |---|---|---|---|---|---|
-| 2026-11-01 | 22 | 2.32 | 45 | 62 | 0.00 in |
 | 2026-11-02 | 23 | 2.33 | 45 | 59 | 0.07 in |
 | 2026-11-03 | 23 | 2.33 | 42 | 59 | 0.00 in |
 | 2026-11-04 | 23 | 2.33 | 42 | 62 | 0.24 in |
@@ -96,7 +95,8 @@ NWS forecast for WAYV2: issued Nov 20 at 9:03am, running from 1pm Nov 20 to 7am 
 | 2026-11-19 | 22 | 2.32 | 41 | 66 | 0.00 in |
 | 2026-11-20 | 22 | 2.32 | 41 | 57 | 0.00 in |
 | 2026-11-21 | 22 | 2.32 | 41 | 57 | 0.00 in |
+| 2026-11-22 | 24 | 2.34 | 44 | 57 | 0.06 in |
 
 ## Sources
 
-[NOAA NWPS WAYV2](https://water.noaa.gov/gauges/WAYV2) · [DOOV2](https://water.noaa.gov/gauges/DOOV2) · [HARV2](https://water.noaa.gov/gauges/HARV2) · AccuWeather Waynesboro (336235) · [DWR stocking](https://dwr.virginia.gov/fishing/trout-stocking-schedule/) · [DWR South River](https://dwr.virginia.gov/waterbody/south-river/) · [[Fishing/Forecasts/2026-11-16|Mossy Creek, week of Nov 16]]. All five gauges were read from their individual gauge pages and are current this morning; DOOV2 and SRLV2 are reporting again. The regional gauge list still returns readings from November 13 and was not used. The WAYV2 forecast was reissued on November 20. The DWR daily list ends November 19, and DWR's separate monthly stocking schedule was not checked. The Mossy Creek note is from the week of November 16; the next one is due Monday. No live water temperature is available; the temperature language is estimated from air temperatures.
+[NOAA NWPS WAYV2](https://water.noaa.gov/gauges/WAYV2) · [DOOV2](https://water.noaa.gov/gauges/DOOV2) · [HARV2](https://water.noaa.gov/gauges/HARV2) · AccuWeather Waynesboro (336235) · [DWR stocking](https://dwr.virginia.gov/fishing/trout-stocking-schedule/) · [DWR South River](https://dwr.virginia.gov/waterbody/south-river/) · [[Fishing/Forecasts/2026-11-16|Mossy Creek, week of Nov 16]]. All five gauges were read from their individual gauge pages and are current this morning; the regional gauge list and uncached gauge pages returned stale readings (November 13 to 20) and were not used. The WAYV2 forecast was reissued on November 21 and ends Tuesday morning, before the Thanksgiving rain. The DWR daily list covers November 13 to 20, and DWR's separate monthly stocking schedule was not checked. The Mossy Creek note is from the week of November 16; the next one is due Monday. No live water temperature is available; the temperature language is estimated from air temperatures.
