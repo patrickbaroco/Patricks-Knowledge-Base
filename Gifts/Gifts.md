@@ -6,7 +6,7 @@ last_touched: 2026-09-26
 
 # Gifts
 
-Budget: [[Gift Budget 2026]] ($7,000 for Allison's birthday, Marcus's birthday, and Christmas).
+Budget: [Gift Budget 2026](https://docs.google.com/spreadsheets/d/1Oz8T7LufR2zuu75zYvtHFqIkSuE5xzi0gNaS-Kavucg/edit) in Drive: Finance ($7,000 for Allison's birthday, Marcus's birthday, and Christmas).
 
 Christmas is the big gift-giving time; birthdays get small gifts. Exception: Marcus sometimes gets skis for his Dec 17 birthday, since it falls at the start of ski season and he is still growing and outgrows them.
 
