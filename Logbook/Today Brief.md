@@ -1,7 +1,7 @@
 ---
 type: brief
-brief_date: 2026-11-23
-generated: 2026-11-23T06:09
+brief_date: 2026-11-24
+generated: 2026-11-24T06:09
 about: >-
   Rewritten every morning by Claude (Command Center scheduled task) and embedded in Today.md.
   Weekend briefs leave out work. Today.md shows "## Forecasts" at the top and "## Today" under Morning brief. Overwritten each run; the daily note is the record, not this file.
@@ -9,30 +9,28 @@ about: >-
 
 ## Forecasts
 
-**Fishersville.** Partly sunny with a high of 64° and a 25% chance of rain; clear and colder tonight with a low of 29°.
+**Fishersville.** Mostly sunny and cooler with a high of 48° and no rain; clear and cold tonight, low 20°.
 
-**Snowshoe.** ❄️ **Snow in the Snowshoe forecast. Ski season!** Today brings a chance of morning rain, with a high of 46° falling to about 40° by evening; tonight clears to a low of 25° with northwest gusts to 28 mph. Tuesday and Wednesday are sunny in the upper 30s, then rain arrives Wednesday night and runs through Thanksgiving (100%) before turning to rain and snow Thursday night, with a 50% chance of snow Friday in strong wind. The weekend dries out: Saturday partly sunny near 39° with a low near 33°, Sunday mostly sunny near 41°. No hazards or advisories are posted for the summit.
+**Snowshoe.** ❄️ **Snow in the Snowshoe forecast. Ski season!** Today is sunny with a high near 36°, and tonight is mostly clear with a low around 23°. Rain moves in late Wednesday night and stays through a breezy Thanksgiving (high 42°, gusts to 46 mph), turning to snow Thursday night; Friday brings snow (90%, high 33°), then a partly sunny Saturday near 39° and Sunday near 44°. No NWS hazards are posted.
 
-**Freezing and snow, 7 days:** Tonight 25°, Tuesday night 24°, Thursday night 28°, Friday night 30°. Rain changing to snow Thursday night (10pm to 4am), a 50% chance of snow Friday and a 30% chance Friday night before 1am; no accumulation amounts given.
+**Freezing and snow, 7 days:** Tonight 23°, Thursday night 28°, Friday night 30°. Rain changing to snow Thursday night (0.1 to 0.25 inch of precipitation), snow Friday (90%), snow likely Friday night before 1am (70%), and a 40% chance of rain and snow Sunday night; no snow totals given yet.
 
 ## Today
 
 **Schedule**
-- 7:00–7:50 · Tonal
-- 9:00–11:45 · **Round at ANR – Admissions**
-- 11:00–11:30 · **Follow-up Pruitt call: chart review completed, POC drafted for alignment**
-- 11:45–1:00 · Round at Summit Square SNF & ALF
-- 1:30–2:30 · VA Operations Cadence Call
-- 2:30–3:00 · athena Weekly Clinician Council
-- 3:00–3:45 · Jen:Patrick
+- 9:00–11:30 · **Round at ANR, regs/acutes**
+- 12:00–1:45 · Round at BRC, admissions and 30/60/90 regs
+- 1:45–4:30 · Notes
+- 2:00–3:00 · **ANR QAPI** (4th Tuesday)
+- 4:00–5:00 · Experienced Clinician Roundtable
 
 **Worth knowing**
-- The Pruitt call falls inside the ANR admissions round, and Summit Square starts the moment ANR ends, so the call has to be taken from the facility.
-- The only open half hour is 1:00–1:30; from 1:30 the afternoon runs back to back until 3:45, and real desk time starts after that.
-- Eight tasks are due or overdue, and four carried over from Sunday, including the p1 to size and sign Allison's 2026 solo 401(k) deferral election (hard deadline December 31) and the quarterly finance review that feeds it.
-- The $3,000 Q4 transfer to Ally Savings and the Charlotte reimbursement submission are both due today.
+- All five events are pre-November 17 snapshots mirrored from Outlook, so confirm times against Outlook; QAPI and the Roundtable both cut into the 1:45–4:30 notes block, leaving about 3:00–4:00 as the only clear desk time.
+- Five tasks are due or overdue; the p1 solo 401(k) deferral election for Allison went overdue yesterday, and its hard deadline is December 31.
+- The quarterly finance review, the $3,000 November transfer to Ally Savings and the Charlotte reimbursement are all due today; the review's notes say to size the 401(k) election there first.
+- Thanksgiving is Thursday, and Snowshoe's first snow arrives Thursday night into Friday.
 
 **For Claude**
 No open requests.
 
-<small>Written 6:09am from Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe. No current calendar screenshot; work schedule may be incomplete, and the work events are pre-11/17 Outlook copies that may be out of date.</small>
+<small>Written 6:09am from Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe; no current calendar screenshot; work schedule may be incomplete.</small>
