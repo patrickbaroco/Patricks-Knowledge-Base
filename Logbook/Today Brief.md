@@ -1,7 +1,7 @@
 ---
 type: brief
-brief_date: 2026-11-26
-generated: 2026-11-26T06:09
+brief_date: 2026-11-27
+generated: 2026-11-27T06:10
 about: >-
   Rewritten every morning by Claude (Command Center scheduled task) and embedded in Today.md.
   Weekend briefs leave out work. Today.md shows "## Forecasts" at the top and "## Today" under Morning brief. Overwritten each run; the daily note is the record, not this file.
@@ -9,24 +9,24 @@ about: >-
 
 ## Forecasts
 
-**Fishersville.** Windy with heavy rain (about 1.8 inches, 100%) and a Wind Advisory until 4pm for gusts near 55 mph, high 46°; tonight overcast and breezy with a few late showers, low 38°.
+**Fishersville.** Occasional rain and drizzle this morning, then cloudy and breezy with gusts near 29 mph, a high of 43° and a 60% chance of rain; tonight is mostly cloudy with a low of 38°.
 
-**Snowshoe.** ❄️ **Snow in the Snowshoe forecast. Ski season!** Saturday turns mostly sunny and breezy, high 38°, low 32° Saturday night; Sunday is partly sunny, high 45°, with a 40% chance of rain after 1pm turning to rain and snow overnight. Before that, a **High Wind Warning** runs until 7pm today (gusts to 70 mph) with rain and a high of 44°, then rain changing to rain and snow tonight, low 29°, and snow by Friday afternoon.
+**Snowshoe.** ❄️ **Snow on the summit right now, with 2 to 5 inches by Saturday morning. Ski season!** A Winter Weather Advisory runs from 7am today until 8am Saturday. Saturday clears gradually to sun with a high near 38° and west gusts to 43 mph easing in the afternoon, then a low near 31°. Sunday turns mostly cloudy with rain likely after 1pm and a high near 44°, and Sunday night's rain changes to snow as it drops to 24° with strong wind. Today is snowy and breezy with a high near 29°; tonight's low is 27° with gusts to 45 mph.
 
-**Freezing and snow, 7 days:** Tonight 29°, Friday night 31°, Saturday night 32°, Sunday night 32°, Monday night 28°, Tuesday night 31°. Rain and snow tonight with little or no accumulation; rain and snow becoming all snow Friday afternoon, little or no accumulation; snow mixed with sleet Friday night, 1 to 2 inches; rain and snow Sunday night; a chance of rain and snow Monday morning.
+**Freezing and snow, 7 days:** Today 29°, tonight 27°, Saturday night 31°, Sunday night 24°, Monday 31°, Monday night 24°, Tuesday night 30°. Snow today, 1 to 2 inches; snow tonight, 1 to 3 inches, with a chance of freezing rain after 4am (little or no ice); rain changing to snow Sunday night, a tenth to a quarter inch of total precipitation; a 30% chance of snow Monday morning.
 
 ## Today
 
 **Schedule**
-- 8:00–9:00 · Clinical Director Office Hours (pre-11/17 Outlook copy; may not hold on Thanksgiving)
+- 7:00–7:50 · Tonal
+- 10:00–12:00 · **Meet with Lindsey** (Outlook copy from before Nov 17; confirm it still stands on the day after Thanksgiving)
 
 **Worth knowing**
-- Six tasks are due or overdue, five of them overdue, including the p1 to size and sign Allison's 2026 solo 401(k) deferral election; the election itself cannot slip past December 31.
-- The quarterly finance review (due 11/24) gates that election and should come first, followed by the November $3,000 Ally transfer and the Charlotte reimbursement.
-- Driving today means heavy rain, 55 mph gusts and possible downed trees until about 4pm; heading to Snowshoe Friday puts you in snow and gusts to 45 mph, while Saturday morning is the calmer window.
-- Changing the stored water is due today.
+- Apart from the Lindsey block the day is open, so the afternoon is real desk time for the overdue finance work.
+- Seven tasks are due or overdue, and six of them are overdue, including the p1 to size and sign Allison's 2026 solo 401(k) deferral election, which has a hard Dec 31 deadline.
+- Two p2 finance items are also past due: the quarterly finance review (since Nov 24), which the 401(k) sizing depends on, and the $3,000 Q4 transfer from Ally Spending to Ally Savings (since Nov 25).
 
 **For Claude**
 No open requests.
 
-<small>Written 6:09am from Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe; no current calendar screenshot; work schedule may be incomplete.</small>
+<small>Written 6:10am from Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe; no current calendar screenshot, so the work schedule may be incomplete.</small>
