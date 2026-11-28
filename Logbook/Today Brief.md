@@ -1,7 +1,7 @@
 ---
 type: brief
-brief_date: 2026-11-27
-generated: 2026-11-27T06:10
+brief_date: 2026-11-28
+generated: 2026-11-28T06:09
 about: >-
   Rewritten every morning by Claude (Command Center scheduled task) and embedded in Today.md.
   Weekend briefs leave out work. Today.md shows "## Forecasts" at the top and "## Today" under Morning brief. Overwritten each run; the daily note is the record, not this file.
@@ -9,24 +9,23 @@ about: >-
 
 ## Forecasts
 
-**Fishersville.** Occasional rain and drizzle this morning, then cloudy and breezy with gusts near 29 mph, a high of 43° and a 60% chance of rain; tonight is mostly cloudy with a low of 38°.
+**Fishersville.** Clouds and sun with a high of 56°, a west wind gusting to 22 mph and no rain; tonight is partly cloudy with a low of 34°.
 
-**Snowshoe.** ❄️ **Snow on the summit right now, with 2 to 5 inches by Saturday morning. Ski season!** A Winter Weather Advisory runs from 7am today until 8am Saturday. Saturday clears gradually to sun with a high near 38° and west gusts to 43 mph easing in the afternoon, then a low near 31°. Sunday turns mostly cloudy with rain likely after 1pm and a high near 44°, and Sunday night's rain changes to snow as it drops to 24° with strong wind. Today is snowy and breezy with a high near 29°; tonight's low is 27° with gusts to 45 mph.
+**Snowshoe.** ❄️ **Snow in the Snowshoe forecast. Ski season!** A Winter Weather Advisory runs until 8am; after that today clears to sun with a high near 36° and west winds gusting to 44 mph, easing this afternoon, and tonight is partly cloudy with a low around 29°. Sunday is mostly cloudy with a high near 44° and a slight chance of rain around 2pm, then rain arrives after 7pm with south winds gusting to 46 mph and mixes with snow after 4am Monday.
 
-**Freezing and snow, 7 days:** Today 29°, tonight 27°, Saturday night 31°, Sunday night 24°, Monday 31°, Monday night 24°, Tuesday night 30°. Snow today, 1 to 2 inches; snow tonight, 1 to 3 inches, with a chance of freezing rain after 4am (little or no ice); rain changing to snow Sunday night, a tenth to a quarter inch of total precipitation; a 30% chance of snow Monday morning.
+**Freezing and snow, 7 days:** Tonight 29°, Sunday night 30°, Monday 32°, Monday night 22°, Tuesday night 27°. Rain mixing with snow late Sunday night and snow Monday morning, little or no accumulation either time; Friday brings rain likely with a high near 50°.
 
 ## Today
 
 **Schedule**
-- 7:00–7:50 · Tonal
-- 10:00–12:00 · **Meet with Lindsey** (Outlook copy from before Nov 17; confirm it still stands on the day after Thanksgiving)
+- Nothing on the calendar.
 
 **Worth knowing**
-- Apart from the Lindsey block the day is open, so the afternoon is real desk time for the overdue finance work.
-- Seven tasks are due or overdue, and six of them are overdue, including the p1 to size and sign Allison's 2026 solo 401(k) deferral election, which has a hard Dec 31 deadline.
-- Two p2 finance items are also past due: the quarterly finance review (since Nov 24), which the 401(k) sizing depends on, and the $3,000 Q4 transfer from Ally Spending to Ally Savings (since Nov 25).
+- Seven personal tasks are due or overdue, six of them overdue; the only one due today is checking the traditional IRA for pre-tax money before the backdoor Roth conversion, which has a December 15 deadline.
+- The p1 is sizing and signing Allison's 2026 solo 401(k) deferral election, overdue since Wednesday and legally due by December 31; it hangs on the overdue quarterly finance review and the $3,000 November transfer to Ally Savings, so one open afternoon could clear all three.
+- The whole day is open. The South River is still high and stained after the Thanksgiving storm, so Mossy, Beaver or Buffalo in the early afternoon is the better bet if you fish.
 
 **For Claude**
 No open requests.
 
-<small>Written 6:10am from Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe; no current calendar screenshot, so the work schedule may be incomplete.</small>
+<small>Written 6:09am from Google Calendar, Todoist, AccuWeather (Fishersville) and NWS Snowshoe.</small>
